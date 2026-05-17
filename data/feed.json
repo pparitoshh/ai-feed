@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-17T16:50:24.866Z",
-  "count": 48,
+  "generatedAt": "2026-05-17T16:57:23.852Z",
+  "count": 41,
   "cards": [
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ0",
+      "id": "c0lppj",
       "type": "substack",
       "title": "Designing Multi-Agent Deep Search Systems - 5 Seats Left",
       "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
@@ -17,7 +17,7 @@
       "min": 2
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ0",
+      "id": "19eiriu",
       "type": "substack",
       "title": "DeepSeek V4+ Turbovec + RAG: Better OCR & Self-Hosted",
       "desc": "It was about two weeks ago that the AI &#8203;&#8203;industry was shaken to its core.",
@@ -31,7 +31,7 @@
       "min": 9
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ0",
+      "id": "lji5y1",
       "type": "substack",
       "title": "Designing Multi-Agent Deep Search Systems - 10 Seats Left",
       "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
@@ -45,7 +45,7 @@
       "min": 2
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ0",
+      "id": "1nuz2uq",
       "type": "substack",
       "title": "Never Hit Claude Usage Limits Ever Again",
       "desc": "How to Use Planning, Memory, Model Selection, and Tool Splitting to Avoid Burning Through Your Limits",
@@ -57,7 +57,7 @@
       "min": 6
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ0",
+      "id": "30nz8z",
       "type": "substack",
       "title": "I bundled my 6 crash courses with 60% off",
       "desc": "Get All My 6 Courses, One Button Away With 60% Off",
@@ -69,7 +69,7 @@
       "min": 1
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZn",
+      "id": "17e1try",
       "type": "github",
       "title": "YGYOOO/WorldX",
       "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
@@ -85,7 +85,7 @@
       "stars": 862
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ0",
+      "id": "txm3md",
       "type": "substack",
       "title": "Ads in AI Chatbots: When the Assistant Stops Working for You & Works for the Sponsor",
       "desc": "A new Princeton-led paper tests 23 frontier models and finds that many prioritize sponsored outcomes over user welfare in flights, shopping, and other real decision scenarios.",
@@ -97,7 +97,7 @@
       "min": 10
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ0",
+      "id": "1mrnw7j",
       "type": "substack",
       "title": "How I Use Bifrost MCP Gateway and Code Mode to Give Claude Code Safer MCP Access with Lower Token Cost",
       "desc": "MCP becomes useful very quickly once you connect Claude Code to real tools.",
@@ -109,7 +109,7 @@
       "min": 21
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ0",
+      "id": "j9ipk",
       "type": "substack",
       "title": "New Live Session: Designing Multi-Agent Deep Search Systems",
       "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
@@ -123,7 +123,7 @@
       "min": 2
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
+      "id": "1mgs78j",
       "type": "substack",
       "title": "AI Agents of the Week: Papers You Should Know About",
       "desc": "Get ahead of the curve with LLM Watch",
@@ -137,21 +137,19 @@
       "min": 2
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
+      "id": "3r9xgq",
       "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-cbd",
-      "date": "Sun, 26 Apr 2026 14:00:48 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
+      "title": "From Vibe Coding to a Real Engineering Team",
+      "desc": "My Claude Code agentic coding setup that ships features end-to-end",
+      "link": "https://www.decodingai.com/p/squid-my-agentic-coding-setup-may-2026",
+      "date": "Tue, 12 May 2026 11:04:20 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 12
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZn",
+      "id": "1t8o2du",
       "type": "github",
       "title": "AIScientists-Dev/WorldSeed",
       "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
@@ -167,77 +165,74 @@
       "stars": 730
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
+      "id": "168zoe5",
       "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-992",
-      "date": "Sun, 19 Apr 2026 11:46:48 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
+      "title": "Building Agentic GraphRAG Systems",
+      "desc": "From knowledge graphs and ontologies to a unified memory as an MCP server for your AI agent.",
+      "link": "https://www.decodingai.com/p/agentic-graphrag",
+      "date": "Tue, 05 May 2026 05:01:08 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents",
+        "graph"
+      ],
+      "min": 15
+    },
+    {
+      "id": "7oxfbx",
+      "type": "substack",
+      "title": "What Held Up at 3 AM: One Engineer's RAG Case Study",
+      "desc": "You iterate. You evaluate. Weave CLI unifies 11 vector databases into one workflow.",
+      "link": "https://www.decodingai.com/p/ship-rag-with-weave-cli",
+      "date": "Wed, 29 Apr 2026 11:04:33 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "RAG"
+      ],
+      "min": 21
+    },
+    {
+      "id": "159a19s",
+      "type": "substack",
+      "title": "Stop Orchestrating AI Agents. Use Ralph Loops Instead.",
+      "desc": "How one simple loop beats multi-agent orchestration and context rot in production.",
+      "link": "https://www.decodingai.com/p/ralph-loops",
+      "date": "Thu, 23 Apr 2026 11:02:54 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
       "tags": [
         "agents"
       ],
-      "min": 2
+      "min": 8
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
+      "id": "14wpaf",
       "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-be0",
-      "date": "Sun, 12 Apr 2026 14:12:50 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
+      "title": "Karpathy Named It. I Built One on My Notes.",
+      "desc": "A deep research agent over my notes, highlights, and transcripts, grounded in years of curated thinking, not the public web.",
+      "link": "https://www.decodingai.com/p/llm-knowledge-base-obsidian-readwise-notebooklm",
+      "date": "Tue, 21 Apr 2026 08:00:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 11
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
+      "id": "1mb7t2l",
       "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-13c",
-      "date": "Sun, 05 Apr 2026 13:34:52 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 3
+      "title": "How to Ship a Weekly Article in One Day",
+      "desc": "Inside the agentic AI workflow behind my weekly newsletter, course, and content",
+      "link": "https://www.decodingai.com/p/how-i-automated-91-percent-of-my-business",
+      "date": "Wed, 15 Apr 2026 14:10:24 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 18
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
-      "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-cb2",
-      "date": "Sun, 29 Mar 2026 16:35:01 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 3
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
-      "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-301",
-      "date": "Sun, 22 Mar 2026 17:17:08 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 3
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZn",
+      "id": "1ojezf0",
       "type": "github",
       "title": "FonaTech/Project_Chronos",
       "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
@@ -253,76 +248,73 @@
       "stars": 309
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
+      "id": "jix8bj",
       "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-f11",
-      "date": "Sun, 15 Mar 2026 13:29:24 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
-      "type": "substack",
-      "title": "From Vibe Coding to a Real Engineering Team",
-      "desc": "My Claude Code agentic coding setup that ships features end-to-end",
-      "link": "https://www.decodingai.com/p/squid-my-agentic-coding-setup-may-2026",
-      "date": "Tue, 12 May 2026 11:04:20 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
-      "type": "substack",
-      "title": "Building Agentic GraphRAG Systems",
-      "desc": "From knowledge graphs and ontologies to a unified memory as an MCP server for your AI agent.",
-      "link": "https://www.decodingai.com/p/agentic-graphrag",
-      "date": "Tue, 05 May 2026 05:01:08 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "agents",
-        "graph"
-      ],
-      "min": 15
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
-      "type": "substack",
-      "title": "What Held Up at 3 AM: One Engineer's RAG Case Study",
-      "desc": "You iterate. You evaluate. Weave CLI unifies 11 vector databases into one workflow.",
-      "link": "https://www.decodingai.com/p/ship-rag-with-weave-cli",
-      "date": "Wed, 29 Apr 2026 11:04:33 GMT",
+      "title": "Your RAG Pipeline Is Overkill",
+      "desc": "The pattern that lets your model write code to explore its context instead of retrieving it.",
+      "link": "https://www.decodingai.com/p/recursive-language-models",
+      "date": "Tue, 07 Apr 2026 11:03:14 GMT",
       "source": "Decoding AI Mag",
       "author": "Paul Iusztin",
       "tags": [
         "RAG"
       ],
-      "min": 21
+      "min": 15
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
+      "id": "1sv1hl7",
       "type": "substack",
-      "title": "Stop Orchestrating AI Agents. Use Ralph Loops Instead.",
-      "desc": "How one simple loop beats multi-agent orchestration and context rot in production.",
-      "link": "https://www.decodingai.com/p/ralph-loops",
-      "date": "Thu, 23 Apr 2026 11:02:54 GMT",
+      "title": "Agentic Harness Engineering",
+      "desc": "Building systems that transform the LLM into the new operating system",
+      "link": "https://www.decodingai.com/p/agentic-harness-engineering",
+      "date": "Tue, 31 Mar 2026 11:03:40 GMT",
       "source": "Decoding AI Mag",
       "author": "Paul Iusztin",
       "tags": [
         "agents"
       ],
-      "min": 8
+      "min": 15
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZn",
+      "id": "rm4aw5",
+      "type": "chip",
+      "title": "Common pitfalls when building generative AI applications",
+      "desc": "&lt;p&gt;As we’re still in the early days of building applications with foundation models, it’s normal to make mistakes. This is a quick note with examples of some of the most common pitfalls that I’ve seen, both from public case studies and from my personal experience.&lt;/p&gt; &lt;p&gt;Because th",
+      "link": "https://huyenchip.com//2025/01/16/ai-engineering-pitfalls.html",
+      "date": "Thu, 16 Jan 2025 00:00:00 +0000",
+      "source": "Chip Huyen",
+      "author": "Chip Huyen",
+      "tags": [],
+      "min": 10
+    },
+    {
+      "id": "ddpysz",
+      "type": "chip",
+      "title": "Agents",
+      "desc": "&lt;p&gt;Intelligent agents are considered by many to be the ultimate goal of AI. The classic book by Stuart Russell and Peter Norvig, &lt;em&gt;Artificial Intelligence: A Modern Approach&lt;/em&gt; (Prentice Hall, 1995), defines the field of AI research as “&lt;em&gt;the study and design of rationa",
+      "link": "https://huyenchip.com//2025/01/07/agents.html",
+      "date": "Tue, 07 Jan 2025 00:00:00 +0000",
+      "source": "Chip Huyen",
+      "author": "Chip Huyen",
+      "tags": [
+        "agents"
+      ],
+      "min": 43
+    },
+    {
+      "id": "v17hw0",
+      "type": "chip",
+      "title": "Building A Generative AI Platform",
+      "desc": "&lt;p&gt;After studying how companies deploy generative AI applications, I noticed many similarities in their platforms. This post outlines the common components of a generative AI platform, what they do, and how they are implemented. I try my best to keep the architecture general, but certain appli",
+      "link": "https://huyenchip.com//2024/07/25/genai-platform.html",
+      "date": "Thu, 25 Jul 2024 00:00:00 +0000",
+      "source": "Chip Huyen",
+      "author": "Chip Huyen",
+      "tags": [],
+      "min": 42
+    },
+    {
+      "id": "95k9p7",
       "type": "github",
       "title": "jegly/OfflineLLM",
       "desc": "      A privacy-first Android chat app that runs large language models entirely on-device. No internet, no cloud, no tracking. Built with Kotlin, Jetpack Compose, and llama.cpp with optimized ARM NEON/SVE inference.",
@@ -338,71 +330,69 @@
       "stars": 137
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
-      "type": "substack",
-      "title": "Karpathy Named It. I Built One on My Notes.",
-      "desc": "A deep research agent over my notes, highlights, and transcripts, grounded in years of curated thinking, not the public web.",
-      "link": "https://www.decodingai.com/p/llm-knowledge-base-obsidian-readwise-notebooklm",
-      "date": "Tue, 21 Apr 2026 08:00:51 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
-      "type": "substack",
-      "title": "How to Ship a Weekly Article in One Day",
-      "desc": "Inside the agentic AI workflow behind my weekly newsletter, course, and content",
-      "link": "https://www.decodingai.com/p/how-i-automated-91-percent-of-my-business",
-      "date": "Wed, 15 Apr 2026 14:10:24 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
-      "min": 18
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
-      "type": "substack",
-      "title": "Your RAG Pipeline Is Overkill",
-      "desc": "The pattern that lets your model write code to explore its context instead of retrieving it.",
-      "link": "https://www.decodingai.com/p/recursive-language-models",
-      "date": "Tue, 07 Apr 2026 11:03:14 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "RAG"
-      ],
-      "min": 15
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZ3",
-      "type": "substack",
-      "title": "Agentic Harness Engineering",
-      "desc": "Building systems that transform the LLM into the new operating system",
-      "link": "https://www.decodingai.com/p/agentic-harness-engineering",
-      "date": "Tue, 31 Mar 2026 11:03:40 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "agents"
-      ],
-      "min": 15
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZo",
+      "id": "ihby80",
       "type": "chip",
-      "title": "Common pitfalls when building generative AI applications",
-      "desc": "&lt;p&gt;As we’re still in the early days of building applications with foundation models, it’s normal to make mistakes. This is a quick note with examples of some of the most common pitfalls that I’ve seen, both from public case studies and from my personal experience.&lt;/p&gt; &lt;p&gt;Because th",
-      "link": "https://huyenchip.com//2025/01/16/ai-engineering-pitfalls.html",
-      "date": "Thu, 16 Jan 2025 00:00:00 +0000",
+      "title": "Measuring personal growth",
+      "desc": "&lt;p&gt;My founder friends constantly think about growth. They think about how to measure their business growth and how to get to the next order of magnitude scale. If they’re making $1M ARR today, they think about how to get to $10M ARR. If they have 1,000 users today, they think about how to get ",
+      "link": "https://huyenchip.com//2024/04/17/personal-growth.html",
+      "date": "Wed, 17 Apr 2024 00:00:00 +0000",
       "source": "Chip Huyen",
       "author": "Chip Huyen",
       "tags": [],
-      "min": 10
+      "min": 6
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZn",
+      "id": "1ukux3s",
+      "type": "chip",
+      "title": "What I learned from looking at 900 most popular open source AI tools",
+      "desc": "&lt;p&gt;[&lt;em&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=39709912&quot;&gt;Hacker News discussion&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/posts/chiphuyen_generativeai-aiapplications-llmops-activity-7174153467844820993-ztSE&quot;&gt;LinkedIn discussion&lt;/a&gt;, &lt;a h",
+      "link": "https://huyenchip.com//2024/03/14/ai-oss.html",
+      "date": "Thu, 14 Mar 2024 00:00:00 +0000",
+      "source": "Chip Huyen",
+      "author": "Chip Huyen",
+      "tags": [
+        "open-source"
+      ],
+      "min": 12
+    },
+    {
+      "id": "oesf1f",
+      "type": "chip",
+      "title": "Predictive Human Preference: From Model Ranking to Model Routing",
+      "desc": "&lt;p&gt;A challenge of building AI applications is choosing which model to use. What if we don’t have to? What if we can predict the best model for any prompt? Predictive human preference aims to predict which model users might prefer for a specific query.&lt;/p&gt; &lt;p&gt;Human preference has em",
+      "link": "https://huyenchip.com//2024/02/28/predictive-human-preference.html",
+      "date": "Wed, 28 Feb 2024 00:00:00 +0000",
+      "source": "Chip Huyen",
+      "author": "Chip Huyen",
+      "tags": [],
+      "min": 15
+    },
+    {
+      "id": "1v2xfi7",
+      "type": "chip",
+      "title": "Generation configurations: temperature, top-k, top-p, and test time compute",
+      "desc": "&lt;p&gt;ML models are probabilistic. Imagine that you want to know what’s the best cuisine in the world. If you ask someone this question twice, a minute apart, their answers both times should be the same. If you ask a model the same question twice, its answer can change. If the model thinks that V",
+      "link": "https://huyenchip.com//2024/01/16/sampling.html",
+      "date": "Tue, 16 Jan 2024 00:00:00 +0000",
+      "source": "Chip Huyen",
+      "author": "Chip Huyen",
+      "tags": [],
+      "min": 19
+    },
+    {
+      "id": "18wgmyf",
+      "type": "chip",
+      "title": "Multimodality and Large Multimodal Models (LMMs)",
+      "desc": "&lt;p&gt;For a long time, each ML model operated in one data mode – text (translation, language modeling), image (object detection, image classification), or audio (speech recognition).&lt;/p&gt; &lt;p&gt;However, natural intelligence is not limited to just a single modality. Humans can read, talk, ",
+      "link": "https://huyenchip.com//2023/10/10/multimodal.html",
+      "date": "Tue, 10 Oct 2023 00:00:00 +0000",
+      "source": "Chip Huyen",
+      "author": "Chip Huyen",
+      "tags": [],
+      "min": 30
+    },
+    {
+      "id": "11hs1rd",
       "type": "github",
       "title": "Google-Cloud-AI/agent-platform",
       "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
@@ -417,71 +407,69 @@
       "stars": 133
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZo",
-      "type": "chip",
-      "title": "Agents",
-      "desc": "&lt;p&gt;Intelligent agents are considered by many to be the ultimate goal of AI. The classic book by Stuart Russell and Peter Norvig, &lt;em&gt;Artificial Intelligence: A Modern Approach&lt;/em&gt; (Prentice Hall, 1995), defines the field of AI research as “&lt;em&gt;the study and design of rationa",
-      "link": "https://huyenchip.com//2025/01/07/agents.html",
-      "date": "Tue, 07 Jan 2025 00:00:00 +0000",
-      "source": "Chip Huyen",
-      "author": "Chip Huyen",
-      "tags": [
-        "agents"
-      ],
-      "min": 43
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZo",
-      "type": "chip",
-      "title": "Building A Generative AI Platform",
-      "desc": "&lt;p&gt;After studying how companies deploy generative AI applications, I noticed many similarities in their platforms. This post outlines the common components of a generative AI platform, what they do, and how they are implemented. I try my best to keep the architecture general, but certain appli",
-      "link": "https://huyenchip.com//2024/07/25/genai-platform.html",
-      "date": "Thu, 25 Jul 2024 00:00:00 +0000",
-      "source": "Chip Huyen",
-      "author": "Chip Huyen",
-      "tags": [],
-      "min": 42
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZo",
-      "type": "chip",
-      "title": "Measuring personal growth",
-      "desc": "&lt;p&gt;My founder friends constantly think about growth. They think about how to measure their business growth and how to get to the next order of magnitude scale. If they’re making $1M ARR today, they think about how to get to $10M ARR. If they have 1,000 users today, they think about how to get ",
-      "link": "https://huyenchip.com//2024/04/17/personal-growth.html",
-      "date": "Wed, 17 Apr 2024 00:00:00 +0000",
-      "source": "Chip Huyen",
-      "author": "Chip Huyen",
+      "id": "fpawin",
+      "type": "news",
+      "title": "The $400 Shockwave: Why the AP × Swatch Collaboration Could Become One of the Smartest Luxury Business Moves of the Decade",
+      "desc": "Luxury watch collectors are confused. Purists are angry. Resellers are watching nervously. And founders everywhere should be paying attention. As the Audemars Piguet Swatch collaboration officially launches worldwide today — May 16, 2026 — collectors, hype buyers, and curious first-time watch fans a",
+      "link": "https://imfounder.com/lifestyle/audemars-piguet-swatch-royalpop/",
+      "date": "Sat, 16 May 2026 07:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
       "tags": [],
       "min": 6
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZo",
-      "type": "chip",
-      "title": "What I learned from looking at 900 most popular open source AI tools",
-      "desc": "&lt;p&gt;[&lt;em&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=39709912&quot;&gt;Hacker News discussion&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/posts/chiphuyen_generativeai-aiapplications-llmops-activity-7174153467844820993-ztSE&quot;&gt;LinkedIn discussion&lt;/a&gt;, &lt;a h",
-      "link": "https://huyenchip.com//2024/03/14/ai-oss.html",
-      "date": "Thu, 14 Mar 2024 00:00:00 +0000",
-      "source": "Chip Huyen",
-      "author": "Chip Huyen",
+      "id": "brbqo8",
+      "type": "news",
+      "title": "AI Is Becoming the New Oil — And Nations Know It",
+      "desc": "How AI Is Quietly Reshaping Global Power — through chips, compute, energy, and infrastructure Power is shifting again, but not in the way most people expect. In past eras, global influence flowed from trade routes, then oil, then manufacturing scale, then the internet. The AI era is different becaus",
+      "link": "https://imfounder.com/science-tech/ai/ai-global-power-china-us/",
+      "date": "Fri, 15 May 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 5
+    },
+    {
+      "id": "13z0djo",
+      "type": "news",
+      "title": "AI Took the Jobs, Housing Took the Future, and Loneliness Became an Industry",
+      "desc": "For years, people discussed technology, housing, and mental health as separate stories. Economists talked about productivity. Politicians debated housing affordability. Tech companies launched new AI products. Researchers warned about isolation and declining social connection. But something unusual ",
+      "link": "https://imfounder.com/science-tech/ai/ai-jobs-housing-loneliness-2026/",
+      "date": "Thu, 14 May 2026 09:53:30 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
       "tags": [
-        "open-source"
+        "mlops"
       ],
+      "min": 5
+    },
+    {
+      "id": "sghzae",
+      "type": "news",
+      "title": "The Dark Truth Behind Canada’s International Student Explosion",
+      "desc": "In thousands of villages across India, there is one dream that almost every family understands. Canada. Not just as a country.But as hope. Hope that a son will not spend his life struggling in debt.Hope that a daughter will finally have opportunities her parents never had.Hope that one child studyin",
+      "link": "https://imfounder.com/immigration-policy/international-students-canada-crisis/",
+      "date": "Wed, 13 May 2026 14:10:16 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
       "min": 12
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZo",
-      "type": "chip",
-      "title": "Predictive Human Preference: From Model Ranking to Model Routing",
-      "desc": "&lt;p&gt;A challenge of building AI applications is choosing which model to use. What if we don’t have to? What if we can predict the best model for any prompt? Predictive human preference aims to predict which model users might prefer for a specific query.&lt;/p&gt; &lt;p&gt;Human preference has em",
-      "link": "https://huyenchip.com//2024/02/28/predictive-human-preference.html",
-      "date": "Wed, 28 Feb 2024 00:00:00 +0000",
-      "source": "Chip Huyen",
-      "author": "Chip Huyen",
+      "id": "1yk2rkp",
+      "type": "news",
+      "title": "How Zhong Shanshan Built a $70 Billion Empire Selling Bottled Water",
+      "desc": "Nongfu Spring Founder&#160;Zhong Shanshan is one of the most fascinating entrepreneurs in modern business history. Unlike many billionaires who grew up with connections or elite education, Zhong’s story is built on uncertainty, hardship, and persistence. Before becoming one of the richest men in Asi",
+      "link": "https://imfounder.com/entrepreneurship/nongfu-spring-founder-zhong-shanshan-story/",
+      "date": "Tue, 12 May 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
       "tags": [],
-      "min": 15
+      "min": 5
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZn",
+      "id": "1gi5z73",
       "type": "github",
       "title": "Agent-FM/agentfm-core",
       "desc": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
@@ -497,69 +485,43 @@
       "stars": 120
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZo",
-      "type": "chip",
-      "title": "Generation configurations: temperature, top-k, top-p, and test time compute",
-      "desc": "&lt;p&gt;ML models are probabilistic. Imagine that you want to know what’s the best cuisine in the world. If you ask someone this question twice, a minute apart, their answers both times should be the same. If you ask a model the same question twice, its answer can change. If the model thinks that V",
-      "link": "https://huyenchip.com//2024/01/16/sampling.html",
-      "date": "Tue, 16 Jan 2024 00:00:00 +0000",
-      "source": "Chip Huyen",
-      "author": "Chip Huyen",
-      "tags": [],
-      "min": 19
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZo",
-      "type": "chip",
-      "title": "Multimodality and Large Multimodal Models (LMMs)",
-      "desc": "&lt;p&gt;For a long time, each ML model operated in one data mode – text (translation, language modeling), image (object detection, image classification), or audio (speech recognition).&lt;/p&gt; &lt;p&gt;However, natural intelligence is not limited to just a single modality. Humans can read, talk, ",
-      "link": "https://huyenchip.com//2023/10/10/multimodal.html",
-      "date": "Tue, 10 Oct 2023 00:00:00 +0000",
-      "source": "Chip Huyen",
-      "author": "Chip Huyen",
-      "tags": [],
-      "min": 30
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZp",
+      "id": "s3kgd9",
       "type": "news",
-      "title": "The $400 Shockwave: Why the AP × Swatch Collaboration Could Become One of the Smartest Luxury Business Moves of the Decade",
-      "desc": "Luxury watch collectors are confused. Purists are angry. Resellers are watching nervously. And founders everywhere should be paying attention. As the Audemars Piguet Swatch collaboration officially launches worldwide today — May 16, 2026 — collectors, hype buyers, and curious first-time watch fans a",
-      "link": "https://imfounder.com/lifestyle/audemars-piguet-swatch-royalpop/",
-      "date": "Sat, 16 May 2026 07:00:00 +0000",
+      "title": "From Venezuela to Alaska: The $44 Billion AI Energy Boom Reshaping the Global Food Economy",
+      "desc": "Venezuela. Alaska. Your Dinner Table. Connect the Dots. Most people think artificial intelligence lives in the cloud. In practice, it runs on pipelines. LNG terminals. Gas turbines. Refrigerant compressors. Industrial cooling systems. And one of the largest energy infrastructure expansions in modern",
+      "link": "https://imfounder.com/science-tech/ai-energy-boom-global-food-economy/",
+      "date": "Mon, 11 May 2026 09:00:00 +0000",
       "source": "IM Founder",
-      "author": "Taranjeet Slatch",
+      "author": "Renée Tomato",
       "tags": [],
-      "min": 6
+      "min": 8
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZp",
+      "id": "1rt7znx",
       "type": "news",
-      "title": "AI Is Becoming the New Oil — And Nations Know It",
-      "desc": "How AI Is Quietly Reshaping Global Power — through chips, compute, energy, and infrastructure Power is shifting again, but not in the way most people expect. In past eras, global influence flowed from trade routes, then oil, then manufacturing scale, then the internet. The AI era is different becaus",
-      "link": "https://imfounder.com/science-tech/ai/ai-global-power-china-us/",
-      "date": "Fri, 15 May 2026 09:00:00 +0000",
+      "title": "‘Overqualified’ Has Become the Most Polite Rejection in Corporate America",
+      "desc": "There is a strange kind of anxiety happening in the job market right now. People are applying for jobs they genuinely know they can do. They have the experience. They have the results. They have years of proven work behind them. Some have managed teams, scaled companies, built strategies, increased ",
+      "link": "https://imfounder.com/entrepreneurship/business/job-market-biggest-lie-overqualified/",
+      "date": "Sun, 10 May 2026 09:00:00 +0000",
       "source": "IM Founder",
-      "author": "Oliver Timbrell",
+      "author": "Mistie Fowler",
       "tags": [],
       "min": 5
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZp",
+      "id": "1q2a0lg",
       "type": "news",
-      "title": "AI Took the Jobs, Housing Took the Future, and Loneliness Became an Industry",
-      "desc": "For years, people discussed technology, housing, and mental health as separate stories. Economists talked about productivity. Politicians debated housing affordability. Tech companies launched new AI products. Researchers warned about isolation and declining social connection. But something unusual ",
-      "link": "https://imfounder.com/science-tech/ai/ai-jobs-housing-loneliness-2026/",
-      "date": "Thu, 14 May 2026 09:53:30 +0000",
+      "title": "The Mothers Behind the Founders — 5 Untold Stories That Built Billion-Dollar Dreams",
+      "desc": "Before the world believed in them… their mothers already did. We celebrate founders as visionaries, risk-takers, and billionaires. But behind many of them is a quieter story,A mother who sacrificed, struggled, protected, and believed… long before success arrived. This Mother’s Day, we’re not talking",
+      "link": "https://imfounder.com/entrepreneurship/mothers-behind-the-founders/",
+      "date": "Fri, 08 May 2026 09:00:00 +0000",
       "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "mlops"
-      ],
-      "min": 5
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 4
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZn",
+      "id": "1s2idqs",
       "type": "github",
       "title": "better-agent/better-agent",
       "desc": "The better way to build AI agents in TypeScript.",
@@ -575,67 +537,7 @@
       "stars": 113
     },
     {
-      "id": "aHR0cHMlM0ElMkYlMkZp",
-      "type": "news",
-      "title": "The Dark Truth Behind Canada’s International Student Explosion",
-      "desc": "In thousands of villages across India, there is one dream that almost every family understands. Canada. Not just as a country.But as hope. Hope that a son will not spend his life struggling in debt.Hope that a daughter will finally have opportunities her parents never had.Hope that one child studyin",
-      "link": "https://imfounder.com/immigration-policy/international-students-canada-crisis/",
-      "date": "Wed, 13 May 2026 14:10:16 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZp",
-      "type": "news",
-      "title": "How Zhong Shanshan Built a $70 Billion Empire Selling Bottled Water",
-      "desc": "Nongfu Spring Founder&#160;Zhong Shanshan is one of the most fascinating entrepreneurs in modern business history. Unlike many billionaires who grew up with connections or elite education, Zhong’s story is built on uncertainty, hardship, and persistence. Before becoming one of the richest men in Asi",
-      "link": "https://imfounder.com/entrepreneurship/nongfu-spring-founder-zhong-shanshan-story/",
-      "date": "Tue, 12 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZp",
-      "type": "news",
-      "title": "From Venezuela to Alaska: The $44 Billion AI Energy Boom Reshaping the Global Food Economy",
-      "desc": "Venezuela. Alaska. Your Dinner Table. Connect the Dots. Most people think artificial intelligence lives in the cloud. In practice, it runs on pipelines. LNG terminals. Gas turbines. Refrigerant compressors. Industrial cooling systems. And one of the largest energy infrastructure expansions in modern",
-      "link": "https://imfounder.com/science-tech/ai-energy-boom-global-food-economy/",
-      "date": "Mon, 11 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 8
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZp",
-      "type": "news",
-      "title": "‘Overqualified’ Has Become the Most Polite Rejection in Corporate America",
-      "desc": "There is a strange kind of anxiety happening in the job market right now. People are applying for jobs they genuinely know they can do. They have the experience. They have the results. They have years of proven work behind them. Some have managed teams, scaled companies, built strategies, increased ",
-      "link": "https://imfounder.com/entrepreneurship/business/job-market-biggest-lie-overqualified/",
-      "date": "Sun, 10 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Mistie Fowler",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZp",
-      "type": "news",
-      "title": "The Mothers Behind the Founders — 5 Untold Stories That Built Billion-Dollar Dreams",
-      "desc": "Before the world believed in them… their mothers already did. We celebrate founders as visionaries, risk-takers, and billionaires. But behind many of them is a quieter story,A mother who sacrificed, struggled, protected, and believed… long before success arrived. This Mother’s Day, we’re not talking",
-      "link": "https://imfounder.com/entrepreneurship/mothers-behind-the-founders/",
-      "date": "Fri, 08 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 4
-    },
-    {
-      "id": "aHR0cHMlM0ElMkYlMkZn",
+      "id": "142a7na",
       "type": "github",
       "title": "sadanandpai/ai-learning-kit",
       "desc": "A curated collection of AI learning materials",

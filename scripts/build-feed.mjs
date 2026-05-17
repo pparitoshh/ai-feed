@@ -43,7 +43,17 @@ const tagsFor = (text) => {
 };
 const strip = (h) => (h || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim().slice(0, 300);
 const readMin = (t) => Math.max(1, Math.round((t || '').replace(/<[^>]+>/g, '').split(/\s+/).length / 200));
-const uid = (s) => Buffer.from(encodeURIComponent(s || '')).toString('base64').slice(0, 20);
+// 20-char slice was colliding on Substack URLs that share a long prefix.
+// Use a stable FNV-1a hash of the full URL instead.
+function uid(s) {
+  let h = 0x811c9dc5;
+  const str = String(s || '');
+  for (let i = 0; i < str.length; i++) {
+    h ^= str.charCodeAt(i);
+    h = Math.imul(h, 0x01000193);
+  }
+  return (h >>> 0).toString(36);
+}
 
 // Minimal XML extraction. Feeds are RSS 2.0 or Atom — both are well-formed,
 // but we avoid a parser dependency by matching tags directly.
@@ -176,13 +186,28 @@ async function loadGitHub() {
   }
 }
 
+// Drop repeats. Same source publishing a recurring title (e.g. weekly
+// digests) collapses to the newest entry; identical links never appear twice.
+function dedupe(cards) {
+  const seenLink = new Set();
+  const byKey = new Map();
+  for (const c of cards) {
+    if (c.link && seenLink.has(c.link)) continue;
+    if (c.link) seenLink.add(c.link);
+    const key = `${c.source}|${(c.title || '').trim().toLowerCase()}`;
+    const prev = byKey.get(key);
+    if (!prev || new Date(c.date) > new Date(prev.date)) byKey.set(key, c);
+  }
+  return [...byKey.values()];
+}
+
 async function main() {
   const [feedResults, ghCards] = await Promise.all([
     Promise.all(FEEDS.map(loadFeed)),
     loadGitHub(),
   ]);
 
-  const posts = feedResults.flat();
+  const posts = dedupe(feedResults.flat());
   const merged = [];
   let gi = 0;
   posts.forEach((c, i) => {
