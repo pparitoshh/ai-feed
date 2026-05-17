@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-17T16:57:23.852Z",
-  "count": 41,
+  "generatedAt": "2026-05-17T16:58:24.243Z",
+  "count": 33,
   "cards": [
     {
       "id": "c0lppj",
@@ -137,16 +137,16 @@
       "min": 2
     },
     {
-      "id": "3r9xgq",
-      "type": "substack",
-      "title": "From Vibe Coding to a Real Engineering Team",
-      "desc": "My Claude Code agentic coding setup that ships features end-to-end",
-      "link": "https://www.decodingai.com/p/squid-my-agentic-coding-setup-may-2026",
-      "date": "Tue, 12 May 2026 11:04:20 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
+      "id": "rm4aw5",
+      "type": "chip",
+      "title": "Common pitfalls when building generative AI applications",
+      "desc": "&lt;p&gt;As we’re still in the early days of building applications with foundation models, it’s normal to make mistakes. This is a quick note with examples of some of the most common pitfalls that I’ve seen, both from public case studies and from my personal experience.&lt;/p&gt; &lt;p&gt;Because th",
+      "link": "https://huyenchip.com//2025/01/16/ai-engineering-pitfalls.html",
+      "date": "Thu, 16 Jan 2025 00:00:00 +0000",
+      "source": "Chip Huyen",
+      "author": "Chip Huyen",
       "tags": [],
-      "min": 12
+      "min": 10
     },
     {
       "id": "1t8o2du",
@@ -163,129 +163,6 @@
       ],
       "min": null,
       "stars": 730
-    },
-    {
-      "id": "168zoe5",
-      "type": "substack",
-      "title": "Building Agentic GraphRAG Systems",
-      "desc": "From knowledge graphs and ontologies to a unified memory as an MCP server for your AI agent.",
-      "link": "https://www.decodingai.com/p/agentic-graphrag",
-      "date": "Tue, 05 May 2026 05:01:08 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "agents",
-        "graph"
-      ],
-      "min": 15
-    },
-    {
-      "id": "7oxfbx",
-      "type": "substack",
-      "title": "What Held Up at 3 AM: One Engineer's RAG Case Study",
-      "desc": "You iterate. You evaluate. Weave CLI unifies 11 vector databases into one workflow.",
-      "link": "https://www.decodingai.com/p/ship-rag-with-weave-cli",
-      "date": "Wed, 29 Apr 2026 11:04:33 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "RAG"
-      ],
-      "min": 21
-    },
-    {
-      "id": "159a19s",
-      "type": "substack",
-      "title": "Stop Orchestrating AI Agents. Use Ralph Loops Instead.",
-      "desc": "How one simple loop beats multi-agent orchestration and context rot in production.",
-      "link": "https://www.decodingai.com/p/ralph-loops",
-      "date": "Thu, 23 Apr 2026 11:02:54 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "agents"
-      ],
-      "min": 8
-    },
-    {
-      "id": "14wpaf",
-      "type": "substack",
-      "title": "Karpathy Named It. I Built One on My Notes.",
-      "desc": "A deep research agent over my notes, highlights, and transcripts, grounded in years of curated thinking, not the public web.",
-      "link": "https://www.decodingai.com/p/llm-knowledge-base-obsidian-readwise-notebooklm",
-      "date": "Tue, 21 Apr 2026 08:00:51 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "1mb7t2l",
-      "type": "substack",
-      "title": "How to Ship a Weekly Article in One Day",
-      "desc": "Inside the agentic AI workflow behind my weekly newsletter, course, and content",
-      "link": "https://www.decodingai.com/p/how-i-automated-91-percent-of-my-business",
-      "date": "Wed, 15 Apr 2026 14:10:24 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
-      "min": 18
-    },
-    {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 309",
-        "Python"
-      ],
-      "min": null,
-      "stars": 309
-    },
-    {
-      "id": "jix8bj",
-      "type": "substack",
-      "title": "Your RAG Pipeline Is Overkill",
-      "desc": "The pattern that lets your model write code to explore its context instead of retrieving it.",
-      "link": "https://www.decodingai.com/p/recursive-language-models",
-      "date": "Tue, 07 Apr 2026 11:03:14 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "RAG"
-      ],
-      "min": 15
-    },
-    {
-      "id": "1sv1hl7",
-      "type": "substack",
-      "title": "Agentic Harness Engineering",
-      "desc": "Building systems that transform the LLM into the new operating system",
-      "link": "https://www.decodingai.com/p/agentic-harness-engineering",
-      "date": "Tue, 31 Mar 2026 11:03:40 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "agents"
-      ],
-      "min": 15
-    },
-    {
-      "id": "rm4aw5",
-      "type": "chip",
-      "title": "Common pitfalls when building generative AI applications",
-      "desc": "&lt;p&gt;As we’re still in the early days of building applications with foundation models, it’s normal to make mistakes. This is a quick note with examples of some of the most common pitfalls that I’ve seen, both from public case studies and from my personal experience.&lt;/p&gt; &lt;p&gt;Because th",
-      "link": "https://huyenchip.com//2025/01/16/ai-engineering-pitfalls.html",
-      "date": "Thu, 16 Jan 2025 00:00:00 +0000",
-      "source": "Chip Huyen",
-      "author": "Chip Huyen",
-      "tags": [],
-      "min": 10
     },
     {
       "id": "ddpysz",
@@ -312,22 +189,6 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 42
-    },
-    {
-      "id": "95k9p7",
-      "type": "github",
-      "title": "jegly/OfflineLLM",
-      "desc": "      A privacy-first Android chat app that runs large language models entirely on-device. No internet, no cloud, no tracking. Built with Kotlin, Jetpack Compose, and llama.cpp with optimized ARM NEON/SVE inference.",
-      "link": "https://github.com/jegly/OfflineLLM",
-      "date": "2026-04-04T00:37:32Z",
-      "source": "GitHub",
-      "author": "jegly",
-      "tags": [
-        "⭐ 137",
-        "Kotlin"
-      ],
-      "min": null,
-      "stars": 137
     },
     {
       "id": "ihby80",
@@ -368,6 +229,22 @@
       "min": 15
     },
     {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 309",
+        "Python"
+      ],
+      "min": null,
+      "stars": 309
+    },
+    {
       "id": "1v2xfi7",
       "type": "chip",
       "title": "Generation configurations: temperature, top-k, top-p, and test time compute",
@@ -390,21 +267,6 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 30
-    },
-    {
-      "id": "11hs1rd",
-      "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
-      "source": "GitHub",
-      "author": "Google-Cloud-AI",
-      "tags": [
-        "⭐ 133"
-      ],
-      "min": null,
-      "stars": 133
     },
     {
       "id": "fpawin",
@@ -445,6 +307,22 @@
       "min": 5
     },
     {
+      "id": "95k9p7",
+      "type": "github",
+      "title": "jegly/OfflineLLM",
+      "desc": "      A privacy-first Android chat app that runs large language models entirely on-device. No internet, no cloud, no tracking. Built with Kotlin, Jetpack Compose, and llama.cpp with optimized ARM NEON/SVE inference.",
+      "link": "https://github.com/jegly/OfflineLLM",
+      "date": "2026-04-04T00:37:32Z",
+      "source": "GitHub",
+      "author": "jegly",
+      "tags": [
+        "⭐ 137",
+        "Kotlin"
+      ],
+      "min": null,
+      "stars": 137
+    },
+    {
       "id": "sghzae",
       "type": "news",
       "title": "The Dark Truth Behind Canada’s International Student Explosion",
@@ -467,22 +345,6 @@
       "author": "Neha Slatch",
       "tags": [],
       "min": 5
-    },
-    {
-      "id": "1gi5z73",
-      "type": "github",
-      "title": "Agent-FM/agentfm-core",
-      "desc": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
-      "link": "https://github.com/Agent-FM/agentfm-core",
-      "date": "2026-04-11T17:16:34Z",
-      "source": "GitHub",
-      "author": "Agent-FM",
-      "tags": [
-        "⭐ 120",
-        "Go"
-      ],
-      "min": null,
-      "stars": 120
     },
     {
       "id": "s3kgd9",
@@ -519,6 +381,37 @@
       "author": "Neha Slatch",
       "tags": [],
       "min": 4
+    },
+    {
+      "id": "11hs1rd",
+      "type": "github",
+      "title": "Google-Cloud-AI/agent-platform",
+      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+      "link": "https://github.com/Google-Cloud-AI/agent-platform",
+      "date": "2026-04-20T17:08:58Z",
+      "source": "GitHub",
+      "author": "Google-Cloud-AI",
+      "tags": [
+        "⭐ 133"
+      ],
+      "min": null,
+      "stars": 133
+    },
+    {
+      "id": "1gi5z73",
+      "type": "github",
+      "title": "Agent-FM/agentfm-core",
+      "desc": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
+      "link": "https://github.com/Agent-FM/agentfm-core",
+      "date": "2026-04-11T17:16:34Z",
+      "source": "GitHub",
+      "author": "Agent-FM",
+      "tags": [
+        "⭐ 120",
+        "Go"
+      ],
+      "min": null,
+      "stars": 120
     },
     {
       "id": "1s2idqs",
