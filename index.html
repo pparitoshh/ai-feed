@@ -23,10 +23,10 @@
     :root { color-scheme: light; }
 
     html, body {
-      height: 100%; background: var(--bg);
+      background: var(--bg);
       color: var(--text);
       font-family: Verdana, Geneva, sans-serif;
-      overflow: hidden;
+      min-height: 100%;
     }
 
     /* ── HEADER ── */
@@ -70,25 +70,18 @@
 
     /* ── FEED ── */
     .feed {
-      height: 100dvh; height: 100vh;
-      overflow-y: scroll;
-      scroll-snap-type: y mandatory;
-      -webkit-overflow-scrolling: touch;
-      padding-top: 68px;
+      padding: 68px 0 40px;
+      max-width: 720px;
+      margin: 0 auto;
     }
-    .feed::-webkit-scrollbar { display: none; }
 
     /* ── CARD ── */
     .card {
-      height: calc(100vh - 68px);
-      height: calc(100dvh - 68px);
-      scroll-snap-align: start;
       background: var(--surface);
-      border-bottom: 2px solid var(--border);
+      border-bottom: 1px solid var(--border);
       display: flex; flex-direction: column;
-      padding: 16px 14px 110px;
+      padding: 14px 14px 12px;
       position: relative;
-      overflow: hidden;
     }
 
     .card-num {
@@ -124,19 +117,17 @@
     }
 
     .card-desc {
-      font-size: 13px; line-height: 1.7; color: #333;
-      flex: 1;
-      display: -webkit-box; -webkit-line-clamp: 7;
+      font-size: 13px; line-height: 1.6; color: #333;
+      display: -webkit-box; -webkit-line-clamp: 4;
       -webkit-box-orient: vertical; overflow: hidden;
+      margin-bottom: 10px;
     }
 
     .card-footer {
-      position: absolute; bottom: 28px; left: 0; right: 0;
-      background: var(--surface);
-      border-top: 1px solid var(--border);
-      padding: 10px 14px;
       display: flex; align-items: center; justify-content: space-between;
-      z-index: 50;
+      gap: 10px;
+      padding-top: 8px;
+      border-top: 1px solid var(--border);
     }
 
     .card-meta { font-size: 11px; color: var(--muted); }
@@ -183,19 +174,16 @@
 
     /* ── SKELETON ── */
     .skel-card {
-      height: calc(100dvh - 68px); height: calc(100vh - 68px);
-      scroll-snap-align: start;
       background: var(--surface);
       padding: 16px 14px;
-      border-bottom: 2px solid var(--border);
+      border-bottom: 1px solid var(--border);
     }
     .skel { background: var(--border); border-radius: 2px; margin-bottom: 10px; animation: shimmer 1.2s ease-in-out infinite; }
     @keyframes shimmer { 0%,100%{opacity:.5} 50%{opacity:1} }
 
     /* ── EMPTY ── */
     .empty {
-      height: calc(100dvh - 68px); height: calc(100vh - 68px);
-      scroll-snap-align: start;
+      min-height: 50vh;
       display: flex; flex-direction: column; align-items: center; justify-content: center;
       color: var(--muted); font-size: 13px; gap: 8px; text-align: center; padding: 30px;
     }
@@ -590,7 +578,7 @@ function render(cards) {
     updateStats(0,0); return;
   }
   feed.innerHTML = cards.map((c,i) => cardHTML(c,i)).join('');
-  feed.scrollTop = 0; curIdx = 0;
+  window.scrollTo(0, 0); curIdx = 0;
   updateStats(0, cards.length);
 
   const obs = new IntersectionObserver(entries => {
