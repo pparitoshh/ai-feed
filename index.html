@@ -20,6 +20,8 @@
 
     * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 
+    :root { color-scheme: light; }
+
     html, body {
       height: 100%; background: var(--bg);
       color: var(--text);
@@ -78,12 +80,13 @@
 
     /* ── CARD ── */
     .card {
-      height: calc(100dvh - 68px); height: calc(100vh - 68px);
+      height: calc(100vh - 68px);
+      height: calc(100dvh - 68px);
       scroll-snap-align: start;
       background: var(--surface);
       border-bottom: 2px solid var(--border);
       display: flex; flex-direction: column;
-      padding: 16px 14px 80px;
+      padding: 16px 14px 110px;
       position: relative;
       overflow: hidden;
     }
@@ -128,11 +131,12 @@
     }
 
     .card-footer {
-      position: absolute; bottom: 0; left: 0; right: 0;
-      background: var(--bg);
+      position: absolute; bottom: 28px; left: 0; right: 0;
+      background: var(--surface);
       border-top: 1px solid var(--border);
       padding: 10px 14px;
       display: flex; align-items: center; justify-content: space-between;
+      z-index: 50;
     }
 
     .card-meta { font-size: 11px; color: var(--muted); }
