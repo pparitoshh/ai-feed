@@ -657,17 +657,37 @@ document.addEventListener('keydown', e => {
 });
 
 // ══════════════════════════════════════
-// INIT
+// PREBUILT FEED (cron-generated)
 // ══════════════════════════════════════
-async function init() {
-  initG();
+// GitHub Actions runs scripts/build-feed.mjs daily and commits data/feed.json.
+// We read that first. If it is missing or older than MAX_AGE we fall back to
+// fetching everything live in the browser (same logic as before).
+const PREBUILT_URL = 'data/feed.json';
+const MAX_AGE_MS = 36 * 60 * 60 * 1000; // 36h — covers a missed daily run
+
+async function loadPrebuilt() {
+  try {
+    const r = await fetch(PREBUILT_URL, { cache: 'no-store' });
+    if (!r.ok) return null;
+    const j = await r.json();
+    if (!j || !Array.isArray(j.cards) || !j.cards.length) return null;
+    const age = Date.now() - new Date(j.generatedAt).getTime();
+    if (isFinite(age) && age > MAX_AGE_MS) {
+      console.warn('prebuilt feed stale, falling back to live');
+      return null;
+    }
+    return j.cards;
+  } catch {
+    return null;
+  }
+}
+
+async function loadLive() {
   const [feedResults, ghCards] = await Promise.all([
     Promise.all(FEEDS.map(loadFeed)),
     loadGitHub(),
   ]);
-
   const posts = feedResults.flat();
-  // interleave GitHub every 5 posts
   const merged = [];
   let gi = 0;
   posts.forEach((c,i) => {
@@ -675,6 +695,15 @@ async function init() {
     if ((i+1)%5===0 && gi<ghCards.length) merged.push(ghCards[gi++]);
   });
   while (gi<ghCards.length) merged.push(ghCards[gi++]);
+  return merged;
+}
+
+// ══════════════════════════════════════
+// INIT
+// ══════════════════════════════════════
+async function init() {
+  initG();
+  const merged = (await loadPrebuilt()) || (await loadLive());
 
   // Pin hand-picked items at the top.
   allCards = [...FEATURED, ...merged];
