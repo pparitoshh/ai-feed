@@ -90,15 +90,43 @@ function parseBlock(b, isAtom) {
   return { title, link, description, content, pubDate, author, categories };
 }
 
-async function fetchText(url) {
+// Browser-like UA — Substack and others 403 on bot UAs / datacenter IPs.
+const BROWSER_UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+const PROXIES = [
+  u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
+  u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+  u => `https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(u)}`,
+];
+
+async function tryFetch(url, label) {
   try {
-    const r = await fetch(url, { headers: { 'User-Agent': 'ainews-feed-builder/1.0' } });
-    if (!r.ok) return null;
-    return await r.text();
+    const r = await fetch(url, {
+      headers: {
+        'User-Agent': BROWSER_UA,
+        Accept: 'application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+      },
+      redirect: 'follow',
+    });
+    if (!r.ok) { console.warn(`${label} ${r.status}`); return null; }
+    const txt = await r.text();
+    if (!txt || !txt.includes('<')) { console.warn(`${label} no xml body`); return null; }
+    return txt;
   } catch (e) {
-    console.error(`fetch failed: ${url} — ${e.message}`);
+    console.warn(`${label} ${e.message}`);
     return null;
   }
+}
+
+// Direct first, then CORS proxies (they fetch from residential / mixed IPs).
+async function fetchText(url) {
+  const direct = await tryFetch(url, `direct ${url}`);
+  if (direct) return direct;
+  for (const px of PROXIES) {
+    const via = await tryFetch(px(url), `proxy ${url}`);
+    if (via) return via;
+  }
+  return null;
 }
 
 async function loadFeed(feed) {
