@@ -217,6 +217,13 @@
     /* ── GITHUB CARD ── */
     .card.type-github { background: #fffdf9; }
     .card.type-github .card-num-n { color: #d0e8d0; }
+
+    /* ── PICKS / NEWS ── */
+    .card.type-picks { background: #fff8eb; }
+    .card.type-picks .card-num-n { color: #ffd29a; }
+    .card.type-news  { background: #fbfaff; }
+    .card.type-news  .card-num-n { color: #d8d4f0; }
+    .pick-badge { color: #ff6600; font-weight: 700; margin-right: 4px; }
   </style>
 </head>
 <body>
@@ -236,8 +243,10 @@
 
 <div class="tabs">
   <button class="tab active" data-tab="all" onclick="switchTab('all')">all</button>
+  <button class="tab" data-tab="picks" onclick="switchTab('picks')">picks ★</button>
   <button class="tab" data-tab="substack" onclick="switchTab('substack')">substack</button>
   <button class="tab" data-tab="chip" onclick="switchTab('chip')">chip huyen</button>
+  <button class="tab" data-tab="news" onclick="switchTab('news')">news</button>
   <button class="tab" data-tab="github" onclick="switchTab('github')">github ⭐</button>
   <button class="tab" data-tab="saved" onclick="switchTab('saved')">saved</button>
 </div>
@@ -271,7 +280,13 @@
 // ══════════════════════════════════════
 // CONFIG
 // ══════════════════════════════════════
-const PROXY = 'https://api.rss2json.com/v1/api.json?count=8&rss_url=';
+// CORS proxies (tried in order, first to return XML wins)
+const PROXIES = [
+  url => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+  url => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+  url => `https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(url)}`,
+];
+const MAX_ITEMS = 8;
 
 const FEEDS = [
   // Substack
@@ -279,8 +294,54 @@ const FEEDS = [
   { id:'decml', name:'Decoding ML',        author:'Paul Iusztin',  url:'https://decodingml.substack.com/feed',         color:'#ff6600', type:'substack' },
   { id:'llmw',  name:'LLM Watch',          author:'Pascal Biese',  url:'https://xaiguy.substack.com/feed',             color:'#ff6600', type:'substack' },
   { id:'decai', name:'Decoding AI Mag',    author:'',              url:'https://decodingaimagazine.substack.com/feed', color:'#ff6600', type:'substack' },
-  // Chip Huyen — try multiple URLs, first success wins
-  { id:'chip',  name:'Chip Huyen',         author:'Chip Huyen',    url:'https://huyenchip.com/feed.xml',               color:'#ff6600', type:'chip', fallback:'https://huyenchip.com/feed' },
+  // Chip Huyen — verified feed.xml
+  { id:'chip',  name:'Chip Huyen',         author:'Chip Huyen',    url:'https://huyenchip.com/feed.xml',               color:'#ff6600', type:'chip' },
+  // News
+  { id:'imf',   name:'IM Founder',         author:'',              url:'https://imfounder.com/feed/',                  color:'#ff6600', type:'news' },
+  { id:'mprof', name:'MarketingProfs',     author:'',              url:'https://feeds.feedblitz.com/marketingprofs-all-in-one', color:'#ff6600', type:'news' },
+];
+
+// Static, hand-picked items (no RSS available). Always shown at top of "all".
+const FEATURED = [
+  {
+    id: 'feat-goodailist',
+    type: 'picks',
+    title: 'Good AI List',
+    desc: 'Curated directory of AI tools and resources. Community-maintained, broad coverage across models, agents, infra and applications.',
+    link: 'https://goodailist.com/',
+    date: new Date().toISOString(),
+    source: 'Good AI List',
+    author: 'curated',
+    tags: ['curated', 'tools'],
+    min: 5,
+    featured: true,
+  },
+  {
+    id: 'feat-chip-cool-llm-repos',
+    type: 'chip',
+    title: "Chip Huyen's Cool LLM Repos",
+    desc: 'GitHub stars list curated by Chip Huyen — standout LLM and AI projects worth following.',
+    link: 'https://github.com/stars/chiphuyen/lists/cool-llm-repos',
+    date: new Date().toISOString(),
+    source: 'Chip Huyen',
+    author: 'Chip Huyen',
+    tags: ['curated', 'LLM', 'open-source'],
+    min: 10,
+    featured: true,
+  },
+  {
+    id: 'feat-chip-900-ai-tools',
+    type: 'chip',
+    title: 'What I learned from looking at 900 most popular open source AI tools',
+    desc: 'Chip Huyen analyses ~900 open-source AI tools — which stacks dominate, where the gaps are, and how the ecosystem is shaping up.',
+    link: 'https://huyenchip.com/2024/03/14/ai-oss.html',
+    date: '2024-03-14T00:00:00Z',
+    source: 'Chip Huyen',
+    author: 'Chip Huyen',
+    tags: ['analysis', 'open-source', 'LLM'],
+    min: 12,
+    featured: true,
+  },
 ];
 
 const TAG_MAP = [
@@ -370,28 +431,90 @@ function uid(s)  { return btoa(encodeURIComponent(s)).slice(0,20); }
 // ══════════════════════════════════════
 // FETCH
 // ══════════════════════════════════════
+// Try each proxy in turn until one returns parseable XML.
+async function fetchXML(feedUrl) {
+  for (const px of PROXIES) {
+    try {
+      const r = await fetch(px(feedUrl), { cache: 'no-store' });
+      if (!r.ok) continue;
+      const txt = await r.text();
+      if (txt && txt.includes('<')) return txt;
+    } catch {}
+  }
+  return null;
+}
+
+// Get first child element by local name (namespace-agnostic).
+function firstByLocal(el, local) {
+  for (const c of el.children) if (c.localName === local) return c;
+  return null;
+}
+// Get first descendant element by namespaced/qualified tag name (e.g. "content:encoded").
+function firstByTag(el, qname) {
+  return el.getElementsByTagName(qname)[0] || null;
+}
+
+function parseFeed(xml) {
+  const doc = new DOMParser().parseFromString(xml, 'application/xml');
+  if (doc.getElementsByTagName('parsererror').length) return [];
+
+  // RSS 2.0
+  const rssItems = doc.getElementsByTagName('item');
+  if (rssItems.length) {
+    return [...rssItems].slice(0, MAX_ITEMS).map(it => ({
+      title:       firstByLocal(it, 'title')?.textContent || '',
+      link:        firstByLocal(it, 'link')?.textContent || '',
+      description: firstByLocal(it, 'description')?.textContent || '',
+      content:     firstByTag(it, 'content:encoded')?.textContent
+                   || firstByLocal(it, 'description')?.textContent || '',
+      pubDate:     firstByLocal(it, 'pubDate')?.textContent || '',
+      author:      firstByTag(it, 'dc:creator')?.textContent
+                   || firstByLocal(it, 'author')?.textContent || '',
+      categories:  [...it.getElementsByTagName('category')].map(c => c.textContent),
+    }));
+  }
+
+  // Atom
+  const entries = doc.getElementsByTagName('entry');
+  return [...entries].slice(0, MAX_ITEMS).map(it => {
+    const linkEl = [...it.getElementsByTagName('link')]
+                    .find(l => !l.getAttribute('rel') || l.getAttribute('rel') === 'alternate')
+                   || it.getElementsByTagName('link')[0];
+    return {
+      title:       firstByLocal(it, 'title')?.textContent || '',
+      link:        linkEl?.getAttribute('href') || linkEl?.textContent || '',
+      description: firstByLocal(it, 'summary')?.textContent
+                   || firstByLocal(it, 'content')?.textContent || '',
+      content:     firstByLocal(it, 'content')?.textContent || '',
+      pubDate:     firstByLocal(it, 'published')?.textContent
+                   || firstByLocal(it, 'updated')?.textContent || '',
+      author:      it.querySelector('author > name')?.textContent || '',
+      categories:  [...it.getElementsByTagName('category')]
+                     .map(c => c.getAttribute('term') || c.textContent),
+    };
+  });
+}
+
 async function loadFeed(feed) {
   const urls = [feed.url];
   if (feed.fallback) urls.push(feed.fallback);
   for (const url of urls) {
-    try {
-      const r = await fetch(PROXY + encodeURIComponent(url));
-      const d = await r.json();
-      if (d.status==='ok' && d.items?.length) {
-        return d.items.map(item => ({
-          id:      uid(item.link),
-          type:    feed.type,
-          title:   item.title || '(no title)',
-          desc:    strip(item.description||item.content||''),
-          link:    item.link,
-          date:    item.pubDate,
-          source:  feed.name,
-          author:  feed.author || item.author || feed.name,
-          tags:    tags(item.title+' '+(item.categories||[]).join(' ')),
-          min:     readMin(item.content||item.description||''),
-        }));
-      }
-    } catch {}
+    const xml = await fetchXML(url);
+    if (!xml) continue;
+    const items = parseFeed(xml);
+    if (!items.length) continue;
+    return items.map(item => ({
+      id:      uid(item.link),
+      type:    feed.type,
+      title:   item.title || '(no title)',
+      desc:    strip(item.description || item.content || ''),
+      link:    item.link,
+      date:    item.pubDate,
+      source:  feed.name,
+      author:  feed.author || item.author || feed.name,
+      tags:    tags(item.title + ' ' + (item.categories || []).join(' ')),
+      min:     readMin(item.content || item.description || ''),
+    }));
   }
   return [];
 }
@@ -440,7 +563,7 @@ function cardHTML(card, idx) {
 <div class="card type-${card.type}" data-idx="${idx}" data-id="${card.id}">
   <div class="card-num">
     <span class="card-num-n">${String(idx+1).padStart(2,'0')}</span>
-    <span class="card-source">${card.source}</span>
+    <span class="card-source">${card.featured?'<span class="pick-badge">★</span>':''}${card.source}</span>
     <span class="card-date">${fmtDate(card.date)}</span>
   </div>
   <div class="card-tags">${tagHTML}</div>
@@ -486,8 +609,10 @@ function switchTab(tab) {
   activeTab = tab;
   document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b.dataset.tab===tab));
   if      (tab==='all')      visible = allCards;
+  else if (tab==='picks')    visible = allCards.filter(c=>c.featured);
   else if (tab==='substack') visible = allCards.filter(c=>c.type==='substack');
   else if (tab==='chip')     visible = allCards.filter(c=>c.type==='chip');
+  else if (tab==='news')     visible = allCards.filter(c=>c.type==='news');
   else if (tab==='github')   visible = allCards.filter(c=>c.type==='github');
   else if (tab==='saved')    visible = allCards.filter(c=>S.saved.includes(c.id));
   render(visible);
@@ -539,13 +664,16 @@ async function init() {
 
   const posts = feedResults.flat();
   // interleave GitHub every 5 posts
-  allCards = [];
+  const merged = [];
   let gi = 0;
   posts.forEach((c,i) => {
-    allCards.push(c);
-    if ((i+1)%5===0 && gi<ghCards.length) allCards.push(ghCards[gi++]);
+    merged.push(c);
+    if ((i+1)%5===0 && gi<ghCards.length) merged.push(ghCards[gi++]);
   });
-  while (gi<ghCards.length) allCards.push(ghCards[gi++]);
+  while (gi<ghCards.length) merged.push(ghCards[gi++]);
+
+  // Pin hand-picked items at the top.
+  allCards = [...FEATURED, ...merged];
 
   visible = allCards;
   render(visible);
@@ -556,3 +684,4 @@ init();
 </script>
 </body>
 </html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
