@@ -3,75 +3,68 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta name="theme-color" content="#0a0a0f">
+  <meta name="theme-color" content="#f6f6ef">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="AI Feed">
-  <title>AI Feed</title>
+  <meta name="apple-mobile-web-app-title" content="AINews">
+  <title>AINews</title>
   <style>
     :root {
-      --bg: #0a0a0f;
-      --surface: #111118;
-      --border: #1c1c28;
-      --text: #e2e8f0;
-      --muted: #4a5568;
-      --accent: #6366f1;
-      --accent2: #8b5cf6;
+      --bg: #f6f6ef;
+      --surface: #ffffff;
+      --orange: #ff6600;
+      --text: #000000;
+      --muted: #828282;
+      --border: #e8e8e8;
+      --tag-bg: #f0f0f0;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 
     html, body {
-      height: 100%;
-      background: var(--bg);
+      height: 100%; background: var(--bg);
       color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+      font-family: Verdana, Geneva, sans-serif;
       overflow: hidden;
     }
 
     /* ── HEADER ── */
     .header {
       position: fixed; top: 0; left: 0; right: 0; z-index: 200;
-      padding: 14px 18px 8px;
+      background: var(--orange);
+      padding: 0 10px;
+      height: 40px;
       display: flex; align-items: center; justify-content: space-between;
-      background: linear-gradient(to bottom, var(--bg) 70%, transparent);
     }
 
     .logo {
-      font-size: 17px; font-weight: 800; letter-spacing: -0.6px;
+      font-size: 14px; font-weight: 700; color: #fff;
+      letter-spacing: 0.3px;
     }
-    .logo em { font-style: normal; color: var(--accent); }
+    .logo span { color: #fff; opacity: 0.85; font-weight: 400; font-size: 12px; margin-left: 6px; }
 
     .hud {
-      display: flex; align-items: center; gap: 10px;
+      display: flex; align-items: center; gap: 12px;
     }
-
-    .streak-chip {
-      display: flex; align-items: center; gap: 4px;
-      background: rgba(251,146,60,.12); border: 1px solid rgba(251,146,60,.25);
-      border-radius: 20px; padding: 4px 10px;
-      font-size: 12px; font-weight: 700; color: #fb923c;
-    }
-
-    .level-wrap { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
-    .level-label { font-size: 10px; color: var(--muted); font-weight: 600; }
-    .xp-track {
-      width: 52px; height: 3px; background: var(--border); border-radius: 2px; overflow: hidden;
-    }
-    .xp-fill { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent2)); border-radius: 2px; transition: width .5s ease; }
+    .streak { font-size: 12px; color: #fff; font-weight: 700; }
+    .xp-wrap { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
+    .xp-label { font-size: 9px; color: rgba(255,255,255,0.8); }
+    .xp-track { width: 48px; height: 3px; background: rgba(255,255,255,0.3); border-radius: 2px; }
+    .xp-fill { height: 100%; background: #fff; border-radius: 2px; transition: width .4s; }
 
     /* ── TABS ── */
     .tabs {
-      position: fixed; top: 52px; left: 0; right: 0; z-index: 190;
-      display: flex; gap: 4px; padding: 0 18px 6px;
-      background: linear-gradient(to bottom, var(--bg) 60%, transparent);
+      position: fixed; top: 40px; left: 0; right: 0; z-index: 190;
+      background: #ff7a1a;
+      display: flex; padding: 0 10px; gap: 2px; height: 28px; align-items: center;
     }
     .tab {
-      background: none; border: 1px solid transparent; color: var(--muted);
-      font-size: 11px; font-weight: 700; padding: 4px 11px; border-radius: 20px;
-      cursor: pointer; letter-spacing: .4px; text-transform: uppercase; transition: all .15s;
+      background: none; border: none;
+      color: rgba(255,255,255,0.75);
+      font-size: 11px; font-family: Verdana, Geneva, sans-serif;
+      font-weight: 700; padding: 3px 8px; border-radius: 3px;
+      cursor: pointer; transition: all .1s;
     }
-    .tab.active { background: var(--border); border-color: var(--border); color: var(--text); }
+    .tab.active { background: rgba(255,255,255,0.2); color: #fff; }
 
     /* ── FEED ── */
     .feed {
@@ -79,510 +72,484 @@
       overflow-y: scroll;
       scroll-snap-type: y mandatory;
       -webkit-overflow-scrolling: touch;
+      padding-top: 68px;
     }
     .feed::-webkit-scrollbar { display: none; }
 
     /* ── CARD ── */
     .card {
-      height: 100dvh; height: 100vh;
+      height: calc(100dvh - 68px); height: calc(100vh - 68px);
       scroll-snap-align: start;
-      position: relative;
-      display: flex; flex-direction: column; justify-content: flex-end;
-      padding: 90px 20px 96px;
-      cursor: pointer;
-    }
-
-    .card-glow {
-      position: absolute; inset: 0; z-index: 0;
       background: var(--surface);
-    }
-    .card-glow::before {
-      content: '';
-      position: absolute;
-      top: -80px; right: -80px;
-      width: 260px; height: 260px;
-      border-radius: 50%;
-      filter: blur(70px);
-      opacity: .07;
-    }
-    .card-glow::after {
-      content: '';
-      position: absolute; inset: 0;
-      background: linear-gradient(to top, rgba(10,10,15,.97) 0%, rgba(10,10,15,.5) 55%, transparent 100%);
+      border-bottom: 2px solid var(--border);
+      display: flex; flex-direction: column;
+      padding: 16px 14px 80px;
+      position: relative;
+      overflow: hidden;
     }
 
-    .card-inner { position: relative; z-index: 1; }
-
-    .card-source-row {
-      display: flex; align-items: center; gap: 7px; margin-bottom: 10px;
+    .card-num {
+      font-size: 11px; color: var(--muted);
+      margin-bottom: 10px;
+      display: flex; align-items: center; gap: 8px;
     }
-    .src-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
-    .src-name { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .8px; color: var(--muted); }
-    .read-badge { margin-left: auto; font-size: 10px; color: var(--muted); }
+    .card-num-n {
+      font-size: 20px; font-weight: 700; color: var(--border);
+      line-height: 1; min-width: 32px;
+    }
+    .card-source {
+      font-size: 11px; font-weight: 700;
+      color: var(--orange); text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .card-date { font-size: 10px; color: var(--muted); margin-left: auto; }
 
-    .card-tags { display: flex; gap: 5px; margin-bottom: 12px; flex-wrap: wrap; }
+    .card-tags {
+      display: flex; gap: 5px; flex-wrap: wrap; margin-bottom: 10px;
+    }
     .tag {
-      font-size: 10px; font-weight: 700; padding: 3px 8px;
-      border-radius: 4px; letter-spacing: .4px;
+      font-size: 10px; background: var(--tag-bg); color: var(--muted);
+      padding: 2px 6px; border-radius: 2px; font-weight: 700;
     }
+    .tag.hn-orange { background: #fff1e8; color: var(--orange); }
 
     .card-title {
-      font-size: clamp(19px, 5.5vw, 27px);
-      font-weight: 800; line-height: 1.18; letter-spacing: -.4px;
+      font-size: clamp(16px, 4vw, 22px);
+      font-weight: 700; line-height: 1.3;
+      color: var(--text);
       margin-bottom: 10px;
+      letter-spacing: -0.2px;
     }
 
     .card-desc {
-      font-size: 13.5px; line-height: 1.65; color: #718096;
-      margin-bottom: 18px;
-      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+      font-size: 13px; line-height: 1.7; color: #333;
+      flex: 1;
+      display: -webkit-box; -webkit-line-clamp: 7;
+      -webkit-box-orient: vertical; overflow: hidden;
     }
 
-    .card-footer { display: flex; align-items: center; justify-content: space-between; }
+    .card-footer {
+      position: absolute; bottom: 0; left: 0; right: 0;
+      background: var(--bg);
+      border-top: 1px solid var(--border);
+      padding: 10px 14px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
 
-    .card-meta { font-size: 11.5px; color: var(--muted); }
+    .card-meta { font-size: 11px; color: var(--muted); }
+    .card-meta b { color: var(--text); }
 
-    .card-actions { display: flex; gap: 8px; }
+    .card-actions { display: flex; gap: 6px; }
 
     .btn-save {
-      background: var(--border); border: none; border-radius: 8px;
-      width: 36px; height: 36px; font-size: 15px;
-      cursor: pointer; transition: background .15s;
-      display: flex; align-items: center; justify-content: center;
+      background: var(--tag-bg); border: 1px solid var(--border);
+      border-radius: 3px; font-size: 12px; width: 30px; height: 28px;
+      cursor: pointer; display: flex; align-items: center; justify-content: center;
+      transition: background .1s;
     }
-    .btn-save.saved { background: rgba(251,146,60,.18); }
+    .btn-save.saved { background: #fff1e8; border-color: #ffd0a8; }
 
     .btn-read {
-      background: var(--accent); border: none; border-radius: 8px;
-      color: #fff; font-size: 13px; font-weight: 700;
-      padding: 0 16px; height: 36px;
-      cursor: pointer; transition: opacity .15s; letter-spacing: .2px;
+      background: var(--orange); border: none; border-radius: 3px;
+      color: #fff; font-size: 11px; font-weight: 700; font-family: Verdana, Geneva, sans-serif;
+      padding: 0 12px; height: 28px; cursor: pointer; transition: opacity .1s;
     }
     .btn-read:active { opacity: .8; }
 
     /* ── PROGRESS ── */
-    .progress-bar {
-      position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;
-      padding: 0 18px 18px;
-      background: linear-gradient(to top, var(--bg) 55%, transparent);
+    .prog-bar {
+      position: fixed; bottom: 0; left: 0; right: 0; z-index: 100;
+      height: 3px; background: var(--border);
     }
-    .prog-stats {
-      display: flex; justify-content: center; gap: 14px;
-      font-size: 10.5px; color: var(--muted); margin-bottom: 7px;
+    .prog-fill {
+      height: 100%; background: var(--orange); transition: width .3s;
     }
-    .prog-stat { display: flex; align-items: center; gap: 3px; }
-    .prog-track { height: 2px; background: var(--border); border-radius: 1px; overflow: hidden; }
-    .prog-fill { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent2)); border-radius: 1px; transition: width .3s ease; }
-    .prog-label { font-size: 10px; color: var(--muted); text-align: center; margin-top: 5px; }
+
+    /* ── STATS BAR ── */
+    .stats-bar {
+      position: fixed; bottom: 3px; left: 0; right: 0; z-index: 99;
+      background: rgba(246,246,239,0.95);
+      padding: 3px 14px;
+      display: flex; align-items: center; gap: 14px;
+      font-size: 10px; color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    .stat { display: flex; align-items: center; gap: 3px; }
+    .stat b { color: var(--text); }
+    .pos { margin-left: auto; font-weight: 700; color: var(--text); }
 
     /* ── SKELETON ── */
-    .skeleton-card {
-      height: 100dvh; height: 100vh;
+    .skel-card {
+      height: calc(100dvh - 68px); height: calc(100vh - 68px);
       scroll-snap-align: start;
-      display: flex; flex-direction: column; justify-content: flex-end;
-      padding: 90px 20px 96px; background: var(--surface);
+      background: var(--surface);
+      padding: 16px 14px;
+      border-bottom: 2px solid var(--border);
     }
-    .skel { background: var(--border); border-radius: 6px; margin-bottom: 10px; animation: pulse 1.4s ease-in-out infinite; }
-    @keyframes pulse { 0%,100% { opacity: .5; } 50% { opacity: 1; } }
+    .skel { background: var(--border); border-radius: 2px; margin-bottom: 10px; animation: shimmer 1.2s ease-in-out infinite; }
+    @keyframes shimmer { 0%,100%{opacity:.5} 50%{opacity:1} }
 
-    /* ── EMPTY STATE ── */
+    /* ── EMPTY ── */
     .empty {
-      height: 100dvh; height: 100vh;
+      height: calc(100dvh - 68px); height: calc(100vh - 68px);
       scroll-snap-align: start;
       display: flex; flex-direction: column; align-items: center; justify-content: center;
-      gap: 10px; color: var(--muted); font-size: 14px; text-align: center; padding: 40px;
+      color: var(--muted); font-size: 13px; gap: 8px; text-align: center; padding: 30px;
     }
-    .empty-icon { font-size: 40px; margin-bottom: 4px; }
 
     /* ── TOAST ── */
     .toast {
-      position: fixed; bottom: 68px; left: 50%; transform: translateX(-50%) translateY(10px);
-      background: #1e1e2e; border: 1px solid var(--border); border-radius: 10px;
-      padding: 8px 16px; font-size: 13px; font-weight: 500;
-      opacity: 0; transition: all .2s ease; z-index: 300; white-space: nowrap;
-      pointer-events: none;
+      position: fixed; bottom: 32px; left: 50%; transform: translateX(-50%) translateY(8px);
+      background: var(--text); color: #fff;
+      border-radius: 3px; padding: 6px 14px;
+      font-size: 12px; opacity: 0; transition: all .2s; z-index: 400;
+      pointer-events: none; white-space: nowrap;
     }
     .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 
-    /* ── KEYBOARD HINT ── */
+    /* ── KEYBOARD ── */
     .kbd-hint {
-      position: fixed; bottom: 56px; right: 16px; z-index: 150;
-      font-size: 10px; color: var(--muted);
-      display: none;
+      position: fixed; top: 48px; right: 10px; z-index: 150;
+      font-size: 9px; color: rgba(255,255,255,0.7);
+      display: none; letter-spacing: 0.3px;
     }
-    @media (hover: hover) { .kbd-hint { display: block; } }
-    .kbd { background: var(--border); border-radius: 3px; padding: 1px 4px; font-family: monospace; }
+    @media (hover:hover) { .kbd-hint { display: block; } }
+
+    /* ── GITHUB CARD ── */
+    .card.type-github { background: #fffdf9; }
+    .card.type-github .card-num-n { color: #d0e8d0; }
   </style>
 </head>
 <body>
 
-<!-- HEADER -->
 <div class="header">
-  <div class="logo">AI<em>Feed</em></div>
+  <div class="logo">AINews <span>your feed, no noise</span></div>
   <div class="hud">
-    <div class="streak-chip" id="streak">🔥 0</div>
-    <div class="level-wrap">
-      <div class="level-label" id="levelLabel">LVL 0</div>
+    <div class="streak" id="streak">🔥 0</div>
+    <div class="xp-wrap">
+      <div class="xp-label" id="xpLabel">LVL 0</div>
       <div class="xp-track"><div class="xp-fill" id="xpFill" style="width:0%"></div></div>
     </div>
   </div>
 </div>
 
-<!-- TABS -->
+<div class="kbd-hint">↑↓ scroll · b bookmark · ↵ open</div>
+
 <div class="tabs">
-  <button class="tab active" data-tab="all" onclick="switchTab('all')">All</button>
-  <button class="tab" data-tab="github" onclick="switchTab('github')">⭐ GitHub</button>
-  <button class="tab" data-tab="chip" onclick="switchTab('chip')">Chip Huyen</button>
-  <button class="tab" data-tab="saved" onclick="switchTab('saved')">🔖 Saved</button>
+  <button class="tab active" data-tab="all" onclick="switchTab('all')">all</button>
+  <button class="tab" data-tab="substack" onclick="switchTab('substack')">substack</button>
+  <button class="tab" data-tab="chip" onclick="switchTab('chip')">chip huyen</button>
+  <button class="tab" data-tab="github" onclick="switchTab('github')">github ⭐</button>
+  <button class="tab" data-tab="saved" onclick="switchTab('saved')">saved</button>
 </div>
 
-<!-- FEED -->
 <div class="feed" id="feed">
-  <!-- skeletons -->
-  <div class="skeleton-card">
-    <div class="skel" style="width:60px;height:12px;margin-bottom:14px"></div>
-    <div class="skel" style="width:90%;height:28px"></div>
-    <div class="skel" style="width:70%;height:28px"></div>
-    <div class="skel" style="width:100%;height:14px;margin-top:14px"></div>
-    <div class="skel" style="width:80%;height:14px"></div>
+  <div class="skel-card">
+    <div class="skel" style="width:120px;height:11px;margin-bottom:14px"></div>
+    <div class="skel" style="width:100%;height:20px"></div>
+    <div class="skel" style="width:80%;height:20px"></div>
+    <div class="skel" style="width:100%;height:13px;margin-top:14px"></div>
+    <div class="skel" style="width:95%;height:13px"></div>
+    <div class="skel" style="width:70%;height:13px"></div>
   </div>
-  <div class="skeleton-card">
-    <div class="skel" style="width:50px;height:12px;margin-bottom:14px"></div>
-    <div class="skel" style="width:85%;height:28px"></div>
-    <div class="skel" style="width:65%;height:28px"></div>
-    <div class="skel" style="width:100%;height:14px;margin-top:14px"></div>
+  <div class="skel-card">
+    <div class="skel" style="width:100px;height:11px;margin-bottom:14px"></div>
+    <div class="skel" style="width:90%;height:20px"></div>
+    <div class="skel" style="width:60%;height:20px"></div>
+    <div class="skel" style="width:100%;height:13px;margin-top:14px"></div>
+    <div class="skel" style="width:85%;height:13px"></div>
   </div>
 </div>
 
-<!-- PROGRESS -->
-<div class="progress-bar">
-  <div class="prog-stats" id="progStats"></div>
-  <div class="prog-track"><div class="prog-fill" id="progFill" style="width:0%"></div></div>
-  <div class="prog-label" id="progLabel">Loading…</div>
+<div class="prog-bar"><div class="prog-fill" id="progFill" style="width:0%"></div></div>
+<div class="stats-bar" id="statsBar">
+  <span class="stat">loading…</span>
 </div>
 
-<!-- KEYBOARD HINT -->
-<div class="kbd-hint">
-  <kbd class="kbd">↑↓</kbd> scroll &nbsp; <kbd class="kbd">b</kbd> save &nbsp; <kbd class="kbd">↵</kbd> open
-</div>
-
-<!-- TOAST -->
 <div class="toast" id="toast"></div>
 
 <script>
-// ══════════════════════════════════════════
-// SOURCES
-// ══════════════════════════════════════════
-const PROXY = 'https://api.rss2json.com/v1/api.json?rss_url=';
+// ══════════════════════════════════════
+// CONFIG
+// ══════════════════════════════════════
+const PROXY = 'https://api.rss2json.com/v1/api.json?count=8&rss_url=';
 
-const SOURCES = [
-  { id: 'tdab',    name: 'To Data & Beyond',  author: 'Youssef Hosni', url: 'https://todatabeyond.substack.com/feed',        color: '#6366f1', n: 7 },
-  { id: 'decml',   name: 'Decoding ML',        author: 'Paul Iusztin',  url: 'https://decodingml.substack.com/feed',          color: '#0ea5e9', n: 7 },
-  { id: 'llmw',    name: 'LLM Watch',          author: 'Pascal Biese',  url: 'https://xaiguy.substack.com/feed',              color: '#10b981', n: 5 },
-  { id: 'decai',   name: 'Decoding AI Mag',    author: '',              url: 'https://decodingaimagazine.substack.com/feed',  color: '#f59e0b', n: 5 },
-  { id: 'chip',    name: 'Chip Huyen',         author: 'Chip Huyen',    url: 'https://huyenchip.com/feed.xml',                color: '#e11d48', n: 6, isChip: true },
+const FEEDS = [
+  // Substack
+  { id:'tdab',  name:'To Data & Beyond',  author:'Youssef Hosni', url:'https://todatabeyond.substack.com/feed',       color:'#ff6600', type:'substack' },
+  { id:'decml', name:'Decoding ML',        author:'Paul Iusztin',  url:'https://decodingml.substack.com/feed',         color:'#ff6600', type:'substack' },
+  { id:'llmw',  name:'LLM Watch',          author:'Pascal Biese',  url:'https://xaiguy.substack.com/feed',             color:'#ff6600', type:'substack' },
+  { id:'decai', name:'Decoding AI Mag',    author:'',              url:'https://decodingaimagazine.substack.com/feed', color:'#ff6600', type:'substack' },
+  // Chip Huyen — try multiple URLs, first success wins
+  { id:'chip',  name:'Chip Huyen',         author:'Chip Huyen',    url:'https://huyenchip.com/feed.xml',               color:'#ff6600', type:'chip', fallback:'https://huyenchip.com/feed' },
 ];
 
 const TAG_MAP = [
-  [/\brag\b/i,              'RAG',          '#0ea5e9'],
-  [/agent|agentic/i,        'Agents',       '#6366f1'],
-  [/\bllm\b|large.language/i,'LLM',         '#8b5cf6'],
-  [/fine.?tun/i,            'Fine-tuning',  '#f59e0b'],
-  [/inference/i,            'Inference',    '#10b981'],
-  [/eval|benchmark/i,       'Eval',         '#ef4444'],
-  [/mlops|deploy|prod/i,    'MLOps',        '#06b6d4'],
-  [/transform|attention/i,  'Transformer',  '#a855f7'],
-  [/graph/i,                'Graph',        '#14b8a6'],
-  [/interview|career/i,     'Career',       '#f97316'],
-  [/open.source|github/i,   'OSS',          '#22c55e'],
-  [/distrib|parallel/i,     'Distributed',  '#84cc16'],
+  [/\brag\b/i,             'RAG'],
+  [/agent|agentic/i,       'agents'],
+  [/\bllm\b|large.lang/i,  'LLM'],
+  [/fine.?tun/i,           'fine-tuning'],
+  [/inference/i,           'inference'],
+  [/eval|benchmark/i,      'eval'],
+  [/mlops|deploy|prod/i,   'mlops'],
+  [/transform|attention/i, 'transformers'],
+  [/graph/i,               'graph'],
+  [/interview/i,           'career'],
+  [/distrib|parallel/i,    'distributed'],
+  [/open.source/i,         'open-source'],
 ];
 
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 // STATE
-// ══════════════════════════════════════════
-let allCards = [];
-let visibleCards = [];
-let currentIdx = 0;
-let activeTab = 'all';
-let S = (() => { try { return JSON.parse(localStorage.getItem('aifeed') || '{}'); } catch { return {}; } })();
-const save = () => localStorage.setItem('aifeed', JSON.stringify(S));
+// ══════════════════════════════════════
+let allCards = [], visible = [], curIdx = 0, activeTab = 'all';
+let S = (() => { try { return JSON.parse(localStorage.getItem('ainews')||'{}'); } catch { return {}; } })();
+const persist = () => localStorage.setItem('ainews', JSON.stringify(S));
 
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 // GAMIFICATION
-// ══════════════════════════════════════════
-function initGamif() {
+// ══════════════════════════════════════
+function initG() {
   const today = new Date().toDateString();
-  const yest  = new Date(Date.now() - 864e5).toDateString();
-  if (!S.lastVisit) { S.streak = 1; S.lastVisit = today; S.todayRead = 0; }
-  else if (S.lastVisit !== today) {
-    S.streak = S.lastVisit === yest ? (S.streak || 0) + 1 : 1;
-    S.lastVisit = today;
-    S.todayRead = 0;
+  const yest  = new Date(Date.now()-864e5).toDateString();
+  if (!S.lastVisit) { S.streak=1; S.lastVisit=today; S.todayRead=0; }
+  else if (S.lastVisit!==today) {
+    S.streak = S.lastVisit===yest ? (S.streak||0)+1 : 1;
+    S.lastVisit=today; S.todayRead=0;
   }
-  if (!S.xp)    S.xp = 0;
-  if (!S.saved) S.saved = [];
-  if (!S.read)  S.read  = {};
-  save();
-  refreshHUD();
+  S.xp    = S.xp    || 0;
+  S.saved = S.saved || [];
+  S.read  = S.read  || {};
+  persist();
+  hud();
 }
 
 function markRead(card) {
-  if (!card || S.read[card.id]) return;
-  S.read[card.id] = 1;
-  S.todayRead = (S.todayRead || 0) + 1;
-  S.xp += 10;
-  save();
-  refreshHUD();
-  if (S.todayRead === 5)  toast('🔥 5 posts today — on fire!');
-  if (S.todayRead === 10) toast('🚀 10 posts — you\'re unstoppable');
+  if (!card||S.read[card.id]) return;
+  S.read[card.id]=1; S.todayRead=(S.todayRead||0)+1; S.xp+=10;
+  persist(); hud();
+  if (S.todayRead===5)  toast('🔥 5 posts today — on a streak!');
+  if (S.todayRead===10) toast('🚀 10 posts read today!');
 }
 
-function refreshHUD() {
-  document.getElementById('streak').textContent    = '🔥 ' + (S.streak || 0);
-  document.getElementById('levelLabel').textContent = 'LVL ' + Math.floor(S.xp / 100);
-  document.getElementById('xpFill').style.width    = (S.xp % 100) + '%';
-  document.getElementById('progStats').innerHTML   =
-    `<span class="prog-stat">📖 ${S.todayRead||0} today</span>` +
-    `<span class="prog-stat">⭐ Lvl ${Math.floor(S.xp/100)}</span>` +
-    `<span class="prog-stat">🔖 ${S.saved.length} saved</span>`;
+function hud() {
+  document.getElementById('streak').textContent = '🔥 '+(S.streak||0);
+  document.getElementById('xpLabel').textContent = 'LVL '+Math.floor(S.xp/100);
+  document.getElementById('xpFill').style.width = (S.xp%100)+'%';
 }
 
-// ══════════════════════════════════════════
+function updateStats(idx, total) {
+  const pct = total>1 ? (idx/(total-1))*100 : (total?100:0);
+  document.getElementById('progFill').style.width = pct+'%';
+  document.getElementById('statsBar').innerHTML =
+    `<span class="stat">📖 <b>${S.todayRead||0}</b> today</span>` +
+    `<span class="stat">🔖 <b>${S.saved.length}</b> saved</span>` +
+    `<span class="stat">⭐ <b>Lvl ${Math.floor(S.xp/100)}</b></span>` +
+    `<span class="pos">${total ? idx+1+' / '+total : ''}</span>`;
+}
+
+// ══════════════════════════════════════
 // HELPERS
-// ══════════════════════════════════════════
-function getTags(text) {
-  const out = [];
-  for (const [re, label, color] of TAG_MAP) {
-    if (re.test(text)) { out.push({ label, color }); if (out.length >= 3) break; }
-  }
+// ══════════════════════════════════════
+function tags(text) {
+  const out=[];
+  for (const [re,l] of TAG_MAP) { if(re.test(text)){out.push(l);if(out.length>=3)break;} }
   return out;
 }
-
-function cleanHtml(h) {
-  return (h || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim().slice(0, 220);
-}
-
+function strip(h) { return (h||'').replace(/<[^>]+>/g,'').replace(/\s+/g,' ').trim().slice(0,300); }
 function fmtDate(s) {
-  return new Date(s).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: '2-digit' });
+  const d=new Date(s), now=new Date();
+  const diff=Math.floor((now-d)/864e5);
+  if(diff===0) return 'today';
+  if(diff===1) return 'yesterday';
+  if(diff<7)   return diff+'d ago';
+  return d.toLocaleDateString('en-GB',{day:'numeric',month:'short'});
 }
+function readMin(t) { return Math.max(1,Math.round((t||'').replace(/<[^>]+>/g,'').split(/\s+/).length/200)); }
+function uid(s)  { return btoa(encodeURIComponent(s)).slice(0,20); }
 
-function readMin(text) {
-  return Math.max(1, Math.round((text || '').replace(/<[^>]+>/g,'').split(/\s+/).length / 200));
-}
-
-function uid(s) { return btoa(encodeURIComponent(s)).slice(0, 20); }
-
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 // FETCH
-// ══════════════════════════════════════════
-async function fetchRSS(src) {
-  try {
-    const r = await fetch(`${PROXY}${encodeURIComponent(src.url)}&count=${src.n}`);
-    const d = await r.json();
-    if (d.status !== 'ok') return [];
-    return (d.items || []).map(item => ({
-      id:      uid(item.link),
-      type:    src.isChip ? 'chip' : 'post',
-      title:   item.title || '(No title)',
-      desc:    cleanHtml(item.description || item.content || ''),
-      link:    item.link,
-      date:    item.pubDate,
-      source:  src.name,
-      author:  src.author || item.author || src.name,
-      color:   src.color,
-      tags:    getTags(item.title + ' ' + (item.categories || []).join(' ')),
-      min:     readMin(item.content || item.description || ''),
-    }));
-  } catch { return []; }
+// ══════════════════════════════════════
+async function loadFeed(feed) {
+  const urls = [feed.url];
+  if (feed.fallback) urls.push(feed.fallback);
+  for (const url of urls) {
+    try {
+      const r = await fetch(PROXY + encodeURIComponent(url));
+      const d = await r.json();
+      if (d.status==='ok' && d.items?.length) {
+        return d.items.map(item => ({
+          id:      uid(item.link),
+          type:    feed.type,
+          title:   item.title || '(no title)',
+          desc:    strip(item.description||item.content||''),
+          link:    item.link,
+          date:    item.pubDate,
+          source:  feed.name,
+          author:  feed.author || item.author || feed.name,
+          tags:    tags(item.title+' '+(item.categories||[]).join(' ')),
+          min:     readMin(item.content||item.description||''),
+        }));
+      }
+    } catch {}
+  }
+  return [];
 }
 
-async function fetchGitHub() {
+async function loadGitHub() {
   try {
-    const since = new Date(Date.now() - 45 * 864e5).toISOString().slice(0, 10);
-    const url = `https://api.github.com/search/repositories?q=generative-ai+llm+created:>${since}&sort=stars&order=desc&per_page=10`;
-    const r = await fetch(url, { headers: { Accept: 'application/vnd.github.v3+json' } });
+    const since = new Date(Date.now()-45*864e5).toISOString().slice(0,10);
+    const r = await fetch(
+      `https://api.github.com/search/repositories?q=llm+generative-ai+created:>${since}&sort=stars&order=desc&per_page=8`,
+      { headers: { Accept:'application/vnd.github.v3+json' } }
+    );
     const d = await r.json();
-    return (d.items || []).map(repo => ({
+    return (d.items||[]).map(repo => ({
       id:     uid(repo.html_url),
       type:   'github',
       title:  repo.full_name,
-      desc:   repo.description || 'No description provided.',
+      desc:   repo.description||'No description.',
       link:   repo.html_url,
       date:   repo.created_at,
-      source: 'GitHub Trending',
+      source: 'GitHub',
       author: repo.owner.login,
-      color:  '#22c55e',
-      tags:   [
-        { label: '⭐ ' + repo.stargazers_count.toLocaleString(), color: '#f59e0b' },
-        ...(repo.language ? [{ label: repo.language, color: '#64748b' }] : []),
-      ],
-      min: null,
+      tags:   ['⭐ '+repo.stargazers_count.toLocaleString(), repo.language||''].filter(Boolean),
+      min:    null,
+      stars:  repo.stargazers_count,
     }));
   } catch { return []; }
 }
 
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 // RENDER
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 function cardHTML(card, idx) {
   const saved = S.saved.includes(card.id);
   const read  = !!S.read[card.id];
-  const tags  = card.tags.map(t =>
-    `<span class="tag" style="background:${t.color}1a;color:${t.color};border:1px solid ${t.color}33">${t.label}</span>`
+  const isGH  = card.type==='github';
+
+  const tagHTML = card.tags.map(t =>
+    `<span class="tag ${isGH?'hn-orange':''}">${t}</span>`
   ).join('');
-  const meta = card.type === 'github'
-    ? fmtDate(card.date)
-    : `${fmtDate(card.date)} · ${card.min} min`;
+
+  const meta = isGH
+    ? `<b>${card.stars?.toLocaleString()||''} ⭐</b> · ${card.author}`
+    : `${read?'✓ read · ':''}${card.min} min read`;
 
   return `
-<div class="card" data-idx="${idx}" data-id="${card.id}" data-link="${card.link}" onclick="cardClick(event,${idx})">
-  <div class="card-glow" style="--glow-color:${card.color}">
-    <style>.card[data-idx="${idx}"] .card-glow::before{background:${card.color}}</style>
+<div class="card type-${card.type}" data-idx="${idx}" data-id="${card.id}">
+  <div class="card-num">
+    <span class="card-num-n">${String(idx+1).padStart(2,'0')}</span>
+    <span class="card-source">${card.source}</span>
+    <span class="card-date">${fmtDate(card.date)}</span>
   </div>
-  <div class="card-inner">
-    <div class="card-source-row">
-      <div class="src-dot" style="background:${card.color}"></div>
-      <span class="src-name">${card.source}</span>
-      ${read ? '<span class="read-badge">✓ read</span>' : ''}
-    </div>
-    <div class="card-tags">${tags}</div>
-    <div class="card-title">${card.title}</div>
-    <div class="card-desc">${card.desc}</div>
-    <div class="card-footer">
-      <div class="card-meta">${meta}</div>
-      <div class="card-actions">
-        <button class="btn-save ${saved?'saved':''}" onclick="toggleSave(event,${idx})" title="Save">${saved?'🔖':'🔖'}</button>
-        <button class="btn-read" onclick="openCard(event,'${card.link}')">Read →</button>
-      </div>
+  <div class="card-tags">${tagHTML}</div>
+  <div class="card-title">${card.title}</div>
+  <div class="card-desc">${card.desc}</div>
+  <div class="card-footer">
+    <div class="card-meta">${meta}</div>
+    <div class="card-actions">
+      <button class="btn-save ${saved?'saved':''}" onclick="toggleSave(event,${idx})">${saved?'🔖':'🔖'}</button>
+      <button class="btn-read" onclick="openCard(event,'${card.link}')">read →</button>
     </div>
   </div>
 </div>`;
 }
 
-function renderFeed(cards) {
+function render(cards) {
   const feed = document.getElementById('feed');
   if (!cards.length) {
-    feed.innerHTML = `<div class="empty"><div class="empty-icon">🤷</div>Nothing here yet.<br><small>Try a different tab.</small></div>`;
-    updateProg(0, 0);
-    return;
+    feed.innerHTML = `<div class="empty">nothing here yet<br><small>try a different tab</small></div>`;
+    updateStats(0,0); return;
   }
-  feed.innerHTML = cards.map((c, i) => cardHTML(c, i)).join('');
-  feed.scrollTop = 0;
-  currentIdx = 0;
-  updateProg(0, cards.length);
+  feed.innerHTML = cards.map((c,i) => cardHTML(c,i)).join('');
+  feed.scrollTop = 0; curIdx = 0;
+  updateStats(0, cards.length);
 
   const obs = new IntersectionObserver(entries => {
     entries.forEach(e => {
-      if (e.intersectionRatio > 0.55) {
+      if (e.intersectionRatio > 0.5) {
         const i = +e.target.dataset.idx;
-        currentIdx = i;
-        updateProg(i, cards.length);
+        curIdx = i;
+        updateStats(i, cards.length);
         markRead(cards[i]);
       }
     });
-  }, { threshold: 0.55 });
-
+  }, { threshold: 0.5 });
   feed.querySelectorAll('.card').forEach(c => obs.observe(c));
 }
 
-function updateProg(idx, total) {
-  const pct = total > 1 ? (idx / (total - 1)) * 100 : (total === 1 ? 100 : 0);
-  document.getElementById('progFill').style.width  = pct + '%';
-  document.getElementById('progLabel').textContent = total ? `${idx + 1} / ${total}` : '';
-}
-
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 // TABS
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 function switchTab(tab) {
   activeTab = tab;
-  document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b.dataset.tab === tab));
-  if (tab === 'all')    visibleCards = allCards;
-  else if (tab === 'github') visibleCards = allCards.filter(c => c.type === 'github');
-  else if (tab === 'chip')   visibleCards = allCards.filter(c => c.type === 'chip');
-  else if (tab === 'saved')  visibleCards = allCards.filter(c => S.saved.includes(c.id));
-  renderFeed(visibleCards);
+  document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b.dataset.tab===tab));
+  if      (tab==='all')      visible = allCards;
+  else if (tab==='substack') visible = allCards.filter(c=>c.type==='substack');
+  else if (tab==='chip')     visible = allCards.filter(c=>c.type==='chip');
+  else if (tab==='github')   visible = allCards.filter(c=>c.type==='github');
+  else if (tab==='saved')    visible = allCards.filter(c=>S.saved.includes(c.id));
+  render(visible);
 }
 
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 // ACTIONS
-// ══════════════════════════════════════════
-function cardClick(e, idx) { /* handled by inner buttons */ }
-
-function openCard(e, link) {
-  e.stopPropagation();
-  window.open(link, '_blank');
-}
+// ══════════════════════════════════════
+function openCard(e, link) { e.stopPropagation(); window.open(link,'_blank'); }
 
 function toggleSave(e, idx) {
   e.stopPropagation();
-  const card = visibleCards[idx];
-  if (!card) return;
+  const card = visible[idx]; if (!card) return;
   const i = S.saved.indexOf(card.id);
-  if (i === -1) { S.saved.push(card.id); toast('🔖 Saved!'); }
-  else          { S.saved.splice(i, 1);  toast('Removed from saved'); }
-  save();
-  refreshHUD();
-  // re-render just that card
+  if (i===-1) { S.saved.push(card.id); toast('🔖 saved'); }
+  else         { S.saved.splice(i,1);   toast('removed'); }
+  persist(); hud();
   const el = document.querySelector(`.card[data-idx="${idx}"]`);
   if (el) el.outerHTML = cardHTML(card, idx);
-  // re-attach observer (simple: just update button)
 }
 
-function toast(msg, dur = 2000) {
+function toast(msg, dur=1800) {
   const el = document.getElementById('toast');
-  el.textContent = msg;
-  el.classList.add('show');
-  setTimeout(() => el.classList.remove('show'), dur);
+  el.textContent = msg; el.classList.add('show');
+  setTimeout(()=>el.classList.remove('show'), dur);
 }
 
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 // KEYBOARD
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 document.addEventListener('keydown', e => {
-  const feed = document.getElementById('feed');
-  const cards = feed.querySelectorAll('.card');
+  const cards = document.getElementById('feed').querySelectorAll('.card');
   if (!cards.length) return;
-  if (e.key === 'ArrowDown' || e.key === 'j') {
-    const n = Math.min(currentIdx + 1, cards.length - 1);
-    cards[n].scrollIntoView({ behavior: 'smooth' });
-  } else if (e.key === 'ArrowUp' || e.key === 'k') {
-    const n = Math.max(currentIdx - 1, 0);
-    cards[n].scrollIntoView({ behavior: 'smooth' });
-  } else if (e.key === 'Enter') {
-    const c = visibleCards[currentIdx];
-    if (c) window.open(c.link, '_blank');
-  } else if (e.key === 'b' || e.key === 's') {
-    toggleSave({ stopPropagation: () => {} }, currentIdx);
-  }
+  if (e.key==='ArrowDown'||e.key==='j') cards[Math.min(curIdx+1,cards.length-1)].scrollIntoView({behavior:'smooth'});
+  else if (e.key==='ArrowUp'||e.key==='k') cards[Math.max(curIdx-1,0)].scrollIntoView({behavior:'smooth'});
+  else if (e.key==='Enter') { const c=visible[curIdx]; if(c) window.open(c.link,'_blank'); }
+  else if (e.key==='b'||e.key==='s') toggleSave({stopPropagation:()=>{}}, curIdx);
 });
 
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 // INIT
-// ══════════════════════════════════════════
+// ══════════════════════════════════════
 async function init() {
-  initGamif();
-
-  const [rssResults, ghCards] = await Promise.all([
-    Promise.all(SOURCES.map(fetchRSS)),
-    fetchGitHub(),
+  initG();
+  const [feedResults, ghCards] = await Promise.all([
+    Promise.all(FEEDS.map(loadFeed)),
+    loadGitHub(),
   ]);
 
-  const postCards = rssResults.flat();
-
-  // interleave: every 4 posts → 1 GitHub card
+  const posts = feedResults.flat();
+  // interleave GitHub every 5 posts
   allCards = [];
   let gi = 0;
-  postCards.forEach((c, i) => {
+  posts.forEach((c,i) => {
     allCards.push(c);
-    if ((i + 1) % 4 === 0 && gi < ghCards.length) allCards.push(ghCards[gi++]);
+    if ((i+1)%5===0 && gi<ghCards.length) allCards.push(ghCards[gi++]);
   });
-  while (gi < ghCards.length) allCards.push(ghCards[gi++]);
+  while (gi<ghCards.length) allCards.push(ghCards[gi++]);
 
-  visibleCards = allCards;
-  renderFeed(visibleCards);
-  refreshHUD();
+  visible = allCards;
+  render(visible);
+  hud();
 }
 
 init();
