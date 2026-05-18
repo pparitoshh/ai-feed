@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T16:58:24.243Z",
+  "generatedAt": "2026-05-18T09:56:42.033Z",
   "count": 33,
   "cards": [
     {
@@ -78,11 +78,11 @@
       "source": "GitHub",
       "author": "YGYOOO",
       "tags": [
-        "⭐ 862",
+        "⭐ 868",
         "TypeScript"
       ],
       "min": null,
-      "stars": 862
+      "stars": 868
     },
     {
       "id": "txm3md",
@@ -123,12 +123,12 @@
       "min": 2
     },
     {
-      "id": "1mgs78j",
+      "id": "18adkqt",
       "type": "substack",
       "title": "AI Agents of the Week: Papers You Should Know About",
       "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-1b3",
-      "date": "Sun, 03 May 2026 11:00:07 GMT",
+      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-2f6",
+      "date": "Sun, 17 May 2026 18:49:53 GMT",
       "source": "LLM Watch",
       "author": "Pascal Biese",
       "tags": [
@@ -158,11 +158,11 @@
       "source": "GitHub",
       "author": "AIScientists-Dev",
       "tags": [
-        "⭐ 730",
+        "⭐ 729",
         "Python"
       ],
       "min": null,
-      "stars": 730
+      "stars": 729
     },
     {
       "id": "ddpysz",
@@ -238,11 +238,11 @@
       "source": "GitHub",
       "author": "FonaTech",
       "tags": [
-        "⭐ 309",
+        "⭐ 303",
         "Python"
       ],
       "min": null,
-      "stars": 309
+      "stars": 303
     },
     {
       "id": "1v2xfi7",
@@ -269,6 +269,18 @@
       "min": 30
     },
     {
+      "id": "z5mke3",
+      "type": "news",
+      "title": "The Stadium Economy Was Rewritten Without Labor: How AI Is Automating Stadium Jobs Away",
+      "desc": "Largest Catering Companies Are Automating Away Their Own Workforce The pitch was simple, and cities bought it every time. Build us a stadium, local officials were told, and we&#8217;ll bring jobs. We&#8217;ll bring foot traffic. We&#8217;ll bring economic life to this neighborhood. Taxpayers opened ",
+      "link": "https://imfounder.com/science-tech/ai-stadium-automation-jobs/",
+      "date": "Mon, 18 May 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 17
+    },
+    {
       "id": "fpawin",
       "type": "news",
       "title": "The $400 Shockwave: Why the AP × Swatch Collaboration Could Become One of the Smartest Luxury Business Moves of the Decade",
@@ -293,20 +305,6 @@
       "min": 5
     },
     {
-      "id": "13z0djo",
-      "type": "news",
-      "title": "AI Took the Jobs, Housing Took the Future, and Loneliness Became an Industry",
-      "desc": "For years, people discussed technology, housing, and mental health as separate stories. Economists talked about productivity. Politicians debated housing affordability. Tech companies launched new AI products. Researchers warned about isolation and declining social connection. But something unusual ",
-      "link": "https://imfounder.com/science-tech/ai/ai-jobs-housing-loneliness-2026/",
-      "date": "Thu, 14 May 2026 09:53:30 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "mlops"
-      ],
-      "min": 5
-    },
-    {
       "id": "95k9p7",
       "type": "github",
       "title": "jegly/OfflineLLM",
@@ -321,6 +319,20 @@
       ],
       "min": null,
       "stars": 137
+    },
+    {
+      "id": "13z0djo",
+      "type": "news",
+      "title": "AI Took the Jobs, Housing Took the Future, and Loneliness Became an Industry",
+      "desc": "For years, people discussed technology, housing, and mental health as separate stories. Economists talked about productivity. Politicians debated housing affordability. Tech companies launched new AI products. Researchers warned about isolation and declining social connection. But something unusual ",
+      "link": "https://imfounder.com/science-tech/ai/ai-jobs-housing-loneliness-2026/",
+      "date": "Thu, 14 May 2026 09:53:30 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "mlops"
+      ],
+      "min": 5
     },
     {
       "id": "sghzae",
@@ -371,18 +383,6 @@
       "min": 5
     },
     {
-      "id": "1q2a0lg",
-      "type": "news",
-      "title": "The Mothers Behind the Founders — 5 Untold Stories That Built Billion-Dollar Dreams",
-      "desc": "Before the world believed in them… their mothers already did. We celebrate founders as visionaries, risk-takers, and billionaires. But behind many of them is a quieter story,A mother who sacrificed, struggled, protected, and believed… long before success arrived. This Mother’s Day, we’re not talking",
-      "link": "https://imfounder.com/entrepreneurship/mothers-behind-the-founders/",
-      "date": "Fri, 08 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 4
-    },
-    {
       "id": "11hs1rd",
       "type": "github",
       "title": "Google-Cloud-AI/agent-platform",
@@ -392,10 +392,10 @@
       "source": "GitHub",
       "author": "Google-Cloud-AI",
       "tags": [
-        "⭐ 133"
+        "⭐ 134"
       ],
       "min": null,
-      "stars": 133
+      "stars": 134
     },
     {
       "id": "1gi5z73",
@@ -414,22 +414,6 @@
       "stars": 120
     },
     {
-      "id": "1s2idqs",
-      "type": "github",
-      "title": "better-agent/better-agent",
-      "desc": "The better way to build AI agents in TypeScript.",
-      "link": "https://github.com/better-agent/better-agent",
-      "date": "2026-04-03T19:05:17Z",
-      "source": "GitHub",
-      "author": "better-agent",
-      "tags": [
-        "⭐ 113",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 113
-    },
-    {
       "id": "142a7na",
       "type": "github",
       "title": "sadanandpai/ai-learning-kit",
@@ -443,6 +427,22 @@
       ],
       "min": null,
       "stars": 90
+    },
+    {
+      "id": "1lium7l",
+      "type": "github",
+      "title": "Suraj-G-Rao/Complete-Generative-AI",
+      "desc": "A comprehensive collection of Generative AI projects and experiments, covering RAG, chatbots, LLM fine-tuning, and more. ",
+      "link": "https://github.com/Suraj-G-Rao/Complete-Generative-AI",
+      "date": "2026-04-05T17:25:52Z",
+      "source": "GitHub",
+      "author": "Suraj-G-Rao",
+      "tags": [
+        "⭐ 46",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 46
     }
   ]
 }
