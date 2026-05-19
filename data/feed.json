@@ -1,141 +1,7 @@
 {
-  "generatedAt": "2026-05-18T09:56:42.033Z",
-  "count": 33,
+  "generatedAt": "2026-05-19T09:37:34.104Z",
+  "count": 24,
   "cards": [
-    {
-      "id": "c0lppj",
-      "type": "substack",
-      "title": "Designing Multi-Agent Deep Search Systems - 5 Seats Left",
-      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
-      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search-5e7",
-      "date": "Fri, 15 May 2026 13:23:52 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "19eiriu",
-      "type": "substack",
-      "title": "DeepSeek V4+ Turbovec + RAG: Better OCR & Self-Hosted",
-      "desc": "It was about two weeks ago that the AI &#8203;&#8203;industry was shaken to its core.",
-      "link": "https://todatabeyond.substack.com/p/deepseek-v4-turbovec-rag-better-ocr",
-      "date": "Thu, 14 May 2026 10:40:17 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "RAG"
-      ],
-      "min": 9
-    },
-    {
-      "id": "lji5y1",
-      "type": "substack",
-      "title": "Designing Multi-Agent Deep Search Systems - 10 Seats Left",
-      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
-      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search",
-      "date": "Wed, 13 May 2026 12:09:47 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "1nuz2uq",
-      "type": "substack",
-      "title": "Never Hit Claude Usage Limits Ever Again",
-      "desc": "How to Use Planning, Memory, Model Selection, and Tool Splitting to Avoid Burning Through Your Limits",
-      "link": "https://todatabeyond.substack.com/p/never-hit-claude-usage-limits-ever",
-      "date": "Tue, 12 May 2026 04:38:24 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 6
-    },
-    {
-      "id": "30nz8z",
-      "type": "substack",
-      "title": "I bundled my 6 crash courses with 60% off",
-      "desc": "Get All My 6 Courses, One Button Away With 60% Off",
-      "link": "https://todatabeyond.substack.com/p/i-bundled-my-6-crash-courses-with",
-      "date": "Sun, 10 May 2026 23:00:05 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 1
-    },
-    {
-      "id": "17e1try",
-      "type": "github",
-      "title": "YGYOOO/WorldX",
-      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
-      "link": "https://github.com/YGYOOO/WorldX",
-      "date": "2026-04-18T06:24:32Z",
-      "source": "GitHub",
-      "author": "YGYOOO",
-      "tags": [
-        "⭐ 868",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 868
-    },
-    {
-      "id": "txm3md",
-      "type": "substack",
-      "title": "Ads in AI Chatbots: When the Assistant Stops Working for You & Works for the Sponsor",
-      "desc": "A new Princeton-led paper tests 23 frontier models and finds that many prioritize sponsored outcomes over user welfare in flights, shopping, and other real decision scenarios.",
-      "link": "https://todatabeyond.substack.com/p/ads-in-ai-chatbots-when-the-assistant",
-      "date": "Sun, 10 May 2026 02:33:00 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "1mrnw7j",
-      "type": "substack",
-      "title": "How I Use Bifrost MCP Gateway and Code Mode to Give Claude Code Safer MCP Access with Lower Token Cost",
-      "desc": "MCP becomes useful very quickly once you connect Claude Code to real tools.",
-      "link": "https://todatabeyond.substack.com/p/how-i-use-bifrost-mcp-gateway-and",
-      "date": "Fri, 08 May 2026 19:19:09 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 21
-    },
-    {
-      "id": "j9ipk",
-      "type": "substack",
-      "title": "New Live Session: Designing Multi-Agent Deep Search Systems",
-      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
-      "link": "https://todatabeyond.substack.com/p/new-live-session-designing-multi",
-      "date": "Thu, 07 May 2026 09:03:49 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "18adkqt",
-      "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-2f6",
-      "date": "Sun, 17 May 2026 18:49:53 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -147,22 +13,6 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 10
-    },
-    {
-      "id": "1t8o2du",
-      "type": "github",
-      "title": "AIScientists-Dev/WorldSeed",
-      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-      "link": "https://github.com/AIScientists-Dev/WorldSeed",
-      "date": "2026-04-15T03:47:21Z",
-      "source": "GitHub",
-      "author": "AIScientists-Dev",
-      "tags": [
-        "⭐ 729",
-        "Python"
-      ],
-      "min": null,
-      "stars": 729
     },
     {
       "id": "ddpysz",
@@ -217,6 +67,22 @@
       "min": 12
     },
     {
+      "id": "17e1try",
+      "type": "github",
+      "title": "YGYOOO/WorldX",
+      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+      "link": "https://github.com/YGYOOO/WorldX",
+      "date": "2026-04-18T06:24:32Z",
+      "source": "GitHub",
+      "author": "YGYOOO",
+      "tags": [
+        "⭐ 873",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 873
+    },
+    {
       "id": "oesf1f",
       "type": "chip",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
@@ -227,22 +93,6 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 15
-    },
-    {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 303",
-        "Python"
-      ],
-      "min": null,
-      "stars": 303
     },
     {
       "id": "1v2xfi7",
@@ -267,6 +117,50 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 30
+    },
+    {
+      "id": "57ipkw",
+      "type": "news",
+      "title": "ByteDance’s DeerFlow and the Rise of AI Employees",
+      "desc": "While the world debated chatbots, ByteDance quietly open-sourced an autonomous AI system that can research, code, execute tasks, and work like a digital employee. Most people still think of artificial intelligence as a chatbot. You ask a question.It gives an answer.The interaction ends. But a new ge",
+      "link": "https://imfounder.com/science-tech/ai/bytedance-deerflow-ai-agent-future-of-work/",
+      "date": "Tue, 19 May 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [
+        "agents",
+        "mlops",
+        "open-source"
+      ],
+      "min": 5
+    },
+    {
+      "id": "1elr7ic",
+      "type": "news",
+      "title": "The Guns Went In First. The Energy Deals Came Second. Your Grocery Bill Is Next",
+      "desc": "The United States removed a foreign government, handed 30-year energy licenses to Shell and BP, and left American gas stranded in Alaska. Nobody asked you. Nobody will. Let&#8217;s talk about what actually happened in January 2026. At 3am on January 3rd, US military forces entered Venezuela and capt",
+      "link": "https://imfounder.com/politics/venezuela-energy-deals-food-inflation-alaska-lng/",
+      "date": "Mon, 18 May 2026 23:43:50 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "1t8o2du",
+      "type": "github",
+      "title": "AIScientists-Dev/WorldSeed",
+      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+      "link": "https://github.com/AIScientists-Dev/WorldSeed",
+      "date": "2026-04-15T03:47:21Z",
+      "source": "GitHub",
+      "author": "AIScientists-Dev",
+      "tags": [
+        "⭐ 732",
+        "Python"
+      ],
+      "min": null,
+      "stars": 732
     },
     {
       "id": "z5mke3",
@@ -305,22 +199,6 @@
       "min": 5
     },
     {
-      "id": "95k9p7",
-      "type": "github",
-      "title": "jegly/OfflineLLM",
-      "desc": "      A privacy-first Android chat app that runs large language models entirely on-device. No internet, no cloud, no tracking. Built with Kotlin, Jetpack Compose, and llama.cpp with optimized ARM NEON/SVE inference.",
-      "link": "https://github.com/jegly/OfflineLLM",
-      "date": "2026-04-04T00:37:32Z",
-      "source": "GitHub",
-      "author": "jegly",
-      "tags": [
-        "⭐ 137",
-        "Kotlin"
-      ],
-      "min": null,
-      "stars": 137
-    },
-    {
       "id": "13z0djo",
       "type": "news",
       "title": "AI Took the Jobs, Housing Took the Future, and Loneliness Became an Industry",
@@ -347,6 +225,22 @@
       "min": 12
     },
     {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 302",
+        "Python"
+      ],
+      "min": null,
+      "stars": 302
+    },
+    {
       "id": "1yk2rkp",
       "type": "news",
       "title": "How Zhong Shanshan Built a $70 Billion Empire Selling Bottled Water",
@@ -355,30 +249,6 @@
       "date": "Tue, 12 May 2026 09:00:00 +0000",
       "source": "IM Founder",
       "author": "Neha Slatch",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "s3kgd9",
-      "type": "news",
-      "title": "From Venezuela to Alaska: The $44 Billion AI Energy Boom Reshaping the Global Food Economy",
-      "desc": "Venezuela. Alaska. Your Dinner Table. Connect the Dots. Most people think artificial intelligence lives in the cloud. In practice, it runs on pipelines. LNG terminals. Gas turbines. Refrigerant compressors. Industrial cooling systems. And one of the largest energy infrastructure expansions in modern",
-      "link": "https://imfounder.com/science-tech/ai-energy-boom-global-food-economy/",
-      "date": "Mon, 11 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 8
-    },
-    {
-      "id": "1rt7znx",
-      "type": "news",
-      "title": "‘Overqualified’ Has Become the Most Polite Rejection in Corporate America",
-      "desc": "There is a strange kind of anxiety happening in the job market right now. People are applying for jobs they genuinely know they can do. They have the experience. They have the results. They have years of proven work behind them. Some have managed teams, scaled companies, built strategies, increased ",
-      "link": "https://imfounder.com/entrepreneurship/business/job-market-biggest-lie-overqualified/",
-      "date": "Sun, 10 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Mistie Fowler",
       "tags": [],
       "min": 5
     },
@@ -392,10 +262,10 @@
       "source": "GitHub",
       "author": "Google-Cloud-AI",
       "tags": [
-        "⭐ 134"
+        "⭐ 135"
       ],
       "min": null,
-      "stars": 134
+      "stars": 135
     },
     {
       "id": "1gi5z73",
@@ -414,21 +284,6 @@
       "stars": 120
     },
     {
-      "id": "142a7na",
-      "type": "github",
-      "title": "sadanandpai/ai-learning-kit",
-      "desc": "A curated collection of AI learning materials",
-      "link": "https://github.com/sadanandpai/ai-learning-kit",
-      "date": "2026-04-04T14:34:52Z",
-      "source": "GitHub",
-      "author": "sadanandpai",
-      "tags": [
-        "⭐ 90"
-      ],
-      "min": null,
-      "stars": 90
-    },
-    {
       "id": "1lium7l",
       "type": "github",
       "title": "Suraj-G-Rao/Complete-Generative-AI",
@@ -443,6 +298,37 @@
       ],
       "min": null,
       "stars": 46
+    },
+    {
+      "id": "19o0ag8",
+      "type": "github",
+      "title": "megeezy/Chameleon",
+      "desc": "Stateless LLM runtime that dynamically routes, loads, executes, and unloads models per request with bounded VRAM caching and intelligent model selection.",
+      "link": "https://github.com/megeezy/Chameleon",
+      "date": "2026-04-11T18:12:06Z",
+      "source": "GitHub",
+      "author": "megeezy",
+      "tags": [
+        "⭐ 41",
+        "Rust"
+      ],
+      "min": null,
+      "stars": 41
+    },
+    {
+      "id": "r0i7g5",
+      "type": "github",
+      "title": "IrtezaAsadRizvi/ai-megalist",
+      "desc": "Curated index of 200+ AI tools, one writeup per tool with hands-on takes. Covers coding, design, research, video, voice, agents, music, local LLMs. Compare alternatives, see real pricing, find the right tool for the job.",
+      "link": "https://github.com/IrtezaAsadRizvi/ai-megalist",
+      "date": "2026-04-30T13:14:58Z",
+      "source": "GitHub",
+      "author": "IrtezaAsadRizvi",
+      "tags": [
+        "⭐ 23"
+      ],
+      "min": null,
+      "stars": 23
     }
   ]
 }
