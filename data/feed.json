@@ -1,7 +1,266 @@
 {
-  "generatedAt": "2026-05-19T09:37:34.104Z",
-  "count": 24,
+  "generatedAt": "2026-05-20T09:26:56.105Z",
+  "count": 40,
   "cards": [
+    {
+      "id": "c0lppj",
+      "type": "substack",
+      "title": "Designing Multi-Agent Deep Search Systems - 5 Seats Left",
+      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
+      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search-5e7",
+      "date": "Fri, 15 May 2026 13:23:52 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "19eiriu",
+      "type": "substack",
+      "title": "DeepSeek V4+ Turbovec + RAG: Better OCR & Self-Hosted",
+      "desc": "It was about two weeks ago that the AI &#8203;&#8203;industry was shaken to its core.",
+      "link": "https://todatabeyond.substack.com/p/deepseek-v4-turbovec-rag-better-ocr",
+      "date": "Thu, 14 May 2026 10:40:17 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "RAG"
+      ],
+      "min": 9
+    },
+    {
+      "id": "lji5y1",
+      "type": "substack",
+      "title": "Designing Multi-Agent Deep Search Systems - 10 Seats Left",
+      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
+      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search",
+      "date": "Wed, 13 May 2026 12:09:47 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "1nuz2uq",
+      "type": "substack",
+      "title": "Never Hit Claude Usage Limits Ever Again",
+      "desc": "How to Use Planning, Memory, Model Selection, and Tool Splitting to Avoid Burning Through Your Limits",
+      "link": "https://todatabeyond.substack.com/p/never-hit-claude-usage-limits-ever",
+      "date": "Tue, 12 May 2026 04:38:24 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 6
+    },
+    {
+      "id": "30nz8z",
+      "type": "substack",
+      "title": "I bundled my 6 crash courses with 60% off",
+      "desc": "Get All My 6 Courses, One Button Away With 60% Off",
+      "link": "https://todatabeyond.substack.com/p/i-bundled-my-6-crash-courses-with",
+      "date": "Sun, 10 May 2026 23:00:05 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 1
+    },
+    {
+      "id": "17e1try",
+      "type": "github",
+      "title": "YGYOOO/WorldX",
+      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+      "link": "https://github.com/YGYOOO/WorldX",
+      "date": "2026-04-18T06:24:32Z",
+      "source": "GitHub",
+      "author": "YGYOOO",
+      "tags": [
+        "⭐ 879",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 879
+    },
+    {
+      "id": "txm3md",
+      "type": "substack",
+      "title": "Ads in AI Chatbots: When the Assistant Stops Working for You & Works for the Sponsor",
+      "desc": "A new Princeton-led paper tests 23 frontier models and finds that many prioritize sponsored outcomes over user welfare in flights, shopping, and other real decision scenarios.",
+      "link": "https://todatabeyond.substack.com/p/ads-in-ai-chatbots-when-the-assistant",
+      "date": "Sun, 10 May 2026 02:33:00 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 10
+    },
+    {
+      "id": "1mrnw7j",
+      "type": "substack",
+      "title": "How I Use Bifrost MCP Gateway and Code Mode to Give Claude Code Safer MCP Access with Lower Token Cost",
+      "desc": "MCP becomes useful very quickly once you connect Claude Code to real tools.",
+      "link": "https://todatabeyond.substack.com/p/how-i-use-bifrost-mcp-gateway-and",
+      "date": "Fri, 08 May 2026 19:19:09 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 21
+    },
+    {
+      "id": "j9ipk",
+      "type": "substack",
+      "title": "New Live Session: Designing Multi-Agent Deep Search Systems",
+      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
+      "link": "https://todatabeyond.substack.com/p/new-live-session-designing-multi",
+      "date": "Thu, 07 May 2026 09:03:49 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "f6xgcl",
+      "type": "substack",
+      "title": "Inside Neo4j's Agent Memory",
+      "desc": "The knowledge-graph patterns that turn one-shot conversations into compounding intelligence.",
+      "link": "https://www.decodingai.com/p/understanding-neo4j-graph-agent-memory-system",
+      "date": "Tue, 19 May 2026 08:55:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 13
+    },
+    {
+      "id": "3r9xgq",
+      "type": "substack",
+      "title": "From Vibe Coding to a Real Engineering Team",
+      "desc": "My Claude Code agentic coding setup that ships features end-to-end",
+      "link": "https://www.decodingai.com/p/squid-my-agentic-coding-setup-may-2026",
+      "date": "Tue, 12 May 2026 11:04:20 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "1t8o2du",
+      "type": "github",
+      "title": "AIScientists-Dev/WorldSeed",
+      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+      "link": "https://github.com/AIScientists-Dev/WorldSeed",
+      "date": "2026-04-15T03:47:21Z",
+      "source": "GitHub",
+      "author": "AIScientists-Dev",
+      "tags": [
+        "⭐ 732",
+        "Python"
+      ],
+      "min": null,
+      "stars": 732
+    },
+    {
+      "id": "168zoe5",
+      "type": "substack",
+      "title": "Building Agentic GraphRAG Systems",
+      "desc": "From knowledge graphs and ontologies to a unified memory as an MCP server for your AI agent.",
+      "link": "https://www.decodingai.com/p/agentic-graphrag",
+      "date": "Tue, 05 May 2026 05:01:08 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents",
+        "graph"
+      ],
+      "min": 15
+    },
+    {
+      "id": "7oxfbx",
+      "type": "substack",
+      "title": "What Held Up at 3 AM: One Engineer's RAG Case Study",
+      "desc": "You iterate. You evaluate. Weave CLI unifies 11 vector databases into one workflow.",
+      "link": "https://www.decodingai.com/p/ship-rag-with-weave-cli",
+      "date": "Wed, 29 Apr 2026 11:04:33 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "RAG"
+      ],
+      "min": 21
+    },
+    {
+      "id": "159a19s",
+      "type": "substack",
+      "title": "Stop Orchestrating AI Agents. Use Ralph Loops Instead.",
+      "desc": "How one simple loop beats multi-agent orchestration and context rot in production.",
+      "link": "https://www.decodingai.com/p/ralph-loops",
+      "date": "Thu, 23 Apr 2026 11:02:54 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 8
+    },
+    {
+      "id": "14wpaf",
+      "type": "substack",
+      "title": "Karpathy Named It. I Built One on My Notes.",
+      "desc": "A deep research agent over my notes, highlights, and transcripts, grounded in years of curated thinking, not the public web.",
+      "link": "https://www.decodingai.com/p/llm-knowledge-base-obsidian-readwise-notebooklm",
+      "date": "Tue, 21 Apr 2026 08:00:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "1mb7t2l",
+      "type": "substack",
+      "title": "How to Ship a Weekly Article in One Day",
+      "desc": "Inside the agentic AI workflow behind my weekly newsletter, course, and content",
+      "link": "https://www.decodingai.com/p/how-i-automated-91-percent-of-my-business",
+      "date": "Wed, 15 Apr 2026 14:10:24 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 18
+    },
+    {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 300",
+        "Python"
+      ],
+      "min": null,
+      "stars": 300
+    },
+    {
+      "id": "jix8bj",
+      "type": "substack",
+      "title": "Your RAG Pipeline Is Overkill",
+      "desc": "The pattern that lets your model write code to explore its context instead of retrieving it.",
+      "link": "https://www.decodingai.com/p/recursive-language-models",
+      "date": "Tue, 07 Apr 2026 11:03:14 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "RAG"
+      ],
+      "min": 15
+    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -53,6 +312,21 @@
       "min": 6
     },
     {
+      "id": "11hs1rd",
+      "type": "github",
+      "title": "Google-Cloud-AI/agent-platform",
+      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+      "link": "https://github.com/Google-Cloud-AI/agent-platform",
+      "date": "2026-04-20T17:08:58Z",
+      "source": "GitHub",
+      "author": "Google-Cloud-AI",
+      "tags": [
+        "⭐ 138"
+      ],
+      "min": null,
+      "stars": 138
+    },
+    {
       "id": "1ukux3s",
       "type": "chip",
       "title": "What I learned from looking at 900 most popular open source AI tools",
@@ -65,22 +339,6 @@
         "open-source"
       ],
       "min": 12
-    },
-    {
-      "id": "17e1try",
-      "type": "github",
-      "title": "YGYOOO/WorldX",
-      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
-      "link": "https://github.com/YGYOOO/WorldX",
-      "date": "2026-04-18T06:24:32Z",
-      "source": "GitHub",
-      "author": "YGYOOO",
-      "tags": [
-        "⭐ 873",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 873
     },
     {
       "id": "oesf1f",
@@ -135,6 +393,22 @@
       "min": 5
     },
     {
+      "id": "1gi5z73",
+      "type": "github",
+      "title": "Agent-FM/agentfm-core",
+      "desc": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
+      "link": "https://github.com/Agent-FM/agentfm-core",
+      "date": "2026-04-11T17:16:34Z",
+      "source": "GitHub",
+      "author": "Agent-FM",
+      "tags": [
+        "⭐ 120",
+        "Go"
+      ],
+      "min": null,
+      "stars": 120
+    },
+    {
       "id": "1elr7ic",
       "type": "news",
       "title": "The Guns Went In First. The Energy Deals Came Second. Your Grocery Bill Is Next",
@@ -145,22 +419,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 9
-    },
-    {
-      "id": "1t8o2du",
-      "type": "github",
-      "title": "AIScientists-Dev/WorldSeed",
-      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-      "link": "https://github.com/AIScientists-Dev/WorldSeed",
-      "date": "2026-04-15T03:47:21Z",
-      "source": "GitHub",
-      "author": "AIScientists-Dev",
-      "tags": [
-        "⭐ 732",
-        "Python"
-      ],
-      "min": null,
-      "stars": 732
     },
     {
       "id": "z5mke3",
@@ -213,93 +471,6 @@
       "min": 5
     },
     {
-      "id": "sghzae",
-      "type": "news",
-      "title": "The Dark Truth Behind Canada’s International Student Explosion",
-      "desc": "In thousands of villages across India, there is one dream that almost every family understands. Canada. Not just as a country.But as hope. Hope that a son will not spend his life struggling in debt.Hope that a daughter will finally have opportunities her parents never had.Hope that one child studyin",
-      "link": "https://imfounder.com/immigration-policy/international-students-canada-crisis/",
-      "date": "Wed, 13 May 2026 14:10:16 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 302",
-        "Python"
-      ],
-      "min": null,
-      "stars": 302
-    },
-    {
-      "id": "1yk2rkp",
-      "type": "news",
-      "title": "How Zhong Shanshan Built a $70 Billion Empire Selling Bottled Water",
-      "desc": "Nongfu Spring Founder&#160;Zhong Shanshan is one of the most fascinating entrepreneurs in modern business history. Unlike many billionaires who grew up with connections or elite education, Zhong’s story is built on uncertainty, hardship, and persistence. Before becoming one of the richest men in Asi",
-      "link": "https://imfounder.com/entrepreneurship/nongfu-spring-founder-zhong-shanshan-story/",
-      "date": "Tue, 12 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "11hs1rd",
-      "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
-      "source": "GitHub",
-      "author": "Google-Cloud-AI",
-      "tags": [
-        "⭐ 135"
-      ],
-      "min": null,
-      "stars": 135
-    },
-    {
-      "id": "1gi5z73",
-      "type": "github",
-      "title": "Agent-FM/agentfm-core",
-      "desc": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
-      "link": "https://github.com/Agent-FM/agentfm-core",
-      "date": "2026-04-11T17:16:34Z",
-      "source": "GitHub",
-      "author": "Agent-FM",
-      "tags": [
-        "⭐ 120",
-        "Go"
-      ],
-      "min": null,
-      "stars": 120
-    },
-    {
-      "id": "1lium7l",
-      "type": "github",
-      "title": "Suraj-G-Rao/Complete-Generative-AI",
-      "desc": "A comprehensive collection of Generative AI projects and experiments, covering RAG, chatbots, LLM fine-tuning, and more. ",
-      "link": "https://github.com/Suraj-G-Rao/Complete-Generative-AI",
-      "date": "2026-04-05T17:25:52Z",
-      "source": "GitHub",
-      "author": "Suraj-G-Rao",
-      "tags": [
-        "⭐ 46",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 46
-    },
-    {
       "id": "19o0ag8",
       "type": "github",
       "title": "megeezy/Chameleon",
@@ -316,6 +487,30 @@
       "stars": 41
     },
     {
+      "id": "sghzae",
+      "type": "news",
+      "title": "The Dark Truth Behind Canada’s International Student Explosion",
+      "desc": "In thousands of villages across India, there is one dream that almost every family understands. Canada. Not just as a country.But as hope. Hope that a son will not spend his life struggling in debt.Hope that a daughter will finally have opportunities her parents never had.Hope that one child studyin",
+      "link": "https://imfounder.com/immigration-policy/international-students-canada-crisis/",
+      "date": "Wed, 13 May 2026 14:10:16 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "1yk2rkp",
+      "type": "news",
+      "title": "How Zhong Shanshan Built a $70 Billion Empire Selling Bottled Water",
+      "desc": "Nongfu Spring Founder&#160;Zhong Shanshan is one of the most fascinating entrepreneurs in modern business history. Unlike many billionaires who grew up with connections or elite education, Zhong’s story is built on uncertainty, hardship, and persistence. Before becoming one of the richest men in Asi",
+      "link": "https://imfounder.com/entrepreneurship/nongfu-spring-founder-zhong-shanshan-story/",
+      "date": "Tue, 12 May 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 5
+    },
+    {
       "id": "r0i7g5",
       "type": "github",
       "title": "IrtezaAsadRizvi/ai-megalist",
@@ -329,6 +524,22 @@
       ],
       "min": null,
       "stars": 23
+    },
+    {
+      "id": "1twwfoy",
+      "type": "github",
+      "title": "MuhammadIbtisam/ai-engineer-roadmap",
+      "desc": "A complete, hands-on roadmap to becoming an AI Engineer, from Python basics to production RAG, Agents, and Fine-Tuning. 10 modules, 20+ notebooks, 15 real projects. Free, open source, built for the community.",
+      "link": "https://github.com/MuhammadIbtisam/ai-engineer-roadmap",
+      "date": "2026-04-18T12:47:05Z",
+      "source": "GitHub",
+      "author": "MuhammadIbtisam",
+      "tags": [
+        "⭐ 19",
+        "Python"
+      ],
+      "min": null,
+      "stars": 19
     }
   ]
 }
