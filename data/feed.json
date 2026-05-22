@@ -1,141 +1,7 @@
 {
-  "generatedAt": "2026-05-21T09:36:12.353Z",
-  "count": 33,
+  "generatedAt": "2026-05-22T08:57:07.040Z",
+  "count": 24,
   "cards": [
-    {
-      "id": "11lqdrn",
-      "type": "substack",
-      "title": "The Designing Multi-Agent Deep Search Systems recording is now available + 50% Discount Till End of May",
-      "desc": "Hi everyone,",
-      "link": "https://todatabeyond.substack.com/p/the-designing-multi-agent-deep-search",
-      "date": "Wed, 20 May 2026 23:26:17 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 1
-    },
-    {
-      "id": "c0lppj",
-      "type": "substack",
-      "title": "Designing Multi-Agent Deep Search Systems - 5 Seats Left",
-      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
-      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search-5e7",
-      "date": "Fri, 15 May 2026 13:23:52 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "19eiriu",
-      "type": "substack",
-      "title": "DeepSeek V4+ Turbovec + RAG: Better OCR & Self-Hosted",
-      "desc": "It was about two weeks ago that the AI &#8203;&#8203;industry was shaken to its core.",
-      "link": "https://todatabeyond.substack.com/p/deepseek-v4-turbovec-rag-better-ocr",
-      "date": "Thu, 14 May 2026 10:40:17 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "RAG"
-      ],
-      "min": 9
-    },
-    {
-      "id": "lji5y1",
-      "type": "substack",
-      "title": "Designing Multi-Agent Deep Search Systems - 10 Seats Left",
-      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
-      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search",
-      "date": "Wed, 13 May 2026 12:09:47 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "1nuz2uq",
-      "type": "substack",
-      "title": "Never Hit Claude Usage Limits Ever Again",
-      "desc": "How to Use Planning, Memory, Model Selection, and Tool Splitting to Avoid Burning Through Your Limits",
-      "link": "https://todatabeyond.substack.com/p/never-hit-claude-usage-limits-ever",
-      "date": "Tue, 12 May 2026 04:38:24 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 6
-    },
-    {
-      "id": "17e1try",
-      "type": "github",
-      "title": "YGYOOO/WorldX",
-      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
-      "link": "https://github.com/YGYOOO/WorldX",
-      "date": "2026-04-18T06:24:32Z",
-      "source": "GitHub",
-      "author": "YGYOOO",
-      "tags": [
-        "⭐ 890",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 890
-    },
-    {
-      "id": "30nz8z",
-      "type": "substack",
-      "title": "I bundled my 6 crash courses with 60% off",
-      "desc": "Get All My 6 Courses, One Button Away With 60% Off",
-      "link": "https://todatabeyond.substack.com/p/i-bundled-my-6-crash-courses-with",
-      "date": "Sun, 10 May 2026 23:00:05 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 1
-    },
-    {
-      "id": "txm3md",
-      "type": "substack",
-      "title": "Ads in AI Chatbots: When the Assistant Stops Working for You & Works for the Sponsor",
-      "desc": "A new Princeton-led paper tests 23 frontier models and finds that many prioritize sponsored outcomes over user welfare in flights, shopping, and other real decision scenarios.",
-      "link": "https://todatabeyond.substack.com/p/ads-in-ai-chatbots-when-the-assistant",
-      "date": "Sun, 10 May 2026 02:33:00 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "1mrnw7j",
-      "type": "substack",
-      "title": "How I Use Bifrost MCP Gateway and Code Mode to Give Claude Code Safer MCP Access with Lower Token Cost",
-      "desc": "MCP becomes useful very quickly once you connect Claude Code to real tools.",
-      "link": "https://todatabeyond.substack.com/p/how-i-use-bifrost-mcp-gateway-and",
-      "date": "Fri, 08 May 2026 19:19:09 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 21
-    },
-    {
-      "id": "18adkqt",
-      "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-2f6",
-      "date": "Sun, 17 May 2026 18:49:53 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -147,22 +13,6 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 10
-    },
-    {
-      "id": "1t8o2du",
-      "type": "github",
-      "title": "AIScientists-Dev/WorldSeed",
-      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-      "link": "https://github.com/AIScientists-Dev/WorldSeed",
-      "date": "2026-04-15T03:47:21Z",
-      "source": "GitHub",
-      "author": "AIScientists-Dev",
-      "tags": [
-        "⭐ 733",
-        "Python"
-      ],
-      "min": null,
-      "stars": 733
     },
     {
       "id": "ddpysz",
@@ -217,6 +67,22 @@
       "min": 12
     },
     {
+      "id": "17e1try",
+      "type": "github",
+      "title": "YGYOOO/WorldX",
+      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+      "link": "https://github.com/YGYOOO/WorldX",
+      "date": "2026-04-18T06:24:32Z",
+      "source": "GitHub",
+      "author": "YGYOOO",
+      "tags": [
+        "⭐ 895",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 895
+    },
+    {
       "id": "oesf1f",
       "type": "chip",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
@@ -227,22 +93,6 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 15
-    },
-    {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 296",
-        "Python"
-      ],
-      "min": null,
-      "stars": 296
     },
     {
       "id": "1v2xfi7",
@@ -269,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "1exkjz3",
+      "type": "news",
+      "title": "Google’s AI Takeover Is Destroying Websites — And Most Founders Still Don’t Realize It",
+      "desc": "The Silent Collapse of the Open Internet Has Already Started For nearly two decades, the internet worked on a simple deal: Creators, bloggers, journalists, founders, and publishers created content.Google indexed it.Users clicked links.Websites earned traffic, attention, ad revenue, subscribers, and ",
+      "link": "https://imfounder.com/science-tech/google-ai-destroying-websites-open-internet/",
+      "date": "Thu, 21 May 2026 09:44:48 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 5
+    },
+    {
       "id": "vpm0x4",
       "type": "news",
       "title": "The New American Dream: 5 Powerful Startups You Can Launch With Only $1,000",
@@ -279,6 +141,22 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 9
+    },
+    {
+      "id": "1t8o2du",
+      "type": "github",
+      "title": "AIScientists-Dev/WorldSeed",
+      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+      "link": "https://github.com/AIScientists-Dev/WorldSeed",
+      "date": "2026-04-15T03:47:21Z",
+      "source": "GitHub",
+      "author": "AIScientists-Dev",
+      "tags": [
+        "⭐ 733",
+        "Python"
+      ],
+      "min": null,
+      "stars": 733
     },
     {
       "id": "57ipkw",
@@ -307,21 +185,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 9
-    },
-    {
-      "id": "11hs1rd",
-      "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
-      "source": "GitHub",
-      "author": "Google-Cloud-AI",
-      "tags": [
-        "⭐ 142"
-      ],
-      "min": null,
-      "stars": 142
     },
     {
       "id": "z5mke3",
@@ -360,6 +223,22 @@
       "min": 5
     },
     {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 296",
+        "Python"
+      ],
+      "min": null,
+      "stars": 296
+    },
+    {
       "id": "13z0djo",
       "type": "news",
       "title": "AI Took the Jobs, Housing Took the Future, and Loneliness Became an Industry",
@@ -374,16 +253,19 @@
       "min": 5
     },
     {
-      "id": "sghzae",
-      "type": "news",
-      "title": "The Dark Truth Behind Canada’s International Student Explosion",
-      "desc": "In thousands of villages across India, there is one dream that almost every family understands. Canada. Not just as a country.But as hope. Hope that a son will not spend his life struggling in debt.Hope that a daughter will finally have opportunities her parents never had.Hope that one child studyin",
-      "link": "https://imfounder.com/immigration-policy/international-students-canada-crisis/",
-      "date": "Wed, 13 May 2026 14:10:16 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 12
+      "id": "11hs1rd",
+      "type": "github",
+      "title": "Google-Cloud-AI/agent-platform",
+      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+      "link": "https://github.com/Google-Cloud-AI/agent-platform",
+      "date": "2026-04-20T17:08:58Z",
+      "source": "GitHub",
+      "author": "Google-Cloud-AI",
+      "tags": [
+        "⭐ 142"
+      ],
+      "min": null,
+      "stars": 142
     },
     {
       "id": "1gi5z73",
