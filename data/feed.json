@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-23T08:14:40.295Z",
-  "count": 32,
+  "generatedAt": "2026-05-24T08:27:29.964Z",
+  "count": 41,
   "cards": [
     {
       "id": "tumrlg",
@@ -80,11 +80,11 @@
       "source": "GitHub",
       "author": "YGYOOO",
       "tags": [
-        "⭐ 903",
+        "⭐ 907",
         "TypeScript"
       ],
       "min": null,
-      "stars": 903
+      "stars": 907
     },
     {
       "id": "1nuz2uq",
@@ -123,6 +123,159 @@
       "min": 10
     },
     {
+      "id": "18adkqt",
+      "type": "substack",
+      "title": "AI Agents of the Week: Papers You Should Know About",
+      "desc": "Get ahead of the curve with LLM Watch",
+      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-2f6",
+      "date": "Sun, 17 May 2026 18:49:53 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "f6xgcl",
+      "type": "substack",
+      "title": "Inside Neo4j's Agent Memory",
+      "desc": "The knowledge-graph patterns that turn one-shot conversations into compounding intelligence.",
+      "link": "https://www.decodingai.com/p/understanding-neo4j-graph-agent-memory-system",
+      "date": "Tue, 19 May 2026 08:55:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 13
+    },
+    {
+      "id": "1t8o2du",
+      "type": "github",
+      "title": "AIScientists-Dev/WorldSeed",
+      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+      "link": "https://github.com/AIScientists-Dev/WorldSeed",
+      "date": "2026-04-15T03:47:21Z",
+      "source": "GitHub",
+      "author": "AIScientists-Dev",
+      "tags": [
+        "⭐ 642",
+        "Python"
+      ],
+      "min": null,
+      "stars": 642
+    },
+    {
+      "id": "3r9xgq",
+      "type": "substack",
+      "title": "From Vibe Coding to a Real Engineering Team",
+      "desc": "My Claude Code agentic coding setup that ships features end-to-end",
+      "link": "https://www.decodingai.com/p/squid-my-agentic-coding-setup-may-2026",
+      "date": "Tue, 12 May 2026 11:04:20 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "168zoe5",
+      "type": "substack",
+      "title": "Building Agentic GraphRAG Systems",
+      "desc": "From knowledge graphs and ontologies to a unified memory as an MCP server for your AI agent.",
+      "link": "https://www.decodingai.com/p/agentic-graphrag",
+      "date": "Tue, 05 May 2026 05:01:08 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents",
+        "graph"
+      ],
+      "min": 15
+    },
+    {
+      "id": "7oxfbx",
+      "type": "substack",
+      "title": "What Held Up at 3 AM: One Engineer's RAG Case Study",
+      "desc": "You iterate. You evaluate. Weave CLI unifies 11 vector databases into one workflow.",
+      "link": "https://www.decodingai.com/p/ship-rag-with-weave-cli",
+      "date": "Wed, 29 Apr 2026 11:04:33 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "RAG"
+      ],
+      "min": 21
+    },
+    {
+      "id": "159a19s",
+      "type": "substack",
+      "title": "Stop Orchestrating AI Agents. Use Ralph Loops Instead.",
+      "desc": "How one simple loop beats multi-agent orchestration and context rot in production.",
+      "link": "https://www.decodingai.com/p/ralph-loops",
+      "date": "Thu, 23 Apr 2026 11:02:54 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 8
+    },
+    {
+      "id": "14wpaf",
+      "type": "substack",
+      "title": "Karpathy Named It. I Built One on My Notes.",
+      "desc": "A deep research agent over my notes, highlights, and transcripts, grounded in years of curated thinking, not the public web.",
+      "link": "https://www.decodingai.com/p/llm-knowledge-base-obsidian-readwise-notebooklm",
+      "date": "Tue, 21 Apr 2026 08:00:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 296",
+        "Python"
+      ],
+      "min": null,
+      "stars": 296
+    },
+    {
+      "id": "1mb7t2l",
+      "type": "substack",
+      "title": "How to Ship a Weekly Article in One Day",
+      "desc": "Inside the agentic AI workflow behind my weekly newsletter, course, and content",
+      "link": "https://www.decodingai.com/p/how-i-automated-91-percent-of-my-business",
+      "date": "Wed, 15 Apr 2026 14:10:24 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 18
+    },
+    {
+      "id": "jix8bj",
+      "type": "substack",
+      "title": "Your RAG Pipeline Is Overkill",
+      "desc": "The pattern that lets your model write code to explore its context instead of retrieving it.",
+      "link": "https://www.decodingai.com/p/recursive-language-models",
+      "date": "Tue, 07 Apr 2026 11:03:14 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "RAG"
+      ],
+      "min": 15
+    },
+    {
       "id": "rm4aw5",
       "type": "chip",
       "title": "Common pitfalls when building generative AI applications",
@@ -149,22 +302,6 @@
       "min": 43
     },
     {
-      "id": "1t8o2du",
-      "type": "github",
-      "title": "AIScientists-Dev/WorldSeed",
-      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-      "link": "https://github.com/AIScientists-Dev/WorldSeed",
-      "date": "2026-04-15T03:47:21Z",
-      "source": "GitHub",
-      "author": "AIScientists-Dev",
-      "tags": [
-        "⭐ 619",
-        "Python"
-      ],
-      "min": null,
-      "stars": 619
-    },
-    {
       "id": "v17hw0",
       "type": "chip",
       "title": "Building A Generative AI Platform",
@@ -175,6 +312,21 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 42
+    },
+    {
+      "id": "11hs1rd",
+      "type": "github",
+      "title": "Google-Cloud-AI/agent-platform",
+      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+      "link": "https://github.com/Google-Cloud-AI/agent-platform",
+      "date": "2026-04-20T17:08:58Z",
+      "source": "GitHub",
+      "author": "Google-Cloud-AI",
+      "tags": [
+        "⭐ 146"
+      ],
+      "min": null,
+      "stars": 146
     },
     {
       "id": "ihby80",
@@ -227,22 +379,6 @@
       "min": 19
     },
     {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 296",
-        "Python"
-      ],
-      "min": null,
-      "stars": 296
-    },
-    {
       "id": "18wgmyf",
       "type": "chip",
       "title": "Multimodality and Large Multimodal Models (LMMs)",
@@ -253,6 +389,34 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 30
+    },
+    {
+      "id": "1gi5z73",
+      "type": "github",
+      "title": "Agent-FM/agentfm-core",
+      "desc": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
+      "link": "https://github.com/Agent-FM/agentfm-core",
+      "date": "2026-04-11T17:16:34Z",
+      "source": "GitHub",
+      "author": "Agent-FM",
+      "tags": [
+        "⭐ 120",
+        "Go"
+      ],
+      "min": null,
+      "stars": 120
+    },
+    {
+      "id": "u299cw",
+      "type": "news",
+      "title": "There Are Actually Two 2026 FIFA World Cups Happening",
+      "desc": "Inside the parallel infrastructure that runs beneath — and entirely separate from — the 2026 FIFA World Cup. Somewhere inside a 2026 FIFA World Cup host city, ninety thousand fans are pressing toward stadium turnstiles. Street vendors are moving at full speed. Bars have been open since morning. The ",
+      "link": "https://imfounder.com/entrepreneurship/business/two-2026-fifa-world-cups/",
+      "date": "Sun, 24 May 2026 05:24:08 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 9
     },
     {
       "id": "1ku6qtv",
@@ -303,19 +467,20 @@
       "min": 9
     },
     {
-      "id": "11hs1rd",
+      "id": "181yv9d",
       "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
+      "title": "Emmimal/control-layer",
+      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
+      "link": "https://github.com/Emmimal/control-layer",
+      "date": "2026-05-18T04:38:38Z",
       "source": "GitHub",
-      "author": "Google-Cloud-AI",
+      "author": "Emmimal",
       "tags": [
-        "⭐ 146"
+        "⭐ 46",
+        "Python"
       ],
       "min": null,
-      "stars": 146
+      "stars": 46
     },
     {
       "id": "57ipkw",
@@ -358,34 +523,6 @@
       "min": 17
     },
     {
-      "id": "fpawin",
-      "type": "news",
-      "title": "The $400 Shockwave: Why the AP × Swatch Collaboration Could Become One of the Smartest Luxury Business Moves of the Decade",
-      "desc": "Luxury watch collectors are confused. Purists are angry. Resellers are watching nervously. And founders everywhere should be paying attention. As the Audemars Piguet Swatch collaboration officially launches worldwide today — May 16, 2026 — collectors, hype buyers, and curious first-time watch fans a",
-      "link": "https://imfounder.com/lifestyle/audemars-piguet-swatch-royalpop/",
-      "date": "Sat, 16 May 2026 07:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 6
-    },
-    {
-      "id": "1gi5z73",
-      "type": "github",
-      "title": "Agent-FM/agentfm-core",
-      "desc": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
-      "link": "https://github.com/Agent-FM/agentfm-core",
-      "date": "2026-04-11T17:16:34Z",
-      "source": "GitHub",
-      "author": "Agent-FM",
-      "tags": [
-        "⭐ 120",
-        "Go"
-      ],
-      "min": null,
-      "stars": 120
-    },
-    {
       "id": "19o0ag8",
       "type": "github",
       "title": "megeezy/Chameleon",
@@ -402,22 +539,6 @@
       "stars": 42
     },
     {
-      "id": "181yv9d",
-      "type": "github",
-      "title": "Emmimal/control-layer",
-      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
-      "link": "https://github.com/Emmimal/control-layer",
-      "date": "2026-05-18T04:38:38Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 36",
-        "Python"
-      ],
-      "min": null,
-      "stars": 36
-    },
-    {
       "id": "r0i7g5",
       "type": "github",
       "title": "IrtezaAsadRizvi/ai-megalist",
@@ -427,10 +548,10 @@
       "source": "GitHub",
       "author": "IrtezaAsadRizvi",
       "tags": [
-        "⭐ 23"
+        "⭐ 25"
       ],
       "min": null,
-      "stars": 23
+      "stars": 25
     }
   ]
 }
