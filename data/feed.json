@@ -1,280 +1,7 @@
 {
-  "generatedAt": "2026-05-24T08:27:29.964Z",
-  "count": 41,
+  "generatedAt": "2026-05-25T09:59:30.390Z",
+  "count": 24,
   "cards": [
-    {
-      "id": "tumrlg",
-      "type": "substack",
-      "title": "I Built Claude OS — A System That Turns Claude into an Execution Engine",
-      "desc": "A GitHub repo with 100+ commands, MCP servers, plugins, workflows, and agent frameworks &#8212; all in one place.",
-      "link": "https://todatabeyond.substack.com/p/i-built-claude-os-a-system-that-turns",
-      "date": "Thu, 21 May 2026 18:12:44 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "11lqdrn",
-      "type": "substack",
-      "title": "The Designing Multi-Agent Deep Search Systems recording is now available + 50% Discount Till End of May",
-      "desc": "Hi everyone,",
-      "link": "https://todatabeyond.substack.com/p/the-designing-multi-agent-deep-search",
-      "date": "Wed, 20 May 2026 23:26:17 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 1
-    },
-    {
-      "id": "c0lppj",
-      "type": "substack",
-      "title": "Designing Multi-Agent Deep Search Systems - 5 Seats Left",
-      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
-      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search-5e7",
-      "date": "Fri, 15 May 2026 13:23:52 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "19eiriu",
-      "type": "substack",
-      "title": "DeepSeek V4+ Turbovec + RAG: Better OCR & Self-Hosted",
-      "desc": "It was about two weeks ago that the AI &#8203;&#8203;industry was shaken to its core.",
-      "link": "https://todatabeyond.substack.com/p/deepseek-v4-turbovec-rag-better-ocr",
-      "date": "Thu, 14 May 2026 10:40:17 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "RAG"
-      ],
-      "min": 9
-    },
-    {
-      "id": "lji5y1",
-      "type": "substack",
-      "title": "Designing Multi-Agent Deep Search Systems - 10 Seats Left",
-      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
-      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search",
-      "date": "Wed, 13 May 2026 12:09:47 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "17e1try",
-      "type": "github",
-      "title": "YGYOOO/WorldX",
-      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
-      "link": "https://github.com/YGYOOO/WorldX",
-      "date": "2026-04-18T06:24:32Z",
-      "source": "GitHub",
-      "author": "YGYOOO",
-      "tags": [
-        "⭐ 907",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 907
-    },
-    {
-      "id": "1nuz2uq",
-      "type": "substack",
-      "title": "Never Hit Claude Usage Limits Ever Again",
-      "desc": "How to Use Planning, Memory, Model Selection, and Tool Splitting to Avoid Burning Through Your Limits",
-      "link": "https://todatabeyond.substack.com/p/never-hit-claude-usage-limits-ever",
-      "date": "Tue, 12 May 2026 04:38:24 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 6
-    },
-    {
-      "id": "30nz8z",
-      "type": "substack",
-      "title": "I bundled my 7 crash courses with 60% off",
-      "desc": "Get All My 6 Courses, One Button Away With 60% Off",
-      "link": "https://todatabeyond.substack.com/p/i-bundled-my-6-crash-courses-with",
-      "date": "Sun, 10 May 2026 23:00:05 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 1
-    },
-    {
-      "id": "txm3md",
-      "type": "substack",
-      "title": "Ads in AI Chatbots: When the Assistant Stops Working for You & Works for the Sponsor",
-      "desc": "A new Princeton-led paper tests 23 frontier models and finds that many prioritize sponsored outcomes over user welfare in flights, shopping, and other real decision scenarios.",
-      "link": "https://todatabeyond.substack.com/p/ads-in-ai-chatbots-when-the-assistant",
-      "date": "Sun, 10 May 2026 02:33:00 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "18adkqt",
-      "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-2f6",
-      "date": "Sun, 17 May 2026 18:49:53 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "f6xgcl",
-      "type": "substack",
-      "title": "Inside Neo4j's Agent Memory",
-      "desc": "The knowledge-graph patterns that turn one-shot conversations into compounding intelligence.",
-      "link": "https://www.decodingai.com/p/understanding-neo4j-graph-agent-memory-system",
-      "date": "Tue, 19 May 2026 08:55:51 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "agents"
-      ],
-      "min": 13
-    },
-    {
-      "id": "1t8o2du",
-      "type": "github",
-      "title": "AIScientists-Dev/WorldSeed",
-      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-      "link": "https://github.com/AIScientists-Dev/WorldSeed",
-      "date": "2026-04-15T03:47:21Z",
-      "source": "GitHub",
-      "author": "AIScientists-Dev",
-      "tags": [
-        "⭐ 642",
-        "Python"
-      ],
-      "min": null,
-      "stars": 642
-    },
-    {
-      "id": "3r9xgq",
-      "type": "substack",
-      "title": "From Vibe Coding to a Real Engineering Team",
-      "desc": "My Claude Code agentic coding setup that ships features end-to-end",
-      "link": "https://www.decodingai.com/p/squid-my-agentic-coding-setup-may-2026",
-      "date": "Tue, 12 May 2026 11:04:20 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "168zoe5",
-      "type": "substack",
-      "title": "Building Agentic GraphRAG Systems",
-      "desc": "From knowledge graphs and ontologies to a unified memory as an MCP server for your AI agent.",
-      "link": "https://www.decodingai.com/p/agentic-graphrag",
-      "date": "Tue, 05 May 2026 05:01:08 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "agents",
-        "graph"
-      ],
-      "min": 15
-    },
-    {
-      "id": "7oxfbx",
-      "type": "substack",
-      "title": "What Held Up at 3 AM: One Engineer's RAG Case Study",
-      "desc": "You iterate. You evaluate. Weave CLI unifies 11 vector databases into one workflow.",
-      "link": "https://www.decodingai.com/p/ship-rag-with-weave-cli",
-      "date": "Wed, 29 Apr 2026 11:04:33 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "RAG"
-      ],
-      "min": 21
-    },
-    {
-      "id": "159a19s",
-      "type": "substack",
-      "title": "Stop Orchestrating AI Agents. Use Ralph Loops Instead.",
-      "desc": "How one simple loop beats multi-agent orchestration and context rot in production.",
-      "link": "https://www.decodingai.com/p/ralph-loops",
-      "date": "Thu, 23 Apr 2026 11:02:54 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "agents"
-      ],
-      "min": 8
-    },
-    {
-      "id": "14wpaf",
-      "type": "substack",
-      "title": "Karpathy Named It. I Built One on My Notes.",
-      "desc": "A deep research agent over my notes, highlights, and transcripts, grounded in years of curated thinking, not the public web.",
-      "link": "https://www.decodingai.com/p/llm-knowledge-base-obsidian-readwise-notebooklm",
-      "date": "Tue, 21 Apr 2026 08:00:51 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 296",
-        "Python"
-      ],
-      "min": null,
-      "stars": 296
-    },
-    {
-      "id": "1mb7t2l",
-      "type": "substack",
-      "title": "How to Ship a Weekly Article in One Day",
-      "desc": "Inside the agentic AI workflow behind my weekly newsletter, course, and content",
-      "link": "https://www.decodingai.com/p/how-i-automated-91-percent-of-my-business",
-      "date": "Wed, 15 Apr 2026 14:10:24 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
-      "min": 18
-    },
-    {
-      "id": "jix8bj",
-      "type": "substack",
-      "title": "Your RAG Pipeline Is Overkill",
-      "desc": "The pattern that lets your model write code to explore its context instead of retrieving it.",
-      "link": "https://www.decodingai.com/p/recursive-language-models",
-      "date": "Tue, 07 Apr 2026 11:03:14 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [
-        "RAG"
-      ],
-      "min": 15
-    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -314,21 +41,6 @@
       "min": 42
     },
     {
-      "id": "11hs1rd",
-      "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
-      "source": "GitHub",
-      "author": "Google-Cloud-AI",
-      "tags": [
-        "⭐ 146"
-      ],
-      "min": null,
-      "stars": 146
-    },
-    {
       "id": "ihby80",
       "type": "chip",
       "title": "Measuring personal growth",
@@ -353,6 +65,22 @@
         "open-source"
       ],
       "min": 12
+    },
+    {
+      "id": "17e1try",
+      "type": "github",
+      "title": "YGYOOO/WorldX",
+      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+      "link": "https://github.com/YGYOOO/WorldX",
+      "date": "2026-04-18T06:24:32Z",
+      "source": "GitHub",
+      "author": "YGYOOO",
+      "tags": [
+        "⭐ 920",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 920
     },
     {
       "id": "oesf1f",
@@ -391,20 +119,16 @@
       "min": 30
     },
     {
-      "id": "1gi5z73",
-      "type": "github",
-      "title": "Agent-FM/agentfm-core",
-      "desc": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
-      "link": "https://github.com/Agent-FM/agentfm-core",
-      "date": "2026-04-11T17:16:34Z",
-      "source": "GitHub",
-      "author": "Agent-FM",
-      "tags": [
-        "⭐ 120",
-        "Go"
-      ],
-      "min": null,
-      "stars": 120
+      "id": "kwtp4q",
+      "type": "news",
+      "title": "Google’s $15 Billion AI Data Centre Push in Visakhapatnam: Water, Land, Tax Giveaways — and the Governance Failure Story India Must Debate",
+      "desc": "Visakhapatnam (Vizag) is being positioned as the next big node in India’s AI and cloud infrastructure. Google says it has&#160;broken ground&#160;on an&#160;AI hub in Vizag&#160;as part of a&#160;$15 billion investment, built with ecosystem partners including&#160;AdaniConneX&#160;and&#160;Airtel (N",
+      "link": "https://imfounder.com/science-tech/ai/google-vizag-ai-data-centre-water-land-tax-adani-modi/",
+      "date": "Mon, 25 May 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 7
     },
     {
       "id": "u299cw",
@@ -417,6 +141,22 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 9
+    },
+    {
+      "id": "1t8o2du",
+      "type": "github",
+      "title": "AIScientists-Dev/WorldSeed",
+      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+      "link": "https://github.com/AIScientists-Dev/WorldSeed",
+      "date": "2026-04-15T03:47:21Z",
+      "source": "GitHub",
+      "author": "AIScientists-Dev",
+      "tags": [
+        "⭐ 674",
+        "Python"
+      ],
+      "min": null,
+      "stars": 674
     },
     {
       "id": "1ku6qtv",
@@ -467,22 +207,6 @@
       "min": 9
     },
     {
-      "id": "181yv9d",
-      "type": "github",
-      "title": "Emmimal/control-layer",
-      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
-      "link": "https://github.com/Emmimal/control-layer",
-      "date": "2026-05-18T04:38:38Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 46",
-        "Python"
-      ],
-      "min": null,
-      "stars": 46
-    },
-    {
       "id": "57ipkw",
       "type": "news",
       "title": "ByteDance’s DeerFlow and the Rise of AI Employees",
@@ -499,6 +223,22 @@
       "min": 5
     },
     {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 296",
+        "Python"
+      ],
+      "min": null,
+      "stars": 296
+    },
+    {
       "id": "1elr7ic",
       "type": "news",
       "title": "The Guns Went In First. The Energy Deals Came Second. Your Grocery Bill Is Next",
@@ -511,16 +251,51 @@
       "min": 9
     },
     {
-      "id": "z5mke3",
-      "type": "news",
-      "title": "The Stadium Economy Was Rewritten Without Labor: How AI Is Automating Stadium Jobs Away",
-      "desc": "Largest Catering Companies Are Automating Away Their Own Workforce The pitch was simple, and cities bought it every time. Build us a stadium, local officials were told, and we&#8217;ll bring jobs. We&#8217;ll bring foot traffic. We&#8217;ll bring economic life to this neighborhood. Taxpayers opened ",
-      "link": "https://imfounder.com/science-tech/ai-stadium-automation-jobs/",
-      "date": "Mon, 18 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 17
+      "id": "11hs1rd",
+      "type": "github",
+      "title": "Google-Cloud-AI/agent-platform",
+      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+      "link": "https://github.com/Google-Cloud-AI/agent-platform",
+      "date": "2026-04-20T17:08:58Z",
+      "source": "GitHub",
+      "author": "Google-Cloud-AI",
+      "tags": [
+        "⭐ 148"
+      ],
+      "min": null,
+      "stars": 148
+    },
+    {
+      "id": "1gi5z73",
+      "type": "github",
+      "title": "Agent-FM/agentfm-core",
+      "desc": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
+      "link": "https://github.com/Agent-FM/agentfm-core",
+      "date": "2026-04-11T17:16:34Z",
+      "source": "GitHub",
+      "author": "Agent-FM",
+      "tags": [
+        "⭐ 120",
+        "Go"
+      ],
+      "min": null,
+      "stars": 120
+    },
+    {
+      "id": "181yv9d",
+      "type": "github",
+      "title": "Emmimal/control-layer",
+      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
+      "link": "https://github.com/Emmimal/control-layer",
+      "date": "2026-05-18T04:38:38Z",
+      "source": "GitHub",
+      "author": "Emmimal",
+      "tags": [
+        "⭐ 50",
+        "Python"
+      ],
+      "min": null,
+      "stars": 50
     },
     {
       "id": "19o0ag8",
@@ -548,10 +323,10 @@
       "source": "GitHub",
       "author": "IrtezaAsadRizvi",
       "tags": [
-        "⭐ 25"
+        "⭐ 27"
       ],
       "min": null,
-      "stars": 25
+      "stars": 27
     }
   ]
 }
