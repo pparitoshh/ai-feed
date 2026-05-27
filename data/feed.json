@@ -1,7 +1,128 @@
 {
-  "generatedAt": "2026-05-26T09:47:46.083Z",
-  "count": 24,
+  "generatedAt": "2026-05-27T09:41:38.860Z",
+  "count": 32,
   "cards": [
+    {
+      "id": "1bsqcnb",
+      "type": "substack",
+      "title": "Stop Chasing the Perfect Ontology",
+      "desc": "Start with a fixed, generic base and extend only when your data demands it.",
+      "link": "https://www.decodingai.com/p/ship-a-knowledge-graph-ontology-in-5-minutes",
+      "date": "Tue, 26 May 2026 05:00:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "f6xgcl",
+      "type": "substack",
+      "title": "Inside Neo4j's Agent Memory",
+      "desc": "The knowledge-graph patterns that turn one-shot conversations into compounding intelligence.",
+      "link": "https://www.decodingai.com/p/understanding-neo4j-graph-agent-memory-system",
+      "date": "Tue, 19 May 2026 08:55:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 13
+    },
+    {
+      "id": "3r9xgq",
+      "type": "substack",
+      "title": "From Vibe Coding to a Real Engineering Team",
+      "desc": "My Claude Code agentic coding setup that ships features end-to-end",
+      "link": "https://www.decodingai.com/p/squid-my-agentic-coding-setup-may-2026",
+      "date": "Tue, 12 May 2026 11:04:20 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "168zoe5",
+      "type": "substack",
+      "title": "Building Agentic GraphRAG Systems",
+      "desc": "From knowledge graphs and ontologies to a unified memory as an MCP server for your AI agent.",
+      "link": "https://www.decodingai.com/p/agentic-graphrag",
+      "date": "Tue, 05 May 2026 05:01:08 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents",
+        "graph"
+      ],
+      "min": 15
+    },
+    {
+      "id": "7oxfbx",
+      "type": "substack",
+      "title": "What Held Up at 3 AM: One Engineer's RAG Case Study",
+      "desc": "You iterate. You evaluate. Weave CLI unifies 11 vector databases into one workflow.",
+      "link": "https://www.decodingai.com/p/ship-rag-with-weave-cli",
+      "date": "Wed, 29 Apr 2026 11:04:33 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "RAG"
+      ],
+      "min": 21
+    },
+    {
+      "id": "17e1try",
+      "type": "github",
+      "title": "YGYOOO/WorldX",
+      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+      "link": "https://github.com/YGYOOO/WorldX",
+      "date": "2026-04-18T06:24:32Z",
+      "source": "GitHub",
+      "author": "YGYOOO",
+      "tags": [
+        "⭐ 934",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 934
+    },
+    {
+      "id": "159a19s",
+      "type": "substack",
+      "title": "Stop Orchestrating AI Agents. Use Ralph Loops Instead.",
+      "desc": "How one simple loop beats multi-agent orchestration and context rot in production.",
+      "link": "https://www.decodingai.com/p/ralph-loops",
+      "date": "Thu, 23 Apr 2026 11:02:54 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 8
+    },
+    {
+      "id": "14wpaf",
+      "type": "substack",
+      "title": "Karpathy Named It. I Built One on My Notes.",
+      "desc": "A deep research agent over my notes, highlights, and transcripts, grounded in years of curated thinking, not the public web.",
+      "link": "https://www.decodingai.com/p/llm-knowledge-base-obsidian-readwise-notebooklm",
+      "date": "Tue, 21 Apr 2026 08:00:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "1mb7t2l",
+      "type": "substack",
+      "title": "How to Ship a Weekly Article in One Day",
+      "desc": "Inside the agentic AI workflow behind my weekly newsletter, course, and content",
+      "link": "https://www.decodingai.com/p/how-i-automated-91-percent-of-my-business",
+      "date": "Wed, 15 Apr 2026 14:10:24 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 18
+    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -27,6 +148,22 @@
         "agents"
       ],
       "min": 43
+    },
+    {
+      "id": "1t8o2du",
+      "type": "github",
+      "title": "AIScientists-Dev/WorldSeed",
+      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+      "link": "https://github.com/AIScientists-Dev/WorldSeed",
+      "date": "2026-04-15T03:47:21Z",
+      "source": "GitHub",
+      "author": "AIScientists-Dev",
+      "tags": [
+        "⭐ 754",
+        "Python"
+      ],
+      "min": null,
+      "stars": 754
     },
     {
       "id": "v17hw0",
@@ -67,22 +204,6 @@
       "min": 12
     },
     {
-      "id": "17e1try",
-      "type": "github",
-      "title": "YGYOOO/WorldX",
-      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
-      "link": "https://github.com/YGYOOO/WorldX",
-      "date": "2026-04-18T06:24:32Z",
-      "source": "GitHub",
-      "author": "YGYOOO",
-      "tags": [
-        "⭐ 927",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 927
-    },
-    {
       "id": "oesf1f",
       "type": "chip",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
@@ -107,6 +228,22 @@
       "min": 19
     },
     {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 202",
+        "Python"
+      ],
+      "min": null,
+      "stars": 202
+    },
+    {
       "id": "18wgmyf",
       "type": "chip",
       "title": "Multimodality and Large Multimodal Models (LMMs)",
@@ -117,6 +254,18 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 30
+    },
+    {
+      "id": "c2tonr",
+      "type": "news",
+      "title": "Why Every Startup Suddenly Wants to Become an “AI Company”",
+      "desc": "For years, startups proudly called themselves SaaS companies, fintech platforms, productivity apps, or marketplaces.Now almost every founder pitch sounds the same: “We are an AI-powered platform transforming the future of…” Even companies that barely used automation six months ago are suddenly rebra",
+      "link": "https://imfounder.com/entrepreneurship/why-every-startup-wants-to-become-an-ai-company/",
+      "date": "Wed, 27 May 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 6
     },
     {
       "id": "cwo2k6",
@@ -143,22 +292,6 @@
       "min": 7
     },
     {
-      "id": "1t8o2du",
-      "type": "github",
-      "title": "AIScientists-Dev/WorldSeed",
-      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-      "link": "https://github.com/AIScientists-Dev/WorldSeed",
-      "date": "2026-04-15T03:47:21Z",
-      "source": "GitHub",
-      "author": "AIScientists-Dev",
-      "tags": [
-        "⭐ 786",
-        "Python"
-      ],
-      "min": null,
-      "stars": 786
-    },
-    {
       "id": "u299cw",
       "type": "news",
       "title": "There Are Actually Two 2026 FIFA World Cups Happening",
@@ -169,6 +302,21 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 9
+    },
+    {
+      "id": "11hs1rd",
+      "type": "github",
+      "title": "Google-Cloud-AI/agent-platform",
+      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+      "link": "https://github.com/Google-Cloud-AI/agent-platform",
+      "date": "2026-04-20T17:08:58Z",
+      "source": "GitHub",
+      "author": "Google-Cloud-AI",
+      "tags": [
+        "⭐ 154"
+      ],
+      "min": null,
+      "stars": 154
     },
     {
       "id": "1ku6qtv",
@@ -219,53 +367,6 @@
       "min": 9
     },
     {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 293",
-        "Python"
-      ],
-      "min": null,
-      "stars": 293
-    },
-    {
-      "id": "57ipkw",
-      "type": "news",
-      "title": "ByteDance’s DeerFlow and the Rise of AI Employees",
-      "desc": "While the world debated chatbots, ByteDance quietly open-sourced an autonomous AI system that can research, code, execute tasks, and work like a digital employee. Most people still think of artificial intelligence as a chatbot. You ask a question.It gives an answer.The interaction ends. But a new ge",
-      "link": "https://imfounder.com/science-tech/ai/bytedance-deerflow-ai-agent-future-of-work/",
-      "date": "Tue, 19 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [
-        "agents",
-        "mlops",
-        "open-source"
-      ],
-      "min": 5
-    },
-    {
-      "id": "11hs1rd",
-      "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
-      "source": "GitHub",
-      "author": "Google-Cloud-AI",
-      "tags": [
-        "⭐ 152"
-      ],
-      "min": null,
-      "stars": 152
-    },
-    {
       "id": "181yv9d",
       "type": "github",
       "title": "Emmimal/control-layer",
@@ -275,11 +376,11 @@
       "source": "GitHub",
       "author": "Emmimal",
       "tags": [
-        "⭐ 54",
+        "⭐ 55",
         "Python"
       ],
       "min": null,
-      "stars": 54
+      "stars": 55
     },
     {
       "id": "r0i7g5",
