@@ -1,73 +1,72 @@
 {
-  "generatedAt": "2026-05-27T09:41:38.860Z",
-  "count": 32,
+  "generatedAt": "2026-05-28T09:57:34.738Z",
+  "count": 34,
   "cards": [
     {
-      "id": "1bsqcnb",
+      "id": "6iqll7",
       "type": "substack",
-      "title": "Stop Chasing the Perfect Ontology",
-      "desc": "Start with a fixed, generic base and extend only when your data demands it.",
-      "link": "https://www.decodingai.com/p/ship-a-knowledge-graph-ontology-in-5-minutes",
-      "date": "Tue, 26 May 2026 05:00:51 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "f6xgcl",
-      "type": "substack",
-      "title": "Inside Neo4j's Agent Memory",
-      "desc": "The knowledge-graph patterns that turn one-shot conversations into compounding intelligence.",
-      "link": "https://www.decodingai.com/p/understanding-neo4j-graph-agent-memory-system",
-      "date": "Tue, 19 May 2026 08:55:51 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
+      "title": "According to Anthropic’s Engineer, HTML is the New Markdown for AI Agents",
+      "desc": "Why HTML is becoming the better default for AI-generated reports, reviews, and working surfaces.",
+      "link": "https://todatabeyond.substack.com/p/according-to-anthropics-engineer",
+      "date": "Thu, 28 May 2026 07:01:01 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
       "tags": [
         "agents"
       ],
-      "min": 13
+      "min": 9
     },
     {
-      "id": "3r9xgq",
+      "id": "17ng9ww",
       "type": "substack",
-      "title": "From Vibe Coding to a Real Engineering Team",
-      "desc": "My Claude Code agentic coding setup that ships features end-to-end",
-      "link": "https://www.decodingai.com/p/squid-my-agentic-coding-setup-may-2026",
-      "date": "Tue, 12 May 2026 11:04:20 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
+      "title": "New Live Workshop: Hands-On Claude Cowork: From Prompts to Deliverables & Automated Workflows",
+      "desc": "Learn how to use Claude Cowork to delegate real tasks, organize files, connect your tools, and build recurring workflows that run without you.",
+      "link": "https://todatabeyond.substack.com/p/new-live-workshop-hands-on-claude",
+      "date": "Wed, 27 May 2026 02:10:59 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
       "tags": [],
-      "min": 12
+      "min": 2
     },
     {
-      "id": "168zoe5",
+      "id": "g9vimj",
       "type": "substack",
-      "title": "Building Agentic GraphRAG Systems",
-      "desc": "From knowledge graphs and ontologies to a unified memory as an MCP server for your AI agent.",
-      "link": "https://www.decodingai.com/p/agentic-graphrag",
-      "date": "Tue, 05 May 2026 05:01:08 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
+      "title": "Building Deep Search Agent From Scratch — Step by Step Guide [1/12]",
+      "desc": "ParFraming the Problem: Why deep search matters, the limits of normal search and basic RAG, and what makes deep search different.",
+      "link": "https://todatabeyond.substack.com/p/building-deep-search-agent-from-scratch",
+      "date": "Mon, 25 May 2026 20:11:37 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
       "tags": [
-        "agents",
-        "graph"
+        "agents"
       ],
-      "min": 15
+      "min": 17
     },
     {
-      "id": "7oxfbx",
+      "id": "tumrlg",
       "type": "substack",
-      "title": "What Held Up at 3 AM: One Engineer's RAG Case Study",
-      "desc": "You iterate. You evaluate. Weave CLI unifies 11 vector databases into one workflow.",
-      "link": "https://www.decodingai.com/p/ship-rag-with-weave-cli",
-      "date": "Wed, 29 Apr 2026 11:04:33 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
+      "title": "I Built Claude OS — A System That Turns Claude into an Execution Engine",
+      "desc": "A GitHub repo with 100+ commands, MCP servers, plugins, workflows, and agent frameworks &#8212; all in one place.",
+      "link": "https://todatabeyond.substack.com/p/i-built-claude-os-a-system-that-turns",
+      "date": "Thu, 21 May 2026 18:12:44 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "11lqdrn",
+      "type": "substack",
+      "title": "The Designing Multi-Agent Deep Search Systems recording is now available + 50% Discount Till End of May",
+      "desc": "Hi everyone,",
+      "link": "https://todatabeyond.substack.com/p/the-designing-multi-agent-deep-search",
+      "date": "Wed, 20 May 2026 23:26:17 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
       "tags": [
-        "RAG"
+        "agents"
       ],
-      "min": 21
+      "min": 1
     },
     {
       "id": "17e1try",
@@ -79,49 +78,97 @@
       "source": "GitHub",
       "author": "YGYOOO",
       "tags": [
-        "⭐ 934",
+        "⭐ 941",
         "TypeScript"
       ],
       "min": null,
-      "stars": 934
+      "stars": 941
     },
     {
-      "id": "159a19s",
+      "id": "c0lppj",
       "type": "substack",
-      "title": "Stop Orchestrating AI Agents. Use Ralph Loops Instead.",
-      "desc": "How one simple loop beats multi-agent orchestration and context rot in production.",
-      "link": "https://www.decodingai.com/p/ralph-loops",
-      "date": "Thu, 23 Apr 2026 11:02:54 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
+      "title": "Designing Multi-Agent Deep Search Systems - 5 Seats Left",
+      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
+      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search-5e7",
+      "date": "Fri, 15 May 2026 13:23:52 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
       "tags": [
         "agents"
       ],
-      "min": 8
+      "min": 2
     },
     {
-      "id": "14wpaf",
+      "id": "19eiriu",
       "type": "substack",
-      "title": "Karpathy Named It. I Built One on My Notes.",
-      "desc": "A deep research agent over my notes, highlights, and transcripts, grounded in years of curated thinking, not the public web.",
-      "link": "https://www.decodingai.com/p/llm-knowledge-base-obsidian-readwise-notebooklm",
-      "date": "Tue, 21 Apr 2026 08:00:51 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
+      "title": "DeepSeek V4+ Turbovec + RAG: Better OCR & Self-Hosted",
+      "desc": "It was about two weeks ago that the AI &#8203;&#8203;industry was shaken to its core.",
+      "link": "https://todatabeyond.substack.com/p/deepseek-v4-turbovec-rag-better-ocr",
+      "date": "Thu, 14 May 2026 10:40:17 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "RAG"
+      ],
+      "min": 9
+    },
+    {
+      "id": "lji5y1",
+      "type": "substack",
+      "title": "Designing Multi-Agent Deep Search Systems - 10 Seats Left",
+      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
+      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search",
+      "date": "Wed, 13 May 2026 12:09:47 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "12hy38k",
+      "type": "substack",
+      "title": "Why Good AI Agents Look Less Like Chatbots and More Like Workshops",
+      "desc": "The Architecture of Trust",
+      "link": "https://www.llmwatch.com/p/why-good-ai-agents-look-less-like",
+      "date": "Wed, 27 May 2026 08:44:31 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [
+        "agents"
+      ],
       "min": 11
     },
     {
-      "id": "1mb7t2l",
+      "id": "18adkqt",
       "type": "substack",
-      "title": "How to Ship a Weekly Article in One Day",
-      "desc": "Inside the agentic AI workflow behind my weekly newsletter, course, and content",
-      "link": "https://www.decodingai.com/p/how-i-automated-91-percent-of-my-business",
-      "date": "Wed, 15 Apr 2026 14:10:24 GMT",
-      "source": "Decoding AI Mag",
-      "author": "Paul Iusztin",
-      "tags": [],
-      "min": 18
+      "title": "AI Agents of the Week: Papers You Should Know About",
+      "desc": "Get ahead of the curve with LLM Watch",
+      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-2f6",
+      "date": "Sun, 17 May 2026 18:49:53 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "1t8o2du",
+      "type": "github",
+      "title": "AIScientists-Dev/WorldSeed",
+      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+      "link": "https://github.com/AIScientists-Dev/WorldSeed",
+      "date": "2026-04-15T03:47:21Z",
+      "source": "GitHub",
+      "author": "AIScientists-Dev",
+      "tags": [
+        "⭐ 755",
+        "Python"
+      ],
+      "min": null,
+      "stars": 755
     },
     {
       "id": "rm4aw5",
@@ -148,22 +195,6 @@
         "agents"
       ],
       "min": 43
-    },
-    {
-      "id": "1t8o2du",
-      "type": "github",
-      "title": "AIScientists-Dev/WorldSeed",
-      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-      "link": "https://github.com/AIScientists-Dev/WorldSeed",
-      "date": "2026-04-15T03:47:21Z",
-      "source": "GitHub",
-      "author": "AIScientists-Dev",
-      "tags": [
-        "⭐ 754",
-        "Python"
-      ],
-      "min": null,
-      "stars": 754
     },
     {
       "id": "v17hw0",
@@ -204,6 +235,22 @@
       "min": 12
     },
     {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 202",
+        "Python"
+      ],
+      "min": null,
+      "stars": 202
+    },
+    {
       "id": "oesf1f",
       "type": "chip",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
@@ -228,22 +275,6 @@
       "min": 19
     },
     {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 202",
-        "Python"
-      ],
-      "min": null,
-      "stars": 202
-    },
-    {
       "id": "18wgmyf",
       "type": "chip",
       "title": "Multimodality and Large Multimodal Models (LMMs)",
@@ -256,6 +287,18 @@
       "min": 30
     },
     {
+      "id": "3jdoin",
+      "type": "news",
+      "title": "Ferrari’s Luce EV Identity Crisis: Did Jony Ive Lose the Magic Without Steve Jobs?",
+      "desc": "For over two decades, Jony Ive was treated like a design god inside the tech world.The man behind the iPhone, iMac, MacBook Air, and Apple’s iconic minimalist era became synonymous with modern product design itself. But today, something feels different. The backlash surrounding Ferrari’s new EV — re",
+      "link": "https://imfounder.com/entrepreneurship/business/ferrari-luce-ev-jony-ive-design/",
+      "date": "Thu, 28 May 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 6
+    },
+    {
       "id": "c2tonr",
       "type": "news",
       "title": "Why Every Startup Suddenly Wants to Become an “AI Company”",
@@ -266,6 +309,21 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 6
+    },
+    {
+      "id": "11hs1rd",
+      "type": "github",
+      "title": "Google-Cloud-AI/agent-platform",
+      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+      "link": "https://github.com/Google-Cloud-AI/agent-platform",
+      "date": "2026-04-20T17:08:58Z",
+      "source": "GitHub",
+      "author": "Google-Cloud-AI",
+      "tags": [
+        "⭐ 158"
+      ],
+      "min": null,
+      "stars": 158
     },
     {
       "id": "cwo2k6",
@@ -304,21 +362,6 @@
       "min": 9
     },
     {
-      "id": "11hs1rd",
-      "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
-      "source": "GitHub",
-      "author": "Google-Cloud-AI",
-      "tags": [
-        "⭐ 154"
-      ],
-      "min": null,
-      "stars": 154
-    },
-    {
       "id": "1ku6qtv",
       "type": "news",
       "title": "Apple&#8217;s &#8220;Unbreakable&#8221; M5 Chip Was Cracked by an AI in Just 7 Days — And It Changes Everything",
@@ -343,6 +386,22 @@
       "min": 6
     },
     {
+      "id": "181yv9d",
+      "type": "github",
+      "title": "Emmimal/control-layer",
+      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
+      "link": "https://github.com/Emmimal/control-layer",
+      "date": "2026-05-18T04:38:38Z",
+      "source": "GitHub",
+      "author": "Emmimal",
+      "tags": [
+        "⭐ 56",
+        "Python"
+      ],
+      "min": null,
+      "stars": 56
+    },
+    {
       "id": "1exkjz3",
       "type": "news",
       "title": "Google’s AI Takeover Is Destroying Websites — And Most Founders Still Don’t Realize It",
@@ -353,34 +412,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 5
-    },
-    {
-      "id": "vpm0x4",
-      "type": "news",
-      "title": "The New American Dream: 5 Powerful Startups You Can Launch With Only $1,000",
-      "desc": "5 Real Businesses First-Time Founders Can Start in the U.S. or Canada Most people think startups begin with venture capital, Silicon Valley connections, or a team of engineers. That was the old model. In 2026, the barrier to entry has collapsed. AI tools, no-code software, creator platforms, and dig",
-      "link": "https://imfounder.com/entrepreneurship/top-startups-under-1000-dollars-2026/",
-      "date": "Wed, 20 May 2026 10:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "181yv9d",
-      "type": "github",
-      "title": "Emmimal/control-layer",
-      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
-      "link": "https://github.com/Emmimal/control-layer",
-      "date": "2026-05-18T04:38:38Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 55",
-        "Python"
-      ],
-      "min": null,
-      "stars": 55
     },
     {
       "id": "r0i7g5",
@@ -423,10 +454,10 @@
       "source": "GitHub",
       "author": "ather-techie",
       "tags": [
-        "⭐ 16"
+        "⭐ 17"
       ],
       "min": null,
-      "stars": 16
+      "stars": 17
     }
   ]
 }
