@@ -1,175 +1,7 @@
 {
-  "generatedAt": "2026-05-28T09:57:34.738Z",
-  "count": 34,
+  "generatedAt": "2026-05-29T09:48:20.046Z",
+  "count": 24,
   "cards": [
-    {
-      "id": "6iqll7",
-      "type": "substack",
-      "title": "According to Anthropic’s Engineer, HTML is the New Markdown for AI Agents",
-      "desc": "Why HTML is becoming the better default for AI-generated reports, reviews, and working surfaces.",
-      "link": "https://todatabeyond.substack.com/p/according-to-anthropics-engineer",
-      "date": "Thu, 28 May 2026 07:01:01 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 9
-    },
-    {
-      "id": "17ng9ww",
-      "type": "substack",
-      "title": "New Live Workshop: Hands-On Claude Cowork: From Prompts to Deliverables & Automated Workflows",
-      "desc": "Learn how to use Claude Cowork to delegate real tasks, organize files, connect your tools, and build recurring workflows that run without you.",
-      "link": "https://todatabeyond.substack.com/p/new-live-workshop-hands-on-claude",
-      "date": "Wed, 27 May 2026 02:10:59 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 2
-    },
-    {
-      "id": "g9vimj",
-      "type": "substack",
-      "title": "Building Deep Search Agent From Scratch — Step by Step Guide [1/12]",
-      "desc": "ParFraming the Problem: Why deep search matters, the limits of normal search and basic RAG, and what makes deep search different.",
-      "link": "https://todatabeyond.substack.com/p/building-deep-search-agent-from-scratch",
-      "date": "Mon, 25 May 2026 20:11:37 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 17
-    },
-    {
-      "id": "tumrlg",
-      "type": "substack",
-      "title": "I Built Claude OS — A System That Turns Claude into an Execution Engine",
-      "desc": "A GitHub repo with 100+ commands, MCP servers, plugins, workflows, and agent frameworks &#8212; all in one place.",
-      "link": "https://todatabeyond.substack.com/p/i-built-claude-os-a-system-that-turns",
-      "date": "Thu, 21 May 2026 18:12:44 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "11lqdrn",
-      "type": "substack",
-      "title": "The Designing Multi-Agent Deep Search Systems recording is now available + 50% Discount Till End of May",
-      "desc": "Hi everyone,",
-      "link": "https://todatabeyond.substack.com/p/the-designing-multi-agent-deep-search",
-      "date": "Wed, 20 May 2026 23:26:17 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 1
-    },
-    {
-      "id": "17e1try",
-      "type": "github",
-      "title": "YGYOOO/WorldX",
-      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
-      "link": "https://github.com/YGYOOO/WorldX",
-      "date": "2026-04-18T06:24:32Z",
-      "source": "GitHub",
-      "author": "YGYOOO",
-      "tags": [
-        "⭐ 941",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 941
-    },
-    {
-      "id": "c0lppj",
-      "type": "substack",
-      "title": "Designing Multi-Agent Deep Search Systems - 5 Seats Left",
-      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
-      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search-5e7",
-      "date": "Fri, 15 May 2026 13:23:52 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "19eiriu",
-      "type": "substack",
-      "title": "DeepSeek V4+ Turbovec + RAG: Better OCR & Self-Hosted",
-      "desc": "It was about two weeks ago that the AI &#8203;&#8203;industry was shaken to its core.",
-      "link": "https://todatabeyond.substack.com/p/deepseek-v4-turbovec-rag-better-ocr",
-      "date": "Thu, 14 May 2026 10:40:17 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "RAG"
-      ],
-      "min": 9
-    },
-    {
-      "id": "lji5y1",
-      "type": "substack",
-      "title": "Designing Multi-Agent Deep Search Systems - 10 Seats Left",
-      "desc": "A Practical Architecture Workshop for Planning, Tool Use, Validation, Merging",
-      "link": "https://todatabeyond.substack.com/p/designing-multi-agent-deep-search",
-      "date": "Wed, 13 May 2026 12:09:47 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "12hy38k",
-      "type": "substack",
-      "title": "Why Good AI Agents Look Less Like Chatbots and More Like Workshops",
-      "desc": "The Architecture of Trust",
-      "link": "https://www.llmwatch.com/p/why-good-ai-agents-look-less-like",
-      "date": "Wed, 27 May 2026 08:44:31 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 11
-    },
-    {
-      "id": "18adkqt",
-      "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-2f6",
-      "date": "Sun, 17 May 2026 18:49:53 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "1t8o2du",
-      "type": "github",
-      "title": "AIScientists-Dev/WorldSeed",
-      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-      "link": "https://github.com/AIScientists-Dev/WorldSeed",
-      "date": "2026-04-15T03:47:21Z",
-      "source": "GitHub",
-      "author": "AIScientists-Dev",
-      "tags": [
-        "⭐ 755",
-        "Python"
-      ],
-      "min": null,
-      "stars": 755
-    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -235,20 +67,20 @@
       "min": 12
     },
     {
-      "id": "1ojezf0",
+      "id": "17e1try",
       "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
+      "title": "YGYOOO/WorldX",
+      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+      "link": "https://github.com/YGYOOO/WorldX",
+      "date": "2026-04-18T06:24:32Z",
       "source": "GitHub",
-      "author": "FonaTech",
+      "author": "YGYOOO",
       "tags": [
-        "⭐ 202",
-        "Python"
+        "⭐ 980",
+        "TypeScript"
       ],
       "min": null,
-      "stars": 202
+      "stars": 980
     },
     {
       "id": "oesf1f",
@@ -287,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "1n0xde4",
+      "type": "news",
+      "title": "The Income Stack: How Smart Workers Are Building Six Figures Without a Single Job",
+      "desc": "Let me tell you something about kitchens. Real ones. The kind that run at 2 AM on a Formula 1 circuit when half your crew just walked because the staffing agency shorted their check. You learn fast who built something real — and who was just borrowing time from a system that was never going [&#8230;",
+      "link": "https://imfounder.com/entrepreneurship/income-stack-gen-z-freelance-gig-economy-2026/",
+      "date": "Thu, 28 May 2026 15:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 6
+    },
+    {
       "id": "3jdoin",
       "type": "news",
       "title": "Ferrari’s Luce EV Identity Crisis: Did Jony Ive Lose the Magic Without Steve Jobs?",
@@ -299,6 +143,22 @@
       "min": 6
     },
     {
+      "id": "1t8o2du",
+      "type": "github",
+      "title": "AIScientists-Dev/WorldSeed",
+      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+      "link": "https://github.com/AIScientists-Dev/WorldSeed",
+      "date": "2026-04-15T03:47:21Z",
+      "source": "GitHub",
+      "author": "AIScientists-Dev",
+      "tags": [
+        "⭐ 756",
+        "Python"
+      ],
+      "min": null,
+      "stars": 756
+    },
+    {
       "id": "c2tonr",
       "type": "news",
       "title": "Why Every Startup Suddenly Wants to Become an “AI Company”",
@@ -309,21 +169,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 6
-    },
-    {
-      "id": "11hs1rd",
-      "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
-      "source": "GitHub",
-      "author": "Google-Cloud-AI",
-      "tags": [
-        "⭐ 158"
-      ],
-      "min": null,
-      "stars": 158
     },
     {
       "id": "cwo2k6",
@@ -374,6 +219,22 @@
       "min": 7
     },
     {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 202",
+        "Python"
+      ],
+      "min": null,
+      "stars": 202
+    },
+    {
       "id": "10zb0hy",
       "type": "news",
       "title": "Google Just Declared War on Every App: Top 15 AI Bombshell Could Change the Internet Forever",
@@ -384,6 +245,21 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 6
+    },
+    {
+      "id": "11hs1rd",
+      "type": "github",
+      "title": "Google-Cloud-AI/agent-platform",
+      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+      "link": "https://github.com/Google-Cloud-AI/agent-platform",
+      "date": "2026-04-20T17:08:58Z",
+      "source": "GitHub",
+      "author": "Google-Cloud-AI",
+      "tags": [
+        "⭐ 160"
+      ],
+      "min": null,
+      "stars": 160
     },
     {
       "id": "181yv9d",
@@ -400,18 +276,6 @@
       ],
       "min": null,
       "stars": 56
-    },
-    {
-      "id": "1exkjz3",
-      "type": "news",
-      "title": "Google’s AI Takeover Is Destroying Websites — And Most Founders Still Don’t Realize It",
-      "desc": "The Silent Collapse of the Open Internet Has Already Started For nearly two decades, the internet worked on a simple deal: Creators, bloggers, journalists, founders, and publishers created content.Google indexed it.Users clicked links.Websites earned traffic, attention, ad revenue, subscribers, and ",
-      "link": "https://imfounder.com/science-tech/google-ai-destroying-websites-open-internet/",
-      "date": "Thu, 21 May 2026 09:44:48 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 5
     },
     {
       "id": "r0i7g5",
