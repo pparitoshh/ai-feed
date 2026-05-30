@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T09:48:20.046Z",
+  "generatedAt": "2026-05-30T08:24:55.329Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "YGYOOO",
       "tags": [
-        "⭐ 980",
+        "⭐ 983",
         "TypeScript"
       ],
       "min": null,
-      "stars": 980
+      "stars": 983
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,20 @@
       "min": 30
     },
     {
+      "id": "v33cly",
+      "type": "news",
+      "title": "May 2026 Was Absolute Chaos: The Explosive Month That Changed AI, Tech, Business — and the Internet",
+      "desc": "May 2026 did not feel like a normal month in technology. It felt like the industry accelerated all at once. Artificial intelligence stopped behaving like a tool and started behaving like infrastructure. Search engines began replacing websites with AI-generated answers. Autonomous agents moved closer",
+      "link": "https://imfounder.com/science-tech/may-2026-explosive-recap-ai-tech-global-events/",
+      "date": "Fri, 29 May 2026 11:57:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [
+        "agents"
+      ],
+      "min": 6
+    },
+    {
       "id": "1n0xde4",
       "type": "news",
       "title": "The Income Stack: How Smart Workers Are Building Six Figures Without a Single Job",
@@ -131,6 +145,22 @@
       "min": 6
     },
     {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 202",
+        "Python"
+      ],
+      "min": null,
+      "stars": 202
+    },
+    {
       "id": "3jdoin",
       "type": "news",
       "title": "Ferrari’s Luce EV Identity Crisis: Did Jony Ive Lose the Magic Without Steve Jobs?",
@@ -141,22 +171,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 6
-    },
-    {
-      "id": "1t8o2du",
-      "type": "github",
-      "title": "AIScientists-Dev/WorldSeed",
-      "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-      "link": "https://github.com/AIScientists-Dev/WorldSeed",
-      "date": "2026-04-15T03:47:21Z",
-      "source": "GitHub",
-      "author": "AIScientists-Dev",
-      "tags": [
-        "⭐ 756",
-        "Python"
-      ],
-      "min": null,
-      "stars": 756
     },
     {
       "id": "c2tonr",
@@ -207,46 +221,6 @@
       "min": 9
     },
     {
-      "id": "1ku6qtv",
-      "type": "news",
-      "title": "Apple&#8217;s &#8220;Unbreakable&#8221; M5 Chip Was Cracked by an AI in Just 7 Days — And It Changes Everything",
-      "desc": "A tiny Vietnamese security startup, armed with a preview of Anthropic&#8217;s most powerful AI, just pulled off something the industry thought was years away — cracking Apple&#8217;s M5 chip security in under a week. For years, Apple has built its brand on a simple, powerful promise: our devices are",
-      "link": "https://imfounder.com/science-tech/ai/apple-m5-chip-hacked-ai-claude-mythos/",
-      "date": "Fri, 22 May 2026 12:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 7
-    },
-    {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 202",
-        "Python"
-      ],
-      "min": null,
-      "stars": 202
-    },
-    {
-      "id": "10zb0hy",
-      "type": "news",
-      "title": "Google Just Declared War on Every App: Top 15 AI Bombshell Could Change the Internet Forever",
-      "desc": "Google Didn’t Just Launch AI Features at Google I/O 2026 — It Launched a New Computing Era This year’s Google I/O felt less like a developer conference and more like a preview of the post-smartphone future. Sundar Pichai and the Google team unveiled one of the most aggressive AI product rollouts the",
-      "link": "https://imfounder.com/science-tech/ai/google-io-2026-biggest-ai-announcements/",
-      "date": "Fri, 22 May 2026 09:03:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 6
-    },
-    {
       "id": "11hs1rd",
       "type": "github",
       "title": "Google-Cloud-AI/agent-platform",
@@ -260,6 +234,18 @@
       ],
       "min": null,
       "stars": 160
+    },
+    {
+      "id": "1ku6qtv",
+      "type": "news",
+      "title": "Apple&#8217;s &#8220;Unbreakable&#8221; M5 Chip Was Cracked by an AI in Just 7 Days — And It Changes Everything",
+      "desc": "A tiny Vietnamese security startup, armed with a preview of Anthropic&#8217;s most powerful AI, just pulled off something the industry thought was years away — cracking Apple&#8217;s M5 chip security in under a week. For years, Apple has built its brand on a simple, powerful promise: our devices are",
+      "link": "https://imfounder.com/science-tech/ai/apple-m5-chip-hacked-ai-claude-mythos/",
+      "date": "Fri, 22 May 2026 12:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 7
     },
     {
       "id": "181yv9d",
@@ -322,6 +308,22 @@
       ],
       "min": null,
       "stars": 17
+    },
+    {
+      "id": "o177ow",
+      "type": "github",
+      "title": "fahmiwol/sidix",
+      "desc": "Free & Open Source AI Agent — Self-Hosted, Self-Learning, No Vendor API. Qwen2.5-7B + LoRA. 35 tools. Built on Islamic Epistemology (IHOS).",
+      "link": "https://github.com/fahmiwol/sidix",
+      "date": "2026-04-17T13:08:54Z",
+      "source": "GitHub",
+      "author": "fahmiwol",
+      "tags": [
+        "⭐ 16",
+        "Python"
+      ],
+      "min": null,
+      "stars": 16
     }
   ]
 }
