@@ -1,7 +1,172 @@
 {
-  "generatedAt": "2026-05-30T08:24:55.329Z",
-  "count": 24,
+  "generatedAt": "2026-05-31T08:42:44.594Z",
+  "count": 34,
   "cards": [
+    {
+      "id": "12hy38k",
+      "type": "substack",
+      "title": "Why Good AI Agents Look Less Like Chatbots and More Like Workshops",
+      "desc": "The Architecture of Trust",
+      "link": "https://www.llmwatch.com/p/why-good-ai-agents-look-less-like",
+      "date": "Wed, 27 May 2026 08:44:31 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [
+        "agents"
+      ],
+      "min": 11
+    },
+    {
+      "id": "18adkqt",
+      "type": "substack",
+      "title": "AI Agents of the Week: Papers You Should Know About",
+      "desc": "Get ahead of the curve with LLM Watch",
+      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-2f6",
+      "date": "Sun, 17 May 2026 18:49:53 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "1bsqcnb",
+      "type": "substack",
+      "title": "Stop Chasing the Perfect Ontology",
+      "desc": "Start with a fixed, generic base and extend only when your data demands it.",
+      "link": "https://www.decodingai.com/p/ship-a-knowledge-graph-ontology-in-5-minutes",
+      "date": "Tue, 26 May 2026 05:00:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "f6xgcl",
+      "type": "substack",
+      "title": "Inside Neo4j's Agent Memory",
+      "desc": "The knowledge-graph patterns that turn one-shot conversations into compounding intelligence.",
+      "link": "https://www.decodingai.com/p/understanding-neo4j-graph-agent-memory-system",
+      "date": "Tue, 19 May 2026 08:55:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 13
+    },
+    {
+      "id": "3r9xgq",
+      "type": "substack",
+      "title": "From Vibe Coding to a Real Engineering Team",
+      "desc": "My Claude Code agentic coding setup that ships features end-to-end",
+      "link": "https://www.decodingai.com/p/squid-my-agentic-coding-setup-may-2026",
+      "date": "Tue, 12 May 2026 11:04:20 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "17e1try",
+      "type": "github",
+      "title": "YGYOOO/WorldX",
+      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+      "link": "https://github.com/YGYOOO/WorldX",
+      "date": "2026-04-18T06:24:32Z",
+      "source": "GitHub",
+      "author": "YGYOOO",
+      "tags": [
+        "⭐ 985",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 985
+    },
+    {
+      "id": "168zoe5",
+      "type": "substack",
+      "title": "Building Agentic GraphRAG Systems",
+      "desc": "From knowledge graphs and ontologies to a unified memory as an MCP server for your AI agent.",
+      "link": "https://www.decodingai.com/p/agentic-graphrag",
+      "date": "Tue, 05 May 2026 05:01:08 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents",
+        "graph"
+      ],
+      "min": 15
+    },
+    {
+      "id": "7oxfbx",
+      "type": "substack",
+      "title": "What Held Up at 3 AM: One Engineer's RAG Case Study",
+      "desc": "You iterate. You evaluate. Weave CLI unifies 11 vector databases into one workflow.",
+      "link": "https://www.decodingai.com/p/ship-rag-with-weave-cli",
+      "date": "Wed, 29 Apr 2026 11:04:33 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "RAG"
+      ],
+      "min": 21
+    },
+    {
+      "id": "159a19s",
+      "type": "substack",
+      "title": "Stop Orchestrating AI Agents. Use Ralph Loops Instead.",
+      "desc": "How one simple loop beats multi-agent orchestration and context rot in production.",
+      "link": "https://www.decodingai.com/p/ralph-loops",
+      "date": "Thu, 23 Apr 2026 11:02:54 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 8
+    },
+    {
+      "id": "14wpaf",
+      "type": "substack",
+      "title": "Karpathy Named It. I Built One on My Notes.",
+      "desc": "A deep research agent over my notes, highlights, and transcripts, grounded in years of curated thinking, not the public web.",
+      "link": "https://www.decodingai.com/p/llm-knowledge-base-obsidian-readwise-notebooklm",
+      "date": "Tue, 21 Apr 2026 08:00:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "1mb7t2l",
+      "type": "substack",
+      "title": "How to Ship a Weekly Article in One Day",
+      "desc": "Inside the agentic AI workflow behind my weekly newsletter, course, and content",
+      "link": "https://www.decodingai.com/p/how-i-automated-91-percent-of-my-business",
+      "date": "Wed, 15 Apr 2026 14:10:24 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 18
+    },
+    {
+      "id": "1as1cck",
+      "type": "github",
+      "title": "NirDiamant/Agent_Memory_Techniques",
+      "desc": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+      "link": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+      "date": "2026-05-05T21:08:23Z",
+      "source": "GitHub",
+      "author": "NirDiamant",
+      "tags": [
+        "⭐ 421",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 421
+    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -67,20 +232,20 @@
       "min": 12
     },
     {
-      "id": "17e1try",
+      "id": "1ojezf0",
       "type": "github",
-      "title": "YGYOOO/WorldX",
-      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
-      "link": "https://github.com/YGYOOO/WorldX",
-      "date": "2026-04-18T06:24:32Z",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
       "source": "GitHub",
-      "author": "YGYOOO",
+      "author": "FonaTech",
       "tags": [
-        "⭐ 983",
-        "TypeScript"
+        "⭐ 202",
+        "Python"
       ],
       "min": null,
-      "stars": 983
+      "stars": 202
     },
     {
       "id": "oesf1f",
@@ -119,6 +284,18 @@
       "min": 30
     },
     {
+      "id": "10epq5p",
+      "type": "news",
+      "title": "GLP-1 Is Eating the Food Industry From the Inside Out The End of Excess Appetite",
+      "desc": "The GLP-1 food industry disruption may become one of the biggest shifts in consumer spending over the next decade. The global food economy was built on a remarkably stable assumption: Consumers would continue wanting more. More appetizers. More alcohol. More snacks. More desserts. More late-night de",
+      "link": "https://imfounder.com/entrepreneurship/business/glp1-food-industry-ozempic/",
+      "date": "Sat, 30 May 2026 10:47:26 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 7
+    },
+    {
       "id": "v33cly",
       "type": "news",
       "title": "May 2026 Was Absolute Chaos: The Explosive Month That Changed AI, Tech, Business — and the Internet",
@@ -133,6 +310,21 @@
       "min": 6
     },
     {
+      "id": "11hs1rd",
+      "type": "github",
+      "title": "Google-Cloud-AI/agent-platform",
+      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+      "link": "https://github.com/Google-Cloud-AI/agent-platform",
+      "date": "2026-04-20T17:08:58Z",
+      "source": "GitHub",
+      "author": "Google-Cloud-AI",
+      "tags": [
+        "⭐ 162"
+      ],
+      "min": null,
+      "stars": 162
+    },
+    {
       "id": "1n0xde4",
       "type": "news",
       "title": "The Income Stack: How Smart Workers Are Building Six Figures Without a Single Job",
@@ -143,22 +335,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 6
-    },
-    {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 202",
-        "Python"
-      ],
-      "min": null,
-      "stars": 202
     },
     {
       "id": "3jdoin",
@@ -209,6 +385,22 @@
       "min": 7
     },
     {
+      "id": "181yv9d",
+      "type": "github",
+      "title": "Emmimal/control-layer",
+      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
+      "link": "https://github.com/Emmimal/control-layer",
+      "date": "2026-05-18T04:38:38Z",
+      "source": "GitHub",
+      "author": "Emmimal",
+      "tags": [
+        "⭐ 56",
+        "Python"
+      ],
+      "min": null,
+      "stars": 56
+    },
+    {
       "id": "u299cw",
       "type": "news",
       "title": "There Are Actually Two 2026 FIFA World Cups Happening",
@@ -221,44 +413,16 @@
       "min": 9
     },
     {
-      "id": "11hs1rd",
+      "id": "lb5go",
       "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
+      "title": "Cachetricoupling/Free-LLM",
+      "desc": "Free LLM APIs :  45+ providers with permanent free tiers, trial credits & no credit card required. Includes GPT-4o, Gemini, Claude, Llama, DeepSeek, Mistral & more. Updated weekly. free-llm llm-api free-api gpt-4o-free claude-api gemini-api llama-api deepseek-free mistral-api openai-alternative free-gpt ai-api llm generative-ai machine-learning",
+      "link": "https://github.com/Cachetricoupling/Free-LLM",
+      "date": "2026-04-30T00:36:14Z",
       "source": "GitHub",
-      "author": "Google-Cloud-AI",
+      "author": "Cachetricoupling",
       "tags": [
-        "⭐ 160"
-      ],
-      "min": null,
-      "stars": 160
-    },
-    {
-      "id": "1ku6qtv",
-      "type": "news",
-      "title": "Apple&#8217;s &#8220;Unbreakable&#8221; M5 Chip Was Cracked by an AI in Just 7 Days — And It Changes Everything",
-      "desc": "A tiny Vietnamese security startup, armed with a preview of Anthropic&#8217;s most powerful AI, just pulled off something the industry thought was years away — cracking Apple&#8217;s M5 chip security in under a week. For years, Apple has built its brand on a simple, powerful promise: our devices are",
-      "link": "https://imfounder.com/science-tech/ai/apple-m5-chip-hacked-ai-claude-mythos/",
-      "date": "Fri, 22 May 2026 12:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 7
-    },
-    {
-      "id": "181yv9d",
-      "type": "github",
-      "title": "Emmimal/control-layer",
-      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
-      "link": "https://github.com/Emmimal/control-layer",
-      "date": "2026-05-18T04:38:38Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 56",
-        "Python"
+        "⭐ 56"
       ],
       "min": null,
       "stars": 56
@@ -293,37 +457,6 @@
       ],
       "min": null,
       "stars": 19
-    },
-    {
-      "id": "gftxax",
-      "type": "github",
-      "title": "ather-techie/rag-interview-questions",
-      "desc": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
-      "link": "https://github.com/ather-techie/rag-interview-questions",
-      "date": "2026-05-19T11:59:17Z",
-      "source": "GitHub",
-      "author": "ather-techie",
-      "tags": [
-        "⭐ 17"
-      ],
-      "min": null,
-      "stars": 17
-    },
-    {
-      "id": "o177ow",
-      "type": "github",
-      "title": "fahmiwol/sidix",
-      "desc": "Free & Open Source AI Agent — Self-Hosted, Self-Learning, No Vendor API. Qwen2.5-7B + LoRA. 35 tools. Built on Islamic Epistemology (IHOS).",
-      "link": "https://github.com/fahmiwol/sidix",
-      "date": "2026-04-17T13:08:54Z",
-      "source": "GitHub",
-      "author": "fahmiwol",
-      "tags": [
-        "⭐ 16",
-        "Python"
-      ],
-      "min": null,
-      "stars": 16
     }
   ]
 }
