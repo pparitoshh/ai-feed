@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T11:26:47.809Z",
+  "generatedAt": "2026-06-02T10:17:32.680Z",
   "count": 24,
   "cards": [
     {
@@ -67,20 +67,20 @@
       "min": 12
     },
     {
-      "id": "17e1try",
+      "id": "1as1cck",
       "type": "github",
-      "title": "YGYOOO/WorldX",
-      "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
-      "link": "https://github.com/YGYOOO/WorldX",
-      "date": "2026-04-18T06:24:32Z",
+      "title": "NirDiamant/Agent_Memory_Techniques",
+      "desc": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+      "link": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+      "date": "2026-05-05T21:08:23Z",
       "source": "GitHub",
-      "author": "YGYOOO",
+      "author": "NirDiamant",
       "tags": [
-        "⭐ 997",
-        "TypeScript"
+        "⭐ 470",
+        "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 997
+      "stars": 470
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "126r6l3",
+      "type": "news",
+      "title": "7 Explosive Tech News Stories That Could Change the Future of Technology",
+      "desc": "Explosive Tech News June 2026&#160;is proving that the technology industry has entered a new era—one where artificial intelligence, cybersecurity, infrastructure, regulation, and public markets are colliding at unprecedented speed. In just a few days, we witnessed a U.S. state launch a historic laws",
+      "link": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/",
+      "date": "Tue, 02 Jun 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 6
+    },
+    {
       "id": "1bv7yze",
       "type": "news",
       "title": "AI Spending Crisis: The Shocking Cost of ChatGPT and Claude Inside Modern Companies",
@@ -131,6 +143,22 @@
       "min": 6
     },
     {
+      "id": "1ojezf0",
+      "type": "github",
+      "title": "FonaTech/Project_Chronos",
+      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+      "link": "https://github.com/FonaTech/Project_Chronos",
+      "date": "2026-04-19T21:05:18Z",
+      "source": "GitHub",
+      "author": "FonaTech",
+      "tags": [
+        "⭐ 202",
+        "Python"
+      ],
+      "min": null,
+      "stars": 202
+    },
+    {
       "id": "10epq5p",
       "type": "news",
       "title": "GLP-1 Is Eating the Food Industry From the Inside Out The End of Excess Appetite",
@@ -141,22 +169,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 7
-    },
-    {
-      "id": "1as1cck",
-      "type": "github",
-      "title": "NirDiamant/Agent_Memory_Techniques",
-      "desc": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
-      "link": "https://github.com/NirDiamant/Agent_Memory_Techniques",
-      "date": "2026-05-05T21:08:23Z",
-      "source": "GitHub",
-      "author": "NirDiamant",
-      "tags": [
-        "⭐ 425",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 425
     },
     {
       "id": "v33cly",
@@ -209,6 +221,21 @@
       "min": 6
     },
     {
+      "id": "11hs1rd",
+      "type": "github",
+      "title": "Google-Cloud-AI/agent-platform",
+      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
+      "link": "https://github.com/Google-Cloud-AI/agent-platform",
+      "date": "2026-04-20T17:08:58Z",
+      "source": "GitHub",
+      "author": "Google-Cloud-AI",
+      "tags": [
+        "⭐ 183"
+      ],
+      "min": null,
+      "stars": 183
+    },
+    {
       "id": "cwo2k6",
       "type": "news",
       "title": "LinkedIn Has a Fake Job Problem and People Are Finally Starting to Notice",
@@ -219,49 +246,6 @@
       "author": "Mistie Fowler",
       "tags": [],
       "min": 4
-    },
-    {
-      "id": "1ojezf0",
-      "type": "github",
-      "title": "FonaTech/Project_Chronos",
-      "desc": "⚡ Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
-      "link": "https://github.com/FonaTech/Project_Chronos",
-      "date": "2026-04-19T21:05:18Z",
-      "source": "GitHub",
-      "author": "FonaTech",
-      "tags": [
-        "⭐ 202",
-        "Python"
-      ],
-      "min": null,
-      "stars": 202
-    },
-    {
-      "id": "kwtp4q",
-      "type": "news",
-      "title": "Google’s $15 Billion AI Data Centre Push in Visakhapatnam: Water, Land, Tax Giveaways — and the Governance Failure Story India Must Debate",
-      "desc": "Visakhapatnam (Vizag) is being positioned as the next big node in India’s AI and cloud infrastructure. Google says it has&#160;broken ground&#160;on an&#160;AI hub in Vizag&#160;as part of a&#160;$15 billion investment, built with ecosystem partners including&#160;AdaniConneX&#160;and&#160;Airtel (N",
-      "link": "https://imfounder.com/science-tech/ai/google-vizag-ai-data-centre-water-land-tax-adani-modi/",
-      "date": "Mon, 25 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 7
-    },
-    {
-      "id": "11hs1rd",
-      "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
-      "source": "GitHub",
-      "author": "Google-Cloud-AI",
-      "tags": [
-        "⭐ 165"
-      ],
-      "min": null,
-      "stars": 165
     },
     {
       "id": "181yv9d",
@@ -280,21 +264,6 @@
       "stars": 56
     },
     {
-      "id": "lb5go",
-      "type": "github",
-      "title": "Cachetricoupling/Free-LLM",
-      "desc": "Free LLM APIs :  45+ providers with permanent free tiers, trial credits & no credit card required. Includes GPT-4o, Gemini, Claude, Llama, DeepSeek, Mistral & more. Updated weekly. free-llm llm-api free-api gpt-4o-free claude-api gemini-api llama-api deepseek-free mistral-api openai-alternative free-gpt ai-api llm generative-ai machine-learning",
-      "link": "https://github.com/Cachetricoupling/Free-LLM",
-      "date": "2026-04-30T00:36:14Z",
-      "source": "GitHub",
-      "author": "Cachetricoupling",
-      "tags": [
-        "⭐ 55"
-      ],
-      "min": null,
-      "stars": 55
-    },
-    {
       "id": "r0i7g5",
       "type": "github",
       "title": "IrtezaAsadRizvi/ai-megalist",
@@ -310,20 +279,51 @@
       "stars": 28
     },
     {
-      "id": "1twwfoy",
+      "id": "gftxax",
       "type": "github",
-      "title": "MuhammadIbtisam/ai-engineer-roadmap",
-      "desc": "A complete, hands-on roadmap to becoming an AI Engineer, from Python basics to production RAG, Agents, and Fine-Tuning. 10 modules, 20+ notebooks, 15 real projects. Free, open source, built for the community.",
-      "link": "https://github.com/MuhammadIbtisam/ai-engineer-roadmap",
-      "date": "2026-04-18T12:47:05Z",
+      "title": "ather-techie/rag-interview-questions",
+      "desc": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
+      "link": "https://github.com/ather-techie/rag-interview-questions",
+      "date": "2026-05-19T11:59:17Z",
       "source": "GitHub",
-      "author": "MuhammadIbtisam",
+      "author": "ather-techie",
       "tags": [
-        "⭐ 19",
+        "⭐ 18"
+      ],
+      "min": null,
+      "stars": 18
+    },
+    {
+      "id": "19w6oeh",
+      "type": "github",
+      "title": "fancyboi999/ai-engineering-from-scratch-zh",
+      "desc": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 如何成为一名Agent 工程师  修成指南",
+      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "date": "2026-05-26T12:45:07Z",
+      "source": "GitHub",
+      "author": "fancyboi999",
+      "tags": [
+        "⭐ 16",
         "Python"
       ],
       "min": null,
-      "stars": 19
+      "stars": 16
+    },
+    {
+      "id": "116q7ye",
+      "type": "github",
+      "title": "404stillhere/upg",
+      "desc": "Universal Prompt Generator — prompt-engineering system for text-to-image models. Spectrum of 1–5 calibrated prompts per theme, with safety/drift/cliche enforcement built into the pipeline.",
+      "link": "https://github.com/404stillhere/upg",
+      "date": "2026-04-20T02:19:12Z",
+      "source": "GitHub",
+      "author": "404stillhere",
+      "tags": [
+        "⭐ 13",
+        "Python"
+      ],
+      "min": null,
+      "stars": 13
     }
   ]
 }
