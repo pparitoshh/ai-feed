@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T10:52:59.524Z",
+  "generatedAt": "2026-06-04T09:52:14.440Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "NirDiamant",
       "tags": [
-        "⭐ 476",
+        "⭐ 481",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 476
+      "stars": 481
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,20 @@
       "min": 30
     },
     {
+      "id": "vj595v",
+      "type": "news",
+      "title": "7 Explosive AI Prompts Every Founder Needs Before Launching a Product in June 2026",
+      "desc": "Most startups don&#8217;t fail because of bad technology. They fail because founders build products nobody wants, target the wrong customers, ignore competitors, price incorrectly, or launch without a clear marketing plan. In 2026, AI has become one of the most powerful tools available to founders. ",
+      "link": "https://imfounder.com/science-tech/ai/ai-prompts/ai-prompts-founders-before-launching-product-june-2026/",
+      "date": "Thu, 04 Jun 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "mlops"
+      ],
+      "min": 5
+    },
+    {
       "id": "co0htk",
       "type": "news",
       "title": "9 Explosive WWDC 2026 Leaks That Reveal Apple&#8217;s Biggest AI Revolution Yet",
@@ -131,6 +145,22 @@
       "min": 6
     },
     {
+      "id": "181yv9d",
+      "type": "github",
+      "title": "Emmimal/control-layer",
+      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
+      "link": "https://github.com/Emmimal/control-layer",
+      "date": "2026-05-18T04:38:38Z",
+      "source": "GitHub",
+      "author": "Emmimal",
+      "tags": [
+        "⭐ 58",
+        "Python"
+      ],
+      "min": null,
+      "stars": 58
+    },
+    {
       "id": "126r6l3",
       "type": "news",
       "title": "7 Explosive Tech News Stories That Could Change the Future of Technology",
@@ -141,21 +171,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 6
-    },
-    {
-      "id": "11hs1rd",
-      "type": "github",
-      "title": "Google-Cloud-AI/agent-platform",
-      "desc": "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI).",
-      "link": "https://github.com/Google-Cloud-AI/agent-platform",
-      "date": "2026-04-20T17:08:58Z",
-      "source": "GitHub",
-      "author": "Google-Cloud-AI",
-      "tags": [
-        "⭐ 185"
-      ],
-      "min": null,
-      "stars": 185
     },
     {
       "id": "1bv7yze",
@@ -208,6 +223,22 @@
       "min": 6
     },
     {
+      "id": "19w6oeh",
+      "type": "github",
+      "title": "fancyboi999/ai-engineering-from-scratch-zh",
+      "desc": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 如何成为一名Agent 工程师  修成指南",
+      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "date": "2026-05-26T12:45:07Z",
+      "source": "GitHub",
+      "author": "fancyboi999",
+      "tags": [
+        "⭐ 29",
+        "Python"
+      ],
+      "min": null,
+      "stars": 29
+    },
+    {
       "id": "3jdoin",
       "type": "news",
       "title": "Ferrari’s Luce EV Identity Crisis: Did Jony Ive Lose the Magic Without Steve Jobs?",
@@ -216,34 +247,6 @@
       "date": "Thu, 28 May 2026 09:00:00 +0000",
       "source": "IM Founder",
       "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 6
-    },
-    {
-      "id": "181yv9d",
-      "type": "github",
-      "title": "Emmimal/control-layer",
-      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
-      "link": "https://github.com/Emmimal/control-layer",
-      "date": "2026-05-18T04:38:38Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 58",
-        "Python"
-      ],
-      "min": null,
-      "stars": 58
-    },
-    {
-      "id": "c2tonr",
-      "type": "news",
-      "title": "Why Every Startup Suddenly Wants to Become an “AI Company”",
-      "desc": "For years, startups proudly called themselves SaaS companies, fintech platforms, productivity apps, or marketplaces.Now almost every founder pitch sounds the same: “We are an AI-powered platform transforming the future of…” Even companies that barely used automation six months ago are suddenly rebra",
-      "link": "https://imfounder.com/entrepreneurship/why-every-startup-wants-to-become-an-ai-company/",
-      "date": "Wed, 27 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
       "tags": [],
       "min": 6
     },
@@ -263,35 +266,19 @@
       "stars": 28
     },
     {
-      "id": "19w6oeh",
-      "type": "github",
-      "title": "fancyboi999/ai-engineering-from-scratch-zh",
-      "desc": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 如何成为一名Agent 工程师  修成指南",
-      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "date": "2026-05-26T12:45:07Z",
-      "source": "GitHub",
-      "author": "fancyboi999",
-      "tags": [
-        "⭐ 24",
-        "Python"
-      ],
-      "min": null,
-      "stars": 24
-    },
-    {
       "id": "gftxax",
       "type": "github",
       "title": "ather-techie/rag-interview-questions",
-      "desc": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
+      "desc": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 100 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
       "link": "https://github.com/ather-techie/rag-interview-questions",
       "date": "2026-05-19T11:59:17Z",
       "source": "GitHub",
       "author": "ather-techie",
       "tags": [
-        "⭐ 18"
+        "⭐ 28"
       ],
       "min": null,
-      "stars": 18
+      "stars": 28
     },
     {
       "id": "1yezpij",
@@ -310,20 +297,36 @@
       "stars": 16
     },
     {
-      "id": "116q7ye",
+      "id": "1frwuvw",
       "type": "github",
-      "title": "404stillhere/upg",
-      "desc": "Universal Prompt Generator — prompt-engineering system for text-to-image models. Spectrum of 1–5 calibrated prompts per theme, with safety/drift/cliche enforcement built into the pipeline.",
-      "link": "https://github.com/404stillhere/upg",
-      "date": "2026-04-20T02:19:12Z",
+      "title": "Emmimal/llm-eval-layer",
+      "desc": "A lightweight LLM evaluation layer that turns subjective model outputs into deterministic decisions by scoring attribution, specificity, relevance, and context quality—designed to detect hallucinations and enable production-grade LLM reliability.",
+      "link": "https://github.com/Emmimal/llm-eval-layer",
+      "date": "2026-05-14T03:07:15Z",
       "source": "GitHub",
-      "author": "404stillhere",
+      "author": "Emmimal",
       "tags": [
-        "⭐ 13",
+        "⭐ 10",
         "Python"
       ],
       "min": null,
-      "stars": 13
+      "stars": 10
+    },
+    {
+      "id": "ejlurm",
+      "type": "github",
+      "title": "saiprabhakar/Pipecat-NSK-workshop-demo",
+      "desc": "No description.",
+      "link": "https://github.com/saiprabhakar/Pipecat-NSK-workshop-demo",
+      "date": "2026-05-12T01:12:29Z",
+      "source": "GitHub",
+      "author": "saiprabhakar",
+      "tags": [
+        "⭐ 8",
+        "Python"
+      ],
+      "min": null,
+      "stars": 8
     }
   ]
 }
