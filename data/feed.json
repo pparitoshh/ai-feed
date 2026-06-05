@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T09:52:14.440Z",
+  "generatedAt": "2026-06-05T09:41:04.862Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "NirDiamant",
       "tags": [
-        "⭐ 481",
+        "⭐ 484",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 481
+      "stars": 484
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "ohmjer",
+      "type": "news",
+      "title": "$11,000 World Cup Tickets. $30 Wages. Why SoFi Stadium Workers Are Ready to Strike",
+      "desc": "The SoFi Strike Heard Around the World as Workers Push Back Against the 2026 &#8220;AI World Cup.&#8221; The 2026 FIFA World Cup will generate at least $10.9 billion. Some economists believe the full cycle could exceed $15 billion. A face-value ticket to the final reached $10,990. A single luxury su",
+      "link": "https://imfounder.com/entrepreneurship/business/2026-fifa-world-cup-sofi-stadium-strike/",
+      "date": "Fri, 05 Jun 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 7
+    },
+    {
       "id": "vj595v",
       "type": "news",
       "title": "7 Explosive AI Prompts Every Founder Needs Before Launching a Product in June 2026",
@@ -131,18 +143,6 @@
         "mlops"
       ],
       "min": 5
-    },
-    {
-      "id": "co0htk",
-      "type": "news",
-      "title": "9 Explosive WWDC 2026 Leaks That Reveal Apple&#8217;s Biggest AI Revolution Yet",
-      "desc": "Apple&#8217;s&#160;WWDC 2026 leaks&#160;are painting a picture of what could become the company&#8217;s most important event since the introduction of Apple Intelligence. For months, rumors suggested Apple was preparing a major Siri overhaul. Now, multiple reports and leaks indicate that Apple may b",
-      "link": "https://imfounder.com/science-tech/ai/wwdc-2026-leaks-apple-ai-revolution/",
-      "date": "Wed, 03 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 6
     },
     {
       "id": "181yv9d",
@@ -159,6 +159,18 @@
       ],
       "min": null,
       "stars": 58
+    },
+    {
+      "id": "co0htk",
+      "type": "news",
+      "title": "9 Explosive WWDC 2026 Leaks That Reveal Apple&#8217;s Biggest AI Revolution Yet",
+      "desc": "Apple&#8217;s&#160;WWDC 2026 leaks&#160;are painting a picture of what could become the company&#8217;s most important event since the introduction of Apple Intelligence. For months, rumors suggested Apple was preparing a major Siri overhaul. Now, multiple reports and leaks indicate that Apple may b",
+      "link": "https://imfounder.com/science-tech/ai/wwdc-2026-leaks-apple-ai-revolution/",
+      "date": "Wed, 03 Jun 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 6
     },
     {
       "id": "126r6l3",
@@ -211,6 +223,21 @@
       "min": 6
     },
     {
+      "id": "gftxax",
+      "type": "github",
+      "title": "ather-techie/rag-interview-questions",
+      "desc": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 100 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
+      "link": "https://github.com/ather-techie/rag-interview-questions",
+      "date": "2026-05-19T11:59:17Z",
+      "source": "GitHub",
+      "author": "ather-techie",
+      "tags": [
+        "⭐ 45"
+      ],
+      "min": null,
+      "stars": 45
+    },
+    {
       "id": "1n0xde4",
       "type": "news",
       "title": "The Income Stack: How Smart Workers Are Building Six Figures Without a Single Job",
@@ -232,23 +259,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 29",
+        "⭐ 36",
         "Python"
       ],
       "min": null,
-      "stars": 29
-    },
-    {
-      "id": "3jdoin",
-      "type": "news",
-      "title": "Ferrari’s Luce EV Identity Crisis: Did Jony Ive Lose the Magic Without Steve Jobs?",
-      "desc": "For over two decades, Jony Ive was treated like a design god inside the tech world.The man behind the iPhone, iMac, MacBook Air, and Apple’s iconic minimalist era became synonymous with modern product design itself. But today, something feels different. The backlash surrounding Ferrari’s new EV — re",
-      "link": "https://imfounder.com/entrepreneurship/business/ferrari-luce-ev-jony-ive-design/",
-      "date": "Thu, 28 May 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 6
+      "stars": 36
     },
     {
       "id": "r0i7g5",
@@ -266,21 +281,6 @@
       "stars": 28
     },
     {
-      "id": "gftxax",
-      "type": "github",
-      "title": "ather-techie/rag-interview-questions",
-      "desc": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 100 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
-      "link": "https://github.com/ather-techie/rag-interview-questions",
-      "date": "2026-05-19T11:59:17Z",
-      "source": "GitHub",
-      "author": "ather-techie",
-      "tags": [
-        "⭐ 28"
-      ],
-      "min": null,
-      "stars": 28
-    },
-    {
       "id": "1yezpij",
       "type": "github",
       "title": "crimeacs/auto-improve",
@@ -290,11 +290,11 @@
       "source": "GitHub",
       "author": "crimeacs",
       "tags": [
-        "⭐ 16",
+        "⭐ 18",
         "Python"
       ],
       "min": null,
-      "stars": 16
+      "stars": 18
     },
     {
       "id": "1frwuvw",
