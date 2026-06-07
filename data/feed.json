@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T08:30:26.214Z",
+  "generatedAt": "2026-06-07T08:52:39.090Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "NirDiamant",
       "tags": [
-        "⭐ 487",
+        "⭐ 488",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 487
+      "stars": 488
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "1gesue",
+      "type": "news",
+      "title": "The 10 Greatest Turntables of All Time: A Founder’s Personal Collection and the Machines That Made Me Fall in Love with Vinyl",
+      "desc": "Every founder has something that helps them disconnect from the noise. For some, it&#8217;s sports. For others, it&#8217;s travel, photography, cars, or books. For me, it&#8217;s music. Long before I started building businesses, launching products, writing on IMFOUNDER, or spending countless nights ",
+      "link": "https://imfounder.com/music-culture/top-10-legendary-turntables-vintage-modern/",
+      "date": "Sat, 06 Jun 2026 09:31:09 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 5
+    },
+    {
       "id": "ohmjer",
       "type": "news",
       "title": "$11,000 World Cup Tickets. $30 Wages. Why SoFi Stadium Workers Are Ready to Strike",
@@ -129,20 +141,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 7
-    },
-    {
-      "id": "vj595v",
-      "type": "news",
-      "title": "7 Explosive AI Prompts Every Founder Needs Before Launching a Product in June 2026",
-      "desc": "Most startups don&#8217;t fail because of bad technology. They fail because founders build products nobody wants, target the wrong customers, ignore competitors, price incorrectly, or launch without a clear marketing plan. In 2026, AI has become one of the most powerful tools available to founders. ",
-      "link": "https://imfounder.com/science-tech/ai/ai-prompts/ai-prompts-founders-before-launching-product-june-2026/",
-      "date": "Thu, 04 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "mlops"
-      ],
-      "min": 5
     },
     {
       "id": "181yv9d",
@@ -159,6 +157,20 @@
       ],
       "min": null,
       "stars": 58
+    },
+    {
+      "id": "vj595v",
+      "type": "news",
+      "title": "7 Explosive AI Prompts Every Founder Needs Before Launching a Product in June 2026",
+      "desc": "Most startups don&#8217;t fail because of bad technology. They fail because founders build products nobody wants, target the wrong customers, ignore competitors, price incorrectly, or launch without a clear marketing plan. In 2026, AI has become one of the most powerful tools available to founders. ",
+      "link": "https://imfounder.com/science-tech/ai/ai-prompts/ai-prompts-founders-before-launching-product-june-2026/",
+      "date": "Thu, 04 Jun 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "mlops"
+      ],
+      "min": 5
     },
     {
       "id": "co0htk",
@@ -209,6 +221,22 @@
       "min": 7
     },
     {
+      "id": "19w6oeh",
+      "type": "github",
+      "title": "fancyboi999/ai-engineering-from-scratch-zh",
+      "desc": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 如何成为一名Agent 工程师  修成指南",
+      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "date": "2026-05-26T12:45:07Z",
+      "source": "GitHub",
+      "author": "fancyboi999",
+      "tags": [
+        "⭐ 53",
+        "Python"
+      ],
+      "min": null,
+      "stars": 53
+    },
+    {
       "id": "v33cly",
       "type": "news",
       "title": "May 2026 Was Absolute Chaos: The Explosive Month That Changed AI, Tech, Business — and the Internet",
@@ -226,44 +254,32 @@
       "id": "gftxax",
       "type": "github",
       "title": "ather-techie/rag-interview-questions",
-      "desc": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 100 questions across 10 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
+      "desc": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 140 questions across 12 types, from Naive RAG to Agentic, Graph, Self-RAG, and beyond. Includes difficulty tags, detailed answers, a cheatsheet, and a decision tree.",
       "link": "https://github.com/ather-techie/rag-interview-questions",
       "date": "2026-05-19T11:59:17Z",
       "source": "GitHub",
       "author": "ather-techie",
       "tags": [
-        "⭐ 47"
+        "⭐ 49"
       ],
       "min": null,
-      "stars": 47
+      "stars": 49
     },
     {
-      "id": "1n0xde4",
-      "type": "news",
-      "title": "The Income Stack: How Smart Workers Are Building Six Figures Without a Single Job",
-      "desc": "Let me tell you something about kitchens. Real ones. The kind that run at 2 AM on a Formula 1 circuit when half your crew just walked because the staffing agency shorted their check. You learn fast who built something real — and who was just borrowing time from a system that was never going [&#8230;",
-      "link": "https://imfounder.com/entrepreneurship/income-stack-gen-z-freelance-gig-economy-2026/",
-      "date": "Thu, 28 May 2026 15:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 6
-    },
-    {
-      "id": "19w6oeh",
+      "id": "1hpf63r",
       "type": "github",
-      "title": "fancyboi999/ai-engineering-from-scratch-zh",
-      "desc": "从零精通 AI 工程 · 20 阶段 468 课 · 中文全量翻译 + 配套站点 如何成为一名Agent 工程师  修成指南",
-      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "date": "2026-05-26T12:45:07Z",
+      "title": "MonetiseBG/circuit-breaker",
+      "desc": "Runtime economic governance for AI agents. Circuit Breaker adds risk-managed execution, cost ceilings, and kill switches to autonomous AI workflows.",
+      "link": "https://github.com/MonetiseBG/circuit-breaker",
+      "date": "2026-05-05T08:51:47Z",
       "source": "GitHub",
-      "author": "fancyboi999",
+      "author": "MonetiseBG",
       "tags": [
-        "⭐ 44",
-        "Python"
+        "⭐ 30",
+        "TypeScript"
       ],
       "min": null,
-      "stars": 44
+      "stars": 30
     },
     {
       "id": "r0i7g5",
@@ -290,11 +306,11 @@
       "source": "GitHub",
       "author": "crimeacs",
       "tags": [
-        "⭐ 18",
+        "⭐ 19",
         "Python"
       ],
       "min": null,
-      "stars": 18
+      "stars": 19
     },
     {
       "id": "1frwuvw",
@@ -311,22 +327,6 @@
       ],
       "min": null,
       "stars": 10
-    },
-    {
-      "id": "ejlurm",
-      "type": "github",
-      "title": "saiprabhakar/Pipecat-NSK-workshop-demo",
-      "desc": "No description.",
-      "link": "https://github.com/saiprabhakar/Pipecat-NSK-workshop-demo",
-      "date": "2026-05-12T01:12:29Z",
-      "source": "GitHub",
-      "author": "saiprabhakar",
-      "tags": [
-        "⭐ 8",
-        "Python"
-      ],
-      "min": null,
-      "stars": 8
     }
   ]
 }
