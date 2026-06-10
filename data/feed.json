@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T09:36:53.587Z",
-  "count": 24,
+  "generatedAt": "2026-06-10T09:53:21.157Z",
+  "count": 16,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "NirDiamant",
       "tags": [
-        "⭐ 493",
+        "⭐ 500",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 493
+      "stars": 500
     },
     {
       "id": "oesf1f",
@@ -119,30 +119,6 @@
       "min": 30
     },
     {
-      "id": "x9bebg",
-      "type": "news",
-      "title": "Apple Finally Unleashes Siri AI: The WWDC 2026 Announcement That Could Change the AI Race Forever",
-      "desc": "After years of delays, criticism, and playing catch-up to ChatGPT, Gemini, and Claude, Apple has finally revealed its biggest AI move yet. At WWDC 2026, the company introduced Siri AI — a completely rebuilt assistant designed for the age of artificial intelligence. For the first time in years, Apple",
-      "link": "https://imfounder.com/science-tech/apple-wwdc-2026-siri-ai-announcement/",
-      "date": "Mon, 08 Jun 2026 20:15:59 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "qs9tm9",
-      "type": "news",
-      "title": "Mark Carney’s AI for All: Why Canada’s Biggest AI Bet Could Be a Game-Changer for Founders and New Immigrants",
-      "desc": "Mark Carney AI for AllCanada has officially placed artificial intelligence at the center of its economic future. On June 4, 2026, Prime Minister Mark Carney unveiled Canada&#8217;s new national artificial intelligence strategy, called&#160;AI for All, a sweeping plan that aims to create 250,000 AI-r",
-      "link": "https://imfounder.com/science-tech/ai/mark-carney-ai-for-all-canada/",
-      "date": "Mon, 08 Jun 2026 14:07:00 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 5
-    },
-    {
       "id": "19w6oeh",
       "type": "github",
       "title": "fancyboi999/ai-engineering-from-scratch-zh",
@@ -152,75 +128,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 97",
+        "⭐ 121",
         "Python"
       ],
       "min": null,
-      "stars": 97
-    },
-    {
-      "id": "6t5r3m",
-      "type": "news",
-      "title": "AI Stock Market Crash Fears Surge as Nvidia Loses $300 Billion and Nasdaq Tumbles",
-      "desc": "Is the AI Boom Starting to Crack? AI Stock Market Crash&#160;fears exploded across Wall Street on June 5 after one of the most brutal selloffs in technology stocks since the AI revolution began. The Nasdaq plunged 4.2%, losing more than 1,100 points in a single session. Semiconductor companies colle",
-      "link": "https://imfounder.com/science-tech/ai/ai-stock-market-crash-nvidia-nasdaq-selloff/",
-      "date": "Mon, 08 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "uw05io",
-      "type": "news",
-      "title": "7 Explosive AI Updates in May 2026 That Will Shock Every Founder",
-      "desc": "The AI industry is growing up—and not everyone is going to like what comes next. Just six months ago, most conversations around artificial intelligence focused on one thing: capability. How smart is the model? Can it write code? Can it create videos? Can it replace employees? But June 2026 revealed ",
-      "link": "https://imfounder.com/science-tech/ai/7-explosive-ai-updates-june-2026/",
-      "date": "Sun, 07 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents"
-      ],
-      "min": 8
-    },
-    {
-      "id": "1gesue",
-      "type": "news",
-      "title": "The 10 Greatest Turntables of All Time: A Founder’s Personal Collection and the Machines That Made Me Fall in Love with Vinyl",
-      "desc": "Every founder has something that helps them disconnect from the noise. For some, it&#8217;s sports. For others, it&#8217;s travel, photography, cars, or books. For me, it&#8217;s music. Long before I started building businesses, launching products, writing on IMFOUNDER, or spending countless nights ",
-      "link": "https://imfounder.com/music-culture/top-10-legendary-turntables-vintage-modern/",
-      "date": "Sat, 06 Jun 2026 09:31:09 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "ohmjer",
-      "type": "news",
-      "title": "$11,000 World Cup Tickets. $30 Wages. Why SoFi Stadium Workers Are Ready to Strike",
-      "desc": "The SoFi Strike Heard Around the World as Workers Push Back Against the 2026 &#8220;AI World Cup.&#8221; The 2026 FIFA World Cup will generate at least $10.9 billion. Some economists believe the full cycle could exceed $15 billion. A face-value ticket to the final reached $10,990. A single luxury su",
-      "link": "https://imfounder.com/entrepreneurship/business/2026-fifa-world-cup-sofi-stadium-strike/",
-      "date": "Fri, 05 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 7
-    },
-    {
-      "id": "vj595v",
-      "type": "news",
-      "title": "7 Explosive AI Prompts Every Founder Needs Before Launching a Product in June 2026",
-      "desc": "Most startups don&#8217;t fail because of bad technology. They fail because founders build products nobody wants, target the wrong customers, ignore competitors, price incorrectly, or launch without a clear marketing plan. In 2026, AI has become one of the most powerful tools available to founders. ",
-      "link": "https://imfounder.com/science-tech/ai/ai-prompts/ai-prompts-founders-before-launching-product-june-2026/",
-      "date": "Thu, 04 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "mlops"
-      ],
-      "min": 5
+      "stars": 121
     },
     {
       "id": "181yv9d",
@@ -239,18 +151,6 @@
       "stars": 58
     },
     {
-      "id": "co0htk",
-      "type": "news",
-      "title": "9 Explosive WWDC 2026 Leaks That Reveal Apple&#8217;s Biggest AI Revolution Yet",
-      "desc": "Apple&#8217;s&#160;WWDC 2026 leaks&#160;are painting a picture of what could become the company&#8217;s most important event since the introduction of Apple Intelligence. For months, rumors suggested Apple was preparing a major Siri overhaul. Now, multiple reports and leaks indicate that Apple may b",
-      "link": "https://imfounder.com/science-tech/ai/wwdc-2026-leaks-apple-ai-revolution/",
-      "date": "Wed, 03 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 6
-    },
-    {
       "id": "i15x39",
       "type": "github",
       "title": "ather-techie/rag-interview-system",
@@ -260,10 +160,10 @@
       "source": "GitHub",
       "author": "ather-techie",
       "tags": [
-        "⭐ 52"
+        "⭐ 53"
       ],
       "min": null,
-      "stars": 52
+      "stars": 53
     },
     {
       "id": "1hpf63r",
