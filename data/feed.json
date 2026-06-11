@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T09:53:21.157Z",
+  "generatedAt": "2026-06-11T10:17:53.033Z",
   "count": 16,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "NirDiamant",
       "tags": [
-        "⭐ 500",
+        "⭐ 505",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 500
+      "stars": 505
     },
     {
       "id": "oesf1f",
@@ -128,11 +128,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 121",
+        "⭐ 135",
         "Python"
       ],
       "min": null,
-      "stars": 121
+      "stars": 135
     },
     {
       "id": "181yv9d",
@@ -144,11 +144,11 @@
       "source": "GitHub",
       "author": "Emmimal",
       "tags": [
-        "⭐ 58",
+        "⭐ 59",
         "Python"
       ],
       "min": null,
-      "stars": 58
+      "stars": 59
     },
     {
       "id": "i15x39",
@@ -164,6 +164,21 @@
       ],
       "min": null,
       "stars": 53
+    },
+    {
+      "id": "r0i7g5",
+      "type": "github",
+      "title": "IrtezaAsadRizvi/ai-megalist",
+      "desc": "Curated index of 200+ AI tools, one writeup per tool with hands-on takes. Covers coding, design, research, video, voice, agents, music, local LLMs. Compare alternatives, see real pricing, find the right tool for the job.",
+      "link": "https://github.com/IrtezaAsadRizvi/ai-megalist",
+      "date": "2026-04-30T13:14:58Z",
+      "source": "GitHub",
+      "author": "IrtezaAsadRizvi",
+      "tags": [
+        "⭐ 30"
+      ],
+      "min": null,
+      "stars": 30
     },
     {
       "id": "1hpf63r",
@@ -182,21 +197,6 @@
       "stars": 30
     },
     {
-      "id": "r0i7g5",
-      "type": "github",
-      "title": "IrtezaAsadRizvi/ai-megalist",
-      "desc": "Curated index of 200+ AI tools, one writeup per tool with hands-on takes. Covers coding, design, research, video, voice, agents, music, local LLMs. Compare alternatives, see real pricing, find the right tool for the job.",
-      "link": "https://github.com/IrtezaAsadRizvi/ai-megalist",
-      "date": "2026-04-30T13:14:58Z",
-      "source": "GitHub",
-      "author": "IrtezaAsadRizvi",
-      "tags": [
-        "⭐ 29"
-      ],
-      "min": null,
-      "stars": 29
-    },
-    {
       "id": "1yezpij",
       "type": "github",
       "title": "crimeacs/auto-improve",
@@ -206,11 +206,11 @@
       "source": "GitHub",
       "author": "crimeacs",
       "tags": [
-        "⭐ 19",
+        "⭐ 20",
         "Python"
       ],
       "min": null,
-      "stars": 19
+      "stars": 20
     },
     {
       "id": "1frwuvw",
