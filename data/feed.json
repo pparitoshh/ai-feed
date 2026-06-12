@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-11T10:17:53.033Z",
-  "count": 16,
+  "generatedAt": "2026-06-12T10:05:35.455Z",
+  "count": 24,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "NirDiamant",
       "tags": [
-        "⭐ 505",
+        "⭐ 507",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 505
+      "stars": 507
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,32 @@
       "min": 30
     },
     {
+      "id": "fbz99b",
+      "type": "news",
+      "title": "Apple Forgot Steve Jobs&#8217; Most Important Lesson: Design Is How It Works",
+      "desc": "Apple is one of the most successful companies in human history. It is the most profitable consumer technology company on Earth, commands a market capitalization larger than the GDP of many countries, and continues to sell millions of iPhones, Macs, iPads, and wearables every quarter. Yet despite tho",
+      "link": "https://imfounder.com/science-tech/apple-forgot-steve-jobs-design-is-how-it-works/",
+      "date": "Fri, 12 Jun 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "mlops"
+      ],
+      "min": 8
+    },
+    {
+      "id": "1o7wfts",
+      "type": "news",
+      "title": "Inside the Trump Mobile Scandal: How a $499 “Made in USA” Promise Was Exposed as a Reskinned Chinese Phone",
+      "desc": "The pitch was peak economic nationalism: a $499 smartphone engineered and manufactured entirely in the United States, keeping data safe from foreign intelligence and bringing manufacturing jobs back to American soil. For months, Trump Mobile leveraged national security fears to rack up pre-orders fr",
+      "link": "https://imfounder.com/science-tech/trump-mobile-scandal-htc-clone/",
+      "date": "Thu, 11 Jun 2026 15:30:00 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 4
+    },
+    {
       "id": "19w6oeh",
       "type": "github",
       "title": "fancyboi999/ai-engineering-from-scratch-zh",
@@ -128,11 +154,79 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 135",
+        "⭐ 187",
         "Python"
       ],
       "min": null,
-      "stars": 135
+      "stars": 187
+    },
+    {
+      "id": "dngaqv",
+      "type": "news",
+      "title": "Ghost Trucks: Inside America&#8217;s Driverless Food Distribution Network",
+      "desc": "&#8220;They didn&#8217;t corner the food business with recipes. They cornered it with trucks, warehouses, routes, and the quiet understanding that eventually everybody&#8217;s kitchen would run through them anyway.&#8221; The trucks still arrive before sunrise. Most restaurant owners never think abo",
+      "link": "https://imfounder.com/lifestyle/ghost-trucks-driverless-food-distribution-network/",
+      "date": "Thu, 11 Jun 2026 11:24:47 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [
+        "distributed"
+      ],
+      "min": 5
+    },
+    {
+      "id": "lxvf24",
+      "type": "news",
+      "title": "Claude Fable 5 Unleashed: The AI Anthropic Called Too Dangerous Is Now Open to Every Founder",
+      "desc": "Something significant happened yesterday — and most founders still haven&#8217;t processed it. Anthropic launched&#160;Claude Fable 5&#160;on June 9, 2026. Not another model update. Not a fine-tuned variant. The first publicly available&#160;Mythos-class AI&#160;— the same tier of intelligence that ",
+      "link": "https://imfounder.com/science-tech/ai/claude-fable-5-unleashed-anthropic-dangerous-ai-founders/",
+      "date": "Wed, 10 Jun 2026 08:57:27 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents",
+        "LLM",
+        "eval"
+      ],
+      "min": 7
+    },
+    {
+      "id": "hzl7iq",
+      "type": "news",
+      "title": "Asha Sharma&#8217;s First 100 Days at Xbox: How a Non-Gamer Is Rewriting the Future of Gaming",
+      "desc": "Xbox is celebrating 25 years — but its most dramatic transformation may be happening right now. Its most surprising leader may be proving that expertise isn&#8217;t always about playing the game—it&#8217;s about understanding the people who do. Nobody Expected Asha Sharma When Microsoft announced th",
+      "link": "https://imfounder.com/entrepreneurship/asha-sharma-first-100-days-xbox-25th-anniversary/",
+      "date": "Tue, 09 Jun 2026 10:23:22 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [
+        "transformers"
+      ],
+      "min": 9
+    },
+    {
+      "id": "x9bebg",
+      "type": "news",
+      "title": "Apple Finally Unleashes Siri AI: The WWDC 2026 Announcement That Could Change the AI Race Forever",
+      "desc": "After years of delays, criticism, and playing catch-up to ChatGPT, Gemini, and Claude, Apple has finally revealed its biggest AI move yet. At WWDC 2026, the company introduced Siri AI — a completely rebuilt assistant designed for the age of artificial intelligence. For the first time in years, Apple",
+      "link": "https://imfounder.com/science-tech/apple-wwdc-2026-siri-ai-announcement/",
+      "date": "Mon, 08 Jun 2026 20:15:59 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 5
+    },
+    {
+      "id": "qs9tm9",
+      "type": "news",
+      "title": "Mark Carney’s AI for All: Why Canada’s Biggest AI Bet Could Be a Game-Changer for Founders and New Immigrants",
+      "desc": "Mark Carney AI for AllCanada has officially placed artificial intelligence at the center of its economic future. On June 4, 2026, Prime Minister Mark Carney unveiled Canada&#8217;s new national artificial intelligence strategy, called&#160;AI for All, a sweeping plan that aims to create 250,000 AI-r",
+      "link": "https://imfounder.com/science-tech/ai/mark-carney-ai-for-all-canada/",
+      "date": "Mon, 08 Jun 2026 14:07:00 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 5
     },
     {
       "id": "181yv9d",
@@ -151,19 +245,31 @@
       "stars": 59
     },
     {
+      "id": "6t5r3m",
+      "type": "news",
+      "title": "AI Stock Market Crash Fears Surge as Nvidia Loses $300 Billion and Nasdaq Tumbles",
+      "desc": "Is the AI Boom Starting to Crack? AI Stock Market Crash&#160;fears exploded across Wall Street on June 5 after one of the most brutal selloffs in technology stocks since the AI revolution began. The Nasdaq plunged 4.2%, losing more than 1,100 points in a single session. Semiconductor companies colle",
+      "link": "https://imfounder.com/science-tech/ai/ai-stock-market-crash-nvidia-nasdaq-selloff/",
+      "date": "Mon, 08 Jun 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 5
+    },
+    {
       "id": "i15x39",
       "type": "github",
       "title": "ather-techie/rag-interview-system",
-      "desc": "A complete collection of RAG interview questions, answers (200 questions & 12 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
+      "desc": "A complete collection of RAG interview questions, answers (204 questions & 12 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
       "link": "https://github.com/ather-techie/rag-interview-system",
       "date": "2026-05-19T11:59:17Z",
       "source": "GitHub",
       "author": "ather-techie",
       "tags": [
-        "⭐ 53"
+        "⭐ 55"
       ],
       "min": null,
-      "stars": 53
+      "stars": 55
     },
     {
       "id": "r0i7g5",
