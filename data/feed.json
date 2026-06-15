@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T09:28:48.502Z",
+  "generatedAt": "2026-06-15T11:57:44.110Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "NirDiamant",
       "tags": [
-        "⭐ 515",
+        "⭐ 518",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 515
+      "stars": 518
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,50 @@
       "min": 30
     },
     {
+      "id": "1ty7v6k",
+      "type": "news",
+      "title": "AMD CEO Lisa Su just killed Nvidia&#8217;s $4,000 AI box with a $1,499 lunchbox.",
+      "desc": "She walked on stage, held it in one hand, and ran a 235-billion-parameter model live. No data center. No cloud. No rented GPU. The chip inside is something nobody saw coming. The&#160;AMD Ryzen AI Max+ 395&#160;is the first x86 silicon where CPU and GPU share the same 128GB of memory. That single tr",
+      "link": "https://imfounder.com/science-tech/ai/amd-ryzen-ai-max-395-kills-nvidias-ai-box/",
+      "date": "Mon, 15 Jun 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [
+        "LLM"
+      ],
+      "min": 7
+    },
+    {
+      "id": "irzdml",
+      "type": "news",
+      "title": "15 Explosive AI Updates June 2026: Siri AI Revolution, Gemini Live Translate, Claude Controversy &#038; More",
+      "desc": "AI Updates June 2026&#160;delivered one of the busiest weeks the artificial intelligence industry has seen this year. From Apple unveiling a dramatically rebuilt Siri experience to Google introducing real-time voice translation and Anthropic facing controversy over access restrictions to its newest ",
+      "link": "https://imfounder.com/science-tech/ai/ai-updates-june-2026-siri-gemini-claude/",
+      "date": "Sun, 14 Jun 2026 22:54:30 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents"
+      ],
+      "min": 6
+    },
+    {
+      "id": "19w6oeh",
+      "type": "github",
+      "title": "fancyboi999/ai-engineering-from-scratch-zh",
+      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
+      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "date": "2026-05-26T12:45:07Z",
+      "source": "GitHub",
+      "author": "fancyboi999",
+      "tags": [
+        "⭐ 339",
+        "Python"
+      ],
+      "min": null,
+      "stars": 339
+    },
+    {
       "id": "bgyvfe",
       "type": "news",
       "title": "Anthropic Fable 5 Shockwave: Why the AI Arms Race Just Turned Geopolitical",
@@ -141,22 +185,6 @@
       "author": "Oliver Timbrell",
       "tags": [],
       "min": 5
-    },
-    {
-      "id": "19w6oeh",
-      "type": "github",
-      "title": "fancyboi999/ai-engineering-from-scratch-zh",
-      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 · 如何成为 AI Agent 工程师的修成指南",
-      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "date": "2026-05-26T12:45:07Z",
-      "source": "GitHub",
-      "author": "fancyboi999",
-      "tags": [
-        "⭐ 255",
-        "Python"
-      ],
-      "min": null,
-      "stars": 255
     },
     {
       "id": "fbz99b",
@@ -199,6 +227,21 @@
       "min": 5
     },
     {
+      "id": "i15x39",
+      "type": "github",
+      "title": "ather-techie/rag-interview-system",
+      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
+      "link": "https://github.com/ather-techie/rag-interview-system",
+      "date": "2026-05-19T11:59:17Z",
+      "source": "GitHub",
+      "author": "ather-techie",
+      "tags": [
+        "⭐ 63"
+      ],
+      "min": null,
+      "stars": 63
+    },
+    {
       "id": "lxvf24",
       "type": "news",
       "title": "Claude Fable 5 Unleashed: The AI Anthropic Called Too Dangerous Is Now Open to Every Founder",
@@ -213,47 +256,6 @@
         "eval"
       ],
       "min": 7
-    },
-    {
-      "id": "hzl7iq",
-      "type": "news",
-      "title": "Asha Sharma&#8217;s First 100 Days at Xbox: How a Non-Gamer Is Rewriting the Future of Gaming",
-      "desc": "Xbox is celebrating 25 years — but its most dramatic transformation may be happening right now. Its most surprising leader may be proving that expertise isn&#8217;t always about playing the game—it&#8217;s about understanding the people who do. Nobody Expected Asha Sharma When Microsoft announced th",
-      "link": "https://imfounder.com/entrepreneurship/asha-sharma-first-100-days-xbox-25th-anniversary/",
-      "date": "Tue, 09 Jun 2026 10:23:22 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [
-        "transformers"
-      ],
-      "min": 9
-    },
-    {
-      "id": "i15x39",
-      "type": "github",
-      "title": "ather-techie/rag-interview-system",
-      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
-      "link": "https://github.com/ather-techie/rag-interview-system",
-      "date": "2026-05-19T11:59:17Z",
-      "source": "GitHub",
-      "author": "ather-techie",
-      "tags": [
-        "⭐ 60"
-      ],
-      "min": null,
-      "stars": 60
-    },
-    {
-      "id": "x9bebg",
-      "type": "news",
-      "title": "Apple Finally Unleashes Siri AI: The WWDC 2026 Announcement That Could Change the AI Race Forever",
-      "desc": "After years of delays, criticism, and playing catch-up to ChatGPT, Gemini, and Claude, Apple has finally revealed its biggest AI move yet. At WWDC 2026, the company introduced Siri AI — a completely rebuilt assistant designed for the age of artificial intelligence. For the first time in years, Apple",
-      "link": "https://imfounder.com/science-tech/apple-wwdc-2026-siri-ai-announcement/",
-      "date": "Mon, 08 Jun 2026 20:15:59 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 5
     },
     {
       "id": "181yv9d",
@@ -304,22 +306,6 @@
       "stars": 20
     },
     {
-      "id": "1frwuvw",
-      "type": "github",
-      "title": "Emmimal/llm-eval-layer",
-      "desc": "A lightweight LLM evaluation layer that turns subjective model outputs into deterministic decisions by scoring attribution, specificity, relevance, and context quality—designed to detect hallucinations and enable production-grade LLM reliability.",
-      "link": "https://github.com/Emmimal/llm-eval-layer",
-      "date": "2026-05-14T03:07:15Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 10",
-        "Python"
-      ],
-      "min": null,
-      "stars": 10
-    },
-    {
       "id": "1hg7bdo",
       "type": "github",
       "title": "entanglr/awesome-vintage-llms",
@@ -329,10 +315,26 @@
       "source": "GitHub",
       "author": "entanglr",
       "tags": [
-        "⭐ 10"
+        "⭐ 11"
       ],
       "min": null,
-      "stars": 10
+      "stars": 11
+    },
+    {
+      "id": "1e6xcss",
+      "type": "github",
+      "title": "wanshuiyin/ARIS-Movie-Director",
+      "desc": "Agentic, long-horizon visual generation: a fuzzy story → a cross-model-audited image-based movie. Brings ARIS's research-wiki + multi-agent debate to multimodal generation (intelligence lives in the agent; the diffusion model just renders). Image-based today, video next.",
+      "link": "https://github.com/wanshuiyin/ARIS-Movie-Director",
+      "date": "2026-06-09T11:20:33Z",
+      "source": "GitHub",
+      "author": "wanshuiyin",
+      "tags": [
+        "⭐ 11",
+        "Python"
+      ],
+      "min": null,
+      "stars": 11
     }
   ]
 }
