@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T11:57:44.110Z",
+  "generatedAt": "2026-06-16T11:05:20.208Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "NirDiamant",
       "tags": [
-        "⭐ 518",
+        "⭐ 525",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 518
+      "stars": 525
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "1azf4i9",
+      "type": "news",
+      "title": "16 Countries Banning Kids From Social Media in 2026 — And the List Is Shockingly Growing",
+      "desc": "From Australia to the UK and Canada, governments are finally declaring war on the brain rot epidemic destroying a generation The number of countries banning kids from social media reached at least 16 in June 2026 — and two of the world&#8217;s most influential democracies just joined the movement in",
+      "link": "https://imfounder.com/science-tech/countries-banning-kids-from-social-media-2026/",
+      "date": "Tue, 16 Jun 2026 10:14:09 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 9
+    },
+    {
       "id": "1ty7v6k",
       "type": "news",
       "title": "AMD CEO Lisa Su just killed Nvidia&#8217;s $4,000 AI box with a $1,499 lunchbox.",
@@ -133,6 +145,22 @@
       "min": 7
     },
     {
+      "id": "19w6oeh",
+      "type": "github",
+      "title": "fancyboi999/ai-engineering-from-scratch-zh",
+      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
+      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "date": "2026-05-26T12:45:07Z",
+      "source": "GitHub",
+      "author": "fancyboi999",
+      "tags": [
+        "⭐ 371",
+        "Python"
+      ],
+      "min": null,
+      "stars": 371
+    },
+    {
       "id": "irzdml",
       "type": "news",
       "title": "15 Explosive AI Updates June 2026: Siri AI Revolution, Gemini Live Translate, Claude Controversy &#038; More",
@@ -145,22 +173,6 @@
         "agents"
       ],
       "min": 6
-    },
-    {
-      "id": "19w6oeh",
-      "type": "github",
-      "title": "fancyboi999/ai-engineering-from-scratch-zh",
-      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
-      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "date": "2026-05-26T12:45:07Z",
-      "source": "GitHub",
-      "author": "fancyboi999",
-      "tags": [
-        "⭐ 339",
-        "Python"
-      ],
-      "min": null,
-      "stars": 339
     },
     {
       "id": "bgyvfe",
@@ -213,6 +225,21 @@
       "min": 4
     },
     {
+      "id": "i15x39",
+      "type": "github",
+      "title": "ather-techie/rag-interview-system",
+      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
+      "link": "https://github.com/ather-techie/rag-interview-system",
+      "date": "2026-05-19T11:59:17Z",
+      "source": "GitHub",
+      "author": "ather-techie",
+      "tags": [
+        "⭐ 64"
+      ],
+      "min": null,
+      "stars": 64
+    },
+    {
       "id": "dngaqv",
       "type": "news",
       "title": "Ghost Trucks: Inside America&#8217;s Driverless Food Distribution Network",
@@ -225,37 +252,6 @@
         "distributed"
       ],
       "min": 5
-    },
-    {
-      "id": "i15x39",
-      "type": "github",
-      "title": "ather-techie/rag-interview-system",
-      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
-      "link": "https://github.com/ather-techie/rag-interview-system",
-      "date": "2026-05-19T11:59:17Z",
-      "source": "GitHub",
-      "author": "ather-techie",
-      "tags": [
-        "⭐ 63"
-      ],
-      "min": null,
-      "stars": 63
-    },
-    {
-      "id": "lxvf24",
-      "type": "news",
-      "title": "Claude Fable 5 Unleashed: The AI Anthropic Called Too Dangerous Is Now Open to Every Founder",
-      "desc": "Something significant happened yesterday — and most founders still haven&#8217;t processed it. Anthropic launched&#160;Claude Fable 5&#160;on June 9, 2026. Not another model update. Not a fine-tuned variant. The first publicly available&#160;Mythos-class AI&#160;— the same tier of intelligence that ",
-      "link": "https://imfounder.com/science-tech/ai/claude-fable-5-unleashed-anthropic-dangerous-ai-founders/",
-      "date": "Wed, 10 Jun 2026 08:57:27 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents",
-        "LLM",
-        "eval"
-      ],
-      "min": 7
     },
     {
       "id": "181yv9d",
@@ -306,21 +302,6 @@
       "stars": 20
     },
     {
-      "id": "1hg7bdo",
-      "type": "github",
-      "title": "entanglr/awesome-vintage-llms",
-      "desc": "A curated list of vintage large language models — also called historical or time-capsule LLMs — trained from scratch on text from bounded historical periods, along with the papers, datasets, demos, and discussions surrounding them.",
-      "link": "https://github.com/entanglr/awesome-vintage-llms",
-      "date": "2026-05-03T08:56:33Z",
-      "source": "GitHub",
-      "author": "entanglr",
-      "tags": [
-        "⭐ 11"
-      ],
-      "min": null,
-      "stars": 11
-    },
-    {
       "id": "1e6xcss",
       "type": "github",
       "title": "wanshuiyin/ARIS-Movie-Director",
@@ -329,6 +310,22 @@
       "date": "2026-06-09T11:20:33Z",
       "source": "GitHub",
       "author": "wanshuiyin",
+      "tags": [
+        "⭐ 13",
+        "Python"
+      ],
+      "min": null,
+      "stars": 13
+    },
+    {
+      "id": "1frwuvw",
+      "type": "github",
+      "title": "Emmimal/llm-eval-layer",
+      "desc": "A lightweight LLM evaluation layer that turns subjective model outputs into deterministic decisions by scoring attribution, specificity, relevance, and context quality—designed to detect hallucinations and enable production-grade LLM reliability.",
+      "link": "https://github.com/Emmimal/llm-eval-layer",
+      "date": "2026-05-14T03:07:15Z",
+      "source": "GitHub",
+      "author": "Emmimal",
       "tags": [
         "⭐ 11",
         "Python"
