@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T11:05:20.208Z",
-  "count": 24,
+  "generatedAt": "2026-06-17T10:49:29.463Z",
+  "count": 16,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "NirDiamant",
       "tags": [
-        "⭐ 525",
+        "⭐ 529",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 525
+      "stars": 529
     },
     {
       "id": "oesf1f",
@@ -119,32 +119,6 @@
       "min": 30
     },
     {
-      "id": "1azf4i9",
-      "type": "news",
-      "title": "16 Countries Banning Kids From Social Media in 2026 — And the List Is Shockingly Growing",
-      "desc": "From Australia to the UK and Canada, governments are finally declaring war on the brain rot epidemic destroying a generation The number of countries banning kids from social media reached at least 16 in June 2026 — and two of the world&#8217;s most influential democracies just joined the movement in",
-      "link": "https://imfounder.com/science-tech/countries-banning-kids-from-social-media-2026/",
-      "date": "Tue, 16 Jun 2026 10:14:09 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "1ty7v6k",
-      "type": "news",
-      "title": "AMD CEO Lisa Su just killed Nvidia&#8217;s $4,000 AI box with a $1,499 lunchbox.",
-      "desc": "She walked on stage, held it in one hand, and ran a 235-billion-parameter model live. No data center. No cloud. No rented GPU. The chip inside is something nobody saw coming. The&#160;AMD Ryzen AI Max+ 395&#160;is the first x86 silicon where CPU and GPU share the same 128GB of memory. That single tr",
-      "link": "https://imfounder.com/science-tech/ai/amd-ryzen-ai-max-395-kills-nvidias-ai-box/",
-      "date": "Mon, 15 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [
-        "LLM"
-      ],
-      "min": 7
-    },
-    {
       "id": "19w6oeh",
       "type": "github",
       "title": "fancyboi999/ai-engineering-from-scratch-zh",
@@ -154,75 +128,27 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 371",
+        "⭐ 415",
         "Python"
       ],
       "min": null,
-      "stars": 371
+      "stars": 415
     },
     {
-      "id": "irzdml",
-      "type": "news",
-      "title": "15 Explosive AI Updates June 2026: Siri AI Revolution, Gemini Live Translate, Claude Controversy &#038; More",
-      "desc": "AI Updates June 2026&#160;delivered one of the busiest weeks the artificial intelligence industry has seen this year. From Apple unveiling a dramatically rebuilt Siri experience to Google introducing real-time voice translation and Anthropic facing controversy over access restrictions to its newest ",
-      "link": "https://imfounder.com/science-tech/ai/ai-updates-june-2026-siri-gemini-claude/",
-      "date": "Sun, 14 Jun 2026 22:54:30 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
       "tags": [
-        "agents"
+        "⭐ 132",
+        "Go"
       ],
-      "min": 6
-    },
-    {
-      "id": "bgyvfe",
-      "type": "news",
-      "title": "Anthropic Fable 5 Shockwave: Why the AI Arms Race Just Turned Geopolitical",
-      "desc": "The biggest AI story of the week is not just that Anthropic pushed out a powerful new model. It is that, according to Reuters, the company then disabled access to its top-tier models after a U.S. government directive restricted foreign access on national-security grounds. Reuters also reported that ",
-      "link": "https://imfounder.com/science-tech/ai/anthropic-fable-5-shockwave-ai-arms-race-geopolitics/",
-      "date": "Sun, 14 Jun 2026 08:42:18 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 3
-    },
-    {
-      "id": "l44esj",
-      "type": "news",
-      "title": "Elon Musk Becomes the World&#8217;s First Trillionaire: What It Means for Technology, Markets, and the Future of Wealth",
-      "desc": "For years, economists, investors, and entrepreneurs debated a question that once sounded impossible: Who will become the world&#8217;s first trillionaire? At IMFounder, we explored that question earlier this year in our article,&#160;&#8220;The Race to Become the World&#8217;s First Trillionaire,&#8",
-      "link": "https://imfounder.com/entrepreneurship/elon-musk-first-trillionaire-spacex-ipo/",
-      "date": "Sat, 13 Jun 2026 09:54:56 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "fbz99b",
-      "type": "news",
-      "title": "Apple Forgot Steve Jobs&#8217; Most Important Lesson: Design Is How It Works",
-      "desc": "Apple is one of the most successful companies in human history. It is the most profitable consumer technology company on Earth, commands a market capitalization larger than the GDP of many countries, and continues to sell millions of iPhones, Macs, iPads, and wearables every quarter. Yet despite tho",
-      "link": "https://imfounder.com/science-tech/apple-forgot-steve-jobs-design-is-how-it-works/",
-      "date": "Fri, 12 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "mlops"
-      ],
-      "min": 8
-    },
-    {
-      "id": "1o7wfts",
-      "type": "news",
-      "title": "Inside the Trump Mobile Scandal: How a $499 “Made in USA” Promise Was Exposed as a Reskinned Chinese Phone",
-      "desc": "The pitch was peak economic nationalism: a $499 smartphone engineered and manufactured entirely in the United States, keeping data safe from foreign intelligence and bringing manufacturing jobs back to American soil. For months, Trump Mobile leveraged national security fears to rack up pre-orders fr",
-      "link": "https://imfounder.com/science-tech/trump-mobile-scandal-htc-clone/",
-      "date": "Thu, 11 Jun 2026 15:30:00 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 4
+      "min": null,
+      "stars": 132
     },
     {
       "id": "i15x39",
@@ -234,24 +160,10 @@
       "source": "GitHub",
       "author": "ather-techie",
       "tags": [
-        "⭐ 64"
+        "⭐ 65"
       ],
       "min": null,
-      "stars": 64
-    },
-    {
-      "id": "dngaqv",
-      "type": "news",
-      "title": "Ghost Trucks: Inside America&#8217;s Driverless Food Distribution Network",
-      "desc": "&#8220;They didn&#8217;t corner the food business with recipes. They cornered it with trucks, warehouses, routes, and the quiet understanding that eventually everybody&#8217;s kitchen would run through them anyway.&#8221; The trucks still arrive before sunrise. Most restaurant owners never think abo",
-      "link": "https://imfounder.com/lifestyle/ghost-trucks-driverless-food-distribution-network/",
-      "date": "Thu, 11 Jun 2026 11:24:47 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [
-        "distributed"
-      ],
-      "min": 5
+      "stars": 65
     },
     {
       "id": "181yv9d",
@@ -316,22 +228,6 @@
       ],
       "min": null,
       "stars": 13
-    },
-    {
-      "id": "1frwuvw",
-      "type": "github",
-      "title": "Emmimal/llm-eval-layer",
-      "desc": "A lightweight LLM evaluation layer that turns subjective model outputs into deterministic decisions by scoring attribution, specificity, relevance, and context quality—designed to detect hallucinations and enable production-grade LLM reliability.",
-      "link": "https://github.com/Emmimal/llm-eval-layer",
-      "date": "2026-05-14T03:07:15Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 11",
-        "Python"
-      ],
-      "min": null,
-      "stars": 11
     }
   ]
 }
