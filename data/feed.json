@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T10:49:29.463Z",
-  "count": 16,
+  "generatedAt": "2026-06-18T10:16:33.300Z",
+  "count": 24,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "NirDiamant",
       "tags": [
-        "⭐ 529",
+        "⭐ 531",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 529
+      "stars": 531
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,30 @@
       "min": 30
     },
     {
+      "id": "1xco4yq",
+      "type": "news",
+      "title": "Startup Funding Canada Just Got Easier: The Powerful New Playbook for First-Time Founders",
+      "desc": "Startup Funding Canada is undergoing a quiet revolution. For years, aspiring entrepreneurs believed they needed a wealthy network, a Silicon Valley pedigree, or multiple startup exits before investors would take them seriously. In 2026, that narrative is rapidly changing. As both founders and invest",
+      "link": "https://imfounder.com/entrepreneurship/startup-funding-canada-first-time-founders/",
+      "date": "Wed, 17 Jun 2026 10:24:35 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 5
+    },
+    {
+      "id": "oyw4ec",
+      "type": "news",
+      "title": "India Paper Leak Scandal: 70+ Shattered Dreams, Student Suicides &#038; Modi Govt 10-Year Shameful Failure",
+      "desc": "The&#160;India paper leak scandal&#160;is not a glitch in the system. It&#160;is&#160;the system. Since 2014, when the Modi government rose to power on a thunderous promise of reform, accountability, and &#8220;achhe din&#8220;, India has witnessed over 70 documented examination paper leaks across s",
+      "link": "https://imfounder.com/politics/india-paper-leak-scandal-modi-government-failure/",
+      "date": "Tue, 16 Jun 2026 22:22:33 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 9
+    },
+    {
       "id": "19w6oeh",
       "type": "github",
       "title": "fancyboi999/ai-engineering-from-scratch-zh",
@@ -128,11 +152,75 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 415",
+        "⭐ 430",
         "Python"
       ],
       "min": null,
-      "stars": 415
+      "stars": 430
+    },
+    {
+      "id": "1azf4i9",
+      "type": "news",
+      "title": "16 Countries Banning Kids From Social Media in 2026 — And the List Is Shockingly Growing",
+      "desc": "From Australia to the UK and Canada, governments are finally declaring war on the brain rot epidemic destroying a generation The number of countries banning kids from social media reached at least 16 in June 2026 — and two of the world&#8217;s most influential democracies just joined the movement in",
+      "link": "https://imfounder.com/science-tech/countries-banning-kids-from-social-media-2026/",
+      "date": "Tue, 16 Jun 2026 10:14:09 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "1ty7v6k",
+      "type": "news",
+      "title": "AMD CEO Lisa Su just killed Nvidia&#8217;s $4,000 AI box with a $1,499 lunchbox.",
+      "desc": "She walked on stage, held it in one hand, and ran a 235-billion-parameter model live. No data center. No cloud. No rented GPU. The chip inside is something nobody saw coming. The&#160;AMD Ryzen AI Max+ 395&#160;is the first x86 silicon where CPU and GPU share the same 128GB of memory. That single tr",
+      "link": "https://imfounder.com/science-tech/ai/amd-ryzen-ai-max-395-kills-nvidias-ai-box/",
+      "date": "Mon, 15 Jun 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [
+        "LLM"
+      ],
+      "min": 7
+    },
+    {
+      "id": "irzdml",
+      "type": "news",
+      "title": "15 Explosive AI Updates June 2026: Siri AI Revolution, Gemini Live Translate, Claude Controversy &#038; More",
+      "desc": "AI Updates June 2026&#160;delivered one of the busiest weeks the artificial intelligence industry has seen this year. From Apple unveiling a dramatically rebuilt Siri experience to Google introducing real-time voice translation and Anthropic facing controversy over access restrictions to its newest ",
+      "link": "https://imfounder.com/science-tech/ai/ai-updates-june-2026-siri-gemini-claude/",
+      "date": "Sun, 14 Jun 2026 22:54:30 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents"
+      ],
+      "min": 6
+    },
+    {
+      "id": "bgyvfe",
+      "type": "news",
+      "title": "Anthropic Fable 5 Shockwave: Why the AI Arms Race Just Turned Geopolitical",
+      "desc": "The biggest AI story of the week is not just that Anthropic pushed out a powerful new model. It is that, according to Reuters, the company then disabled access to its top-tier models after a U.S. government directive restricted foreign access on national-security grounds. Reuters also reported that ",
+      "link": "https://imfounder.com/science-tech/ai/anthropic-fable-5-shockwave-ai-arms-race-geopolitics/",
+      "date": "Sun, 14 Jun 2026 08:42:18 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 3
+    },
+    {
+      "id": "l44esj",
+      "type": "news",
+      "title": "Elon Musk Becomes the World&#8217;s First Trillionaire: What It Means for Technology, Markets, and the Future of Wealth",
+      "desc": "For years, economists, investors, and entrepreneurs debated a question that once sounded impossible: Who will become the world&#8217;s first trillionaire? At IMFounder, we explored that question earlier this year in our article,&#160;&#8220;The Race to Become the World&#8217;s First Trillionaire,&#8",
+      "link": "https://imfounder.com/entrepreneurship/elon-musk-first-trillionaire-spacex-ipo/",
+      "date": "Sat, 13 Jun 2026 09:54:56 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 5
     },
     {
       "id": "kc0kfi",
@@ -144,11 +232,25 @@
       "source": "GitHub",
       "author": "Nigh",
       "tags": [
-        "⭐ 132",
+        "⭐ 165",
         "Go"
       ],
       "min": null,
-      "stars": 132
+      "stars": 165
+    },
+    {
+      "id": "fbz99b",
+      "type": "news",
+      "title": "Apple Forgot Steve Jobs&#8217; Most Important Lesson: Design Is How It Works",
+      "desc": "Apple is one of the most successful companies in human history. It is the most profitable consumer technology company on Earth, commands a market capitalization larger than the GDP of many countries, and continues to sell millions of iPhones, Macs, iPads, and wearables every quarter. Yet despite tho",
+      "link": "https://imfounder.com/science-tech/apple-forgot-steve-jobs-design-is-how-it-works/",
+      "date": "Fri, 12 Jun 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "mlops"
+      ],
+      "min": 8
     },
     {
       "id": "i15x39",
@@ -207,11 +309,11 @@
       "source": "GitHub",
       "author": "crimeacs",
       "tags": [
-        "⭐ 20",
+        "⭐ 21",
         "Python"
       ],
       "min": null,
-      "stars": 20
+      "stars": 21
     },
     {
       "id": "1e6xcss",
@@ -223,11 +325,11 @@
       "source": "GitHub",
       "author": "wanshuiyin",
       "tags": [
-        "⭐ 13",
+        "⭐ 14",
         "Python"
       ],
       "min": null,
-      "stars": 13
+      "stars": 14
     }
   ]
 }
