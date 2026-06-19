@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T10:16:33.300Z",
+  "generatedAt": "2026-06-19T10:21:25.726Z",
   "count": 24,
   "cards": [
     {
@@ -67,20 +67,20 @@
       "min": 12
     },
     {
-      "id": "1as1cck",
+      "id": "19w6oeh",
       "type": "github",
-      "title": "NirDiamant/Agent_Memory_Techniques",
-      "desc": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
-      "link": "https://github.com/NirDiamant/Agent_Memory_Techniques",
-      "date": "2026-05-05T21:08:23Z",
+      "title": "fancyboi999/ai-engineering-from-scratch-zh",
+      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
+      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "date": "2026-05-26T12:45:07Z",
       "source": "GitHub",
-      "author": "NirDiamant",
+      "author": "fancyboi999",
       "tags": [
-        "⭐ 531",
-        "Jupyter Notebook"
+        "⭐ 436",
+        "Python"
       ],
       "min": null,
-      "stars": 531
+      "stars": 436
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,46 @@
       "min": 30
     },
     {
+      "id": "1gd0tzu",
+      "type": "news",
+      "title": "iPhone Price Increase Warning: 5 Shocking Truths About the Memory Crisis Tim Cook Just Confirmed",
+      "desc": "The&#160;iPhone price increase memory crisis&#160;is no longer speculation whispered in analyst calls — it&#8217;s been confirmed at the highest level. Apple CEO Tim Cook told&#160;The Wall Street Journal&#160;on June 17, 2026, that price hikes across Apple&#8217;s entire product lineup are now &#82",
+      "link": "https://imfounder.com/science-tech/iphone-price-increase-memory-crisis/",
+      "date": "Fri, 19 Jun 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 5
+    },
+    {
+      "id": "i7b7bi",
+      "type": "news",
+      "title": "The Streaming Wars Are Over. Hollywood Is Becoming an AI Supply Chain.",
+      "desc": "Hollywood is no longer fighting the streaming wars. That era is over. The new fight is bigger, colder, and far more structural. The industry is being rebuilt around consolidation, artificial intelligence, sports rights, platform control, and labor compression. The proposed Paramount Skydance acquisi",
+      "link": "https://imfounder.com/entertainment/hollywood-media-consolidation-ai-streaming/",
+      "date": "Thu, 18 Jun 2026 11:08:18 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 6
+    },
+    {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 177",
+        "Go"
+      ],
+      "min": null,
+      "stars": 177
+    },
+    {
       "id": "1xco4yq",
       "type": "news",
       "title": "Startup Funding Canada Just Got Easier: The Powerful New Playbook for First-Time Founders",
@@ -141,22 +181,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 9
-    },
-    {
-      "id": "19w6oeh",
-      "type": "github",
-      "title": "fancyboi999/ai-engineering-from-scratch-zh",
-      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
-      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "date": "2026-05-26T12:45:07Z",
-      "source": "GitHub",
-      "author": "fancyboi999",
-      "tags": [
-        "⭐ 430",
-        "Python"
-      ],
-      "min": null,
-      "stars": 430
     },
     {
       "id": "1azf4i9",
@@ -199,6 +223,21 @@
       "min": 6
     },
     {
+      "id": "i15x39",
+      "type": "github",
+      "title": "ather-techie/rag-interview-system",
+      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
+      "link": "https://github.com/ather-techie/rag-interview-system",
+      "date": "2026-05-19T11:59:17Z",
+      "source": "GitHub",
+      "author": "ather-techie",
+      "tags": [
+        "⭐ 68"
+      ],
+      "min": null,
+      "stars": 68
+    },
+    {
       "id": "bgyvfe",
       "type": "news",
       "title": "Anthropic Fable 5 Shockwave: Why the AI Arms Race Just Turned Geopolitical",
@@ -211,63 +250,6 @@
       "min": 3
     },
     {
-      "id": "l44esj",
-      "type": "news",
-      "title": "Elon Musk Becomes the World&#8217;s First Trillionaire: What It Means for Technology, Markets, and the Future of Wealth",
-      "desc": "For years, economists, investors, and entrepreneurs debated a question that once sounded impossible: Who will become the world&#8217;s first trillionaire? At IMFounder, we explored that question earlier this year in our article,&#160;&#8220;The Race to Become the World&#8217;s First Trillionaire,&#8",
-      "link": "https://imfounder.com/entrepreneurship/elon-musk-first-trillionaire-spacex-ipo/",
-      "date": "Sat, 13 Jun 2026 09:54:56 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 165",
-        "Go"
-      ],
-      "min": null,
-      "stars": 165
-    },
-    {
-      "id": "fbz99b",
-      "type": "news",
-      "title": "Apple Forgot Steve Jobs&#8217; Most Important Lesson: Design Is How It Works",
-      "desc": "Apple is one of the most successful companies in human history. It is the most profitable consumer technology company on Earth, commands a market capitalization larger than the GDP of many countries, and continues to sell millions of iPhones, Macs, iPads, and wearables every quarter. Yet despite tho",
-      "link": "https://imfounder.com/science-tech/apple-forgot-steve-jobs-design-is-how-it-works/",
-      "date": "Fri, 12 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "mlops"
-      ],
-      "min": 8
-    },
-    {
-      "id": "i15x39",
-      "type": "github",
-      "title": "ather-techie/rag-interview-system",
-      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
-      "link": "https://github.com/ather-techie/rag-interview-system",
-      "date": "2026-05-19T11:59:17Z",
-      "source": "GitHub",
-      "author": "ather-techie",
-      "tags": [
-        "⭐ 65"
-      ],
-      "min": null,
-      "stars": 65
-    },
-    {
       "id": "181yv9d",
       "type": "github",
       "title": "Emmimal/control-layer",
@@ -277,27 +259,11 @@
       "source": "GitHub",
       "author": "Emmimal",
       "tags": [
-        "⭐ 59",
+        "⭐ 60",
         "Python"
       ],
       "min": null,
-      "stars": 59
-    },
-    {
-      "id": "1hpf63r",
-      "type": "github",
-      "title": "MonetiseBG/circuit-breaker",
-      "desc": "Runtime economic governance for AI agents. Circuit Breaker adds risk-managed execution, cost ceilings, and kill switches to autonomous AI workflows.",
-      "link": "https://github.com/MonetiseBG/circuit-breaker",
-      "date": "2026-05-05T08:51:47Z",
-      "source": "GitHub",
-      "author": "MonetiseBG",
-      "tags": [
-        "⭐ 30",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 30
+      "stars": 60
     },
     {
       "id": "1yezpij",
@@ -325,11 +291,43 @@
       "source": "GitHub",
       "author": "wanshuiyin",
       "tags": [
-        "⭐ 14",
+        "⭐ 15",
         "Python"
       ],
       "min": null,
-      "stars": 14
+      "stars": 15
+    },
+    {
+      "id": "1frwuvw",
+      "type": "github",
+      "title": "Emmimal/llm-eval-layer",
+      "desc": "A lightweight LLM evaluation layer that turns subjective model outputs into deterministic decisions by scoring attribution, specificity, relevance, and context quality—designed to detect hallucinations and enable production-grade LLM reliability.",
+      "link": "https://github.com/Emmimal/llm-eval-layer",
+      "date": "2026-05-14T03:07:15Z",
+      "source": "GitHub",
+      "author": "Emmimal",
+      "tags": [
+        "⭐ 11",
+        "Python"
+      ],
+      "min": null,
+      "stars": 11
+    },
+    {
+      "id": "1vo6x7n",
+      "type": "github",
+      "title": "lpalbou/mlx-gen",
+      "desc": "Generative image model runtimes for MLX.",
+      "link": "https://github.com/lpalbou/mlx-gen",
+      "date": "2026-05-25T07:31:58Z",
+      "source": "GitHub",
+      "author": "lpalbou",
+      "tags": [
+        "⭐ 10",
+        "Python"
+      ],
+      "min": null,
+      "stars": 10
     }
   ]
 }
