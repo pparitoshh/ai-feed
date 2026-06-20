@@ -1,7 +1,125 @@
 {
-  "generatedAt": "2026-06-19T10:21:25.726Z",
-  "count": 24,
+  "generatedAt": "2026-06-20T08:51:30.845Z",
+  "count": 32,
   "cards": [
+    {
+      "id": "1hr0seb",
+      "type": "substack",
+      "title": "Join the Hands-On Hermes Agent Workshop",
+      "desc": "Hands-On Hermes Agent: Persistent Agents, Memory, Skills, and Real Workflows",
+      "link": "https://todatabeyond.substack.com/p/join-the-hands-on-hermes-agent-workshop",
+      "date": "Tue, 16 Jun 2026 13:51:06 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "7z0oxm",
+      "type": "substack",
+      "title": "New Course: Claude Cowork 101 - From Prompts to Deliverables & Automated Workflows",
+      "desc": "Cowork is the tab in your Claude desktop app where Claude reads your folders, uses your connectors, runs scheduled tasks, and hands back finished work, a cleaned-up folder, a populated spreadsheet, and a weekly digest.",
+      "link": "https://todatabeyond.substack.com/p/new-course-claude-cowork-101-from",
+      "date": "Sun, 14 Jun 2026 23:06:08 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 2
+    },
+    {
+      "id": "1jvinzl",
+      "type": "substack",
+      "title": "Claude Cowork 101: From Prompts to Deliverables & Automated Workflows",
+      "desc": "Hands on Claude Cowork - From Essintal settings to Building Workflows",
+      "link": "https://todatabeyond.substack.com/p/claude-cowork-101-from-prompts-to",
+      "date": "Sat, 13 Jun 2026 18:10:10 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 16
+    },
+    {
+      "id": "1hz6w03",
+      "type": "substack",
+      "title": "What a Real Production Gen AI Folder Architecture Looks Like",
+      "desc": "A practical breakdown of the folders, files, and boundaries that usually appear once a Gen AI application has to survive production",
+      "link": "https://todatabeyond.substack.com/p/what-a-real-production-gen-ai-folder",
+      "date": "Tue, 09 Jun 2026 16:44:17 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "mlops"
+      ],
+      "min": 14
+    },
+    {
+      "id": "ekvr3x",
+      "type": "substack",
+      "title": "The 6 Claude Code Skills I Would Use for Real Projects",
+      "desc": "The 6 Claude Code Skills I Would Install First",
+      "link": "https://todatabeyond.substack.com/p/the-6-claude-code-skills-i-would",
+      "date": "Fri, 05 Jun 2026 16:02:26 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 7
+    },
+    {
+      "id": "19w6oeh",
+      "type": "github",
+      "title": "fancyboi999/ai-engineering-from-scratch-zh",
+      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
+      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "date": "2026-05-26T12:45:07Z",
+      "source": "GitHub",
+      "author": "fancyboi999",
+      "tags": [
+        "⭐ 441",
+        "Python"
+      ],
+      "min": null,
+      "stars": 441
+    },
+    {
+      "id": "hiw7a5",
+      "type": "substack",
+      "title": "Why Half the Experts in an MoE Model May Not Be Needed",
+      "desc": "Teaching MoE Models When Not to Think: A Simple Explanation of ZEDA",
+      "link": "https://todatabeyond.substack.com/p/why-half-the-experts-in-an-moe-model",
+      "date": "Sun, 31 May 2026 13:06:09 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 52
+    },
+    {
+      "id": "1bdxuza",
+      "type": "substack",
+      "title": "I bundled my 7 crash courses with 60% off",
+      "desc": "Get All My 7 Courses, One Button Away With 60% Off",
+      "link": "https://todatabeyond.substack.com/p/i-bundled-my-7-crash-courses-with",
+      "date": "Sat, 30 May 2026 10:33:01 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 1
+    },
+    {
+      "id": "6iqll7",
+      "type": "substack",
+      "title": "According to Anthropic’s Engineer, HTML is the New Markdown for AI Agents",
+      "desc": "Why HTML is becoming the better default for AI-generated reports, reviews, and working surfaces.",
+      "link": "https://todatabeyond.substack.com/p/according-to-anthropics-engineer",
+      "date": "Thu, 28 May 2026 07:01:01 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 9
+    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -27,6 +145,22 @@
         "agents"
       ],
       "min": 43
+    },
+    {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 179",
+        "Go"
+      ],
+      "min": null,
+      "stars": 179
     },
     {
       "id": "v17hw0",
@@ -67,22 +201,6 @@
       "min": 12
     },
     {
-      "id": "19w6oeh",
-      "type": "github",
-      "title": "fancyboi999/ai-engineering-from-scratch-zh",
-      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
-      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "date": "2026-05-26T12:45:07Z",
-      "source": "GitHub",
-      "author": "fancyboi999",
-      "tags": [
-        "⭐ 436",
-        "Python"
-      ],
-      "min": null,
-      "stars": 436
-    },
-    {
       "id": "oesf1f",
       "type": "chip",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
@@ -107,6 +225,21 @@
       "min": 19
     },
     {
+      "id": "i15x39",
+      "type": "github",
+      "title": "ather-techie/rag-interview-system",
+      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
+      "link": "https://github.com/ather-techie/rag-interview-system",
+      "date": "2026-05-19T11:59:17Z",
+      "source": "GitHub",
+      "author": "ather-techie",
+      "tags": [
+        "⭐ 69"
+      ],
+      "min": null,
+      "stars": 69
+    },
+    {
       "id": "18wgmyf",
       "type": "chip",
       "title": "Multimodality and Large Multimodal Models (LMMs)",
@@ -117,6 +250,18 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 30
+    },
+    {
+      "id": "13rfg2h",
+      "type": "news",
+      "title": "GTA 6 Release Date Finally Confirmed: Massive Rockstar Announcement Ignites Global Excitement",
+      "desc": "GTA 6 Release Date&#160;is officially one of the most discussed topics on the internet today. For years, gamers joked that humanity would achieve impossible milestones before Rockstar released the next Grand Theft Auto. Social media became flooded with memes saying things like: Now, after more than ",
+      "link": "https://imfounder.com/entertainment/gta-6-release-date-confirmed-rockstar-announcement/",
+      "date": "Sat, 20 Jun 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 5
     },
     {
       "id": "1gd0tzu",
@@ -143,22 +288,6 @@
       "min": 6
     },
     {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 177",
-        "Go"
-      ],
-      "min": null,
-      "stars": 177
-    },
-    {
       "id": "1xco4yq",
       "type": "news",
       "title": "Startup Funding Canada Just Got Easier: The Powerful New Playbook for First-Time Founders",
@@ -169,6 +298,22 @@
       "author": "Editor",
       "tags": [],
       "min": 5
+    },
+    {
+      "id": "181yv9d",
+      "type": "github",
+      "title": "Emmimal/control-layer",
+      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
+      "link": "https://github.com/Emmimal/control-layer",
+      "date": "2026-05-18T04:38:38Z",
+      "source": "GitHub",
+      "author": "Emmimal",
+      "tags": [
+        "⭐ 61",
+        "Python"
+      ],
+      "min": null,
+      "stars": 61
     },
     {
       "id": "oyw4ec",
@@ -223,49 +368,6 @@
       "min": 6
     },
     {
-      "id": "i15x39",
-      "type": "github",
-      "title": "ather-techie/rag-interview-system",
-      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
-      "link": "https://github.com/ather-techie/rag-interview-system",
-      "date": "2026-05-19T11:59:17Z",
-      "source": "GitHub",
-      "author": "ather-techie",
-      "tags": [
-        "⭐ 68"
-      ],
-      "min": null,
-      "stars": 68
-    },
-    {
-      "id": "bgyvfe",
-      "type": "news",
-      "title": "Anthropic Fable 5 Shockwave: Why the AI Arms Race Just Turned Geopolitical",
-      "desc": "The biggest AI story of the week is not just that Anthropic pushed out a powerful new model. It is that, according to Reuters, the company then disabled access to its top-tier models after a U.S. government directive restricted foreign access on national-security grounds. Reuters also reported that ",
-      "link": "https://imfounder.com/science-tech/ai/anthropic-fable-5-shockwave-ai-arms-race-geopolitics/",
-      "date": "Sun, 14 Jun 2026 08:42:18 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 3
-    },
-    {
-      "id": "181yv9d",
-      "type": "github",
-      "title": "Emmimal/control-layer",
-      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
-      "link": "https://github.com/Emmimal/control-layer",
-      "date": "2026-05-18T04:38:38Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 60",
-        "Python"
-      ],
-      "min": null,
-      "stars": 60
-    },
-    {
       "id": "1yezpij",
       "type": "github",
       "title": "crimeacs/auto-improve",
@@ -291,11 +393,11 @@
       "source": "GitHub",
       "author": "wanshuiyin",
       "tags": [
-        "⭐ 15",
+        "⭐ 17",
         "Python"
       ],
       "min": null,
-      "stars": 15
+      "stars": 17
     },
     {
       "id": "1frwuvw",
@@ -307,11 +409,11 @@
       "source": "GitHub",
       "author": "Emmimal",
       "tags": [
-        "⭐ 11",
+        "⭐ 12",
         "Python"
       ],
       "min": null,
-      "stars": 11
+      "stars": 12
     },
     {
       "id": "1vo6x7n",
@@ -323,11 +425,11 @@
       "source": "GitHub",
       "author": "lpalbou",
       "tags": [
-        "⭐ 10",
+        "⭐ 11",
         "Python"
       ],
       "min": null,
-      "stars": 10
+      "stars": 11
     }
   ]
 }
