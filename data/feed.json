@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T09:44:51.793Z",
+  "generatedAt": "2026-06-22T11:47:20.072Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 446",
+        "⭐ 455",
         "Python"
       ],
       "min": null,
-      "stars": 446
+      "stars": 455
     },
     {
       "id": "oesf1f",
@@ -152,11 +152,11 @@
       "source": "GitHub",
       "author": "Nigh",
       "tags": [
-        "⭐ 186",
+        "⭐ 209",
         "Go"
       ],
       "min": null,
-      "stars": 186
+      "stars": 209
     },
     {
       "id": "1gd0tzu",
@@ -264,22 +264,6 @@
       "stars": 61
     },
     {
-      "id": "1yezpij",
-      "type": "github",
-      "title": "crimeacs/auto-improve",
-      "desc": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pairwise-judged), revert the rest. The git history is the improvement log.",
-      "link": "https://github.com/crimeacs/auto-improve",
-      "date": "2026-06-01T18:20:23Z",
-      "source": "GitHub",
-      "author": "crimeacs",
-      "tags": [
-        "⭐ 21",
-        "Python"
-      ],
-      "min": null,
-      "stars": 21
-    },
-    {
       "id": "1e6xcss",
       "type": "github",
       "title": "wanshuiyin/ARIS-Movie-Director",
@@ -289,11 +273,43 @@
       "source": "GitHub",
       "author": "wanshuiyin",
       "tags": [
-        "⭐ 18",
+        "⭐ 28",
         "Python"
       ],
       "min": null,
-      "stars": 18
+      "stars": 28
+    },
+    {
+      "id": "1yezpij",
+      "type": "github",
+      "title": "crimeacs/auto-improve",
+      "desc": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pairwise-judged), revert the rest. The git history is the improvement log.",
+      "link": "https://github.com/crimeacs/auto-improve",
+      "date": "2026-06-01T18:20:23Z",
+      "source": "GitHub",
+      "author": "crimeacs",
+      "tags": [
+        "⭐ 23",
+        "Python"
+      ],
+      "min": null,
+      "stars": 23
+    },
+    {
+      "id": "16zg87t",
+      "type": "github",
+      "title": "SantanderAI/llm_bridge",
+      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
+      "link": "https://github.com/SantanderAI/llm_bridge",
+      "date": "2026-06-17T18:36:50Z",
+      "source": "GitHub",
+      "author": "SantanderAI",
+      "tags": [
+        "⭐ 17",
+        "Python"
+      ],
+      "min": null,
+      "stars": 17
     },
     {
       "id": "1frwuvw",
@@ -310,22 +326,6 @@
       ],
       "min": null,
       "stars": 12
-    },
-    {
-      "id": "1vo6x7n",
-      "type": "github",
-      "title": "lpalbou/mlx-gen",
-      "desc": "Generative image model runtimes for MLX.",
-      "link": "https://github.com/lpalbou/mlx-gen",
-      "date": "2026-05-25T07:31:58Z",
-      "source": "GitHub",
-      "author": "lpalbou",
-      "tags": [
-        "⭐ 11",
-        "Python"
-      ],
-      "min": null,
-      "stars": 11
     }
   ]
 }
