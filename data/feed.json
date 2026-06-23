@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T11:47:20.072Z",
+  "generatedAt": "2026-06-23T09:33:16.225Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 455",
+        "⭐ 462",
         "Python"
       ],
       "min": null,
-      "stars": 455
+      "stars": 462
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "1ylkafr",
+      "type": "news",
+      "title": "Startup Ideas Rejected by Investors That Became Unicorns",
+      "desc": "Startup ideas rejected by investors often look too early, too strange, or too small to fund. That is exactly why the best stories in tech are so valuable: they show how many “obvious no’s” were actually missed category creators. Airbnb was turned down by seven investors before becoming a giant; Canv",
+      "link": "https://imfounder.com/entrepreneurship/startup-ideas-rejected-by-investors/",
+      "date": "Tue, 23 Jun 2026 07:59:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 5
+    },
+    {
       "id": "icezsq",
       "type": "news",
       "title": "Founder Dads: 7 Powerful Secrets to Building an Empire Without Losing Your Family",
@@ -131,6 +143,22 @@
       "min": 6
     },
     {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 227",
+        "Go"
+      ],
+      "min": null,
+      "stars": 227
+    },
+    {
       "id": "13rfg2h",
       "type": "news",
       "title": "GTA 6 Release Date Finally Confirmed: Massive Rockstar Announcement Ignites Global Excitement",
@@ -141,22 +169,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 5
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 209",
-        "Go"
-      ],
-      "min": null,
-      "stars": 209
     },
     {
       "id": "1gd0tzu",
@@ -207,6 +219,21 @@
       "min": 9
     },
     {
+      "id": "i15x39",
+      "type": "github",
+      "title": "ather-techie/rag-interview-system",
+      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
+      "link": "https://github.com/ather-techie/rag-interview-system",
+      "date": "2026-05-19T11:59:17Z",
+      "source": "GitHub",
+      "author": "ather-techie",
+      "tags": [
+        "⭐ 70"
+      ],
+      "min": null,
+      "stars": 70
+    },
+    {
       "id": "1azf4i9",
       "type": "news",
       "title": "16 Countries Banning Kids From Social Media in 2026 — And the List Is Shockingly Growing",
@@ -217,35 +244,6 @@
       "author": "Neha Slatch",
       "tags": [],
       "min": 9
-    },
-    {
-      "id": "i15x39",
-      "type": "github",
-      "title": "ather-techie/rag-interview-system",
-      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
-      "link": "https://github.com/ather-techie/rag-interview-system",
-      "date": "2026-05-19T11:59:17Z",
-      "source": "GitHub",
-      "author": "ather-techie",
-      "tags": [
-        "⭐ 69"
-      ],
-      "min": null,
-      "stars": 69
-    },
-    {
-      "id": "1ty7v6k",
-      "type": "news",
-      "title": "AMD CEO Lisa Su just killed Nvidia&#8217;s $4,000 AI box with a $1,499 lunchbox.",
-      "desc": "She walked on stage, held it in one hand, and ran a 235-billion-parameter model live. No data center. No cloud. No rented GPU. The chip inside is something nobody saw coming. The&#160;AMD Ryzen AI Max+ 395&#160;is the first x86 silicon where CPU and GPU share the same 128GB of memory. That single tr",
-      "link": "https://imfounder.com/science-tech/ai/amd-ryzen-ai-max-395-kills-nvidias-ai-box/",
-      "date": "Mon, 15 Jun 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [
-        "LLM"
-      ],
-      "min": 7
     },
     {
       "id": "181yv9d",
@@ -264,6 +262,22 @@
       "stars": 61
     },
     {
+      "id": "16zg87t",
+      "type": "github",
+      "title": "SantanderAI/llm_bridge",
+      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
+      "link": "https://github.com/SantanderAI/llm_bridge",
+      "date": "2026-06-17T18:36:50Z",
+      "source": "GitHub",
+      "author": "SantanderAI",
+      "tags": [
+        "⭐ 42",
+        "Python"
+      ],
+      "min": null,
+      "stars": 42
+    },
+    {
       "id": "1e6xcss",
       "type": "github",
       "title": "wanshuiyin/ARIS-Movie-Director",
@@ -273,11 +287,11 @@
       "source": "GitHub",
       "author": "wanshuiyin",
       "tags": [
-        "⭐ 28",
+        "⭐ 30",
         "Python"
       ],
       "min": null,
-      "stars": 28
+      "stars": 30
     },
     {
       "id": "1yezpij",
@@ -296,36 +310,20 @@
       "stars": 23
     },
     {
-      "id": "16zg87t",
+      "id": "1ertz8i",
       "type": "github",
-      "title": "SantanderAI/llm_bridge",
-      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
-      "link": "https://github.com/SantanderAI/llm_bridge",
-      "date": "2026-06-17T18:36:50Z",
+      "title": "Alisa0808/vibe-creating-skill",
+      "desc": "Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Hermes); generate via Atlas Cloud — Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu, Gemini Omni, Grok Imagine.",
+      "link": "https://github.com/Alisa0808/vibe-creating-skill",
+      "date": "2026-06-16T09:13:10Z",
       "source": "GitHub",
-      "author": "SantanderAI",
+      "author": "Alisa0808",
       "tags": [
-        "⭐ 17",
-        "Python"
+        "⭐ 19",
+        "JavaScript"
       ],
       "min": null,
-      "stars": 17
-    },
-    {
-      "id": "1frwuvw",
-      "type": "github",
-      "title": "Emmimal/llm-eval-layer",
-      "desc": "A lightweight LLM evaluation layer that turns subjective model outputs into deterministic decisions by scoring attribution, specificity, relevance, and context quality—designed to detect hallucinations and enable production-grade LLM reliability.",
-      "link": "https://github.com/Emmimal/llm-eval-layer",
-      "date": "2026-05-14T03:07:15Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 12",
-        "Python"
-      ],
-      "min": null,
-      "stars": 12
+      "stars": 19
     }
   ]
 }
