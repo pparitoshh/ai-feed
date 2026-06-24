@@ -1,7 +1,174 @@
 {
-  "generatedAt": "2026-06-23T09:33:16.225Z",
-  "count": 24,
+  "generatedAt": "2026-06-24T09:23:23.962Z",
+  "count": 34,
   "cards": [
+    {
+      "id": "10srwec",
+      "type": "substack",
+      "title": "How to Create Loops with Claude: A Practical Guide to Agentic Automation",
+      "desc": "Claude Loop Engineering: How to Design Agents That Iterate, Verify, and Remember",
+      "link": "https://todatabeyond.substack.com/p/how-to-create-loops-with-claude-a",
+      "date": "Wed, 24 Jun 2026 01:24:37 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 16
+    },
+    {
+      "id": "1xroy89",
+      "type": "substack",
+      "title": "Hands-On Hermes Agent Workshop - Only 15 Seats Left",
+      "desc": "Hands-On Hermes Agent: Persistent Agents, Memory, Skills, and Real Workflows",
+      "link": "https://todatabeyond.substack.com/p/hands-on-hermes-agent-workshop-only",
+      "date": "Mon, 22 Jun 2026 09:05:19 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "1onf244",
+      "type": "substack",
+      "title": "Google Published a Paper That Might End the Transformer-Only LLM Era",
+      "desc": "Memory Caching gives RNNs a growing memory, offering a middle ground between efficient recurrence and expensive full attention.",
+      "link": "https://todatabeyond.substack.com/p/google-published-a-paper-that-might",
+      "date": "Sun, 21 Jun 2026 09:26:30 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "LLM",
+        "transformers"
+      ],
+      "min": 16
+    },
+    {
+      "id": "1hr0seb",
+      "type": "substack",
+      "title": "Join the Hands-On Hermes Agent Workshop",
+      "desc": "Hands-On Hermes Agent: Persistent Agents, Memory, Skills, and Real Workflows",
+      "link": "https://todatabeyond.substack.com/p/join-the-hands-on-hermes-agent-workshop",
+      "date": "Tue, 16 Jun 2026 13:51:06 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "7z0oxm",
+      "type": "substack",
+      "title": "New Course: Claude Cowork 101 - From Prompts to Deliverables & Automated Workflows",
+      "desc": "Cowork is the tab in your Claude desktop app where Claude reads your folders, uses your connectors, runs scheduled tasks, and hands back finished work, a cleaned-up folder, a populated spreadsheet, and a weekly digest.",
+      "link": "https://todatabeyond.substack.com/p/new-course-claude-cowork-101-from",
+      "date": "Sun, 14 Jun 2026 23:06:08 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 2
+    },
+    {
+      "id": "19w6oeh",
+      "type": "github",
+      "title": "fancyboi999/ai-engineering-from-scratch-zh",
+      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
+      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "date": "2026-05-26T12:45:07Z",
+      "source": "GitHub",
+      "author": "fancyboi999",
+      "tags": [
+        "⭐ 471",
+        "Python"
+      ],
+      "min": null,
+      "stars": 471
+    },
+    {
+      "id": "1jvinzl",
+      "type": "substack",
+      "title": "Claude Cowork 101: From Prompts to Deliverables & Automated Workflows",
+      "desc": "Hands on Claude Cowork - From Essintal settings to Building Workflows",
+      "link": "https://todatabeyond.substack.com/p/claude-cowork-101-from-prompts-to",
+      "date": "Sat, 13 Jun 2026 18:10:10 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 16
+    },
+    {
+      "id": "1hz6w03",
+      "type": "substack",
+      "title": "What a Real Production Gen AI Folder Architecture Looks Like",
+      "desc": "A practical breakdown of the folders, files, and boundaries that usually appear once a Gen AI application has to survive production",
+      "link": "https://todatabeyond.substack.com/p/what-a-real-production-gen-ai-folder",
+      "date": "Tue, 09 Jun 2026 16:44:17 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "mlops"
+      ],
+      "min": 14
+    },
+    {
+      "id": "ekvr3x",
+      "type": "substack",
+      "title": "The 6 Claude Code Skills I Would Use for Real Projects",
+      "desc": "The 6 Claude Code Skills I Would Install First",
+      "link": "https://todatabeyond.substack.com/p/the-6-claude-code-skills-i-would",
+      "date": "Fri, 05 Jun 2026 16:02:26 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 7
+    },
+    {
+      "id": "1s8zf58",
+      "type": "substack",
+      "title": "AI Agents of the Week: Papers You Should Know About",
+      "desc": "Get ahead of the curve with LLM Watch",
+      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-614",
+      "date": "Sun, 14 Jun 2026 18:21:19 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "12hy38k",
+      "type": "substack",
+      "title": "Why Good AI Agents Look Less Like Chatbots and More Like Workshops",
+      "desc": "The Architecture of Trust",
+      "link": "https://www.llmwatch.com/p/why-good-ai-agents-look-less-like",
+      "date": "Wed, 27 May 2026 08:44:31 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [
+        "agents"
+      ],
+      "min": 11
+    },
+    {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 246",
+        "Go"
+      ],
+      "min": null,
+      "stars": 246
+    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -67,20 +234,19 @@
       "min": 12
     },
     {
-      "id": "19w6oeh",
+      "id": "i15x39",
       "type": "github",
-      "title": "fancyboi999/ai-engineering-from-scratch-zh",
-      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
-      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "date": "2026-05-26T12:45:07Z",
+      "title": "ather-techie/rag-interview-system",
+      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
+      "link": "https://github.com/ather-techie/rag-interview-system",
+      "date": "2026-05-19T11:59:17Z",
       "source": "GitHub",
-      "author": "fancyboi999",
+      "author": "ather-techie",
       "tags": [
-        "⭐ 462",
-        "Python"
+        "⭐ 71"
       ],
       "min": null,
-      "stars": 462
+      "stars": 71
     },
     {
       "id": "oesf1f",
@@ -119,6 +285,18 @@
       "min": 30
     },
     {
+      "id": "3tfkxy",
+      "type": "news",
+      "title": "Mahindra vs John Deere: Why American Farmers Are Fighting Back Against Tractor Giants",
+      "desc": "Mahindra vs John Deere Is Becoming a Bigger Story Than Most People Realize For decades, American agriculture was dominated by one name: John Deere. Its green tractors became symbols of American farming itself. But a growing movement among farmers suggests the conversation is changing. Today, farmers",
+      "link": "https://imfounder.com/entrepreneurship/business/mahindra-vs-john-deere-right-to-repair/",
+      "date": "Wed, 24 Jun 2026 08:53:52 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 5
+    },
+    {
       "id": "1ylkafr",
       "type": "news",
       "title": "Startup Ideas Rejected by Investors That Became Unicorns",
@@ -131,6 +309,22 @@
       "min": 5
     },
     {
+      "id": "181yv9d",
+      "type": "github",
+      "title": "Emmimal/control-layer",
+      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
+      "link": "https://github.com/Emmimal/control-layer",
+      "date": "2026-05-18T04:38:38Z",
+      "source": "GitHub",
+      "author": "Emmimal",
+      "tags": [
+        "⭐ 61",
+        "Python"
+      ],
+      "min": null,
+      "stars": 61
+    },
+    {
       "id": "icezsq",
       "type": "news",
       "title": "Founder Dads: 7 Powerful Secrets to Building an Empire Without Losing Your Family",
@@ -141,22 +335,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 6
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 227",
-        "Go"
-      ],
-      "min": null,
-      "stars": 227
     },
     {
       "id": "13rfg2h",
@@ -207,6 +385,22 @@
       "min": 5
     },
     {
+      "id": "16zg87t",
+      "type": "github",
+      "title": "SantanderAI/llm_bridge",
+      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
+      "link": "https://github.com/SantanderAI/llm_bridge",
+      "date": "2026-06-17T18:36:50Z",
+      "source": "GitHub",
+      "author": "SantanderAI",
+      "tags": [
+        "⭐ 59",
+        "Python"
+      ],
+      "min": null,
+      "stars": 59
+    },
+    {
       "id": "oyw4ec",
       "type": "news",
       "title": "India Paper Leak Scandal: 70+ Shattered Dreams, Student Suicides &#038; Modi Govt 10-Year Shameful Failure",
@@ -217,65 +411,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 9
-    },
-    {
-      "id": "i15x39",
-      "type": "github",
-      "title": "ather-techie/rag-interview-system",
-      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
-      "link": "https://github.com/ather-techie/rag-interview-system",
-      "date": "2026-05-19T11:59:17Z",
-      "source": "GitHub",
-      "author": "ather-techie",
-      "tags": [
-        "⭐ 70"
-      ],
-      "min": null,
-      "stars": 70
-    },
-    {
-      "id": "1azf4i9",
-      "type": "news",
-      "title": "16 Countries Banning Kids From Social Media in 2026 — And the List Is Shockingly Growing",
-      "desc": "From Australia to the UK and Canada, governments are finally declaring war on the brain rot epidemic destroying a generation The number of countries banning kids from social media reached at least 16 in June 2026 — and two of the world&#8217;s most influential democracies just joined the movement in",
-      "link": "https://imfounder.com/science-tech/countries-banning-kids-from-social-media-2026/",
-      "date": "Tue, 16 Jun 2026 10:14:09 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "181yv9d",
-      "type": "github",
-      "title": "Emmimal/control-layer",
-      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
-      "link": "https://github.com/Emmimal/control-layer",
-      "date": "2026-05-18T04:38:38Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 61",
-        "Python"
-      ],
-      "min": null,
-      "stars": 61
-    },
-    {
-      "id": "16zg87t",
-      "type": "github",
-      "title": "SantanderAI/llm_bridge",
-      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
-      "link": "https://github.com/SantanderAI/llm_bridge",
-      "date": "2026-06-17T18:36:50Z",
-      "source": "GitHub",
-      "author": "SantanderAI",
-      "tags": [
-        "⭐ 42",
-        "Python"
-      ],
-      "min": null,
-      "stars": 42
     },
     {
       "id": "1e6xcss",
@@ -294,22 +429,6 @@
       "stars": 30
     },
     {
-      "id": "1yezpij",
-      "type": "github",
-      "title": "crimeacs/auto-improve",
-      "desc": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pairwise-judged), revert the rest. The git history is the improvement log.",
-      "link": "https://github.com/crimeacs/auto-improve",
-      "date": "2026-06-01T18:20:23Z",
-      "source": "GitHub",
-      "author": "crimeacs",
-      "tags": [
-        "⭐ 23",
-        "Python"
-      ],
-      "min": null,
-      "stars": 23
-    },
-    {
       "id": "1ertz8i",
       "type": "github",
       "title": "Alisa0808/vibe-creating-skill",
@@ -319,11 +438,27 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 19",
+        "⭐ 24",
         "JavaScript"
       ],
       "min": null,
-      "stars": 19
+      "stars": 24
+    },
+    {
+      "id": "1yezpij",
+      "type": "github",
+      "title": "crimeacs/auto-improve",
+      "desc": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pairwise-judged), revert the rest. The git history is the improvement log.",
+      "link": "https://github.com/crimeacs/auto-improve",
+      "date": "2026-06-01T18:20:23Z",
+      "source": "GitHub",
+      "author": "crimeacs",
+      "tags": [
+        "⭐ 24",
+        "Python"
+      ],
+      "min": null,
+      "stars": 24
     }
   ]
 }
