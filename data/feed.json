@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T09:23:23.962Z",
-  "count": 34,
+  "generatedAt": "2026-06-25T08:57:14.051Z",
+  "count": 32,
   "cards": [
     {
       "id": "10srwec",
@@ -81,11 +81,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 471",
+        "⭐ 481",
         "Python"
       ],
       "min": null,
-      "stars": 471
+      "stars": 481
     },
     {
       "id": "1jvinzl",
@@ -126,50 +126,6 @@
       "min": 7
     },
     {
-      "id": "1s8zf58",
-      "type": "substack",
-      "title": "AI Agents of the Week: Papers You Should Know About",
-      "desc": "Get ahead of the curve with LLM Watch",
-      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-614",
-      "date": "Sun, 14 Jun 2026 18:21:19 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "12hy38k",
-      "type": "substack",
-      "title": "Why Good AI Agents Look Less Like Chatbots and More Like Workshops",
-      "desc": "The Architecture of Trust",
-      "link": "https://www.llmwatch.com/p/why-good-ai-agents-look-less-like",
-      "date": "Wed, 27 May 2026 08:44:31 GMT",
-      "source": "LLM Watch",
-      "author": "Pascal Biese",
-      "tags": [
-        "agents"
-      ],
-      "min": 11
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 246",
-        "Go"
-      ],
-      "min": null,
-      "stars": 246
-    },
-    {
       "id": "rm4aw5",
       "type": "chip",
       "title": "Common pitfalls when building generative AI applications",
@@ -194,6 +150,22 @@
         "agents"
       ],
       "min": 43
+    },
+    {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 256",
+        "Go"
+      ],
+      "min": null,
+      "stars": 256
     },
     {
       "id": "v17hw0",
@@ -234,21 +206,6 @@
       "min": 12
     },
     {
-      "id": "i15x39",
-      "type": "github",
-      "title": "ather-techie/rag-interview-system",
-      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
-      "link": "https://github.com/ather-techie/rag-interview-system",
-      "date": "2026-05-19T11:59:17Z",
-      "source": "GitHub",
-      "author": "ather-techie",
-      "tags": [
-        "⭐ 71"
-      ],
-      "min": null,
-      "stars": 71
-    },
-    {
       "id": "oesf1f",
       "type": "chip",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
@@ -271,6 +228,21 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 19
+    },
+    {
+      "id": "i15x39",
+      "type": "github",
+      "title": "ather-techie/rag-interview-system",
+      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
+      "link": "https://github.com/ather-techie/rag-interview-system",
+      "date": "2026-05-19T11:59:17Z",
+      "source": "GitHub",
+      "author": "ather-techie",
+      "tags": [
+        "⭐ 72"
+      ],
+      "min": null,
+      "stars": 72
     },
     {
       "id": "18wgmyf",
@@ -309,22 +281,6 @@
       "min": 5
     },
     {
-      "id": "181yv9d",
-      "type": "github",
-      "title": "Emmimal/control-layer",
-      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
-      "link": "https://github.com/Emmimal/control-layer",
-      "date": "2026-05-18T04:38:38Z",
-      "source": "GitHub",
-      "author": "Emmimal",
-      "tags": [
-        "⭐ 61",
-        "Python"
-      ],
-      "min": null,
-      "stars": 61
-    },
-    {
       "id": "icezsq",
       "type": "news",
       "title": "Founder Dads: 7 Powerful Secrets to Building an Empire Without Losing Your Family",
@@ -347,6 +303,22 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 5
+    },
+    {
+      "id": "16zg87t",
+      "type": "github",
+      "title": "SantanderAI/llm_bridge",
+      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
+      "link": "https://github.com/SantanderAI/llm_bridge",
+      "date": "2026-06-17T18:36:50Z",
+      "source": "GitHub",
+      "author": "SantanderAI",
+      "tags": [
+        "⭐ 63",
+        "Python"
+      ],
+      "min": null,
+      "stars": 63
     },
     {
       "id": "1gd0tzu",
@@ -385,22 +357,6 @@
       "min": 5
     },
     {
-      "id": "16zg87t",
-      "type": "github",
-      "title": "SantanderAI/llm_bridge",
-      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
-      "link": "https://github.com/SantanderAI/llm_bridge",
-      "date": "2026-06-17T18:36:50Z",
-      "source": "GitHub",
-      "author": "SantanderAI",
-      "tags": [
-        "⭐ 59",
-        "Python"
-      ],
-      "min": null,
-      "stars": 59
-    },
-    {
       "id": "oyw4ec",
       "type": "news",
       "title": "India Paper Leak Scandal: 70+ Shattered Dreams, Student Suicides &#038; Modi Govt 10-Year Shameful Failure",
@@ -413,20 +369,20 @@
       "min": 9
     },
     {
-      "id": "1e6xcss",
+      "id": "181yv9d",
       "type": "github",
-      "title": "wanshuiyin/ARIS-Movie-Director",
-      "desc": "Agentic, long-horizon visual generation: a fuzzy story → a cross-model-audited image-based movie. Brings ARIS's research-wiki + multi-agent debate to multimodal generation (intelligence lives in the agent; the diffusion model just renders). Image-based today, video next.",
-      "link": "https://github.com/wanshuiyin/ARIS-Movie-Director",
-      "date": "2026-06-09T11:20:33Z",
+      "title": "Emmimal/control-layer",
+      "desc": "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline.",
+      "link": "https://github.com/Emmimal/control-layer",
+      "date": "2026-05-18T04:38:38Z",
       "source": "GitHub",
-      "author": "wanshuiyin",
+      "author": "Emmimal",
       "tags": [
-        "⭐ 30",
+        "⭐ 61",
         "Python"
       ],
       "min": null,
-      "stars": 30
+      "stars": 61
     },
     {
       "id": "1ertz8i",
@@ -438,11 +394,27 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 24",
+        "⭐ 36",
         "JavaScript"
       ],
       "min": null,
-      "stars": 24
+      "stars": 36
+    },
+    {
+      "id": "1e6xcss",
+      "type": "github",
+      "title": "wanshuiyin/ARIS-Movie-Director",
+      "desc": "Agentic, long-horizon visual generation: a fuzzy story → a cross-model-audited image-based movie. Brings ARIS's research-wiki + multi-agent debate to multimodal generation (intelligence lives in the agent; the diffusion model just renders). Image-based today, video next.",
+      "link": "https://github.com/wanshuiyin/ARIS-Movie-Director",
+      "date": "2026-06-09T11:20:33Z",
+      "source": "GitHub",
+      "author": "wanshuiyin",
+      "tags": [
+        "⭐ 31",
+        "Python"
+      ],
+      "min": null,
+      "stars": 31
     },
     {
       "id": "1yezpij",
@@ -454,11 +426,11 @@
       "source": "GitHub",
       "author": "crimeacs",
       "tags": [
-        "⭐ 24",
+        "⭐ 25",
         "Python"
       ],
       "min": null,
-      "stars": 24
+      "stars": 25
     }
   ]
 }
