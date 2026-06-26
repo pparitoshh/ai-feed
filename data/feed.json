@@ -1,130 +1,7 @@
 {
-  "generatedAt": "2026-06-25T08:57:14.051Z",
-  "count": 32,
+  "generatedAt": "2026-06-26T08:58:28.288Z",
+  "count": 24,
   "cards": [
-    {
-      "id": "10srwec",
-      "type": "substack",
-      "title": "How to Create Loops with Claude: A Practical Guide to Agentic Automation",
-      "desc": "Claude Loop Engineering: How to Design Agents That Iterate, Verify, and Remember",
-      "link": "https://todatabeyond.substack.com/p/how-to-create-loops-with-claude-a",
-      "date": "Wed, 24 Jun 2026 01:24:37 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 16
-    },
-    {
-      "id": "1xroy89",
-      "type": "substack",
-      "title": "Hands-On Hermes Agent Workshop - Only 15 Seats Left",
-      "desc": "Hands-On Hermes Agent: Persistent Agents, Memory, Skills, and Real Workflows",
-      "link": "https://todatabeyond.substack.com/p/hands-on-hermes-agent-workshop-only",
-      "date": "Mon, 22 Jun 2026 09:05:19 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "1onf244",
-      "type": "substack",
-      "title": "Google Published a Paper That Might End the Transformer-Only LLM Era",
-      "desc": "Memory Caching gives RNNs a growing memory, offering a middle ground between efficient recurrence and expensive full attention.",
-      "link": "https://todatabeyond.substack.com/p/google-published-a-paper-that-might",
-      "date": "Sun, 21 Jun 2026 09:26:30 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "LLM",
-        "transformers"
-      ],
-      "min": 16
-    },
-    {
-      "id": "1hr0seb",
-      "type": "substack",
-      "title": "Join the Hands-On Hermes Agent Workshop",
-      "desc": "Hands-On Hermes Agent: Persistent Agents, Memory, Skills, and Real Workflows",
-      "link": "https://todatabeyond.substack.com/p/join-the-hands-on-hermes-agent-workshop",
-      "date": "Tue, 16 Jun 2026 13:51:06 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "agents"
-      ],
-      "min": 2
-    },
-    {
-      "id": "7z0oxm",
-      "type": "substack",
-      "title": "New Course: Claude Cowork 101 - From Prompts to Deliverables & Automated Workflows",
-      "desc": "Cowork is the tab in your Claude desktop app where Claude reads your folders, uses your connectors, runs scheduled tasks, and hands back finished work, a cleaned-up folder, a populated spreadsheet, and a weekly digest.",
-      "link": "https://todatabeyond.substack.com/p/new-course-claude-cowork-101-from",
-      "date": "Sun, 14 Jun 2026 23:06:08 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 2
-    },
-    {
-      "id": "19w6oeh",
-      "type": "github",
-      "title": "fancyboi999/ai-engineering-from-scratch-zh",
-      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
-      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "date": "2026-05-26T12:45:07Z",
-      "source": "GitHub",
-      "author": "fancyboi999",
-      "tags": [
-        "⭐ 481",
-        "Python"
-      ],
-      "min": null,
-      "stars": 481
-    },
-    {
-      "id": "1jvinzl",
-      "type": "substack",
-      "title": "Claude Cowork 101: From Prompts to Deliverables & Automated Workflows",
-      "desc": "Hands on Claude Cowork - From Essintal settings to Building Workflows",
-      "link": "https://todatabeyond.substack.com/p/claude-cowork-101-from-prompts-to",
-      "date": "Sat, 13 Jun 2026 18:10:10 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 16
-    },
-    {
-      "id": "1hz6w03",
-      "type": "substack",
-      "title": "What a Real Production Gen AI Folder Architecture Looks Like",
-      "desc": "A practical breakdown of the folders, files, and boundaries that usually appear once a Gen AI application has to survive production",
-      "link": "https://todatabeyond.substack.com/p/what-a-real-production-gen-ai-folder",
-      "date": "Tue, 09 Jun 2026 16:44:17 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [
-        "mlops"
-      ],
-      "min": 14
-    },
-    {
-      "id": "ekvr3x",
-      "type": "substack",
-      "title": "The 6 Claude Code Skills I Would Use for Real Projects",
-      "desc": "The 6 Claude Code Skills I Would Install First",
-      "link": "https://todatabeyond.substack.com/p/the-6-claude-code-skills-i-would",
-      "date": "Fri, 05 Jun 2026 16:02:26 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 7
-    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -150,22 +27,6 @@
         "agents"
       ],
       "min": 43
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 256",
-        "Go"
-      ],
-      "min": null,
-      "stars": 256
     },
     {
       "id": "v17hw0",
@@ -206,6 +67,22 @@
       "min": 12
     },
     {
+      "id": "19w6oeh",
+      "type": "github",
+      "title": "fancyboi999/ai-engineering-from-scratch-zh",
+      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
+      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "date": "2026-05-26T12:45:07Z",
+      "source": "GitHub",
+      "author": "fancyboi999",
+      "tags": [
+        "⭐ 487",
+        "Python"
+      ],
+      "min": null,
+      "stars": 487
+    },
+    {
       "id": "oesf1f",
       "type": "chip",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
@@ -230,21 +107,6 @@
       "min": 19
     },
     {
-      "id": "i15x39",
-      "type": "github",
-      "title": "ather-techie/rag-interview-system",
-      "desc": "A complete collection of RAG interview questions, answers (286 questions & 18 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
-      "link": "https://github.com/ather-techie/rag-interview-system",
-      "date": "2026-05-19T11:59:17Z",
-      "source": "GitHub",
-      "author": "ather-techie",
-      "tags": [
-        "⭐ 72"
-      ],
-      "min": null,
-      "stars": 72
-    },
-    {
       "id": "18wgmyf",
       "type": "chip",
       "title": "Multimodality and Large Multimodal Models (LMMs)",
@@ -255,6 +117,46 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 30
+    },
+    {
+      "id": "lqyc50",
+      "type": "news",
+      "title": "EXPOSED: TATA Electronics Data Breach Leaks 630GB of Apple &#038; Tesla Trade Secrets Directly on the Dark Web",
+      "desc": "The&#160;Tata Electronics data breach&#160;is the most explosive corporate cyber incident of 2026 — and chances are, your next iPhone&#8217;s blueprints are already sitting on a dark web server right now. On June 12, 2026, a ransomware extortion group called&#160;World Leaks&#160;quietly dropped a 6",
+      "link": "https://imfounder.com/science-tech/tata-electronics-data-breach-apple-tesla/",
+      "date": "Fri, 26 Jun 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 10
+    },
+    {
+      "id": "1jnvwms",
+      "type": "news",
+      "title": "7 Brutal Truths About Meta Ray-Ban Smart Glasses Gen 2 vs Gen 1 — Plus Meta&#8217;s Own $299 Glasses Just Changed Everything",
+      "desc": "Meta Ray-Ban Smart Glasses&#160;have officially gone mainstream — but as of June 23, 2026, the market just got a whole lot more complicated. Meta dropped a bombshell: its very own branded AI glasses, called Meta Glasses, going on sale immediately at $299 — no Ray-Ban logo, no Oakley shield, just Met",
+      "link": "https://imfounder.com/lifestyle/reviews/meta-ray-ban-smart-glasses-gen-2-vs-gen-1/",
+      "date": "Thu, 25 Jun 2026 10:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 260",
+        "Go"
+      ],
+      "min": null,
+      "stars": 260
     },
     {
       "id": "3tfkxy",
@@ -305,22 +207,6 @@
       "min": 5
     },
     {
-      "id": "16zg87t",
-      "type": "github",
-      "title": "SantanderAI/llm_bridge",
-      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
-      "link": "https://github.com/SantanderAI/llm_bridge",
-      "date": "2026-06-17T18:36:50Z",
-      "source": "GitHub",
-      "author": "SantanderAI",
-      "tags": [
-        "⭐ 63",
-        "Python"
-      ],
-      "min": null,
-      "stars": 63
-    },
-    {
       "id": "1gd0tzu",
       "type": "news",
       "title": "iPhone Price Increase Warning: 5 Shocking Truths About the Memory Crisis Tim Cook Just Confirmed",
@@ -331,6 +217,21 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 5
+    },
+    {
+      "id": "i15x39",
+      "type": "github",
+      "title": "ather-techie/rag-interview-system",
+      "desc": "A complete collection of RAG interview questions, answers (418 questions & 29 RAG types), system design scenarios, architecture patterns, and production-ready concepts.",
+      "link": "https://github.com/ather-techie/rag-interview-system",
+      "date": "2026-05-19T11:59:17Z",
+      "source": "GitHub",
+      "author": "ather-techie",
+      "tags": [
+        "⭐ 72"
+      ],
+      "min": null,
+      "stars": 72
     },
     {
       "id": "i7b7bi",
@@ -345,28 +246,20 @@
       "min": 6
     },
     {
-      "id": "1xco4yq",
-      "type": "news",
-      "title": "Startup Funding Canada Just Got Easier: The Powerful New Playbook for First-Time Founders",
-      "desc": "Startup Funding Canada is undergoing a quiet revolution. For years, aspiring entrepreneurs believed they needed a wealthy network, a Silicon Valley pedigree, or multiple startup exits before investors would take them seriously. In 2026, that narrative is rapidly changing. As both founders and invest",
-      "link": "https://imfounder.com/entrepreneurship/startup-funding-canada-first-time-founders/",
-      "date": "Wed, 17 Jun 2026 10:24:35 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "oyw4ec",
-      "type": "news",
-      "title": "India Paper Leak Scandal: 70+ Shattered Dreams, Student Suicides &#038; Modi Govt 10-Year Shameful Failure",
-      "desc": "The&#160;India paper leak scandal&#160;is not a glitch in the system. It&#160;is&#160;the system. Since 2014, when the Modi government rose to power on a thunderous promise of reform, accountability, and &#8220;achhe din&#8220;, India has witnessed over 70 documented examination paper leaks across s",
-      "link": "https://imfounder.com/politics/india-paper-leak-scandal-modi-government-failure/",
-      "date": "Tue, 16 Jun 2026 22:22:33 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 9
+      "id": "16zg87t",
+      "type": "github",
+      "title": "SantanderAI/llm_bridge",
+      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
+      "link": "https://github.com/SantanderAI/llm_bridge",
+      "date": "2026-06-17T18:36:50Z",
+      "source": "GitHub",
+      "author": "SantanderAI",
+      "tags": [
+        "⭐ 64",
+        "Python"
+      ],
+      "min": null,
+      "stars": 64
     },
     {
       "id": "181yv9d",
@@ -394,11 +287,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 36",
+        "⭐ 38",
         "JavaScript"
       ],
       "min": null,
-      "stars": 36
+      "stars": 38
     },
     {
       "id": "1e6xcss",
@@ -410,11 +303,11 @@
       "source": "GitHub",
       "author": "wanshuiyin",
       "tags": [
-        "⭐ 31",
+        "⭐ 32",
         "Python"
       ],
       "min": null,
-      "stars": 31
+      "stars": 32
     },
     {
       "id": "1yezpij",
