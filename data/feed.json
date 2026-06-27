@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T08:58:28.288Z",
+  "generatedAt": "2026-06-27T08:32:31.360Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 487",
+        "⭐ 490",
         "Python"
       ],
       "min": null,
-      "stars": 487
+      "stars": 490
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,49 @@
       "min": 30
     },
     {
+      "id": "k9uelo",
+      "type": "news",
+      "title": "Meta&#8217;s $900M CRED Bombshell: 7 Shocking Secrets Behind Zuckerberg&#8217;s Most Powerful Bet on Kunal Shah and WhatsApp&#8217;s Global Future",
+      "desc": "Meta CRED Kunal Shah WhatsApp — four words that just rewrote the rules of global tech. On June 22, 2026, Mark Zuckerberg&#8217;s Meta Platforms detonated one of the most explosive dual announcements in Silicon Valley history: a $900 million investment into Indian fintech startup CRED, paired with th",
+      "link": "https://imfounder.com/entrepreneurship/meta-cred-kunal-shah-whatsapp/",
+      "date": "Sat, 27 Jun 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "n4ud0h",
+      "type": "news",
+      "title": "5 Shocking Rounds: Japan&#8217;s Sakana Fugu AI Brutally Beats Claude in 2026",
+      "desc": "Sakana Fugu AI&#160;just became the most talked-about AI model on the planet — and it didn&#8217;t come from Silicon Valley. One week, America pulled Claude from global access. Four days later, Japan&#8217;s released Fugu, a multi-agent AI system that doesn&#8217;t just claim to compete with Claude ",
+      "link": "https://imfounder.com/science-tech/ai/sakana-fugu-ai-beats-claude-2026/",
+      "date": "Fri, 26 Jun 2026 11:26:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents",
+        "eval"
+      ],
+      "min": 7
+    },
+    {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 263",
+        "Go"
+      ],
+      "min": null,
+      "stars": 263
+    },
+    {
       "id": "lqyc50",
       "type": "news",
       "title": "EXPOSED: TATA Electronics Data Breach Leaks 630GB of Apple &#038; Tesla Trade Secrets Directly on the Dark Web",
@@ -141,22 +184,6 @@
       "author": "Editor",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 260",
-        "Go"
-      ],
-      "min": null,
-      "stars": 260
     },
     {
       "id": "3tfkxy",
@@ -195,30 +222,6 @@
       "min": 6
     },
     {
-      "id": "13rfg2h",
-      "type": "news",
-      "title": "GTA 6 Release Date Finally Confirmed: Massive Rockstar Announcement Ignites Global Excitement",
-      "desc": "GTA 6 Release Date&#160;is officially one of the most discussed topics on the internet today. For years, gamers joked that humanity would achieve impossible milestones before Rockstar released the next Grand Theft Auto. Social media became flooded with memes saying things like: Now, after more than ",
-      "link": "https://imfounder.com/entertainment/gta-6-release-date-confirmed-rockstar-announcement/",
-      "date": "Sat, 20 Jun 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "1gd0tzu",
-      "type": "news",
-      "title": "iPhone Price Increase Warning: 5 Shocking Truths About the Memory Crisis Tim Cook Just Confirmed",
-      "desc": "The&#160;iPhone price increase memory crisis&#160;is no longer speculation whispered in analyst calls — it&#8217;s been confirmed at the highest level. Apple CEO Tim Cook told&#160;The Wall Street Journal&#160;on June 17, 2026, that price hikes across Apple&#8217;s entire product lineup are now &#82",
-      "link": "https://imfounder.com/science-tech/iphone-price-increase-memory-crisis/",
-      "date": "Fri, 19 Jun 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 5
-    },
-    {
       "id": "i15x39",
       "type": "github",
       "title": "ather-techie/rag-interview-system",
@@ -234,16 +237,16 @@
       "stars": 72
     },
     {
-      "id": "i7b7bi",
+      "id": "13rfg2h",
       "type": "news",
-      "title": "The Streaming Wars Are Over. Hollywood Is Becoming an AI Supply Chain.",
-      "desc": "Hollywood is no longer fighting the streaming wars. That era is over. The new fight is bigger, colder, and far more structural. The industry is being rebuilt around consolidation, artificial intelligence, sports rights, platform control, and labor compression. The proposed Paramount Skydance acquisi",
-      "link": "https://imfounder.com/entertainment/hollywood-media-consolidation-ai-streaming/",
-      "date": "Thu, 18 Jun 2026 11:08:18 +0000",
+      "title": "GTA 6 Release Date Finally Confirmed: Massive Rockstar Announcement Ignites Global Excitement",
+      "desc": "GTA 6 Release Date&#160;is officially one of the most discussed topics on the internet today. For years, gamers joked that humanity would achieve impossible milestones before Rockstar released the next Grand Theft Auto. Social media became flooded with memes saying things like: Now, after more than ",
+      "link": "https://imfounder.com/entertainment/gta-6-release-date-confirmed-rockstar-announcement/",
+      "date": "Sat, 20 Jun 2026 08:00:00 +0000",
       "source": "IM Founder",
-      "author": "Renée Tomato",
+      "author": "Kirat Singh",
       "tags": [],
-      "min": 6
+      "min": 5
     },
     {
       "id": "16zg87t",
@@ -287,11 +290,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 38",
+        "⭐ 39",
         "JavaScript"
       ],
       "min": null,
-      "stars": 38
+      "stars": 39
     },
     {
       "id": "1e6xcss",
@@ -303,11 +306,11 @@
       "source": "GitHub",
       "author": "wanshuiyin",
       "tags": [
-        "⭐ 32",
+        "⭐ 33",
         "Python"
       ],
       "min": null,
-      "stars": 32
+      "stars": 33
     },
     {
       "id": "1yezpij",
