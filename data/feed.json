@@ -1,7 +1,131 @@
 {
-  "generatedAt": "2026-06-29T10:50:49.733Z",
+  "generatedAt": "2026-06-30T09:29:25.934Z",
   "count": 24,
   "cards": [
+    {
+      "id": "9dekfw",
+      "type": "substack",
+      "title": "The Context Layer",
+      "desc": "Models and harnesses are commoditizing. What's left is to own your context layer.",
+      "link": "https://www.decodingai.com/p/the-context-layer",
+      "date": "Tue, 30 Jun 2026 08:20:17 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 14
+    },
+    {
+      "id": "1urs8ky",
+      "type": "substack",
+      "title": "How Evaluation-Driven Development (EDD) Works",
+      "desc": "Turn every AI agent change into a measured experiment you compare before and after to detect regressions and measure performance.",
+      "link": "https://www.decodingai.com/p/how-evaluation-driven-development-works",
+      "date": "Tue, 23 Jun 2026 08:57:02 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "eval"
+      ],
+      "min": 15
+    },
+    {
+      "id": "1tu1i3u",
+      "type": "substack",
+      "title": "Build, Configure, or Use As-Is: The Agentic Harness",
+      "desc": "A component-by-component teardown of an agentic harness, from tools and skills to memory, sandbox, and permissions.",
+      "link": "https://www.decodingai.com/p/agentic-harness-system-design",
+      "date": "Tue, 09 Jun 2026 05:00:28 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 17
+    },
+    {
+      "id": "1rk9xvu",
+      "type": "substack",
+      "title": "How to Keep Your AI Agent's Knowledge Graph Clean",
+      "desc": "The resolution, deduplication, and review pipeline that keeps agent memory usable as it grows.",
+      "link": "https://www.decodingai.com/p/keep-knowledge-graph-clean",
+      "date": "Tue, 02 Jun 2026 05:00:53 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents",
+        "graph"
+      ],
+      "min": 10
+    },
+    {
+      "id": "1bsqcnb",
+      "type": "substack",
+      "title": "Stop Chasing the Perfect Ontology",
+      "desc": "Start with a fixed, generic base and extend only when your data demands it.",
+      "link": "https://www.decodingai.com/p/ship-a-knowledge-graph-ontology-in-5-minutes",
+      "date": "Tue, 26 May 2026 05:00:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "19w6oeh",
+      "type": "github",
+      "title": "fancyboi999/ai-engineering-from-scratch-zh",
+      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
+      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "date": "2026-05-26T12:45:07Z",
+      "source": "GitHub",
+      "author": "fancyboi999",
+      "tags": [
+        "⭐ 530",
+        "Python"
+      ],
+      "min": null,
+      "stars": 530
+    },
+    {
+      "id": "f6xgcl",
+      "type": "substack",
+      "title": "Inside Neo4j's Agent Memory",
+      "desc": "The knowledge-graph patterns that turn one-shot conversations into compounding intelligence.",
+      "link": "https://www.decodingai.com/p/understanding-neo4j-graph-agent-memory-system",
+      "date": "Tue, 19 May 2026 08:55:51 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 13
+    },
+    {
+      "id": "3r9xgq",
+      "type": "substack",
+      "title": "From Vibe Coding to a Real Engineering Team",
+      "desc": "My Claude Code agentic coding setup that ships features end-to-end",
+      "link": "https://www.decodingai.com/p/squid-my-agentic-coding-setup-may-2026",
+      "date": "Tue, 12 May 2026 11:04:20 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "168zoe5",
+      "type": "substack",
+      "title": "Building Agentic GraphRAG Systems",
+      "desc": "From knowledge graphs and ontologies to a unified memory as an MCP server for your AI agent.",
+      "link": "https://www.decodingai.com/p/agentic-graphrag",
+      "date": "Tue, 05 May 2026 05:01:08 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents",
+        "graph"
+      ],
+      "min": 15
+    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -27,6 +151,22 @@
         "agents"
       ],
       "min": 43
+    },
+    {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 272",
+        "Go"
+      ],
+      "min": null,
+      "stars": 272
     },
     {
       "id": "v17hw0",
@@ -67,22 +207,6 @@
       "min": 12
     },
     {
-      "id": "19w6oeh",
-      "type": "github",
-      "title": "fancyboi999/ai-engineering-from-scratch-zh",
-      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
-      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "date": "2026-05-26T12:45:07Z",
-      "source": "GitHub",
-      "author": "fancyboi999",
-      "tags": [
-        "⭐ 510",
-        "Python"
-      ],
-      "min": null,
-      "stars": 510
-    },
-    {
       "id": "oesf1f",
       "type": "chip",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
@@ -107,6 +231,22 @@
       "min": 19
     },
     {
+      "id": "1ertz8i",
+      "type": "github",
+      "title": "Alisa0808/vibe-creating-skill",
+      "desc": "Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Hermes); generate via Atlas Cloud — Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu, Gemini Omni, Grok Imagine.",
+      "link": "https://github.com/Alisa0808/vibe-creating-skill",
+      "date": "2026-06-16T09:13:10Z",
+      "source": "GitHub",
+      "author": "Alisa0808",
+      "tags": [
+        "⭐ 83",
+        "JavaScript"
+      ],
+      "min": null,
+      "stars": 83
+    },
+    {
       "id": "18wgmyf",
       "type": "chip",
       "title": "Multimodality and Large Multimodal Models (LMMs)",
@@ -117,137 +257,6 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 30
-    },
-    {
-      "id": "1j2qijz",
-      "type": "news",
-      "title": "Apple Price Hike 2026: 7 Brutal Tech Increases Destroying Wallets Worldwide",
-      "desc": "Apple price hike 2026 just delivered the worst tech pricing shock in recent memory — and if you own or plan to buy any Apple, Xbox, PlayStation, or Nintendo product, this affects you directly. On June 25, 2026, Apple silently updated its online store overnight. By morning, MacBooks were $100–$300 mo",
-      "link": "https://imfounder.com/science-tech/apple-price-hike-2026/",
-      "date": "Mon, 29 Jun 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "fsa4m6",
-      "type": "news",
-      "title": "GTA 6 Pre-Order Sales Break the Internet: 7 Shocking Numbers Behind Gaming&#8217;s Biggest Launch Ever",
-      "desc": "GTA 6 pre-order sales went live on June 25, 2026 — and the gaming world has not been the same since. In a move that sent shockwaves through Wall Street, Hollywood, and every corner of the internet, Rockstar Games officially opened pre-orders for the most anticipated video game in history. The number",
-      "link": "https://imfounder.com/entrepreneurship/business/gta-6-pre-order-sales/",
-      "date": "Sun, 28 Jun 2026 10:18:54 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 268",
-        "Go"
-      ],
-      "min": null,
-      "stars": 268
-    },
-    {
-      "id": "k9uelo",
-      "type": "news",
-      "title": "Meta&#8217;s $900M CRED Bombshell: 7 Shocking Secrets Behind Zuckerberg&#8217;s Most Powerful Bet on Kunal Shah and WhatsApp&#8217;s Global Future",
-      "desc": "Meta CRED Kunal Shah WhatsApp — four words that just rewrote the rules of global tech. On June 22, 2026, Mark Zuckerberg&#8217;s Meta Platforms detonated one of the most explosive dual announcements in Silicon Valley history: a $900 million investment into Indian fintech startup CRED, paired with th",
-      "link": "https://imfounder.com/entrepreneurship/meta-cred-kunal-shah-whatsapp/",
-      "date": "Sat, 27 Jun 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "n4ud0h",
-      "type": "news",
-      "title": "5 Shocking Rounds: Japan&#8217;s Sakana Fugu AI Brutally Beats Claude in 2026",
-      "desc": "Sakana Fugu AI&#160;just became the most talked-about AI model on the planet — and it didn&#8217;t come from Silicon Valley. One week, America pulled Claude from global access. Four days later, Japan&#8217;s released Fugu, a multi-agent AI system that doesn&#8217;t just claim to compete with Claude ",
-      "link": "https://imfounder.com/science-tech/ai/sakana-fugu-ai-beats-claude-2026/",
-      "date": "Fri, 26 Jun 2026 11:26:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents",
-        "eval"
-      ],
-      "min": 7
-    },
-    {
-      "id": "lqyc50",
-      "type": "news",
-      "title": "EXPOSED: TATA Electronics Data Breach Leaks 630GB of Apple &#038; Tesla Trade Secrets Directly on the Dark Web",
-      "desc": "The&#160;Tata Electronics data breach&#160;is the most explosive corporate cyber incident of 2026 — and chances are, your next iPhone&#8217;s blueprints are already sitting on a dark web server right now. On June 12, 2026, a ransomware extortion group called&#160;World Leaks&#160;quietly dropped a 6",
-      "link": "https://imfounder.com/science-tech/tata-electronics-data-breach-apple-tesla/",
-      "date": "Fri, 26 Jun 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "1jnvwms",
-      "type": "news",
-      "title": "7 Brutal Truths About Meta Ray-Ban Smart Glasses Gen 2 vs Gen 1 — Plus Meta&#8217;s Own $299 Glasses Just Changed Everything",
-      "desc": "Meta Ray-Ban Smart Glasses&#160;have officially gone mainstream — but as of June 23, 2026, the market just got a whole lot more complicated. Meta dropped a bombshell: its very own branded AI glasses, called Meta Glasses, going on sale immediately at $299 — no Ray-Ban logo, no Oakley shield, just Met",
-      "link": "https://imfounder.com/lifestyle/reviews/meta-ray-ban-smart-glasses-gen-2-vs-gen-1/",
-      "date": "Thu, 25 Jun 2026 10:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "3tfkxy",
-      "type": "news",
-      "title": "Mahindra vs John Deere: Why American Farmers Are Fighting Back Against Tractor Giants",
-      "desc": "Mahindra vs John Deere Is Becoming a Bigger Story Than Most People Realize For decades, American agriculture was dominated by one name: John Deere. Its green tractors became symbols of American farming itself. But a growing movement among farmers suggests the conversation is changing. Today, farmers",
-      "link": "https://imfounder.com/entrepreneurship/business/mahindra-vs-john-deere-right-to-repair/",
-      "date": "Wed, 24 Jun 2026 08:53:52 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "1ertz8i",
-      "type": "github",
-      "title": "Alisa0808/vibe-creating-skill",
-      "desc": "Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Hermes); generate via Atlas Cloud — Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu, Gemini Omni, Grok Imagine.",
-      "link": "https://github.com/Alisa0808/vibe-creating-skill",
-      "date": "2026-06-16T09:13:10Z",
-      "source": "GitHub",
-      "author": "Alisa0808",
-      "tags": [
-        "⭐ 80",
-        "JavaScript"
-      ],
-      "min": null,
-      "stars": 80
-    },
-    {
-      "id": "1ylkafr",
-      "type": "news",
-      "title": "Startup Ideas Rejected by Investors That Became Unicorns",
-      "desc": "Startup ideas rejected by investors often look too early, too strange, or too small to fund. That is exactly why the best stories in tech are so valuable: they show how many “obvious no’s” were actually missed category creators. Airbnb was turned down by seven investors before becoming a giant; Canv",
-      "link": "https://imfounder.com/entrepreneurship/startup-ideas-rejected-by-investors/",
-      "date": "Tue, 23 Jun 2026 07:59:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 5
     },
     {
       "id": "i15x39",
