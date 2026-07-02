@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T09:40:06.585Z",
+  "generatedAt": "2026-07-02T08:51:16.239Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 552",
+        "⭐ 582",
         "Python"
       ],
       "min": null,
-      "stars": 552
+      "stars": 582
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,48 @@
       "min": 30
     },
     {
+      "id": "172ma2b",
+      "type": "news",
+      "title": "How FIFA Makes Money: The Shocking Business Empire Behind Football&#8217;s Biggest Organization",
+      "desc": "Football is the world&#8217;s most popular sport, but behind every World Cup trophy, unforgettable goal, and packed stadium lies one of the most successful business organizations on the planet. How FIFA Makes Money&#160;is a question millions of football fans ask every year. While FIFA is officially",
+      "link": "https://imfounder.com/entrepreneurship/business/how-fifa-makes-money/",
+      "date": "Thu, 02 Jul 2026 08:45:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 5
+    },
+    {
+      "id": "p3e13u",
+      "type": "news",
+      "title": "15 Explosive AI Updates July 2026: GPT-5.6 Blocked, Claude in Your Slack, Nvidia, IBM Chip, AI Inflation &#038; More",
+      "desc": "The AI updates 2026 just delivered this week are enough to make your head spin — and your wallet hurt. A model so powerful the US government blocked it from the public. An AI coworker now quietly embedded inside your company Slack. MacBooks and Xboxes costing more because of AI chip demand. And a si",
+      "link": "https://imfounder.com/science-tech/ai/ai-updates-july-2026-gpt56-claude-ai-inflation/",
+      "date": "Wed, 01 Jul 2026 10:09:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents"
+      ],
+      "min": 14
+    },
+    {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 286",
+        "Go"
+      ],
+      "min": null,
+      "stars": 286
+    },
+    {
       "id": "1bwayal",
       "type": "news",
       "title": "Xbox Reset: Inside Microsoft&#8217;s Most Dangerous Gaming Gamble Yet",
@@ -141,22 +183,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 7
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 280",
-        "Go"
-      ],
-      "min": null,
-      "stars": 280
     },
     {
       "id": "1j2qijz",
@@ -195,6 +221,22 @@
       "min": 9
     },
     {
+      "id": "1drgxv",
+      "type": "github",
+      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "date": "2026-06-28T19:26:01Z",
+      "source": "GitHub",
+      "author": "thenicolas1894",
+      "tags": [
+        "⭐ 155",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 155
+    },
+    {
       "id": "n4ud0h",
       "type": "news",
       "title": "5 Shocking Rounds: Japan&#8217;s Sakana Fugu AI Brutally Beats Claude in 2026",
@@ -210,46 +252,6 @@
       "min": 7
     },
     {
-      "id": "lqyc50",
-      "type": "news",
-      "title": "EXPOSED: TATA Electronics Data Breach Leaks 630GB of Apple &#038; Tesla Trade Secrets Directly on the Dark Web",
-      "desc": "The&#160;Tata Electronics data breach&#160;is the most explosive corporate cyber incident of 2026 — and chances are, your next iPhone&#8217;s blueprints are already sitting on a dark web server right now. On June 12, 2026, a ransomware extortion group called&#160;World Leaks&#160;quietly dropped a 6",
-      "link": "https://imfounder.com/science-tech/tata-electronics-data-breach-apple-tesla/",
-      "date": "Fri, 26 Jun 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "1drgxv",
-      "type": "github",
-      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "date": "2026-06-28T19:26:01Z",
-      "source": "GitHub",
-      "author": "thenicolas1894",
-      "tags": [
-        "⭐ 154",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 154
-    },
-    {
-      "id": "1jnvwms",
-      "type": "news",
-      "title": "7 Brutal Truths About Meta Ray-Ban Smart Glasses Gen 2 vs Gen 1 — Plus Meta&#8217;s Own $299 Glasses Just Changed Everything",
-      "desc": "Meta Ray-Ban Smart Glasses&#160;have officially gone mainstream — but as of June 23, 2026, the market just got a whole lot more complicated. Meta dropped a bombshell: its very own branded AI glasses, called Meta Glasses, going on sale immediately at $299 — no Ray-Ban logo, no Oakley shield, just Met",
-      "link": "https://imfounder.com/lifestyle/reviews/meta-ray-ban-smart-glasses-gen-2-vs-gen-1/",
-      "date": "Thu, 25 Jun 2026 10:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 12
-    },
-    {
       "id": "f0eu5",
       "type": "github",
       "title": "AgustiPuigserver/opus-prompt-architect",
@@ -259,11 +261,11 @@
       "source": "GitHub",
       "author": "AgustiPuigserver",
       "tags": [
-        "⭐ 153",
+        "⭐ 152",
         "HTML"
       ],
       "min": null,
-      "stars": 153
+      "stars": 152
     },
     {
       "id": "siw7ql",
@@ -275,11 +277,11 @@
       "source": "GitHub",
       "author": "gunawan1996",
       "tags": [
-        "⭐ 152",
+        "⭐ 151",
         "HTML"
       ],
       "min": null,
-      "stars": 152
+      "stars": 151
     },
     {
       "id": "sh1wg8",
@@ -291,11 +293,11 @@
       "source": "GitHub",
       "author": "heavenaruba",
       "tags": [
-        "⭐ 152",
+        "⭐ 151",
         "HTML"
       ],
       "min": null,
-      "stars": 152
+      "stars": 151
     },
     {
       "id": "1ys5woy",
@@ -307,11 +309,11 @@
       "source": "GitHub",
       "author": "grandgaming9321-prog",
       "tags": [
-        "⭐ 152",
+        "⭐ 151",
         "HTML"
       ],
       "min": null,
-      "stars": 152
+      "stars": 151
     },
     {
       "id": "1ertz8i",
@@ -323,11 +325,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 92",
+        "⭐ 93",
         "JavaScript"
       ],
       "min": null,
-      "stars": 92
+      "stars": 93
     }
   ]
 }
