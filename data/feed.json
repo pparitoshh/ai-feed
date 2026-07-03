@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T08:51:16.239Z",
+  "generatedAt": "2026-07-03T08:58:13.468Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 582",
+        "⭐ 629",
         "Python"
       ],
       "min": null,
-      "stars": 582
+      "stars": 629
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "1srcapy",
+      "type": "news",
+      "title": "Why Starbucks&#8217; TikTok Creator Program Changes the Future of Work",
+      "desc": "Employee-generated content is not new. Workers have been making brands visible online for years, often without permission, protection, or pay. The change now is that companies are beginning to formalize what employees were already doing. Starbucks’ TikTok creator pilot⁠ is the latest proof point, an",
+      "link": "https://imfounder.com/entrepreneurship/starbucks-tiktok-workplace-creator-economy/",
+      "date": "Fri, 03 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 8
+    },
+    {
       "id": "172ma2b",
       "type": "news",
       "title": "How FIFA Makes Money: The Shocking Business Empire Behind Football&#8217;s Biggest Organization",
@@ -129,6 +141,22 @@
       "author": "Editor",
       "tags": [],
       "min": 5
+    },
+    {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 289",
+        "Go"
+      ],
+      "min": null,
+      "stars": 289
     },
     {
       "id": "p3e13u",
@@ -143,22 +171,6 @@
         "agents"
       ],
       "min": 14
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 286",
-        "Go"
-      ],
-      "min": null,
-      "stars": 286
     },
     {
       "id": "1bwayal",
@@ -209,6 +221,22 @@
       "min": 9
     },
     {
+      "id": "1drgxv",
+      "type": "github",
+      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "date": "2026-06-28T19:26:01Z",
+      "source": "GitHub",
+      "author": "thenicolas1894",
+      "tags": [
+        "⭐ 158",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 158
+    },
+    {
       "id": "k9uelo",
       "type": "news",
       "title": "Meta&#8217;s $900M CRED Bombshell: 7 Shocking Secrets Behind Zuckerberg&#8217;s Most Powerful Bet on Kunal Shah and WhatsApp&#8217;s Global Future",
@@ -219,37 +247,6 @@
       "author": "Oliver Timbrell",
       "tags": [],
       "min": 9
-    },
-    {
-      "id": "1drgxv",
-      "type": "github",
-      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "date": "2026-06-28T19:26:01Z",
-      "source": "GitHub",
-      "author": "thenicolas1894",
-      "tags": [
-        "⭐ 155",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 155
-    },
-    {
-      "id": "n4ud0h",
-      "type": "news",
-      "title": "5 Shocking Rounds: Japan&#8217;s Sakana Fugu AI Brutally Beats Claude in 2026",
-      "desc": "Sakana Fugu AI&#160;just became the most talked-about AI model on the planet — and it didn&#8217;t come from Silicon Valley. One week, America pulled Claude from global access. Four days later, Japan&#8217;s released Fugu, a multi-agent AI system that doesn&#8217;t just claim to compete with Claude ",
-      "link": "https://imfounder.com/science-tech/ai/sakana-fugu-ai-beats-claude-2026/",
-      "date": "Fri, 26 Jun 2026 11:26:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents",
-        "eval"
-      ],
-      "min": 7
     },
     {
       "id": "f0eu5",
