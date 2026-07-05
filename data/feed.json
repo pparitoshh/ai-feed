@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T08:32:32.869Z",
+  "generatedAt": "2026-07-05T08:48:43.017Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 683",
+        "⭐ 716",
         "Python"
       ],
       "min": null,
-      "stars": 683
+      "stars": 716
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "nqmpgu",
+      "type": "news",
+      "title": "Sony Kills PlayStation Discs — And Wall Street Loves It",
+      "desc": "Sony is killing PlayStation discs — and shareholders couldn&#8217;t be happier Sony PlayStation discs&#160;are officially on their way out. On July 1, 2026, Sony confirmed that physical disc production for all new PlayStation games will stop in January 2028, marking the end of a three-decade era whe",
+      "link": "https://imfounder.com/entertainment/playstation-discs-sony/",
+      "date": "Sat, 04 Jul 2026 10:20:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 6
+    },
+    {
       "id": "1srcapy",
       "type": "news",
       "title": "Why Starbucks&#8217; TikTok Creator Program Changes the Future of Work",
@@ -131,6 +143,22 @@
       "min": 8
     },
     {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 297",
+        "Go"
+      ],
+      "min": null,
+      "stars": 297
+    },
+    {
       "id": "172ma2b",
       "type": "news",
       "title": "How FIFA Makes Money: The Shocking Business Empire Behind Football&#8217;s Biggest Organization",
@@ -141,22 +169,6 @@
       "author": "Editor",
       "tags": [],
       "min": 5
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 292",
-        "Go"
-      ],
-      "min": null,
-      "stars": 292
     },
     {
       "id": "p3e13u",
@@ -209,18 +221,6 @@
       "min": 9
     },
     {
-      "id": "fsa4m6",
-      "type": "news",
-      "title": "GTA 6 Pre-Order Sales Break the Internet: 7 Shocking Numbers Behind Gaming&#8217;s Biggest Launch Ever",
-      "desc": "GTA 6 pre-order sales went live on June 25, 2026 — and the gaming world has not been the same since. In a move that sent shockwaves through Wall Street, Hollywood, and every corner of the internet, Rockstar Games officially opened pre-orders for the most anticipated video game in history. The number",
-      "link": "https://imfounder.com/entrepreneurship/business/gta-6-pre-order-sales/",
-      "date": "Sun, 28 Jun 2026 10:18:54 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 9
-    },
-    {
       "id": "1drgxv",
       "type": "github",
       "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
@@ -230,21 +230,21 @@
       "source": "GitHub",
       "author": "thenicolas1894",
       "tags": [
-        "⭐ 159",
+        "⭐ 160",
         "HTML"
       ],
       "min": null,
-      "stars": 159
+      "stars": 160
     },
     {
-      "id": "k9uelo",
+      "id": "fsa4m6",
       "type": "news",
-      "title": "Meta&#8217;s $900M CRED Bombshell: 7 Shocking Secrets Behind Zuckerberg&#8217;s Most Powerful Bet on Kunal Shah and WhatsApp&#8217;s Global Future",
-      "desc": "Meta CRED Kunal Shah WhatsApp — four words that just rewrote the rules of global tech. On June 22, 2026, Mark Zuckerberg&#8217;s Meta Platforms detonated one of the most explosive dual announcements in Silicon Valley history: a $900 million investment into Indian fintech startup CRED, paired with th",
-      "link": "https://imfounder.com/entrepreneurship/meta-cred-kunal-shah-whatsapp/",
-      "date": "Sat, 27 Jun 2026 08:00:00 +0000",
+      "title": "GTA 6 Pre-Order Sales Break the Internet: 7 Shocking Numbers Behind Gaming&#8217;s Biggest Launch Ever",
+      "desc": "GTA 6 pre-order sales went live on June 25, 2026 — and the gaming world has not been the same since. In a move that sent shockwaves through Wall Street, Hollywood, and every corner of the internet, Rockstar Games officially opened pre-orders for the most anticipated video game in history. The number",
+      "link": "https://imfounder.com/entrepreneurship/business/gta-6-pre-order-sales/",
+      "date": "Sun, 28 Jun 2026 10:18:54 +0000",
       "source": "IM Founder",
-      "author": "Oliver Timbrell",
+      "author": "Kirat Singh",
       "tags": [],
       "min": 9
     },
