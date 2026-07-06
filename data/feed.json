@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-05T08:48:43.017Z",
-  "count": 24,
+  "generatedAt": "2026-07-06T10:12:00.528Z",
+  "count": 16,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 716",
+        "⭐ 764",
         "Python"
       ],
       "min": null,
-      "stars": 716
+      "stars": 764
     },
     {
       "id": "oesf1f",
@@ -119,30 +119,6 @@
       "min": 30
     },
     {
-      "id": "nqmpgu",
-      "type": "news",
-      "title": "Sony Kills PlayStation Discs — And Wall Street Loves It",
-      "desc": "Sony is killing PlayStation discs — and shareholders couldn&#8217;t be happier Sony PlayStation discs&#160;are officially on their way out. On July 1, 2026, Sony confirmed that physical disc production for all new PlayStation games will stop in January 2028, marking the end of a three-decade era whe",
-      "link": "https://imfounder.com/entertainment/playstation-discs-sony/",
-      "date": "Sat, 04 Jul 2026 10:20:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 6
-    },
-    {
-      "id": "1srcapy",
-      "type": "news",
-      "title": "Why Starbucks&#8217; TikTok Creator Program Changes the Future of Work",
-      "desc": "Employee-generated content is not new. Workers have been making brands visible online for years, often without permission, protection, or pay. The change now is that companies are beginning to formalize what employees were already doing. Starbucks’ TikTok creator pilot⁠ is the latest proof point, an",
-      "link": "https://imfounder.com/entrepreneurship/starbucks-tiktok-workplace-creator-economy/",
-      "date": "Fri, 03 Jul 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 8
-    },
-    {
       "id": "kc0kfi",
       "type": "github",
       "title": "Nigh/show-me-the-story",
@@ -152,73 +128,11 @@
       "source": "GitHub",
       "author": "Nigh",
       "tags": [
-        "⭐ 297",
+        "⭐ 300",
         "Go"
       ],
       "min": null,
-      "stars": 297
-    },
-    {
-      "id": "172ma2b",
-      "type": "news",
-      "title": "How FIFA Makes Money: The Shocking Business Empire Behind Football&#8217;s Biggest Organization",
-      "desc": "Football is the world&#8217;s most popular sport, but behind every World Cup trophy, unforgettable goal, and packed stadium lies one of the most successful business organizations on the planet. How FIFA Makes Money&#160;is a question millions of football fans ask every year. While FIFA is officially",
-      "link": "https://imfounder.com/entrepreneurship/business/how-fifa-makes-money/",
-      "date": "Thu, 02 Jul 2026 08:45:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "p3e13u",
-      "type": "news",
-      "title": "15 Explosive AI Updates July 2026: GPT-5.6 Blocked, Claude in Your Slack, Nvidia, IBM Chip, AI Inflation &#038; More",
-      "desc": "The AI updates 2026 just delivered this week are enough to make your head spin — and your wallet hurt. A model so powerful the US government blocked it from the public. An AI coworker now quietly embedded inside your company Slack. MacBooks and Xboxes costing more because of AI chip demand. And a si",
-      "link": "https://imfounder.com/science-tech/ai/ai-updates-july-2026-gpt56-claude-ai-inflation/",
-      "date": "Wed, 01 Jul 2026 10:09:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents"
-      ],
-      "min": 14
-    },
-    {
-      "id": "1bwayal",
-      "type": "news",
-      "title": "Xbox Reset: Inside Microsoft&#8217;s Most Dangerous Gaming Gamble Yet",
-      "desc": "From Asha Sharma&#8217;s ambitious first 100 days to sweeping layoffs and studio uncertainty, Xbox has entered the most critical chapter in its 25-year history. Xbox Reset&#160;is no longer just an internal strategy—it has become one of the biggest stories in the gaming industry. Only weeks ago, Xbo",
-      "link": "https://imfounder.com/entertainment/xbox-reset-microsoft-gaming-strategy/",
-      "date": "Wed, 01 Jul 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 7
-    },
-    {
-      "id": "9bw4sp",
-      "type": "news",
-      "title": "Sex Bot Wars: How China Quietly Won the AI Intimacy Race in 2026",
-      "desc": "The next trillion-dollar AI market may not be search, office productivity, or enterprise software. It may be synthetic intimacy. That is the part nobody wants to say cleanly. AI companions, romantic chatbots, virtual girlfriends, emotional avatars, adult AI platforms, and humanoid sex robots are not",
-      "link": "https://imfounder.com/science-tech/ai/sex-bot-wars-ai-intimacy-race/",
-      "date": "Tue, 30 Jun 2026 08:24:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 7
-    },
-    {
-      "id": "1j2qijz",
-      "type": "news",
-      "title": "Apple Price Hike 2026: 7 Brutal Tech Increases Destroying Wallets Worldwide",
-      "desc": "Apple price hike 2026 just delivered the worst tech pricing shock in recent memory — and if you own or plan to buy any Apple, Xbox, PlayStation, or Nintendo product, this affects you directly. On June 25, 2026, Apple silently updated its online store overnight. By morning, MacBooks were $100–$300 mo",
-      "link": "https://imfounder.com/science-tech/apple-price-hike-2026/",
-      "date": "Mon, 29 Jun 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 9
+      "stars": 300
     },
     {
       "id": "1drgxv",
@@ -230,23 +144,11 @@
       "source": "GitHub",
       "author": "thenicolas1894",
       "tags": [
-        "⭐ 160",
+        "⭐ 162",
         "HTML"
       ],
       "min": null,
-      "stars": 160
-    },
-    {
-      "id": "fsa4m6",
-      "type": "news",
-      "title": "GTA 6 Pre-Order Sales Break the Internet: 7 Shocking Numbers Behind Gaming&#8217;s Biggest Launch Ever",
-      "desc": "GTA 6 pre-order sales went live on June 25, 2026 — and the gaming world has not been the same since. In a move that sent shockwaves through Wall Street, Hollywood, and every corner of the internet, Rockstar Games officially opened pre-orders for the most anticipated video game in history. The number",
-      "link": "https://imfounder.com/entrepreneurship/business/gta-6-pre-order-sales/",
-      "date": "Sun, 28 Jun 2026 10:18:54 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 9
+      "stars": 162
     },
     {
       "id": "f0eu5",
@@ -258,11 +160,11 @@
       "source": "GitHub",
       "author": "AgustiPuigserver",
       "tags": [
-        "⭐ 152",
+        "⭐ 153",
         "HTML"
       ],
       "min": null,
-      "stars": 152
+      "stars": 153
     },
     {
       "id": "siw7ql",
@@ -274,11 +176,27 @@
       "source": "GitHub",
       "author": "gunawan1996",
       "tags": [
-        "⭐ 151",
+        "⭐ 152",
         "HTML"
       ],
       "min": null,
-      "stars": 151
+      "stars": 152
+    },
+    {
+      "id": "1ys5woy",
+      "type": "github",
+      "title": "grandgaming9321-prog/reality-engine",
+      "desc": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+      "link": "https://github.com/grandgaming9321-prog/reality-engine",
+      "date": "2026-06-28T21:06:56Z",
+      "source": "GitHub",
+      "author": "grandgaming9321-prog",
+      "tags": [
+        "⭐ 152",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 152
     },
     {
       "id": "sh1wg8",
@@ -297,22 +215,6 @@
       "stars": 151
     },
     {
-      "id": "1ys5woy",
-      "type": "github",
-      "title": "grandgaming9321-prog/reality-engine",
-      "desc": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-      "link": "https://github.com/grandgaming9321-prog/reality-engine",
-      "date": "2026-06-28T21:06:56Z",
-      "source": "GitHub",
-      "author": "grandgaming9321-prog",
-      "tags": [
-        "⭐ 151",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 151
-    },
-    {
       "id": "1ertz8i",
       "type": "github",
       "title": "Alisa0808/vibe-creating-skill",
@@ -322,11 +224,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 93",
+        "⭐ 94",
         "JavaScript"
       ],
       "min": null,
-      "stars": 93
+      "stars": 94
     }
   ]
 }
