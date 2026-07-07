@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T10:12:00.528Z",
-  "count": 16,
+  "generatedAt": "2026-07-07T09:35:40.209Z",
+  "count": 24,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 764",
+        "⭐ 775",
         "Python"
       ],
       "min": null,
-      "stars": 764
+      "stars": 775
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,30 @@
       "min": 30
     },
     {
+      "id": "57oqja",
+      "type": "news",
+      "title": "AI Updates This Week: 12 Explosive Moves That Just Rewrote the ChatGPT vs Claude War",
+      "desc": "If you only read one roundup of AI updates this week, make it this one. Because buried inside these 12 announcements is a genuine shift in power: a free tool just combined ChatGPT and Claude into something smarter than either model alone, Meta reportedly told its own engineers to stop using Claude C",
+      "link": "https://imfounder.com/science-tech/ai/12-ai-updates-2026-july/",
+      "date": "Tue, 07 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "o58s2l",
+      "type": "news",
+      "title": "Claude Design 2026: Anthropic&#8217;s New AI Feature Explained",
+      "desc": "If you&#8217;ve seen &#8220;Claude Design&#8221; trending and wondered what it actually is: it&#8217;s Anthropic&#8217;s new AI tool that turns a text prompt into a working prototype, slide deck, or landing page — no design software required. It launched in April 2026 and got a major overhaul in Jun",
+      "link": "https://imfounder.com/science-tech/ai/claude-design-anthropic-new-features-2026/",
+      "date": "Mon, 06 Jul 2026 09:19:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 6
+    },
+    {
       "id": "kc0kfi",
       "type": "github",
       "title": "Nigh/show-me-the-story",
@@ -128,11 +152,73 @@
       "source": "GitHub",
       "author": "Nigh",
       "tags": [
-        "⭐ 300",
+        "⭐ 307",
         "Go"
       ],
       "min": null,
-      "stars": 300
+      "stars": 307
+    },
+    {
+      "id": "nqmpgu",
+      "type": "news",
+      "title": "Sony Kills PlayStation Discs — And Wall Street Loves It",
+      "desc": "Sony is killing PlayStation discs — and shareholders couldn&#8217;t be happier Sony PlayStation discs&#160;are officially on their way out. On July 1, 2026, Sony confirmed that physical disc production for all new PlayStation games will stop in January 2028, marking the end of a three-decade era whe",
+      "link": "https://imfounder.com/entertainment/playstation-discs-sony/",
+      "date": "Sat, 04 Jul 2026 10:20:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 6
+    },
+    {
+      "id": "1srcapy",
+      "type": "news",
+      "title": "Why Starbucks&#8217; TikTok Creator Program Changes the Future of Work",
+      "desc": "Employee-generated content is not new. Workers have been making brands visible online for years, often without permission, protection, or pay. The change now is that companies are beginning to formalize what employees were already doing. Starbucks’ TikTok creator pilot⁠ is the latest proof point, an",
+      "link": "https://imfounder.com/entrepreneurship/starbucks-tiktok-workplace-creator-economy/",
+      "date": "Fri, 03 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 8
+    },
+    {
+      "id": "172ma2b",
+      "type": "news",
+      "title": "How FIFA Makes Money: The Shocking Business Empire Behind Football&#8217;s Biggest Organization",
+      "desc": "Football is the world&#8217;s most popular sport, but behind every World Cup trophy, unforgettable goal, and packed stadium lies one of the most successful business organizations on the planet. How FIFA Makes Money&#160;is a question millions of football fans ask every year. While FIFA is officially",
+      "link": "https://imfounder.com/entrepreneurship/business/how-fifa-makes-money/",
+      "date": "Thu, 02 Jul 2026 08:45:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 5
+    },
+    {
+      "id": "p3e13u",
+      "type": "news",
+      "title": "15 Explosive AI Updates July 2026: GPT-5.6 Blocked, Claude in Your Slack, Nvidia, IBM Chip, AI Inflation &#038; More",
+      "desc": "The AI updates 2026 just delivered this week are enough to make your head spin — and your wallet hurt. A model so powerful the US government blocked it from the public. An AI coworker now quietly embedded inside your company Slack. MacBooks and Xboxes costing more because of AI chip demand. And a si",
+      "link": "https://imfounder.com/science-tech/ai/ai-updates-july-2026-gpt56-claude-ai-inflation/",
+      "date": "Wed, 01 Jul 2026 10:09:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents"
+      ],
+      "min": 14
+    },
+    {
+      "id": "1bwayal",
+      "type": "news",
+      "title": "Xbox Reset: Inside Microsoft&#8217;s Most Dangerous Gaming Gamble Yet",
+      "desc": "From Asha Sharma&#8217;s ambitious first 100 days to sweeping layoffs and studio uncertainty, Xbox has entered the most critical chapter in its 25-year history. Xbox Reset&#160;is no longer just an internal strategy—it has become one of the biggest stories in the gaming industry. Only weeks ago, Xbo",
+      "link": "https://imfounder.com/entertainment/xbox-reset-microsoft-gaming-strategy/",
+      "date": "Wed, 01 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 7
     },
     {
       "id": "1drgxv",
@@ -144,11 +230,39 @@
       "source": "GitHub",
       "author": "thenicolas1894",
       "tags": [
-        "⭐ 162",
+        "⭐ 163",
         "HTML"
       ],
       "min": null,
-      "stars": 162
+      "stars": 163
+    },
+    {
+      "id": "9bw4sp",
+      "type": "news",
+      "title": "Sex Bot Wars: How China Quietly Won the AI Intimacy Race in 2026",
+      "desc": "The next trillion-dollar AI market may not be search, office productivity, or enterprise software. It may be synthetic intimacy. That is the part nobody wants to say cleanly. AI companions, romantic chatbots, virtual girlfriends, emotional avatars, adult AI platforms, and humanoid sex robots are not",
+      "link": "https://imfounder.com/science-tech/ai/sex-bot-wars-ai-intimacy-race/",
+      "date": "Tue, 30 Jun 2026 08:24:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 7
+    },
+    {
+      "id": "siw7ql",
+      "type": "github",
+      "title": "gunawan1996/world-forge-ai",
+      "desc": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
+      "link": "https://github.com/gunawan1996/world-forge-ai",
+      "date": "2026-06-28T21:07:14Z",
+      "source": "GitHub",
+      "author": "gunawan1996",
+      "tags": [
+        "⭐ 153",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 153
     },
     {
       "id": "f0eu5",
@@ -167,22 +281,6 @@
       "stars": 153
     },
     {
-      "id": "siw7ql",
-      "type": "github",
-      "title": "gunawan1996/world-forge-ai",
-      "desc": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
-      "link": "https://github.com/gunawan1996/world-forge-ai",
-      "date": "2026-06-28T21:07:14Z",
-      "source": "GitHub",
-      "author": "gunawan1996",
-      "tags": [
-        "⭐ 152",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 152
-    },
-    {
       "id": "1ys5woy",
       "type": "github",
       "title": "grandgaming9321-prog/reality-engine",
@@ -192,11 +290,11 @@
       "source": "GitHub",
       "author": "grandgaming9321-prog",
       "tags": [
-        "⭐ 152",
+        "⭐ 153",
         "HTML"
       ],
       "min": null,
-      "stars": 152
+      "stars": 153
     },
     {
       "id": "sh1wg8",
@@ -208,11 +306,11 @@
       "source": "GitHub",
       "author": "heavenaruba",
       "tags": [
-        "⭐ 151",
+        "⭐ 152",
         "HTML"
       ],
       "min": null,
-      "stars": 151
+      "stars": 152
     },
     {
       "id": "1ertz8i",
@@ -224,11 +322,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 94",
+        "⭐ 95",
         "JavaScript"
       ],
       "min": null,
-      "stars": 94
+      "stars": 95
     }
   ]
 }
