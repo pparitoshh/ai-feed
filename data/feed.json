@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T09:35:40.209Z",
+  "generatedAt": "2026-07-08T08:22:47.091Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 775",
+        "⭐ 777",
         "Python"
       ],
       "min": null,
-      "stars": 775
+      "stars": 777
     },
     {
       "id": "oesf1f",
@@ -152,11 +152,11 @@
       "source": "GitHub",
       "author": "Nigh",
       "tags": [
-        "⭐ 307",
+        "⭐ 314",
         "Go"
       ],
       "min": null,
-      "stars": 307
+      "stars": 314
     },
     {
       "id": "nqmpgu",
@@ -258,6 +258,22 @@
       "source": "GitHub",
       "author": "gunawan1996",
       "tags": [
+        "⭐ 154",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 154
+    },
+    {
+      "id": "sh1wg8",
+      "type": "github",
+      "title": "heavenaruba/codified-prompt-rule-engine",
+      "desc": "Top 10 Claude Prompt Optimization Frameworks 2026",
+      "link": "https://github.com/heavenaruba/codified-prompt-rule-engine",
+      "date": "2026-06-28T19:33:45Z",
+      "source": "GitHub",
+      "author": "heavenaruba",
+      "tags": [
         "⭐ 153",
         "HTML"
       ],
@@ -297,36 +313,20 @@
       "stars": 153
     },
     {
-      "id": "sh1wg8",
+      "id": "1dr6ju",
       "type": "github",
-      "title": "heavenaruba/codified-prompt-rule-engine",
-      "desc": "Top 10 Claude Prompt Optimization Frameworks 2026",
-      "link": "https://github.com/heavenaruba/codified-prompt-rule-engine",
-      "date": "2026-06-28T19:33:45Z",
+      "title": "ktsoator/or",
+      "desc": "Choose the path from intent to action.",
+      "link": "https://github.com/ktsoator/or",
+      "date": "2026-06-18T03:04:42Z",
       "source": "GitHub",
-      "author": "heavenaruba",
+      "author": "ktsoator",
       "tags": [
-        "⭐ 152",
-        "HTML"
+        "⭐ 103",
+        "Go"
       ],
       "min": null,
-      "stars": 152
-    },
-    {
-      "id": "1ertz8i",
-      "type": "github",
-      "title": "Alisa0808/vibe-creating-skill",
-      "desc": "Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Hermes); generate via Atlas Cloud — Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu, Gemini Omni, Grok Imagine.",
-      "link": "https://github.com/Alisa0808/vibe-creating-skill",
-      "date": "2026-06-16T09:13:10Z",
-      "source": "GitHub",
-      "author": "Alisa0808",
-      "tags": [
-        "⭐ 95",
-        "JavaScript"
-      ],
-      "min": null,
-      "stars": 95
+      "stars": 103
     }
   ]
 }
