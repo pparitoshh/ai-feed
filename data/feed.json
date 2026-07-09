@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T08:22:47.091Z",
+  "generatedAt": "2026-07-09T09:33:04.466Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "fancyboi999",
       "tags": [
-        "⭐ 777",
+        "⭐ 787",
         "Python"
       ],
       "min": null,
-      "stars": 777
+      "stars": 787
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,20 @@
       "min": 30
     },
     {
+      "id": "fhn438",
+      "type": "news",
+      "title": "Scientists Build Synthetic Cell From Scratch: Why SpudCell Could Transform Biotechnology",
+      "desc": "A synthetic cell-like system just crossed a major scientific line. The bigger question now is who gets to control the infrastructure built around it. A team at the University of Minnesota just did something that sounds like science fiction: they built a synthetic cell-like system that isn&#8217;t al",
+      "link": "https://imfounder.com/science-tech/synthetic-cell-spudcell-breakthrough/",
+      "date": "Wed, 08 Jul 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [
+        "transformers"
+      ],
+      "min": 5
+    },
+    {
       "id": "57oqja",
       "type": "news",
       "title": "AI Updates This Week: 12 Explosive Moves That Just Rewrote the ChatGPT vs Claude War",
@@ -131,6 +145,22 @@
       "min": 9
     },
     {
+      "id": "kc0kfi",
+      "type": "github",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
+      "source": "GitHub",
+      "author": "Nigh",
+      "tags": [
+        "⭐ 322",
+        "Go"
+      ],
+      "min": null,
+      "stars": 322
+    },
+    {
       "id": "o58s2l",
       "type": "news",
       "title": "Claude Design 2026: Anthropic&#8217;s New AI Feature Explained",
@@ -141,22 +171,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 6
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 314",
-        "Go"
-      ],
-      "min": null,
-      "stars": 314
     },
     {
       "id": "nqmpgu",
@@ -209,18 +223,6 @@
       "min": 14
     },
     {
-      "id": "1bwayal",
-      "type": "news",
-      "title": "Xbox Reset: Inside Microsoft&#8217;s Most Dangerous Gaming Gamble Yet",
-      "desc": "From Asha Sharma&#8217;s ambitious first 100 days to sweeping layoffs and studio uncertainty, Xbox has entered the most critical chapter in its 25-year history. Xbox Reset&#160;is no longer just an internal strategy—it has become one of the biggest stories in the gaming industry. Only weeks ago, Xbo",
-      "link": "https://imfounder.com/entertainment/xbox-reset-microsoft-gaming-strategy/",
-      "date": "Wed, 01 Jul 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 7
-    },
-    {
       "id": "1drgxv",
       "type": "github",
       "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
@@ -230,21 +232,21 @@
       "source": "GitHub",
       "author": "thenicolas1894",
       "tags": [
-        "⭐ 163",
+        "⭐ 164",
         "HTML"
       ],
       "min": null,
-      "stars": 163
+      "stars": 164
     },
     {
-      "id": "9bw4sp",
+      "id": "1bwayal",
       "type": "news",
-      "title": "Sex Bot Wars: How China Quietly Won the AI Intimacy Race in 2026",
-      "desc": "The next trillion-dollar AI market may not be search, office productivity, or enterprise software. It may be synthetic intimacy. That is the part nobody wants to say cleanly. AI companions, romantic chatbots, virtual girlfriends, emotional avatars, adult AI platforms, and humanoid sex robots are not",
-      "link": "https://imfounder.com/science-tech/ai/sex-bot-wars-ai-intimacy-race/",
-      "date": "Tue, 30 Jun 2026 08:24:00 +0000",
+      "title": "Xbox Reset: Inside Microsoft&#8217;s Most Dangerous Gaming Gamble Yet",
+      "desc": "From Asha Sharma&#8217;s ambitious first 100 days to sweeping layoffs and studio uncertainty, Xbox has entered the most critical chapter in its 25-year history. Xbox Reset&#160;is no longer just an internal strategy—it has become one of the biggest stories in the gaming industry. Only weeks ago, Xbo",
+      "link": "https://imfounder.com/entertainment/xbox-reset-microsoft-gaming-strategy/",
+      "date": "Wed, 01 Jul 2026 08:00:00 +0000",
       "source": "IM Founder",
-      "author": "Renée Tomato",
+      "author": "Neha Slatch",
       "tags": [],
       "min": 7
     },
@@ -322,11 +324,11 @@
       "source": "GitHub",
       "author": "ktsoator",
       "tags": [
-        "⭐ 103",
+        "⭐ 149",
         "Go"
       ],
       "min": null,
-      "stars": 103
+      "stars": 149
     }
   ]
 }
