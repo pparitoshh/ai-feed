@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T09:33:04.466Z",
+  "generatedAt": "2026-07-10T09:29:13.041Z",
   "count": 24,
   "cards": [
     {
@@ -67,20 +67,20 @@
       "min": 12
     },
     {
-      "id": "19w6oeh",
+      "id": "kc0kfi",
       "type": "github",
-      "title": "fancyboi999/ai-engineering-from-scratch-zh",
-      "desc": "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南",
-      "link": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "date": "2026-05-26T12:45:07Z",
+      "title": "Nigh/show-me-the-story",
+      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
+      "link": "https://github.com/Nigh/show-me-the-story",
+      "date": "2026-06-03T04:26:27Z",
       "source": "GitHub",
-      "author": "fancyboi999",
+      "author": "Nigh",
       "tags": [
-        "⭐ 787",
-        "Python"
+        "⭐ 326",
+        "Go"
       ],
       "min": null,
-      "stars": 787
+      "stars": 326
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,48 @@
       "min": 30
     },
     {
+      "id": "1c0yft3",
+      "type": "news",
+      "title": "The New Beauty Standard Is Not Born. It Is Rendered. How AI Is Redefining Beauty",
+      "desc": "Generative AI did not invent beauty bias. It industrialized it — and the new face of digital culture is younger, lighter, smoother, thinner, and easier to monetize. Beauty standards used to come from magazines. Then they came from Instagram. Now they come from machines trained on both. That should b",
+      "link": "https://imfounder.com/science-tech/ai/how-ai-is-changing-beauty-standards/",
+      "date": "Fri, 10 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 6
+    },
+    {
+      "id": "1c29bai",
+      "type": "news",
+      "title": "Grok 4.5 Is Here: The Powerful AI Model Challenging Opus-Class Intelligence",
+      "desc": "The AI industry has entered another major chapter with the introduction of Grok 4.5, the newest large language model from xAI, Elon Musk&#8217;s artificial intelligence company. Early discussions across the AI community describe it as an &#8220;Opus-class&#8221; model—suggesting performance comparab",
+      "link": "https://imfounder.com/science-tech/ai/grok-4-5-ai-model/",
+      "date": "Thu, 09 Jul 2026 09:57:26 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [
+        "LLM"
+      ],
+      "min": 6
+    },
+    {
+      "id": "1drgxv",
+      "type": "github",
+      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "date": "2026-06-28T19:26:01Z",
+      "source": "GitHub",
+      "author": "thenicolas1894",
+      "tags": [
+        "⭐ 165",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 165
+    },
+    {
       "id": "fhn438",
       "type": "news",
       "title": "Scientists Build Synthetic Cell From Scratch: Why SpudCell Could Transform Biotechnology",
@@ -143,22 +185,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 9
-    },
-    {
-      "id": "kc0kfi",
-      "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
-      "source": "GitHub",
-      "author": "Nigh",
-      "tags": [
-        "⭐ 322",
-        "Go"
-      ],
-      "min": null,
-      "stars": 322
     },
     {
       "id": "o58s2l",
@@ -197,6 +223,22 @@
       "min": 8
     },
     {
+      "id": "1dr6ju",
+      "type": "github",
+      "title": "ktsoator/or",
+      "desc": "Choose the path from intent to action.",
+      "link": "https://github.com/ktsoator/or",
+      "date": "2026-06-18T03:04:42Z",
+      "source": "GitHub",
+      "author": "ktsoator",
+      "tags": [
+        "⭐ 160",
+        "Go"
+      ],
+      "min": null,
+      "stars": 160
+    },
+    {
       "id": "172ma2b",
       "type": "news",
       "title": "How FIFA Makes Money: The Shocking Business Empire Behind Football&#8217;s Biggest Organization",
@@ -207,48 +249,6 @@
       "author": "Editor",
       "tags": [],
       "min": 5
-    },
-    {
-      "id": "p3e13u",
-      "type": "news",
-      "title": "15 Explosive AI Updates July 2026: GPT-5.6 Blocked, Claude in Your Slack, Nvidia, IBM Chip, AI Inflation &#038; More",
-      "desc": "The AI updates 2026 just delivered this week are enough to make your head spin — and your wallet hurt. A model so powerful the US government blocked it from the public. An AI coworker now quietly embedded inside your company Slack. MacBooks and Xboxes costing more because of AI chip demand. And a si",
-      "link": "https://imfounder.com/science-tech/ai/ai-updates-july-2026-gpt56-claude-ai-inflation/",
-      "date": "Wed, 01 Jul 2026 10:09:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents"
-      ],
-      "min": 14
-    },
-    {
-      "id": "1drgxv",
-      "type": "github",
-      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "date": "2026-06-28T19:26:01Z",
-      "source": "GitHub",
-      "author": "thenicolas1894",
-      "tags": [
-        "⭐ 164",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 164
-    },
-    {
-      "id": "1bwayal",
-      "type": "news",
-      "title": "Xbox Reset: Inside Microsoft&#8217;s Most Dangerous Gaming Gamble Yet",
-      "desc": "From Asha Sharma&#8217;s ambitious first 100 days to sweeping layoffs and studio uncertainty, Xbox has entered the most critical chapter in its 25-year history. Xbox Reset&#160;is no longer just an internal strategy—it has become one of the biggest stories in the gaming industry. Only weeks ago, Xbo",
-      "link": "https://imfounder.com/entertainment/xbox-reset-microsoft-gaming-strategy/",
-      "date": "Wed, 01 Jul 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 7
     },
     {
       "id": "siw7ql",
@@ -315,20 +315,20 @@
       "stars": 153
     },
     {
-      "id": "1dr6ju",
+      "id": "1ertz8i",
       "type": "github",
-      "title": "ktsoator/or",
-      "desc": "Choose the path from intent to action.",
-      "link": "https://github.com/ktsoator/or",
-      "date": "2026-06-18T03:04:42Z",
+      "title": "Alisa0808/vibe-creating-skill",
+      "desc": "Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Hermes); generate via Atlas Cloud — Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu, Gemini Omni, Grok Imagine.",
+      "link": "https://github.com/Alisa0808/vibe-creating-skill",
+      "date": "2026-06-16T09:13:10Z",
       "source": "GitHub",
-      "author": "ktsoator",
+      "author": "Alisa0808",
       "tags": [
-        "⭐ 149",
-        "Go"
+        "⭐ 97",
+        "JavaScript"
       ],
       "min": null,
-      "stars": 149
+      "stars": 97
     }
   ]
 }
