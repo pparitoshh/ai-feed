@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T09:19:30.439Z",
-  "count": 24,
+  "generatedAt": "2026-07-14T07:57:29.999Z",
+  "count": 16,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Nigh",
       "tags": [
-        "⭐ 340",
+        "⭐ 345",
         "Go"
       ],
       "min": null,
-      "stars": 340
+      "stars": 345
     },
     {
       "id": "oesf1f",
@@ -119,32 +119,6 @@
       "min": 30
     },
     {
-      "id": "kzkifz",
-      "type": "news",
-      "title": "How Successful Entrepreneurs Spend Their Sundays: Powerful Habits That Build Extraordinary Companies",
-      "desc": "Successful entrepreneurs spend their Sundays&#160;differently than most people imagine. Contrary to the popular image of founders working around the clock, many of today&#8217;s most respected entrepreneurs use Sundays to slow down, reflect, reconnect, and prepare rather than simply work harder. The",
-      "link": "https://imfounder.com/entrepreneurship/successful-entrepreneurs-spend-their-sundays/",
-      "date": "Sun, 12 Jul 2026 08:47:08 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [
-        "mlops"
-      ],
-      "min": 5
-    },
-    {
-      "id": "aavtce",
-      "type": "news",
-      "title": "Canada&#8217;s $3.2 Billion Housing Bailout: Inside Mark Carney&#8217;s Explosive Plan to Rescue Drowning Condo Developers",
-      "desc": "The&#160;Canada housing bailout&#160;is no longer a theory — it&#8217;s a $3.2 billion reality, and it has split the country. In June 2026, Prime Minister Mark Carney stood beside British Columbia Premier David Eby in Vancouver and announced that Ottawa and the province would step in to buy more tha",
-      "link": "https://imfounder.com/real-estate/canada-housing-bailout-carney-condo-rescue/",
-      "date": "Sat, 11 Jul 2026 10:26:14 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 6
-    },
-    {
       "id": "1dr6ju",
       "type": "github",
       "title": "ktsoator/or",
@@ -154,75 +128,11 @@
       "source": "GitHub",
       "author": "ktsoator",
       "tags": [
-        "⭐ 173",
+        "⭐ 181",
         "Go"
       ],
       "min": null,
-      "stars": 173
-    },
-    {
-      "id": "1c0yft3",
-      "type": "news",
-      "title": "The New Beauty Standard Is Not Born. It Is Rendered. How AI Is Redefining Beauty",
-      "desc": "Generative AI did not invent beauty bias. It industrialized it — and the new face of digital culture is younger, lighter, smoother, thinner, and easier to monetize. Beauty standards used to come from magazines. Then they came from Instagram. Now they come from machines trained on both. That should b",
-      "link": "https://imfounder.com/science-tech/ai/how-ai-is-changing-beauty-standards/",
-      "date": "Fri, 10 Jul 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 6
-    },
-    {
-      "id": "1c29bai",
-      "type": "news",
-      "title": "Grok 4.5 Is Here: The Powerful AI Model Challenging Opus-Class Intelligence",
-      "desc": "The AI industry has entered another major chapter with the introduction of Grok 4.5, the newest large language model from xAI, Elon Musk&#8217;s artificial intelligence company. Early discussions across the AI community describe it as an &#8220;Opus-class&#8221; model—suggesting performance comparab",
-      "link": "https://imfounder.com/science-tech/ai/grok-4-5-ai-model/",
-      "date": "Thu, 09 Jul 2026 09:57:26 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [
-        "LLM"
-      ],
-      "min": 6
-    },
-    {
-      "id": "fhn438",
-      "type": "news",
-      "title": "Scientists Build Synthetic Cell From Scratch: Why SpudCell Could Transform Biotechnology",
-      "desc": "A synthetic cell-like system just crossed a major scientific line. The bigger question now is who gets to control the infrastructure built around it. A team at the University of Minnesota just did something that sounds like science fiction: they built a synthetic cell-like system that isn&#8217;t al",
-      "link": "https://imfounder.com/science-tech/synthetic-cell-spudcell-breakthrough/",
-      "date": "Wed, 08 Jul 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [
-        "transformers"
-      ],
-      "min": 5
-    },
-    {
-      "id": "57oqja",
-      "type": "news",
-      "title": "AI Updates This Week: 12 Explosive Moves That Just Rewrote the ChatGPT vs Claude War",
-      "desc": "If you only read one roundup of AI updates this week, make it this one. Because buried inside these 12 announcements is a genuine shift in power: a free tool just combined ChatGPT and Claude into something smarter than either model alone, Meta reportedly told its own engineers to stop using Claude C",
-      "link": "https://imfounder.com/science-tech/ai/12-ai-updates-2026-july/",
-      "date": "Tue, 07 Jul 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "o58s2l",
-      "type": "news",
-      "title": "Claude Design 2026: Anthropic&#8217;s New AI Feature Explained",
-      "desc": "If you&#8217;ve seen &#8220;Claude Design&#8221; trending and wondered what it actually is: it&#8217;s Anthropic&#8217;s new AI tool that turns a text prompt into a working prototype, slide deck, or landing page — no design software required. It launched in April 2026 and got a major overhaul in Jun",
-      "link": "https://imfounder.com/science-tech/ai/claude-design-anthropic-new-features-2026/",
-      "date": "Mon, 06 Jul 2026 09:19:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 6
+      "stars": 181
     },
     {
       "id": "1drgxv",
@@ -234,23 +144,11 @@
       "source": "GitHub",
       "author": "thenicolas1894",
       "tags": [
-        "⭐ 165",
+        "⭐ 166",
         "HTML"
       ],
       "min": null,
-      "stars": 165
-    },
-    {
-      "id": "nqmpgu",
-      "type": "news",
-      "title": "Sony Kills PlayStation Discs — And Wall Street Loves It",
-      "desc": "Sony is killing PlayStation discs — and shareholders couldn&#8217;t be happier Sony PlayStation discs&#160;are officially on their way out. On July 1, 2026, Sony confirmed that physical disc production for all new PlayStation games will stop in January 2028, marking the end of a three-decade era whe",
-      "link": "https://imfounder.com/entertainment/playstation-discs-sony/",
-      "date": "Sat, 04 Jul 2026 10:20:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 6
+      "stars": 166
     },
     {
       "id": "siw7ql",
@@ -261,6 +159,22 @@
       "date": "2026-06-28T21:07:14Z",
       "source": "GitHub",
       "author": "gunawan1996",
+      "tags": [
+        "⭐ 154",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 154
+    },
+    {
+      "id": "f0eu5",
+      "type": "github",
+      "title": "AgustiPuigserver/opus-prompt-architect",
+      "desc": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+      "link": "https://github.com/AgustiPuigserver/opus-prompt-architect",
+      "date": "2026-06-28T19:34:17Z",
+      "source": "GitHub",
+      "author": "AgustiPuigserver",
       "tags": [
         "⭐ 154",
         "HTML"
@@ -301,36 +215,20 @@
       "stars": 153
     },
     {
-      "id": "f0eu5",
+      "id": "1dthpri",
       "type": "github",
-      "title": "AgustiPuigserver/opus-prompt-architect",
-      "desc": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-      "link": "https://github.com/AgustiPuigserver/opus-prompt-architect",
-      "date": "2026-06-28T19:34:17Z",
-      "source": "GitHub",
-      "author": "AgustiPuigserver",
-      "tags": [
-        "⭐ 153",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 153
-    },
-    {
-      "id": "1ertz8i",
-      "type": "github",
-      "title": "Alisa0808/vibe-creating-skill",
-      "desc": "Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Hermes); generate via Atlas Cloud — Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu, Gemini Omni, Grok Imagine.",
-      "link": "https://github.com/Alisa0808/vibe-creating-skill",
-      "date": "2026-06-16T09:13:10Z",
+      "title": "Alisa0808/vox-director",
+      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+      "link": "https://github.com/Alisa0808/vox-director",
+      "date": "2026-07-10T15:32:05Z",
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 101",
-        "JavaScript"
+        "⭐ 120",
+        "Python"
       ],
       "min": null,
-      "stars": 101
+      "stars": 120
     }
   ]
 }
