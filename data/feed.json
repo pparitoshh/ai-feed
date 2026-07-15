@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T07:57:29.999Z",
+  "generatedAt": "2026-07-15T08:02:36.933Z",
   "count": 16,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Nigh",
       "tags": [
-        "⭐ 345",
+        "⭐ 353",
         "Go"
       ],
       "min": null,
-      "stars": 345
+      "stars": 353
     },
     {
       "id": "oesf1f",
@@ -128,11 +128,11 @@
       "source": "GitHub",
       "author": "ktsoator",
       "tags": [
-        "⭐ 181",
+        "⭐ 195",
         "Go"
       ],
       "min": null,
-      "stars": 181
+      "stars": 195
     },
     {
       "id": "1drgxv",
@@ -224,11 +224,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 120",
+        "⭐ 142",
         "Python"
       ],
       "min": null,
-      "stars": 120
+      "stars": 142
     }
   ]
 }
