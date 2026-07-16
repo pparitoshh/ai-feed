@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T08:02:36.933Z",
-  "count": 16,
+  "generatedAt": "2026-07-16T08:07:25.817Z",
+  "count": 24,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Nigh",
       "tags": [
-        "⭐ 353",
+        "⭐ 358",
         "Go"
       ],
       "min": null,
-      "stars": 353
+      "stars": 358
     },
     {
       "id": "oesf1f",
@@ -119,20 +119,30 @@
       "min": 30
     },
     {
-      "id": "1dr6ju",
-      "type": "github",
-      "title": "ktsoator/or",
-      "desc": "Choose the path from intent to action.",
-      "link": "https://github.com/ktsoator/or",
-      "date": "2026-06-18T03:04:42Z",
-      "source": "GitHub",
-      "author": "ktsoator",
+      "id": "7swzb",
+      "type": "news",
+      "title": "The AI-Driven Move: How Young Professionals Are Finding the Next Boom Cities",
+      "desc": "The villain is the machine that turns affordability into opportunity, then turns opportunity into an asset class. Affordability rankings, AI search tools, remote-work economics, and smart-city infrastructure are turning relocation from a lifestyle choice into a calculated market move. Young professi",
+      "link": "https://imfounder.com/entrepreneurship/ai-driven-move/",
+      "date": "Wed, 15 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 8
+    },
+    {
+      "id": "1m6nz7p",
+      "type": "news",
+      "title": "Apple OpenAI Lawsuit Exposes Shocking Trade Secret Betrayal",
+      "desc": "The&#160;Apple OpenAI lawsuit&#160;has exploded into one of the biggest corporate legal battles Silicon Valley has seen in years. Apple has formally sued OpenAI, along with two of its own former employees, accusing them of orchestrating a systematic scheme to steal confidential trade secrets and use",
+      "link": "https://imfounder.com/science-tech/apple-openai-lawsuit/",
+      "date": "Tue, 14 Jul 2026 20:40:05 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
       "tags": [
-        "⭐ 195",
-        "Go"
+        "mlops"
       ],
-      "min": null,
-      "stars": 195
+      "min": 6
     },
     {
       "id": "1drgxv",
@@ -144,21 +154,115 @@
       "source": "GitHub",
       "author": "thenicolas1894",
       "tags": [
-        "⭐ 166",
+        "⭐ 165",
         "HTML"
       ],
       "min": null,
-      "stars": 166
+      "stars": 165
     },
     {
-      "id": "siw7ql",
+      "id": "11ry9rs",
+      "type": "news",
+      "title": "The Shocking AI Token Maxing Crisis: How Companies Are Quietly Burning $50,000 a Month on AI",
+      "desc": "Inside the AI spending crisis crippling tech budgets — and the fixes turning it into a business opportunity AI token maxing&#160;has quietly become one of the biggest financial headaches in tech right now. For the last two years, companies pushed employees to use AI for everything — coding, writing,",
+      "link": "https://imfounder.com/science-tech/ai/ai-token-maxing-crisis/",
+      "date": "Tue, 14 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "inference"
+      ],
+      "min": 7
+    },
+    {
+      "id": "o9js9c",
+      "type": "news",
+      "title": "What the BBC Investigation Into Meta Instagram Child Abuse Ads Found",
+      "desc": "The investigation, titled The Careless Machine: Exposing Instagram&#8217;s Darkest Secret, was led by BBC senior correspondent Divya Arya. According to the BBC&#8217;s reporting, the team identified 30 unique paid ads on Instagram that used explicit search terms and linked out to channels on the mes",
+      "link": "https://imfounder.com/entrepreneurship/business/meta-instagram-child-abuse-ads/",
+      "date": "Mon, 13 Jul 2026 09:19:22 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 5
+    },
+    {
+      "id": "kzkifz",
+      "type": "news",
+      "title": "How Successful Entrepreneurs Spend Their Sundays: Powerful Habits That Build Extraordinary Companies",
+      "desc": "Successful entrepreneurs spend their Sundays&#160;differently than most people imagine. Contrary to the popular image of founders working around the clock, many of today&#8217;s most respected entrepreneurs use Sundays to slow down, reflect, reconnect, and prepare rather than simply work harder. The",
+      "link": "https://imfounder.com/entrepreneurship/successful-entrepreneurs-spend-their-sundays/",
+      "date": "Sun, 12 Jul 2026 08:47:08 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [
+        "mlops"
+      ],
+      "min": 5
+    },
+    {
+      "id": "aavtce",
+      "type": "news",
+      "title": "Canada&#8217;s $3.2 Billion Housing Bailout: Inside Mark Carney&#8217;s Explosive Plan to Rescue Drowning Condo Developers",
+      "desc": "The&#160;Canada housing bailout&#160;is no longer a theory — it&#8217;s a $3.2 billion reality, and it has split the country. In June 2026, Prime Minister Mark Carney stood beside British Columbia Premier David Eby in Vancouver and announced that Ottawa and the province would step in to buy more tha",
+      "link": "https://imfounder.com/real-estate/canada-housing-bailout-carney-condo-rescue/",
+      "date": "Sat, 11 Jul 2026 10:26:14 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 6
+    },
+    {
+      "id": "1c0yft3",
+      "type": "news",
+      "title": "The New Beauty Standard Is Not Born. It Is Rendered. How AI Is Redefining Beauty",
+      "desc": "Generative AI did not invent beauty bias. It industrialized it — and the new face of digital culture is younger, lighter, smoother, thinner, and easier to monetize. Beauty standards used to come from magazines. Then they came from Instagram. Now they come from machines trained on both. That should b",
+      "link": "https://imfounder.com/science-tech/ai/how-ai-is-changing-beauty-standards/",
+      "date": "Fri, 10 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 6
+    },
+    {
+      "id": "1dthpri",
       "type": "github",
-      "title": "gunawan1996/world-forge-ai",
-      "desc": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
-      "link": "https://github.com/gunawan1996/world-forge-ai",
-      "date": "2026-06-28T21:07:14Z",
+      "title": "Alisa0808/vox-director",
+      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+      "link": "https://github.com/Alisa0808/vox-director",
+      "date": "2026-07-10T15:32:05Z",
       "source": "GitHub",
-      "author": "gunawan1996",
+      "author": "Alisa0808",
+      "tags": [
+        "⭐ 158",
+        "Python"
+      ],
+      "min": null,
+      "stars": 158
+    },
+    {
+      "id": "1c29bai",
+      "type": "news",
+      "title": "Grok 4.5 Is Here: The Powerful AI Model Challenging Opus-Class Intelligence",
+      "desc": "The AI industry has entered another major chapter with the introduction of Grok 4.5, the newest large language model from xAI, Elon Musk&#8217;s artificial intelligence company. Early discussions across the AI community describe it as an &#8220;Opus-class&#8221; model—suggesting performance comparab",
+      "link": "https://imfounder.com/science-tech/ai/grok-4-5-ai-model/",
+      "date": "Thu, 09 Jul 2026 09:57:26 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [
+        "LLM"
+      ],
+      "min": 6
+    },
+    {
+      "id": "sh1wg8",
+      "type": "github",
+      "title": "heavenaruba/codified-prompt-rule-engine",
+      "desc": "Top 10 Claude Prompt Optimization Frameworks 2026",
+      "link": "https://github.com/heavenaruba/codified-prompt-rule-engine",
+      "date": "2026-06-28T19:33:45Z",
+      "source": "GitHub",
+      "author": "heavenaruba",
       "tags": [
         "⭐ 154",
         "HTML"
@@ -199,14 +303,14 @@
       "stars": 154
     },
     {
-      "id": "sh1wg8",
+      "id": "siw7ql",
       "type": "github",
-      "title": "heavenaruba/codified-prompt-rule-engine",
-      "desc": "Top 10 Claude Prompt Optimization Frameworks 2026",
-      "link": "https://github.com/heavenaruba/codified-prompt-rule-engine",
-      "date": "2026-06-28T19:33:45Z",
+      "title": "gunawan1996/world-forge-ai",
+      "desc": "AI World Generator 2026: Create Self-Evolving Maps & Stories",
+      "link": "https://github.com/gunawan1996/world-forge-ai",
+      "date": "2026-06-28T21:07:14Z",
       "source": "GitHub",
-      "author": "heavenaruba",
+      "author": "gunawan1996",
       "tags": [
         "⭐ 153",
         "HTML"
@@ -215,20 +319,20 @@
       "stars": 153
     },
     {
-      "id": "1dthpri",
+      "id": "1ertz8i",
       "type": "github",
-      "title": "Alisa0808/vox-director",
-      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "link": "https://github.com/Alisa0808/vox-director",
-      "date": "2026-07-10T15:32:05Z",
+      "title": "Alisa0808/vibe-creating-skill",
+      "desc": "Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Hermes); generate via Atlas Cloud — Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu, Gemini Omni, Grok Imagine.",
+      "link": "https://github.com/Alisa0808/vibe-creating-skill",
+      "date": "2026-06-16T09:13:10Z",
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 142",
-        "Python"
+        "⭐ 104",
+        "JavaScript"
       ],
       "min": null,
-      "stars": 142
+      "stars": 104
     }
   ]
 }
