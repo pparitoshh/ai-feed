@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T08:03:56.524Z",
-  "count": 16,
+  "generatedAt": "2026-07-18T07:43:31.082Z",
+  "count": 24,
   "cards": [
     {
       "id": "rm4aw5",
@@ -67,20 +67,20 @@
       "min": 12
     },
     {
-      "id": "kc0kfi",
+      "id": "1dthpri",
       "type": "github",
-      "title": "Nigh/show-me-the-story",
-      "desc": "Self-hosted AI novel generator: single Go binary + web UI. OpenAI-compatible API → outline → chapter-by-chapter writing with review, foreshadowing, fact-check, and full-book polish. Chinese &  English.",
-      "link": "https://github.com/Nigh/show-me-the-story",
-      "date": "2026-06-03T04:26:27Z",
+      "title": "Alisa0808/vox-director",
+      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+      "link": "https://github.com/Alisa0808/vox-director",
+      "date": "2026-07-10T15:32:05Z",
       "source": "GitHub",
-      "author": "Nigh",
+      "author": "Alisa0808",
       "tags": [
-        "⭐ 361",
-        "Go"
+        "⭐ 172",
+        "Python"
       ],
       "min": null,
-      "stars": 361
+      "stars": 172
     },
     {
       "id": "oesf1f",
@@ -119,20 +119,28 @@
       "min": 30
     },
     {
-      "id": "1dthpri",
-      "type": "github",
-      "title": "Alisa0808/vox-director",
-      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "link": "https://github.com/Alisa0808/vox-director",
-      "date": "2026-07-10T15:32:05Z",
-      "source": "GitHub",
-      "author": "Alisa0808",
-      "tags": [
-        "⭐ 168",
-        "Python"
-      ],
-      "min": null,
-      "stars": 168
+      "id": "18eaj37",
+      "type": "news",
+      "title": "AI News This Week: Claude&#8217;s Explosive Browser Move Just Changed Everything",
+      "desc": "The week AI stopped living inside apps and started living inside your entire workflow If you only have five minutes, here&#8217;s your&#160;AI news this week&#160;in one line: Claude Code just got its own browser, Spotify decided you should talk to it like a person, OpenAI finally shipped a physical",
+      "link": "https://imfounder.com/science-tech/ai/ai-news-this-week-july-2026/",
+      "date": "Fri, 17 Jul 2026 21:25:05 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 8
+    },
+    {
+      "id": "1235am2",
+      "type": "news",
+      "title": "China Just Built a $650,000 Robot That Can Punch Through a Wall — and We Should Be Terrified",
+      "desc": "A $650,000 stunt, a $16,000 real product, and an IPO built to profit from both ⸻ Unitree Robotics unveiled a piloted transformable mecha robot called the GD01, with footage showing CEO Wang Xingxing entering the machine as it demonstrated movement and pushed through brick barriers. The demonstration",
+      "link": "https://imfounder.com/science-tech/ai/unitree-gd01-mecha-robot/",
+      "date": "Fri, 17 Jul 2026 13:16:14 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 4
     },
     {
       "id": "1drgxv",
@@ -151,6 +159,73 @@
       "stars": 165
     },
     {
+      "id": "8e3c4y",
+      "type": "news",
+      "title": "Ontario Wildfire July 2026: Shocking Fire Emergency Pushes Northern Communities to the Edge",
+      "desc": "Ontario Wildfire July 2026: Latest Update Ontario Wildfire July 2026&#160;has become one of Canada&#8217;s most serious environmental emergencies of the summer, forcing thousands of residents from their homes, disrupting transportation networks, and covering much of Ontario with hazardous wildfire s",
+      "link": "https://imfounder.com/politics/public-policy/ontario-wildfire-july-2026/",
+      "date": "Thu, 16 Jul 2026 20:13:57 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 5
+    },
+    {
+      "id": "5u8gz3",
+      "type": "news",
+      "title": "The Complete Guide to Starting an AI Startup in Canada (2026 Edition)",
+      "desc": "Artificial intelligence has transformed from a futuristic technology into an everyday business tool. In just a few years, AI has become the foundation of thousands of startups building products for healthcare, education, finance, marketing, logistics, cybersecurity, legal services, manufacturing, an",
+      "link": "https://imfounder.com/entrepreneurship/complete-guide-ai-startup-canada-2026/",
+      "date": "Thu, 16 Jul 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "fine-tuning",
+        "mlops"
+      ],
+      "min": 9
+    },
+    {
+      "id": "7swzb",
+      "type": "news",
+      "title": "The AI-Driven Move: How Young Professionals Are Finding the Next Boom Cities",
+      "desc": "The villain is the machine that turns affordability into opportunity, then turns opportunity into an asset class. Affordability rankings, AI search tools, remote-work economics, and smart-city infrastructure are turning relocation from a lifestyle choice into a calculated market move. Young professi",
+      "link": "https://imfounder.com/entrepreneurship/ai-driven-move/",
+      "date": "Wed, 15 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 8
+    },
+    {
+      "id": "1m6nz7p",
+      "type": "news",
+      "title": "Apple OpenAI Lawsuit Exposes Shocking Trade Secret Betrayal",
+      "desc": "The&#160;Apple OpenAI lawsuit&#160;has exploded into one of the biggest corporate legal battles Silicon Valley has seen in years. Apple has formally sued OpenAI, along with two of its own former employees, accusing them of orchestrating a systematic scheme to steal confidential trade secrets and use",
+      "link": "https://imfounder.com/science-tech/apple-openai-lawsuit/",
+      "date": "Tue, 14 Jul 2026 20:40:05 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [
+        "mlops"
+      ],
+      "min": 6
+    },
+    {
+      "id": "11ry9rs",
+      "type": "news",
+      "title": "The Shocking AI Token Maxing Crisis: How Companies Are Quietly Burning $50,000 a Month on AI",
+      "desc": "Inside the AI spending crisis crippling tech budgets — and the fixes turning it into a business opportunity AI token maxing&#160;has quietly become one of the biggest financial headaches in tech right now. For the last two years, companies pushed employees to use AI for everything — coding, writing,",
+      "link": "https://imfounder.com/science-tech/ai/ai-token-maxing-crisis/",
+      "date": "Tue, 14 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "inference"
+      ],
+      "min": 7
+    },
+    {
       "id": "sh1wg8",
       "type": "github",
       "title": "heavenaruba/codified-prompt-rule-engine",
@@ -165,6 +240,18 @@
       ],
       "min": null,
       "stars": 154
+    },
+    {
+      "id": "o9js9c",
+      "type": "news",
+      "title": "What the BBC Investigation Into Meta Instagram Child Abuse Ads Found",
+      "desc": "The investigation, titled The Careless Machine: Exposing Instagram&#8217;s Darkest Secret, was led by BBC senior correspondent Divya Arya. According to the BBC&#8217;s reporting, the team identified 30 unique paid ads on Instagram that used explicit search terms and linked out to channels on the mes",
+      "link": "https://imfounder.com/entrepreneurship/business/meta-instagram-child-abuse-ads/",
+      "date": "Mon, 13 Jul 2026 09:19:22 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 5
     },
     {
       "id": "f0eu5",
@@ -224,11 +311,27 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 105",
+        "⭐ 106",
         "JavaScript"
       ],
       "min": null,
-      "stars": 105
+      "stars": 106
+    },
+    {
+      "id": "16zg87t",
+      "type": "github",
+      "title": "SantanderAI/llm_bridge",
+      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
+      "link": "https://github.com/SantanderAI/llm_bridge",
+      "date": "2026-06-17T18:36:50Z",
+      "source": "GitHub",
+      "author": "SantanderAI",
+      "tags": [
+        "⭐ 77",
+        "Python"
+      ],
+      "min": null,
+      "stars": 77
     }
   ]
 }
