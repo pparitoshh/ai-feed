@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T08:10:51.214Z",
+  "generatedAt": "2026-07-20T08:52:17.802Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 185",
+        "⭐ 253",
         "Python"
       ],
       "min": null,
-      "stars": 185
+      "stars": 253
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "137yokj",
+      "type": "news",
+      "title": "Bill C-9 Canada: The Truth Behind the New Hate Crime Law",
+      "desc": "Bill C-9 Canada&#160;is now the law of the land — and it has triggered one of the loudest free-expression debates the country has seen in years. Officially called the&#160;Combatting Hate Act, the bill received Royal Assent on June 18, 2026, and its provisions came into force on July 18, 2026. But b",
+      "link": "https://imfounder.com/politics/public-policy/bill-c9-canada-explained/",
+      "date": "Mon, 20 Jul 2026 08:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 6
+    },
+    {
       "id": "18eaj37",
       "type": "news",
       "title": "AI News This Week: Claude&#8217;s Explosive Browser Move Just Changed Everything",
@@ -131,6 +143,22 @@
       "min": 8
     },
     {
+      "id": "1drgxv",
+      "type": "github",
+      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "date": "2026-06-28T19:26:01Z",
+      "source": "GitHub",
+      "author": "thenicolas1894",
+      "tags": [
+        "⭐ 166",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 166
+    },
+    {
       "id": "1235am2",
       "type": "news",
       "title": "China Just Built a $650,000 Robot That Can Punch Through a Wall — and We Should Be Terrified",
@@ -141,22 +169,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 4
-    },
-    {
-      "id": "1drgxv",
-      "type": "github",
-      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "date": "2026-06-28T19:26:01Z",
-      "source": "GitHub",
-      "author": "thenicolas1894",
-      "tags": [
-        "⭐ 165",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 165
     },
     {
       "id": "8e3c4y",
@@ -212,6 +224,22 @@
       "min": 6
     },
     {
+      "id": "sh1wg8",
+      "type": "github",
+      "title": "heavenaruba/codified-prompt-rule-engine",
+      "desc": "Top 10 Claude Prompt Optimization Frameworks 2026",
+      "link": "https://github.com/heavenaruba/codified-prompt-rule-engine",
+      "date": "2026-06-28T19:33:45Z",
+      "source": "GitHub",
+      "author": "heavenaruba",
+      "tags": [
+        "⭐ 155",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 155
+    },
+    {
       "id": "11ry9rs",
       "type": "news",
       "title": "The Shocking AI Token Maxing Crisis: How Companies Are Quietly Burning $50,000 a Month on AI",
@@ -226,34 +254,6 @@
       "min": 7
     },
     {
-      "id": "sh1wg8",
-      "type": "github",
-      "title": "heavenaruba/codified-prompt-rule-engine",
-      "desc": "Top 10 Claude Prompt Optimization Frameworks 2026",
-      "link": "https://github.com/heavenaruba/codified-prompt-rule-engine",
-      "date": "2026-06-28T19:33:45Z",
-      "source": "GitHub",
-      "author": "heavenaruba",
-      "tags": [
-        "⭐ 154",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 154
-    },
-    {
-      "id": "o9js9c",
-      "type": "news",
-      "title": "What the BBC Investigation Into Meta Instagram Child Abuse Ads Found",
-      "desc": "The investigation, titled The Careless Machine: Exposing Instagram&#8217;s Darkest Secret, was led by BBC senior correspondent Divya Arya. According to the BBC&#8217;s reporting, the team identified 30 unique paid ads on Instagram that used explicit search terms and linked out to channels on the mes",
-      "link": "https://imfounder.com/entrepreneurship/business/meta-instagram-child-abuse-ads/",
-      "date": "Mon, 13 Jul 2026 09:19:22 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 5
-    },
-    {
       "id": "f0eu5",
       "type": "github",
       "title": "AgustiPuigserver/opus-prompt-architect",
@@ -263,11 +263,11 @@
       "source": "GitHub",
       "author": "AgustiPuigserver",
       "tags": [
-        "⭐ 154",
+        "⭐ 155",
         "HTML"
       ],
       "min": null,
-      "stars": 154
+      "stars": 155
     },
     {
       "id": "1ys5woy",
@@ -311,11 +311,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 106",
+        "⭐ 108",
         "JavaScript"
       ],
       "min": null,
-      "stars": 106
+      "stars": 108
     },
     {
       "id": "16zg87t",
