@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T08:22:25.032Z",
-  "count": 24,
+  "generatedAt": "2026-07-22T08:22:36.694Z",
+  "count": 16,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 297",
+        "⭐ 335",
         "Python"
       ],
       "min": null,
-      "stars": 297
+      "stars": 335
     },
     {
       "id": "oesf1f",
@@ -119,30 +119,6 @@
       "min": 30
     },
     {
-      "id": "rz0e2j",
-      "type": "news",
-      "title": "FIFA World Cup Final: Spain&#8217;s Historic Triumph Over Argentina Signals a New Era of Football",
-      "desc": "FIFA World Cup Final&#160;nights are remembered not only for the trophy lift, but for the stories they leave behind. The 2026 final delivered all the drama football fans could have hoped for—a tactical masterclass, relentless determination, heartbreaking defeat, and the symbolic passing of the torch",
-      "link": "https://imfounder.com/sports/fifa-world-cup-final-spain-vs-argentina/",
-      "date": "Tue, 21 Jul 2026 00:14:00 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "d0db8h",
-      "type": "news",
-      "title": "The Unyielding Fury of India&#8217;s Youth: CJP Protests Expose Education Crisis Under Modi Government",
-      "desc": "CJP Protest has erupted as one of the most significant youth uprisings in contemporary Indian history. At its core lies a simple truth: youth and students constitute the backbone of any nation. When Prime Ministers and Presidents from Canada, Australia, the United States, New Zealand, and broader G7",
-      "link": "https://imfounder.com/politics/cjp-protest-youth-education-crisis-india-2026/",
-      "date": "Mon, 20 Jul 2026 23:34:37 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 10
-    },
-    {
       "id": "1drgxv",
       "type": "github",
       "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
@@ -159,69 +135,6 @@
       "stars": 166
     },
     {
-      "id": "137yokj",
-      "type": "news",
-      "title": "Bill C-9 Canada: The Truth Behind the New Hate Crime Law",
-      "desc": "Bill C-9 Canada&#160;is now the law of the land — and it has triggered one of the loudest free-expression debates the country has seen in years. Officially called the&#160;Combatting Hate Act, the bill received Royal Assent on June 18, 2026, and its provisions came into force on July 18, 2026. But b",
-      "link": "https://imfounder.com/politics/public-policy/bill-c9-canada-explained/",
-      "date": "Mon, 20 Jul 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 6
-    },
-    {
-      "id": "18eaj37",
-      "type": "news",
-      "title": "AI News This Week: Claude&#8217;s Explosive Browser Move Just Changed Everything",
-      "desc": "The week AI stopped living inside apps and started living inside your entire workflow If you only have five minutes, here&#8217;s your&#160;AI news this week&#160;in one line: Claude Code just got its own browser, Spotify decided you should talk to it like a person, OpenAI finally shipped a physical",
-      "link": "https://imfounder.com/science-tech/ai/ai-news-this-week-july-2026/",
-      "date": "Fri, 17 Jul 2026 21:25:05 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 8
-    },
-    {
-      "id": "1235am2",
-      "type": "news",
-      "title": "China Just Built a $650,000 Robot That Can Punch Through a Wall — and We Should Be Terrified",
-      "desc": "A $650,000 stunt, a $16,000 real product, and an IPO built to profit from both ⸻ Unitree Robotics unveiled a piloted transformable mecha robot called the GD01, with footage showing CEO Wang Xingxing entering the machine as it demonstrated movement and pushed through brick barriers. The demonstration",
-      "link": "https://imfounder.com/science-tech/ai/unitree-gd01-mecha-robot/",
-      "date": "Fri, 17 Jul 2026 13:16:14 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 4
-    },
-    {
-      "id": "8e3c4y",
-      "type": "news",
-      "title": "Ontario Wildfire July 2026: Shocking Fire Emergency Pushes Northern Communities to the Edge",
-      "desc": "Ontario Wildfire July 2026: Latest Update Ontario Wildfire July 2026&#160;has become one of Canada&#8217;s most serious environmental emergencies of the summer, forcing thousands of residents from their homes, disrupting transportation networks, and covering much of Ontario with hazardous wildfire s",
-      "link": "https://imfounder.com/politics/public-policy/ontario-wildfire-july-2026/",
-      "date": "Thu, 16 Jul 2026 20:13:57 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 5
-    },
-    {
-      "id": "5u8gz3",
-      "type": "news",
-      "title": "The Complete Guide to Starting an AI Startup in Canada (2026 Edition)",
-      "desc": "Artificial intelligence has transformed from a futuristic technology into an everyday business tool. In just a few years, AI has become the foundation of thousands of startups building products for healthcare, education, finance, marketing, logistics, cybersecurity, legal services, manufacturing, an",
-      "link": "https://imfounder.com/entrepreneurship/complete-guide-ai-startup-canada-2026/",
-      "date": "Thu, 16 Jul 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "fine-tuning",
-        "mlops"
-      ],
-      "min": 9
-    },
-    {
       "id": "sh1wg8",
       "type": "github",
       "title": "heavenaruba/codified-prompt-rule-engine",
@@ -236,18 +149,6 @@
       ],
       "min": null,
       "stars": 155
-    },
-    {
-      "id": "7swzb",
-      "type": "news",
-      "title": "The AI-Driven Move: How Young Professionals Are Finding the Next Boom Cities",
-      "desc": "The villain is the machine that turns affordability into opportunity, then turns opportunity into an asset class. Affordability rankings, AI search tools, remote-work economics, and smart-city infrastructure are turning relocation from a lifestyle choice into a calculated market move. Young professi",
-      "link": "https://imfounder.com/entrepreneurship/ai-driven-move/",
-      "date": "Wed, 15 Jul 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 8
     },
     {
       "id": "f0eu5",
