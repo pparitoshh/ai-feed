@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T08:24:24.495Z",
+  "generatedAt": "2026-07-24T08:21:30.624Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 375",
+        "⭐ 408",
         "Python"
       ],
       "min": null,
-      "stars": 375
+      "stars": 408
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,49 @@
       "min": 30
     },
     {
+      "id": "13wt3mj",
+      "type": "news",
+      "title": "AMD Ryzen AI Max+ 395: The Chip That Crammed 128GB of AI Power Into a Box the Size of a Lunchbox",
+      "desc": "AMD Ryzen AI Max+ 395 is not a normal processor launch. It is AMD&#8217;s answer to a question the entire AI industry has been dancing around for two years: what happens when you stop treating memory as the bottleneck? Since AMD unveiled the chip, we&#8217;ve already covered how the AMD Ryzen AI Max",
+      "link": "https://imfounder.com/science-tech/ryzen-ai-max-395-guide/",
+      "date": "Fri, 24 Jul 2026 07:30:41 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [
+        "LLM",
+        "inference"
+      ],
+      "min": 12
+    },
+    {
+      "id": "1wfwrnr",
+      "type": "news",
+      "title": "How TikTok&#8217;s AI Algorithm Is Helping Small Businesses Scale Overnight",
+      "desc": "A restaurant with 200 followers posts a video of cheese pulling off a pizza slice. Forty-eight hours later, there&#8217;s a line down the block. No ad spend. No agency. No influencer contract. Just a phone, a kitchen, and an algorithm that doesn&#8217;t care who you are — only whether people keep wa",
+      "link": "https://imfounder.com/science-tech/ai/tiktok-ai-small-business-growth/",
+      "date": "Thu, 23 Jul 2026 08:30:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 8
+    },
+    {
+      "id": "1drgxv",
+      "type": "github",
+      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "date": "2026-06-28T19:26:01Z",
+      "source": "GitHub",
+      "author": "thenicolas1894",
+      "tags": [
+        "⭐ 166",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 166
+    },
+    {
       "id": "1141dtg",
       "type": "news",
       "title": "Gemini 3.6 Flash Comparison: Is Google&#8217;s New Model Actually Worth Switching For?",
@@ -141,22 +184,6 @@
       "author": "Oliver Timbrell",
       "tags": [],
       "min": 5
-    },
-    {
-      "id": "1drgxv",
-      "type": "github",
-      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "date": "2026-06-28T19:26:01Z",
-      "source": "GitHub",
-      "author": "thenicolas1894",
-      "tags": [
-        "⭐ 166",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 166
     },
     {
       "id": "d0db8h",
@@ -195,30 +222,6 @@
       "min": 8
     },
     {
-      "id": "1235am2",
-      "type": "news",
-      "title": "China Just Built a $650,000 Robot That Can Punch Through a Wall — and We Should Be Terrified",
-      "desc": "A $650,000 stunt, a $16,000 real product, and an IPO built to profit from both ⸻ Unitree Robotics unveiled a piloted transformable mecha robot called the GD01, with footage showing CEO Wang Xingxing entering the machine as it demonstrated movement and pushed through brick barriers. The demonstration",
-      "link": "https://imfounder.com/science-tech/ai/unitree-gd01-mecha-robot/",
-      "date": "Fri, 17 Jul 2026 13:16:14 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 4
-    },
-    {
-      "id": "8e3c4y",
-      "type": "news",
-      "title": "Ontario Wildfire July 2026: Shocking Fire Emergency Pushes Northern Communities to the Edge",
-      "desc": "Ontario Wildfire July 2026: Latest Update Ontario Wildfire July 2026&#160;has become one of Canada&#8217;s most serious environmental emergencies of the summer, forcing thousands of residents from their homes, disrupting transportation networks, and covering much of Ontario with hazardous wildfire s",
-      "link": "https://imfounder.com/politics/public-policy/ontario-wildfire-july-2026/",
-      "date": "Thu, 16 Jul 2026 20:13:57 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 5
-    },
-    {
       "id": "sh1wg8",
       "type": "github",
       "title": "heavenaruba/codified-prompt-rule-engine",
@@ -235,19 +238,16 @@
       "stars": 155
     },
     {
-      "id": "5u8gz3",
+      "id": "1235am2",
       "type": "news",
-      "title": "The Complete Guide to Starting an AI Startup in Canada (2026 Edition)",
-      "desc": "Artificial intelligence has transformed from a futuristic technology into an everyday business tool. In just a few years, AI has become the foundation of thousands of startups building products for healthcare, education, finance, marketing, logistics, cybersecurity, legal services, manufacturing, an",
-      "link": "https://imfounder.com/entrepreneurship/complete-guide-ai-startup-canada-2026/",
-      "date": "Thu, 16 Jul 2026 09:00:00 +0000",
+      "title": "China Just Built a $650,000 Robot That Can Punch Through a Wall — and We Should Be Terrified",
+      "desc": "A $650,000 stunt, a $16,000 real product, and an IPO built to profit from both ⸻ Unitree Robotics unveiled a piloted transformable mecha robot called the GD01, with footage showing CEO Wang Xingxing entering the machine as it demonstrated movement and pushed through brick barriers. The demonstration",
+      "link": "https://imfounder.com/science-tech/ai/unitree-gd01-mecha-robot/",
+      "date": "Fri, 17 Jul 2026 13:16:14 +0000",
       "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "fine-tuning",
-        "mlops"
-      ],
-      "min": 9
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 4
     },
     {
       "id": "f0eu5",
