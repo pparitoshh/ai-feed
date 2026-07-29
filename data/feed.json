@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T08:28:34.052Z",
+  "generatedAt": "2026-07-29T08:34:24.275Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 462",
+        "⭐ 484",
         "Python"
       ],
       "min": null,
-      "stars": 462
+      "stars": 484
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "yiaimj",
+      "type": "news",
+      "title": "No-Code vs Low-Code vs Full-Code: What Founders and Small Business Owners Actually Need to Know",
+      "desc": "If you&#8217;re a founder, you&#8217;ve probably had this exact conversation with yourself at 11pm:&#160;&#8220;Do I hire a developer, learn to build this myself in a tool like Bubble, or just find someone who can write real code?&#8221; I&#8217;ve spent years building software architecture and advi",
+      "link": "https://imfounder.com/science-tech/ai/no-code-vs-low-code-vs-full-code-founders-guide/",
+      "date": "Tue, 28 Jul 2026 08:55:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 9
+    },
+    {
       "id": "1lpa7zh",
       "type": "news",
       "title": "How Founders Are Using ChatGPT to Save 20 Hours Every Week",
@@ -131,18 +143,6 @@
         "mlops"
       ],
       "min": 5
-    },
-    {
-      "id": "1i70ovg",
-      "type": "news",
-      "title": "Spatial Computing Is Quietly Sneaking Into Your Living Room",
-      "desc": "A few years ago, &#8220;spatial computing&#8221; sounded like something out of a lab in Cupertino — expensive headsets, awkward straps, a device you&#8217;d wear for ten minutes and then quietly put back in the box. In 2026, that story is changing fast, and it&#8217;s happening in a much less dramat",
-      "link": "https://imfounder.com/science-tech/spatial-computing-living-room-2026/",
-      "date": "Sat, 25 Jul 2026 11:59:10 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 6
     },
     {
       "id": "1drgxv",
@@ -159,6 +159,18 @@
       ],
       "min": null,
       "stars": 166
+    },
+    {
+      "id": "1i70ovg",
+      "type": "news",
+      "title": "Spatial Computing Is Quietly Sneaking Into Your Living Room",
+      "desc": "A few years ago, &#8220;spatial computing&#8221; sounded like something out of a lab in Cupertino — expensive headsets, awkward straps, a device you&#8217;d wear for ten minutes and then quietly put back in the box. In 2026, that story is changing fast, and it&#8217;s happening in a much less dramat",
+      "link": "https://imfounder.com/science-tech/spatial-computing-living-room-2026/",
+      "date": "Sat, 25 Jul 2026 11:59:10 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 6
     },
     {
       "id": "ryr9ed",
@@ -212,18 +224,6 @@
       "min": 5
     },
     {
-      "id": "rz0e2j",
-      "type": "news",
-      "title": "FIFA World Cup Final: Spain&#8217;s Historic Triumph Over Argentina Signals a New Era of Football",
-      "desc": "FIFA World Cup Final&#160;nights are remembered not only for the trophy lift, but for the stories they leave behind. The 2026 final delivered all the drama football fans could have hoped for—a tactical masterclass, relentless determination, heartbreaking defeat, and the symbolic passing of the torch",
-      "link": "https://imfounder.com/sports/fifa-world-cup-final-spain-vs-argentina/",
-      "date": "Tue, 21 Jul 2026 00:14:00 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 5
-    },
-    {
       "id": "sh1wg8",
       "type": "github",
       "title": "heavenaruba/codified-prompt-rule-engine",
@@ -240,16 +240,32 @@
       "stars": 155
     },
     {
-      "id": "d0db8h",
+      "id": "rz0e2j",
       "type": "news",
-      "title": "The Unyielding Fury of India&#8217;s Youth: CJP Protests Expose Education Crisis Under Modi Government",
-      "desc": "CJP Protest has erupted as one of the most significant youth uprisings in contemporary Indian history. At its core lies a simple truth: youth and students constitute the backbone of any nation. When Prime Ministers and Presidents from Canada, Australia, the United States, New Zealand, and broader G7",
-      "link": "https://imfounder.com/politics/cjp-protest-youth-education-crisis-india-2026/",
-      "date": "Mon, 20 Jul 2026 23:34:37 +0000",
+      "title": "FIFA World Cup Final: Spain&#8217;s Historic Triumph Over Argentina Signals a New Era of Football",
+      "desc": "FIFA World Cup Final&#160;nights are remembered not only for the trophy lift, but for the stories they leave behind. The 2026 final delivered all the drama football fans could have hoped for—a tactical masterclass, relentless determination, heartbreaking defeat, and the symbolic passing of the torch",
+      "link": "https://imfounder.com/sports/fifa-world-cup-final-spain-vs-argentina/",
+      "date": "Tue, 21 Jul 2026 00:14:00 +0000",
       "source": "IM Founder",
-      "author": "Many Mcglon",
+      "author": "Oliver Timbrell",
       "tags": [],
-      "min": 10
+      "min": 5
+    },
+    {
+      "id": "1ys5woy",
+      "type": "github",
+      "title": "grandgaming9321-prog/reality-engine",
+      "desc": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+      "link": "https://github.com/grandgaming9321-prog/reality-engine",
+      "date": "2026-06-28T21:06:56Z",
+      "source": "GitHub",
+      "author": "grandgaming9321-prog",
+      "tags": [
+        "⭐ 155",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 155
     },
     {
       "id": "f0eu5",
@@ -266,22 +282,6 @@
       ],
       "min": null,
       "stars": 155
-    },
-    {
-      "id": "1ys5woy",
-      "type": "github",
-      "title": "grandgaming9321-prog/reality-engine",
-      "desc": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-      "link": "https://github.com/grandgaming9321-prog/reality-engine",
-      "date": "2026-06-28T21:06:56Z",
-      "source": "GitHub",
-      "author": "grandgaming9321-prog",
-      "tags": [
-        "⭐ 154",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 154
     },
     {
       "id": "siw7ql",
@@ -309,11 +309,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 111",
+        "⭐ 112",
         "JavaScript"
       ],
       "min": null,
-      "stars": 111
+      "stars": 112
     },
     {
       "id": "16zg87t",
