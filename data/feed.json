@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T08:20:24.059Z",
-  "count": 16,
+  "generatedAt": "2026-07-31T08:44:08.837Z",
+  "count": 24,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 624",
+        "⭐ 804",
         "Python"
       ],
       "min": null,
-      "stars": 624
+      "stars": 804
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,32 @@
       "min": 30
     },
     {
+      "id": "325ke1",
+      "type": "news",
+      "title": "50 Startup Mistakes That Kill Companies Before They Make Their First Profit",
+      "desc": "I&#8217;ve started four companies. Two died before they ever saw a profitable month, one got acquired for less than the founders had hoped, and one is still running today. Along the way I&#8217;ve sat on the other side of the table too — advising, angel investing, and watching other founders make th",
+      "link": "https://imfounder.com/entrepreneurship/50-startup-mistakes-that-kills/",
+      "date": "Fri, 31 Jul 2026 08:09:13 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [
+        "mlops"
+      ],
+      "min": 11
+    },
+    {
+      "id": "1jeaobb",
+      "type": "news",
+      "title": "BioCompute Anagha Rajesh: The 24-Year-Old Who Fled India&#8217;s Broken Startup Dream",
+      "desc": "A BITS Pilani graduate built India&#8217;s first DNA data storage lab in two years. Then she shut it down and moved to San Francisco — and her exit says something uncomfortable about Indian deep tech. BioCompute and its founder Anagha Rajesh have become the latest — and loudest — case study in a que",
+      "link": "https://imfounder.com/entrepreneurship/biocompute-anagha-rajesh-science-this-week/",
+      "date": "Thu, 30 Jul 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 13
+    },
+    {
       "id": "1drgxv",
       "type": "github",
       "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
@@ -135,6 +161,68 @@
       "stars": 166
     },
     {
+      "id": "19f22ls",
+      "type": "news",
+      "title": "AI&#8217;s $211 Billion Funding Boom Isn&#8217;t the Story. Where the Money Went Is.",
+      "desc": "Artificial intelligence has become the defining investment theme of this decade. Every week seemed to bring another headline announcing a billion-dollar funding round, a new AI unicorn, or a strategic investment from one of the world&#8217;s largest technology companies. By the end of 2025, private ",
+      "link": "https://imfounder.com/science-tech/ai/ai-funding-where-the-money-went-ai-this-week/",
+      "date": "Wed, 29 Jul 2026 09:08:00 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 8
+    },
+    {
+      "id": "yiaimj",
+      "type": "news",
+      "title": "No-Code vs Low-Code vs Full-Code: What Founders and Small Business Owners Actually Need to Know",
+      "desc": "If you&#8217;re a founder, you&#8217;ve probably had this exact conversation with yourself at 11pm:&#160;&#8220;Do I hire a developer, learn to build this myself in a tool like Bubble, or just find someone who can write real code?&#8221; I&#8217;ve spent years building software architecture and advi",
+      "link": "https://imfounder.com/science-tech/ai/no-code-vs-low-code-vs-full-code-founders-guide/",
+      "date": "Tue, 28 Jul 2026 08:55:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "1lpa7zh",
+      "type": "news",
+      "title": "How Founders Are Using ChatGPT to Save 20 Hours Every Week",
+      "desc": "For startup founders, time has become the world&#8217;s most valuable currency. Whether you&#8217;re building an MVP, pitching investors, managing a remote team or trying to close your first customers, every hour matters. The average founder wears multiple hats—CEO, marketer, recruiter, product mana",
+      "link": "https://imfounder.com/entrepreneurship/how-founders-use-chatgpt-save-20-hours-week/",
+      "date": "Mon, 27 Jul 2026 09:05:00 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [
+        "mlops"
+      ],
+      "min": 5
+    },
+    {
+      "id": "1i70ovg",
+      "type": "news",
+      "title": "Spatial Computing Is Quietly Sneaking Into Your Living Room",
+      "desc": "A few years ago, &#8220;spatial computing&#8221; sounded like something out of a lab in Cupertino — expensive headsets, awkward straps, a device you&#8217;d wear for ten minutes and then quietly put back in the box. In 2026, that story is changing fast, and it&#8217;s happening in a much less dramat",
+      "link": "https://imfounder.com/science-tech/spatial-computing-living-room-2026/",
+      "date": "Sat, 25 Jul 2026 11:59:10 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 6
+    },
+    {
+      "id": "ryr9ed",
+      "type": "news",
+      "title": "50 Best AI Tools Every Founder Should Use in 2026 (The Ultimate Startup Stack)",
+      "desc": "If you&#8217;re hunting for the right&#160;AI tools for founders, you already know the problem: there are thousands of AI apps promising to save your startup, and only a handful actually earn a permanent seat in your daily stack. This guide cuts through the noise. Below are the&#160;50 best AI tools",
+      "link": "https://imfounder.com/science-tech/ai/top-ai-tools-for-founders-2026/",
+      "date": "Fri, 24 Jul 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 9
+    },
+    {
       "id": "sh1wg8",
       "type": "github",
       "title": "heavenaruba/codified-prompt-rule-engine",
@@ -149,6 +237,21 @@
       ],
       "min": null,
       "stars": 155
+    },
+    {
+      "id": "13wt3mj",
+      "type": "news",
+      "title": "AMD Ryzen AI Max+ 395: The Chip That Crammed 128GB of AI Power Into a Box the Size of a Lunchbox",
+      "desc": "AMD Ryzen AI Max+ 395 is not a normal processor launch. It is AMD&#8217;s answer to a question the entire AI industry has been dancing around for two years: what happens when you stop treating memory as the bottleneck? Since AMD unveiled the chip, we&#8217;ve already covered how the AMD Ryzen AI Max",
+      "link": "https://imfounder.com/science-tech/ryzen-ai-max-395-guide/",
+      "date": "Fri, 24 Jul 2026 07:30:41 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [
+        "LLM",
+        "inference"
+      ],
+      "min": 12
     },
     {
       "id": "1ys5woy",
@@ -199,22 +302,6 @@
       "stars": 153
     },
     {
-      "id": "1ertz8i",
-      "type": "github",
-      "title": "Alisa0808/vibe-creating-skill",
-      "desc": "Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Hermes); generate via Atlas Cloud — Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu, Gemini Omni, Grok Imagine.",
-      "link": "https://github.com/Alisa0808/vibe-creating-skill",
-      "date": "2026-06-16T09:13:10Z",
-      "source": "GitHub",
-      "author": "Alisa0808",
-      "tags": [
-        "⭐ 113",
-        "JavaScript"
-      ],
-      "min": null,
-      "stars": 113
-    },
-    {
       "id": "16zg87t",
       "type": "github",
       "title": "SantanderAI/llm_bridge",
@@ -229,6 +316,22 @@
       ],
       "min": null,
       "stars": 78
+    },
+    {
+      "id": "15u4azh",
+      "type": "github",
+      "title": "lololerigolo60/Prompt-architect",
+      "desc": "Prompt Architect Pro is a Python desktop app that uses local Ollama LLMs to analyze raw texts and images. It extracts and structures visual descriptions into optimized JSON prompts for generative AI. It features a built-in SQLite database for prompt editing and adjustable VRAM hardware profiles. with a ComfyUI node that can use the database",
+      "link": "https://github.com/lololerigolo60/Prompt-architect",
+      "date": "2026-07-25T05:23:33Z",
+      "source": "GitHub",
+      "author": "lololerigolo60",
+      "tags": [
+        "⭐ 43",
+        "Python"
+      ],
+      "min": null,
+      "stars": 43
     }
   ]
 }
