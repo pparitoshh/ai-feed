@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-07-31T08:44:08.837Z",
-  "count": 24,
+  "generatedAt": "2026-08-01T08:15:17.142Z",
+  "count": 32,
   "cards": [
+    {
+      "id": "1es61d2",
+      "type": "substack",
+      "title": "Engineering Reliable Coding Agent Loops: Control Flow, Verification, Retries, and Stop Conditions",
+      "desc": "How to supervise long-running coding work with explicit contracts, verification, retries, and stopping conditions.",
+      "link": "https://todatabeyond.substack.com/p/engineering-reliable-coding-agent",
+      "date": "Wed, 29 Jul 2026 15:32:05 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 16
+    },
+    {
+      "id": "11ycywf",
+      "type": "substack",
+      "title": "Only 5 Seat Left - Hands-On Loop Engineering with Claude",
+      "desc": "Learn How to Use Claude loop to automate repetitive tasks",
+      "link": "https://todatabeyond.substack.com/p/only-5-seat-left-hands-on-loop-engineering",
+      "date": "Mon, 27 Jul 2026 19:54:28 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 2
+    },
+    {
+      "id": "1c614o",
+      "type": "substack",
+      "title": "Build Persistent Agents with Hermes Agent Course- 48h Left on 30% Launch Discount",
+      "desc": "A practical course on persistent agents, memory, skills, and real workflows &#8212; with 30% off during launch week + 50% off for paid subscribers",
+      "link": "https://todatabeyond.substack.com/p/build-persistent-agents-with-hermes",
+      "date": "Wed, 15 Jul 2026 03:39:49 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "1gjtcil",
+      "type": "substack",
+      "title": "I Used MyClaw to Build a Research Assistant That Sends Me Updates on Telegram",
+      "desc": "Most AI tools wait for prompts. I tested whether MyClaw could run a recurring research workflow and send useful updates before I asked.",
+      "link": "https://todatabeyond.substack.com/p/i-used-myclaw-to-build-a-research",
+      "date": "Mon, 13 Jul 2026 15:26:12 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 14
+    },
+    {
+      "id": "10fnfou",
+      "type": "substack",
+      "title": "New Live Workshop: Hands-On Loop Engineering with Claude",
+      "desc": "Most people use Claude through individual sessions: provide some context, ask it to complete a task, review the result, and repeat the same process the next time.",
+      "link": "https://todatabeyond.substack.com/p/new-live-workshop-hands-on-loop-engineering",
+      "date": "Sat, 11 Jul 2026 13:03:12 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 2
+    },
+    {
+      "id": "1dthpri",
+      "type": "github",
+      "title": "Alisa0808/vox-director",
+      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+      "link": "https://github.com/Alisa0808/vox-director",
+      "date": "2026-07-10T15:32:05Z",
+      "source": "GitHub",
+      "author": "Alisa0808",
+      "tags": [
+        "⭐ 875",
+        "Python"
+      ],
+      "min": null,
+      "stars": 875
+    },
+    {
+      "id": "cikg4g",
+      "type": "substack",
+      "title": "How Much Can Chinese Models Cut Your GenAI API Bill?",
+      "desc": "The real savings do not come from replacing every frontier model. It comes from routing reasoning, coding, agents, and bulk workloads to the cheapest model that is good enough.",
+      "link": "https://todatabeyond.substack.com/p/how-much-can-chinese-models-cut-your",
+      "date": "Thu, 09 Jul 2026 15:17:54 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 18
+    },
+    {
+      "id": "16scia7",
+      "type": "substack",
+      "title": "New Course: Build Persistent Agents with Hermes Agent",
+      "desc": "A practical course on persistent agents, memory, skills, and real workflows &#8212; with 30% off during launch week + 50% off for paid subscribers",
+      "link": "https://todatabeyond.substack.com/p/new-course-build-persistent-agents",
+      "date": "Wed, 08 Jul 2026 00:07:57 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "1ghcq0j",
+      "type": "substack",
+      "title": "Hermes Agent 101: A Practical Guide to Persistent and Self-Improving Agents",
+      "desc": "How Nous Research&#8217;s Hermes Agent turns the idea of an AI assistant into a long-running agent that remembers, learns skills, and works across tools",
+      "link": "https://todatabeyond.substack.com/p/hermes-agent-101-a-practical-guide",
+      "date": "Fri, 03 Jul 2026 12:48:31 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 24
+    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -27,6 +147,22 @@
         "agents"
       ],
       "min": 43
+    },
+    {
+      "id": "1drgxv",
+      "type": "github",
+      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "date": "2026-06-28T19:26:01Z",
+      "source": "GitHub",
+      "author": "thenicolas1894",
+      "tags": [
+        "⭐ 166",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 166
     },
     {
       "id": "v17hw0",
@@ -67,22 +203,6 @@
       "min": 12
     },
     {
-      "id": "1dthpri",
-      "type": "github",
-      "title": "Alisa0808/vox-director",
-      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "link": "https://github.com/Alisa0808/vox-director",
-      "date": "2026-07-10T15:32:05Z",
-      "source": "GitHub",
-      "author": "Alisa0808",
-      "tags": [
-        "⭐ 804",
-        "Python"
-      ],
-      "min": null,
-      "stars": 804
-    },
-    {
       "id": "oesf1f",
       "type": "chip",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
@@ -105,6 +225,22 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 19
+    },
+    {
+      "id": "sh1wg8",
+      "type": "github",
+      "title": "heavenaruba/codified-prompt-rule-engine",
+      "desc": "Top 10 Claude Prompt Optimization Frameworks 2026",
+      "link": "https://github.com/heavenaruba/codified-prompt-rule-engine",
+      "date": "2026-06-28T19:33:45Z",
+      "source": "GitHub",
+      "author": "heavenaruba",
+      "tags": [
+        "⭐ 156",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 156
     },
     {
       "id": "18wgmyf",
@@ -145,22 +281,6 @@
       "min": 13
     },
     {
-      "id": "1drgxv",
-      "type": "github",
-      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "date": "2026-06-28T19:26:01Z",
-      "source": "GitHub",
-      "author": "thenicolas1894",
-      "tags": [
-        "⭐ 166",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 166
-    },
-    {
       "id": "19f22ls",
       "type": "news",
       "title": "AI&#8217;s $211 Billion Funding Boom Isn&#8217;t the Story. Where the Money Went Is.",
@@ -183,6 +303,22 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 9
+    },
+    {
+      "id": "1ys5woy",
+      "type": "github",
+      "title": "grandgaming9321-prog/reality-engine",
+      "desc": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+      "link": "https://github.com/grandgaming9321-prog/reality-engine",
+      "date": "2026-06-28T21:06:56Z",
+      "source": "GitHub",
+      "author": "grandgaming9321-prog",
+      "tags": [
+        "⭐ 155",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 155
     },
     {
       "id": "1lpa7zh",
@@ -223,22 +359,6 @@
       "min": 9
     },
     {
-      "id": "sh1wg8",
-      "type": "github",
-      "title": "heavenaruba/codified-prompt-rule-engine",
-      "desc": "Top 10 Claude Prompt Optimization Frameworks 2026",
-      "link": "https://github.com/heavenaruba/codified-prompt-rule-engine",
-      "date": "2026-06-28T19:33:45Z",
-      "source": "GitHub",
-      "author": "heavenaruba",
-      "tags": [
-        "⭐ 155",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 155
-    },
-    {
       "id": "13wt3mj",
       "type": "news",
       "title": "AMD Ryzen AI Max+ 395: The Chip That Crammed 128GB of AI Power Into a Box the Size of a Lunchbox",
@@ -252,22 +372,6 @@
         "inference"
       ],
       "min": 12
-    },
-    {
-      "id": "1ys5woy",
-      "type": "github",
-      "title": "grandgaming9321-prog/reality-engine",
-      "desc": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-      "link": "https://github.com/grandgaming9321-prog/reality-engine",
-      "date": "2026-06-28T21:06:56Z",
-      "source": "GitHub",
-      "author": "grandgaming9321-prog",
-      "tags": [
-        "⭐ 155",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 155
     },
     {
       "id": "f0eu5",
@@ -302,22 +406,6 @@
       "stars": 153
     },
     {
-      "id": "16zg87t",
-      "type": "github",
-      "title": "SantanderAI/llm_bridge",
-      "desc": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend.",
-      "link": "https://github.com/SantanderAI/llm_bridge",
-      "date": "2026-06-17T18:36:50Z",
-      "source": "GitHub",
-      "author": "SantanderAI",
-      "tags": [
-        "⭐ 78",
-        "Python"
-      ],
-      "min": null,
-      "stars": 78
-    },
-    {
       "id": "15u4azh",
       "type": "github",
       "title": "lololerigolo60/Prompt-architect",
@@ -332,6 +420,22 @@
       ],
       "min": null,
       "stars": 43
+    },
+    {
+      "id": "1kbe0z0",
+      "type": "github",
+      "title": "MADEVAL/FerryAI",
+      "desc": "Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process via FFI. Chat, streaming, embeddings, RAG and vector search. No Python, no HTTP microservices, no Docker sidecars.",
+      "link": "https://github.com/MADEVAL/FerryAI",
+      "date": "2026-07-04T10:45:08Z",
+      "source": "GitHub",
+      "author": "MADEVAL",
+      "tags": [
+        "⭐ 40",
+        "PHP"
+      ],
+      "min": null,
+      "stars": 40
     }
   ]
 }
