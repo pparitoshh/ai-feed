@@ -1,70 +1,74 @@
 {
-  "generatedAt": "2026-08-01T08:15:17.142Z",
+  "generatedAt": "2026-08-02T08:18:40.595Z",
   "count": 32,
   "cards": [
     {
-      "id": "1es61d2",
+      "id": "of2rsw",
       "type": "substack",
-      "title": "Engineering Reliable Coding Agent Loops: Control Flow, Verification, Retries, and Stop Conditions",
-      "desc": "How to supervise long-running coding work with explicit contracts, verification, retries, and stopping conditions.",
-      "link": "https://todatabeyond.substack.com/p/engineering-reliable-coding-agent",
-      "date": "Wed, 29 Jul 2026 15:32:05 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
+      "title": "The Bare-Bones Coding Agent Loop",
+      "desc": "One agent loop, 9 tools, and a terminal you can steer.",
+      "link": "https://www.decodingai.com/p/the-coding-agent-loop",
+      "date": "Tue, 28 Jul 2026 13:54:35 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
       "tags": [
         "agents"
       ],
-      "min": 16
+      "min": 28
     },
     {
-      "id": "11ycywf",
+      "id": "c9r5x",
       "type": "substack",
-      "title": "Only 5 Seat Left - Hands-On Loop Engineering with Claude",
-      "desc": "Learn How to Use Claude loop to automate repetitive tasks",
-      "link": "https://todatabeyond.substack.com/p/only-5-seat-left-hands-on-loop-engineering",
-      "date": "Mon, 27 Jul 2026 19:54:28 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 2
-    },
-    {
-      "id": "1c614o",
-      "type": "substack",
-      "title": "Build Persistent Agents with Hermes Agent Course- 48h Left on 30% Launch Discount",
-      "desc": "A practical course on persistent agents, memory, skills, and real workflows &#8212; with 30% off during launch week + 50% off for paid subscribers",
-      "link": "https://todatabeyond.substack.com/p/build-persistent-agents-with-hermes",
-      "date": "Wed, 15 Jul 2026 03:39:49 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
+      "title": "Building a Coding Agent From Scratch",
+      "desc": "Designing the harness around the model, from the agent loop to a remote swarm.",
+      "link": "https://www.decodingai.com/p/building-a-coding-agent-from-scratch-system-design",
+      "date": "Wed, 22 Jul 2026 11:04:24 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
       "tags": [
         "agents"
       ],
-      "min": 2
+      "min": 19
     },
     {
-      "id": "1gjtcil",
+      "id": "19167da",
       "type": "substack",
-      "title": "I Used MyClaw to Build a Research Assistant That Sends Me Updates on Telegram",
-      "desc": "Most AI tools wait for prompts. I tested whether MyClaw could run a recurring research workflow and send useful updates before I asked.",
-      "link": "https://todatabeyond.substack.com/p/i-used-myclaw-to-build-a-research",
-      "date": "Mon, 13 Jul 2026 15:26:12 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
+      "title": "Agent Memory From Scratch",
+      "desc": "Ingest, query, and serve a unified memory from a single database.",
+      "link": "https://www.decodingai.com/p/how-to-implement-a-unified-memory-from-scratch",
+      "date": "Tue, 14 Jul 2026 05:01:54 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 15
+    },
+    {
+      "id": "zdod1b",
+      "type": "substack",
+      "title": "Your Second Brain Is a Graveyard. Make It Agent Memory.",
+      "desc": "Turn dead notes into a living LLM wiki your AI agents can query, maintain, and grow",
+      "link": "https://www.decodingai.com/p/llm-wiki-agent-memory",
+      "date": "Tue, 07 Jul 2026 05:01:21 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "agents"
+      ],
+      "min": 13
+    },
+    {
+      "id": "9dekfw",
+      "type": "substack",
+      "title": "From Harness Lock-In to Portable Context Layer",
+      "desc": "Build a unified memory (knowledge graph or an LLM wiki) and serve it over MCP servers or skills, so any agent, open or closed, plugs in within minutes.",
+      "link": "https://www.decodingai.com/p/the-context-layer",
+      "date": "Tue, 30 Jun 2026 08:20:17 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
       "tags": [],
       "min": 14
-    },
-    {
-      "id": "10fnfou",
-      "type": "substack",
-      "title": "New Live Workshop: Hands-On Loop Engineering with Claude",
-      "desc": "Most people use Claude through individual sessions: provide some context, ask it to complete a task, review the result, and repeat the same process the next time.",
-      "link": "https://todatabeyond.substack.com/p/new-live-workshop-hands-on-loop-engineering",
-      "date": "Sat, 11 Jul 2026 13:03:12 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 2
     },
     {
       "id": "1dthpri",
@@ -76,51 +80,54 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 875",
+        "⭐ 934",
         "Python"
       ],
       "min": null,
-      "stars": 875
+      "stars": 934
     },
     {
-      "id": "cikg4g",
+      "id": "1urs8ky",
       "type": "substack",
-      "title": "How Much Can Chinese Models Cut Your GenAI API Bill?",
-      "desc": "The real savings do not come from replacing every frontier model. It comes from routing reasoning, coding, agents, and bulk workloads to the cheapest model that is good enough.",
-      "link": "https://todatabeyond.substack.com/p/how-much-can-chinese-models-cut-your",
-      "date": "Thu, 09 Jul 2026 15:17:54 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
-      "tags": [],
-      "min": 18
+      "title": "How Evaluation-Driven Development (EDD) Works",
+      "desc": "Turn every AI agent change into a measured experiment you compare before and after to detect regressions and measure performance.",
+      "link": "https://www.decodingai.com/p/how-evaluation-driven-development-works",
+      "date": "Tue, 23 Jun 2026 08:57:02 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
+      "tags": [
+        "eval"
+      ],
+      "min": 15
     },
     {
-      "id": "16scia7",
+      "id": "1tu1i3u",
       "type": "substack",
-      "title": "New Course: Build Persistent Agents with Hermes Agent",
-      "desc": "A practical course on persistent agents, memory, skills, and real workflows &#8212; with 30% off during launch week + 50% off for paid subscribers",
-      "link": "https://todatabeyond.substack.com/p/new-course-build-persistent-agents",
-      "date": "Wed, 08 Jul 2026 00:07:57 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
+      "title": "Build, Configure, or Use As-Is: The Agentic Harness",
+      "desc": "A component-by-component teardown of an agentic harness, from tools and skills to memory, sandbox, and permissions.",
+      "link": "https://www.decodingai.com/p/agentic-harness-system-design",
+      "date": "Tue, 09 Jun 2026 05:00:28 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
       "tags": [
         "agents"
       ],
-      "min": 2
+      "min": 17
     },
     {
-      "id": "1ghcq0j",
+      "id": "1rk9xvu",
       "type": "substack",
-      "title": "Hermes Agent 101: A Practical Guide to Persistent and Self-Improving Agents",
-      "desc": "How Nous Research&#8217;s Hermes Agent turns the idea of an AI assistant into a long-running agent that remembers, learns skills, and works across tools",
-      "link": "https://todatabeyond.substack.com/p/hermes-agent-101-a-practical-guide",
-      "date": "Fri, 03 Jul 2026 12:48:31 GMT",
-      "source": "To Data & Beyond",
-      "author": "Youssef Hosni",
+      "title": "How to Keep Your AI Agent's Knowledge Graph Clean",
+      "desc": "The resolution, deduplication, and review pipeline that keeps agent memory usable as it grows.",
+      "link": "https://www.decodingai.com/p/keep-knowledge-graph-clean",
+      "date": "Tue, 02 Jun 2026 05:00:53 GMT",
+      "source": "Decoding AI Mag",
+      "author": "Paul Iusztin",
       "tags": [
-        "agents"
+        "agents",
+        "graph"
       ],
-      "min": 24
+      "min": 10
     },
     {
       "id": "rm4aw5",
@@ -255,6 +262,18 @@
       "min": 30
     },
     {
+      "id": "1r470v3",
+      "type": "news",
+      "title": "Hardware Subscription Model Trap: Why You&#8217;ll Never Own Tech Again",
+      "desc": "The&#160;hardware subscription model&#160;just went mainstream, and most people didn&#8217;t notice until their next iPhone bill looked suspiciously like a car lease. For over a decade, software quietly moved from something you&#160;bought&#160;to something you&#160;rent. Now the same playbook is co",
+      "link": "https://imfounder.com/science-tech/apple-nvidia-hardware-subscription-model/",
+      "date": "Sat, 01 Aug 2026 09:26:59 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 10
+    },
+    {
       "id": "325ke1",
       "type": "news",
       "title": "50 Startup Mistakes That Kill Companies Before They Make Their First Profit",
@@ -293,18 +312,6 @@
       "min": 8
     },
     {
-      "id": "yiaimj",
-      "type": "news",
-      "title": "No-Code vs Low-Code vs Full-Code: What Founders and Small Business Owners Actually Need to Know",
-      "desc": "If you&#8217;re a founder, you&#8217;ve probably had this exact conversation with yourself at 11pm:&#160;&#8220;Do I hire a developer, learn to build this myself in a tool like Bubble, or just find someone who can write real code?&#8221; I&#8217;ve spent years building software architecture and advi",
-      "link": "https://imfounder.com/science-tech/ai/no-code-vs-low-code-vs-full-code-founders-guide/",
-      "date": "Tue, 28 Jul 2026 08:55:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 9
-    },
-    {
       "id": "1ys5woy",
       "type": "github",
       "title": "grandgaming9321-prog/reality-engine",
@@ -319,6 +326,18 @@
       ],
       "min": null,
       "stars": 155
+    },
+    {
+      "id": "yiaimj",
+      "type": "news",
+      "title": "No-Code vs Low-Code vs Full-Code: What Founders and Small Business Owners Actually Need to Know",
+      "desc": "If you&#8217;re a founder, you&#8217;ve probably had this exact conversation with yourself at 11pm:&#160;&#8220;Do I hire a developer, learn to build this myself in a tool like Bubble, or just find someone who can write real code?&#8221; I&#8217;ve spent years building software architecture and advi",
+      "link": "https://imfounder.com/science-tech/ai/no-code-vs-low-code-vs-full-code-founders-guide/",
+      "date": "Tue, 28 Jul 2026 08:55:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 9
     },
     {
       "id": "1lpa7zh",
@@ -357,21 +376,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 9
-    },
-    {
-      "id": "13wt3mj",
-      "type": "news",
-      "title": "AMD Ryzen AI Max+ 395: The Chip That Crammed 128GB of AI Power Into a Box the Size of a Lunchbox",
-      "desc": "AMD Ryzen AI Max+ 395 is not a normal processor launch. It is AMD&#8217;s answer to a question the entire AI industry has been dancing around for two years: what happens when you stop treating memory as the bottleneck? Since AMD unveiled the chip, we&#8217;ve already covered how the AMD Ryzen AI Max",
-      "link": "https://imfounder.com/science-tech/ryzen-ai-max-395-guide/",
-      "date": "Fri, 24 Jul 2026 07:30:41 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [
-        "LLM",
-        "inference"
-      ],
-      "min": 12
     },
     {
       "id": "f0eu5",
