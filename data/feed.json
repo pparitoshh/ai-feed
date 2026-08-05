@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T08:30:32.613Z",
-  "count": 24,
+  "generatedAt": "2026-08-05T08:29:42.325Z",
+  "count": 16,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,038",
+        "⭐ 1,082",
         "Python"
       ],
       "min": null,
-      "stars": 1038
+      "stars": 1082
     },
     {
       "id": "oesf1f",
@@ -119,30 +119,6 @@
       "min": 30
     },
     {
-      "id": "jyfjv4",
-      "type": "news",
-      "title": "Meta Fake Followers Scandal: The Shocking Bot Data Behind Facebook &#038; Instagram Ads",
-      "desc": "What&#8217;s Verified, What&#8217;s Estimated, and What We Found in Our Own Ad Test The&#160;Meta Fake Followers Scandal&#160;is a real, documented pattern — but not every number attached to it carries the same weight. Some claims are confirmed by court settlements and Meta&#8217;s own disclosures. ",
-      "link": "https://imfounder.com/science-tech/meta-fake-followers-scandal/",
-      "date": "Mon, 03 Aug 2026 09:56:53 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "1r470v3",
-      "type": "news",
-      "title": "Hardware Subscription Model Trap: Why You&#8217;ll Never Own Tech Again",
-      "desc": "The&#160;hardware subscription model&#160;just went mainstream, and most people didn&#8217;t notice until their next iPhone bill looked suspiciously like a car lease. For over a decade, software quietly moved from something you&#160;bought&#160;to something you&#160;rent. Now the same playbook is co",
-      "link": "https://imfounder.com/science-tech/apple-nvidia-hardware-subscription-model/",
-      "date": "Sat, 01 Aug 2026 09:26:59 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 10
-    },
-    {
       "id": "1drgxv",
       "type": "github",
       "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
@@ -157,70 +133,6 @@
       ],
       "min": null,
       "stars": 166
-    },
-    {
-      "id": "325ke1",
-      "type": "news",
-      "title": "50 Startup Mistakes That Kill Companies Before They Make Their First Profit",
-      "desc": "I&#8217;ve started four companies. Two died before they ever saw a profitable month, one got acquired for less than the founders had hoped, and one is still running today. Along the way I&#8217;ve sat on the other side of the table too — advising, angel investing, and watching other founders make th",
-      "link": "https://imfounder.com/entrepreneurship/50-startup-mistakes-that-kills/",
-      "date": "Fri, 31 Jul 2026 08:09:13 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [
-        "mlops"
-      ],
-      "min": 11
-    },
-    {
-      "id": "1jeaobb",
-      "type": "news",
-      "title": "BioCompute Anagha Rajesh: The 24-Year-Old Who Fled India&#8217;s Broken Startup Dream",
-      "desc": "A BITS Pilani graduate built India&#8217;s first DNA data storage lab in two years. Then she shut it down and moved to San Francisco — and her exit says something uncomfortable about Indian deep tech. BioCompute and its founder Anagha Rajesh have become the latest — and loudest — case study in a que",
-      "link": "https://imfounder.com/entrepreneurship/biocompute-anagha-rajesh-science-this-week/",
-      "date": "Thu, 30 Jul 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 13
-    },
-    {
-      "id": "19f22ls",
-      "type": "news",
-      "title": "AI&#8217;s $211 Billion Funding Boom Isn&#8217;t the Story. Where the Money Went Is.",
-      "desc": "Artificial intelligence has become the defining investment theme of this decade. Every week seemed to bring another headline announcing a billion-dollar funding round, a new AI unicorn, or a strategic investment from one of the world&#8217;s largest technology companies. By the end of 2025, private ",
-      "link": "https://imfounder.com/science-tech/ai/ai-funding-where-the-money-went-ai-this-week/",
-      "date": "Wed, 29 Jul 2026 09:08:00 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 8
-    },
-    {
-      "id": "yiaimj",
-      "type": "news",
-      "title": "No-Code vs Low-Code vs Full-Code: What Founders and Small Business Owners Actually Need to Know",
-      "desc": "If you&#8217;re a founder, you&#8217;ve probably had this exact conversation with yourself at 11pm:&#160;&#8220;Do I hire a developer, learn to build this myself in a tool like Bubble, or just find someone who can write real code?&#8221; I&#8217;ve spent years building software architecture and advi",
-      "link": "https://imfounder.com/science-tech/ai/no-code-vs-low-code-vs-full-code-founders-guide/",
-      "date": "Tue, 28 Jul 2026 08:55:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "1lpa7zh",
-      "type": "news",
-      "title": "How Founders Are Using ChatGPT to Save 20 Hours Every Week",
-      "desc": "For startup founders, time has become the world&#8217;s most valuable currency. Whether you&#8217;re building an MVP, pitching investors, managing a remote team or trying to close your first customers, every hour matters. The average founder wears multiple hats—CEO, marketer, recruiter, product mana",
-      "link": "https://imfounder.com/entrepreneurship/how-founders-use-chatgpt-save-20-hours-week/",
-      "date": "Mon, 27 Jul 2026 09:05:00 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [
-        "mlops"
-      ],
-      "min": 5
     },
     {
       "id": "sh1wg8",
@@ -239,18 +151,6 @@
       "stars": 156
     },
     {
-      "id": "1i70ovg",
-      "type": "news",
-      "title": "Spatial Computing Is Quietly Sneaking Into Your Living Room",
-      "desc": "A few years ago, &#8220;spatial computing&#8221; sounded like something out of a lab in Cupertino — expensive headsets, awkward straps, a device you&#8217;d wear for ten minutes and then quietly put back in the box. In 2026, that story is changing fast, and it&#8217;s happening in a much less dramat",
-      "link": "https://imfounder.com/science-tech/spatial-computing-living-room-2026/",
-      "date": "Sat, 25 Jul 2026 11:59:10 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 6
-    },
-    {
       "id": "1ys5woy",
       "type": "github",
       "title": "grandgaming9321-prog/reality-engine",
@@ -260,11 +160,11 @@
       "source": "GitHub",
       "author": "grandgaming9321-prog",
       "tags": [
-        "⭐ 156",
+        "⭐ 155",
         "HTML"
       ],
       "min": null,
-      "stars": 156
+      "stars": 155
     },
     {
       "id": "f0eu5",
@@ -292,11 +192,26 @@
       "source": "GitHub",
       "author": "gunawan1996",
       "tags": [
-        "⭐ 154",
+        "⭐ 153",
         "HTML"
       ],
       "min": null,
-      "stars": 154
+      "stars": 153
+    },
+    {
+      "id": "1eee5qq",
+      "type": "github",
+      "title": "openwarehq/websiteprompts",
+      "desc": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
+      "link": "https://github.com/openwarehq/websiteprompts",
+      "date": "2026-08-02T04:49:19Z",
+      "source": "GitHub",
+      "author": "openwarehq",
+      "tags": [
+        "⭐ 47"
+      ],
+      "min": null,
+      "stars": 47
     },
     {
       "id": "15u4azh",
@@ -313,22 +228,6 @@
       ],
       "min": null,
       "stars": 44
-    },
-    {
-      "id": "1kbe0z0",
-      "type": "github",
-      "title": "MADEVAL/FerryAI",
-      "desc": "Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process via FFI. Chat, streaming, embeddings, RAG and vector search. No Python, no HTTP microservices, no Docker sidecars.",
-      "link": "https://github.com/MADEVAL/FerryAI",
-      "date": "2026-07-04T10:45:08Z",
-      "source": "GitHub",
-      "author": "MADEVAL",
-      "tags": [
-        "⭐ 40",
-        "PHP"
-      ],
-      "min": null,
-      "stars": 40
     }
   ]
 }
