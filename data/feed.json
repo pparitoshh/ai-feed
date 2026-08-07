@@ -1,7 +1,209 @@
 {
-  "generatedAt": "2026-08-06T08:29:06.529Z",
-  "count": 24,
+  "generatedAt": "2026-08-07T07:10:13.378Z",
+  "count": 37,
   "cards": [
+    {
+      "id": "1fskk4z",
+      "type": "substack",
+      "title": "Two Live Workshops in August: Agent Skills and Context Engineering + 30% Early Bird Discounts",
+      "desc": "Hi, I am running two live workshops this month, both on Zoom, both recorded, both with slides.",
+      "link": "https://todatabeyond.substack.com/p/two-live-workshops-in-august-agent",
+      "date": "Thu, 06 Aug 2026 19:01:14 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "146qjgj",
+      "type": "substack",
+      "title": "How to Run Kimi K3 Locally Without Terabytes of RAM",
+      "desc": "Three practical methods: use a bounded-memory C99 engine, run a Rust full-checkpoint runtime, or reduce the model to Unsloth&#8217;s 594 GB dynamic 1-bit GGUF.",
+      "link": "https://todatabeyond.substack.com/p/how-to-run-kimi-k3-locally-without",
+      "date": "Wed, 05 Aug 2026 21:47:40 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "giibgw",
+      "type": "substack",
+      "title": "The Claude Loop that Reviews My Repo While I Sleep",
+      "desc": "Why \"no changes today\" is the most important run a loop makes.",
+      "link": "https://todatabeyond.substack.com/p/the-claude-loop-that-reviews-my-repo",
+      "date": "Tue, 04 Aug 2026 06:02:10 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 3
+    },
+    {
+      "id": "1es61d2",
+      "type": "substack",
+      "title": "Engineering Reliable Coding Agent Loops: Control Flow, Verification, Retries, and Stop Conditions",
+      "desc": "How to supervise long-running coding work with explicit contracts, verification, retries, and stopping conditions.",
+      "link": "https://todatabeyond.substack.com/p/engineering-reliable-coding-agent",
+      "date": "Wed, 29 Jul 2026 15:32:05 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 16
+    },
+    {
+      "id": "1gjtcil",
+      "type": "substack",
+      "title": "I Used MyClaw to Build a Research Assistant That Sends Me Updates on Telegram",
+      "desc": "Most AI tools wait for prompts. I tested whether MyClaw could run a recurring research workflow and send useful updates before I asked.",
+      "link": "https://todatabeyond.substack.com/p/i-used-myclaw-to-build-a-research",
+      "date": "Mon, 13 Jul 2026 15:26:12 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 14
+    },
+    {
+      "id": "1dthpri",
+      "type": "github",
+      "title": "Alisa0808/vox-director",
+      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+      "link": "https://github.com/Alisa0808/vox-director",
+      "date": "2026-07-10T15:32:05Z",
+      "source": "GitHub",
+      "author": "Alisa0808",
+      "tags": [
+        "⭐ 1,145",
+        "Python"
+      ],
+      "min": null,
+      "stars": 1145
+    },
+    {
+      "id": "cikg4g",
+      "type": "substack",
+      "title": "How Much Can Chinese Models Cut Your GenAI API Bill?",
+      "desc": "The real savings do not come from replacing every frontier model. It comes from routing reasoning, coding, agents, and bulk workloads to the cheapest model that is good enough.",
+      "link": "https://todatabeyond.substack.com/p/how-much-can-chinese-models-cut-your",
+      "date": "Thu, 09 Jul 2026 15:17:54 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [],
+      "min": 18
+    },
+    {
+      "id": "16scia7",
+      "type": "substack",
+      "title": "New Course: Build Persistent Agents with Hermes Agent",
+      "desc": "A practical course on persistent agents, memory, skills, and real workflows &#8212; with 30% off during launch week + 50% off for paid subscribers",
+      "link": "https://todatabeyond.substack.com/p/new-course-build-persistent-agents",
+      "date": "Wed, 08 Jul 2026 00:07:57 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "1ghcq0j",
+      "type": "substack",
+      "title": "Hermes Agent 101: A Practical Guide to Persistent and Self-Improving Agents",
+      "desc": "How Nous Research&#8217;s Hermes Agent turns the idea of an AI assistant into a long-running agent that remembers, learns skills, and works across tools",
+      "link": "https://todatabeyond.substack.com/p/hermes-agent-101-a-practical-guide",
+      "date": "Fri, 03 Jul 2026 12:48:31 GMT",
+      "source": "To Data & Beyond",
+      "author": "Youssef Hosni",
+      "tags": [
+        "agents"
+      ],
+      "min": 24
+    },
+    {
+      "id": "1b2r44i",
+      "type": "substack",
+      "title": "Papers You Should Know About",
+      "desc": "Get ahead of the curve with LLM Watch",
+      "link": "https://www.llmwatch.com/p/papers-you-should-know-about-5f1",
+      "date": "Thu, 06 Aug 2026 13:04:46 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [],
+      "min": 8
+    },
+    {
+      "id": "1egl7ge",
+      "type": "substack",
+      "title": "Goal Engineering, or: Are We There Yet?",
+      "desc": "Three coding agents shipped /goal. Two of them disagree about what it&#8217;s for.",
+      "link": "https://www.llmwatch.com/p/goal-engineering-or-are-we-there",
+      "date": "Wed, 29 Jul 2026 11:25:39 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [],
+      "min": 8
+    },
+    {
+      "id": "1drgxv",
+      "type": "github",
+      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "date": "2026-06-28T19:26:01Z",
+      "source": "GitHub",
+      "author": "thenicolas1894",
+      "tags": [
+        "⭐ 166",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 166
+    },
+    {
+      "id": "1wkpusm",
+      "type": "substack",
+      "title": "Your Agent Doesn’t Have a Memory Problem",
+      "desc": "Everyone&#8217;s racing to give agents a memory. The failures that actually break them live elsewhere.",
+      "link": "https://www.llmwatch.com/p/your-agent-doesnt-have-a-memory-problem",
+      "date": "Mon, 20 Jul 2026 14:24:42 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [
+        "agents"
+      ],
+      "min": 10
+    },
+    {
+      "id": "a8qaar",
+      "type": "substack",
+      "title": "AI Agents of the Week: Papers You Should Know About",
+      "desc": "Get ahead of the curve with LLM Watch",
+      "link": "https://www.llmwatch.com/p/ai-agents-of-the-week-papers-you-556",
+      "date": "Sun, 28 Jun 2026 20:28:01 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [
+        "agents"
+      ],
+      "min": 2
+    },
+    {
+      "id": "12hy38k",
+      "type": "substack",
+      "title": "Why Good AI Agents Look Less Like Chatbots and More Like Workshops",
+      "desc": "The Architecture of Trust",
+      "link": "https://www.llmwatch.com/p/why-good-ai-agents-look-less-like",
+      "date": "Wed, 27 May 2026 08:44:31 GMT",
+      "source": "LLM Watch",
+      "author": "Pascal Biese",
+      "tags": [
+        "agents"
+      ],
+      "min": 11
+    },
     {
       "id": "rm4aw5",
       "type": "chip",
@@ -27,6 +229,22 @@
         "agents"
       ],
       "min": 43
+    },
+    {
+      "id": "sh1wg8",
+      "type": "github",
+      "title": "heavenaruba/codified-prompt-rule-engine",
+      "desc": "Top 10 Claude Prompt Optimization Frameworks 2026",
+      "link": "https://github.com/heavenaruba/codified-prompt-rule-engine",
+      "date": "2026-06-28T19:33:45Z",
+      "source": "GitHub",
+      "author": "heavenaruba",
+      "tags": [
+        "⭐ 156",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 156
     },
     {
       "id": "v17hw0",
@@ -67,22 +285,6 @@
       "min": 12
     },
     {
-      "id": "1dthpri",
-      "type": "github",
-      "title": "Alisa0808/vox-director",
-      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "link": "https://github.com/Alisa0808/vox-director",
-      "date": "2026-07-10T15:32:05Z",
-      "source": "GitHub",
-      "author": "Alisa0808",
-      "tags": [
-        "⭐ 1,111",
-        "Python"
-      ],
-      "min": null,
-      "stars": 1111
-    },
-    {
       "id": "oesf1f",
       "type": "chip",
       "title": "Predictive Human Preference: From Model Ranking to Model Routing",
@@ -105,6 +307,22 @@
       "author": "Chip Huyen",
       "tags": [],
       "min": 19
+    },
+    {
+      "id": "1ys5woy",
+      "type": "github",
+      "title": "grandgaming9321-prog/reality-engine",
+      "desc": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+      "link": "https://github.com/grandgaming9321-prog/reality-engine",
+      "date": "2026-06-28T21:06:56Z",
+      "source": "GitHub",
+      "author": "grandgaming9321-prog",
+      "tags": [
+        "⭐ 155",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 155
     },
     {
       "id": "18wgmyf",
@@ -143,22 +361,6 @@
       "min": 8
     },
     {
-      "id": "1drgxv",
-      "type": "github",
-      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "date": "2026-06-28T19:26:01Z",
-      "source": "GitHub",
-      "author": "thenicolas1894",
-      "tags": [
-        "⭐ 166",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 166
-    },
-    {
       "id": "46d5c9",
       "type": "news",
       "title": "Magic Leap Just Cut 193 Jobs — And Quietly Gave Up on Making Its Own Headsets",
@@ -181,6 +383,22 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 9
+    },
+    {
+      "id": "f0eu5",
+      "type": "github",
+      "title": "AgustiPuigserver/opus-prompt-architect",
+      "desc": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+      "link": "https://github.com/AgustiPuigserver/opus-prompt-architect",
+      "date": "2026-06-28T19:34:17Z",
+      "source": "GitHub",
+      "author": "AgustiPuigserver",
+      "tags": [
+        "⭐ 155",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 155
     },
     {
       "id": "1r470v3",
@@ -221,22 +439,6 @@
       "min": 13
     },
     {
-      "id": "sh1wg8",
-      "type": "github",
-      "title": "heavenaruba/codified-prompt-rule-engine",
-      "desc": "Top 10 Claude Prompt Optimization Frameworks 2026",
-      "link": "https://github.com/heavenaruba/codified-prompt-rule-engine",
-      "date": "2026-06-28T19:33:45Z",
-      "source": "GitHub",
-      "author": "heavenaruba",
-      "tags": [
-        "⭐ 156",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 156
-    },
-    {
       "id": "19f22ls",
       "type": "news",
       "title": "AI&#8217;s $211 Billion Funding Boom Isn&#8217;t the Story. Where the Money Went Is.",
@@ -247,38 +449,6 @@
       "author": "Oliver Timbrell",
       "tags": [],
       "min": 8
-    },
-    {
-      "id": "1ys5woy",
-      "type": "github",
-      "title": "grandgaming9321-prog/reality-engine",
-      "desc": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-      "link": "https://github.com/grandgaming9321-prog/reality-engine",
-      "date": "2026-06-28T21:06:56Z",
-      "source": "GitHub",
-      "author": "grandgaming9321-prog",
-      "tags": [
-        "⭐ 155",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 155
-    },
-    {
-      "id": "f0eu5",
-      "type": "github",
-      "title": "AgustiPuigserver/opus-prompt-architect",
-      "desc": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-      "link": "https://github.com/AgustiPuigserver/opus-prompt-architect",
-      "date": "2026-06-28T19:34:17Z",
-      "source": "GitHub",
-      "author": "AgustiPuigserver",
-      "tags": [
-        "⭐ 155",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 155
     },
     {
       "id": "siw7ql",
@@ -306,27 +476,27 @@
       "source": "GitHub",
       "author": "openwarehq",
       "tags": [
-        "⭐ 59",
+        "⭐ 65",
         "JavaScript"
       ],
       "min": null,
-      "stars": 59
+      "stars": 65
     },
     {
-      "id": "15u4azh",
+      "id": "16pobjq",
       "type": "github",
-      "title": "lololerigolo60/Prompt-architect",
-      "desc": "Prompt Architect Pro is a Python desktop app that uses local Ollama LLMs to analyze raw texts and images. It extracts and structures visual descriptions into optimized JSON prompts for generative AI. It features a built-in SQLite database for prompt editing and adjustable VRAM hardware profiles. with a ComfyUI node that can use the database",
-      "link": "https://github.com/lololerigolo60/Prompt-architect",
-      "date": "2026-07-25T05:23:33Z",
+      "title": "TOPDEV99999/AI-Knowledge-Management-Platform",
+      "desc": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+      "link": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
+      "date": "2026-08-03T07:36:22Z",
       "source": "GitHub",
-      "author": "lololerigolo60",
+      "author": "TOPDEV99999",
       "tags": [
-        "⭐ 44",
-        "Python"
+        "⭐ 46",
+        "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 44
+      "stars": 46
     }
   ]
 }
