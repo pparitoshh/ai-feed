@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:49:57.655Z",
+  "generatedAt": "2026-08-10T07:24:39.263Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,203",
+        "⭐ 1,222",
         "Python"
       ],
       "min": null,
-      "stars": 1203
+      "stars": 1222
     },
     {
       "id": "oesf1f",
@@ -143,20 +143,20 @@
       "min": 13
     },
     {
-      "id": "1drgxv",
+      "id": "1vhkihi",
       "type": "github",
-      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
-      "date": "2026-06-28T19:26:01Z",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
       "source": "GitHub",
-      "author": "thenicolas1894",
+      "author": "i3T4AN",
       "tags": [
-        "⭐ 166",
-        "HTML"
+        "⭐ 169",
+        "Python"
       ],
       "min": null,
-      "stars": 166
+      "stars": 169
     },
     {
       "id": "1t49741",
@@ -219,20 +219,20 @@
       "min": 10
     },
     {
-      "id": "1vhkihi",
+      "id": "1drgxv",
       "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
+      "title": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+      "link": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+      "date": "2026-06-28T19:26:01Z",
       "source": "GitHub",
-      "author": "i3T4AN",
+      "author": "thenicolas1894",
       "tags": [
-        "⭐ 165",
-        "Python"
+        "⭐ 166",
+        "HTML"
       ],
       "min": null,
-      "stars": 165
+      "stars": 166
     },
     {
       "id": "325ke1",
@@ -265,22 +265,6 @@
       "stars": 156
     },
     {
-      "id": "1ys5woy",
-      "type": "github",
-      "title": "grandgaming9321-prog/reality-engine",
-      "desc": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-      "link": "https://github.com/grandgaming9321-prog/reality-engine",
-      "date": "2026-06-28T21:06:56Z",
-      "source": "GitHub",
-      "author": "grandgaming9321-prog",
-      "tags": [
-        "⭐ 155",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 155
-    },
-    {
       "id": "f0eu5",
       "type": "github",
       "title": "AgustiPuigserver/opus-prompt-architect",
@@ -289,6 +273,22 @@
       "date": "2026-06-28T19:34:17Z",
       "source": "GitHub",
       "author": "AgustiPuigserver",
+      "tags": [
+        "⭐ 155",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 155
+    },
+    {
+      "id": "1ys5woy",
+      "type": "github",
+      "title": "grandgaming9321-prog/reality-engine",
+      "desc": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+      "link": "https://github.com/grandgaming9321-prog/reality-engine",
+      "date": "2026-06-28T21:06:56Z",
+      "source": "GitHub",
+      "author": "grandgaming9321-prog",
       "tags": [
         "⭐ 155",
         "HTML"
@@ -313,20 +313,20 @@
       "stars": 153
     },
     {
-      "id": "16pobjq",
+      "id": "15u4azh",
       "type": "github",
-      "title": "TOPDEV99999/AI-Knowledge-Management-Platform",
-      "desc": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-      "link": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-      "date": "2026-08-03T07:36:22Z",
+      "title": "lololerigolo60/Prompt-architect",
+      "desc": "Prompt Architect Pro is a Python desktop app that uses local Ollama LLMs to analyze raw texts and images. It extracts and structures visual descriptions into optimized JSON prompts for generative AI. It features a built-in SQLite database for prompt editing and adjustable VRAM hardware profiles. with a ComfyUI node that can use the database",
+      "link": "https://github.com/lololerigolo60/Prompt-architect",
+      "date": "2026-07-25T05:23:33Z",
       "source": "GitHub",
-      "author": "TOPDEV99999",
+      "author": "lololerigolo60",
       "tags": [
-        "⭐ 95",
-        "Jupyter Notebook"
+        "⭐ 44",
+        "Python"
       ],
       "min": null,
-      "stars": 95
+      "stars": 44
     }
   ]
 }
