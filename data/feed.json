@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:18:52.830Z",
+  "generatedAt": "2026-08-13T07:23:07.904Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,259",
+        "⭐ 1,279",
         "Python"
       ],
       "min": null,
-      "stars": 1259
+      "stars": 1279
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "lcoxxh",
+      "type": "news",
+      "title": "15 Explosive AI Updates August 2026: OpenAI&#8217;s Astra Math Breakthrough, DeepMind&#8217;s Reorg, India&#8217;s AI Funding Boom &#038; More",
+      "desc": "The AI updates August 2026 has thrown at us so far are the kind that make you re-read the headline twice. A model reportedly solving math problems that stumped human researchers for years — for about $2,000 in compute. OpenAI racing toward one of the largest tech IPOs ever. A fighter jet flown with ",
+      "link": "https://imfounder.com/science-tech/ai/ai-updates-august-2026-openai-astra-deepmind/",
+      "date": "Wed, 12 Aug 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 10
+    },
+    {
       "id": "106tpkg",
       "type": "news",
       "title": "CAIS Alternative Investment Platform: The Secret Weapon Turning Independent Advisors Into Wall Street Insiders",
@@ -127,18 +139,6 @@
       "date": "Tue, 11 Aug 2026 09:00:00 +0000",
       "source": "IM Founder",
       "author": "Kirat Singh",
-      "tags": [],
-      "min": 13
-    },
-    {
-      "id": "41vnrk",
-      "type": "news",
-      "title": "Your Mirror Is About to Start Diagnosing You",
-      "desc": "AI-powered mirrors are evolving from beauty devices into biometric health systems that can analyze skin, stress, heart rate and signs of disease—then sell consumers solutions to problems they did not know they had. The mirror has always been one of the most psychologically loaded objects in the home",
-      "link": "https://imfounder.com/science-tech/ai/ai-smart-mirrors-health-data/",
-      "date": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
       "tags": [],
       "min": 13
     },
@@ -152,11 +152,23 @@
       "source": "GitHub",
       "author": "i3T4AN",
       "tags": [
-        "⭐ 190",
+        "⭐ 304",
         "Python"
       ],
       "min": null,
-      "stars": 190
+      "stars": 304
+    },
+    {
+      "id": "41vnrk",
+      "type": "news",
+      "title": "Your Mirror Is About to Start Diagnosing You",
+      "desc": "AI-powered mirrors are evolving from beauty devices into biometric health systems that can analyze skin, stress, heart rate and signs of disease—then sell consumers solutions to problems they did not know they had. The mirror has always been one of the most psychologically loaded objects in the home",
+      "link": "https://imfounder.com/science-tech/ai/ai-smart-mirrors-health-data/",
+      "date": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 13
     },
     {
       "id": "nmdxrx",
@@ -207,6 +219,22 @@
       "min": 8
     },
     {
+      "id": "15u4azh",
+      "type": "github",
+      "title": "lololerigolo60/Prompt-architect",
+      "desc": "Prompt Architect Pro is a Python desktop app that uses local Ollama LLMs to analyze raw texts and images. It extracts and structures visual descriptions into optimized JSON prompts for generative AI. It features a built-in SQLite database for prompt editing and adjustable VRAM hardware profiles. with a ComfyUI node that can use the database",
+      "link": "https://github.com/lololerigolo60/Prompt-architect",
+      "date": "2026-07-25T05:23:33Z",
+      "source": "GitHub",
+      "author": "lololerigolo60",
+      "tags": [
+        "⭐ 45",
+        "Python"
+      ],
+      "min": null,
+      "stars": 45
+    },
+    {
       "id": "46d5c9",
       "type": "news",
       "title": "Magic Leap Just Cut 193 Jobs — And Quietly Gave Up on Making Its Own Headsets",
@@ -219,34 +247,6 @@
       "min": 8
     },
     {
-      "id": "15u4azh",
-      "type": "github",
-      "title": "lololerigolo60/Prompt-architect",
-      "desc": "Prompt Architect Pro is a Python desktop app that uses local Ollama LLMs to analyze raw texts and images. It extracts and structures visual descriptions into optimized JSON prompts for generative AI. It features a built-in SQLite database for prompt editing and adjustable VRAM hardware profiles. with a ComfyUI node that can use the database",
-      "link": "https://github.com/lololerigolo60/Prompt-architect",
-      "date": "2026-07-25T05:23:33Z",
-      "source": "GitHub",
-      "author": "lololerigolo60",
-      "tags": [
-        "⭐ 44",
-        "Python"
-      ],
-      "min": null,
-      "stars": 44
-    },
-    {
-      "id": "jyfjv4",
-      "type": "news",
-      "title": "Meta Fake Followers Scandal: The Shocking Bot Data Behind Facebook &#038; Instagram Ads",
-      "desc": "What&#8217;s Verified, What&#8217;s Estimated, and What We Found in Our Own Ad Test The&#160;Meta Fake Followers Scandal&#160;is a real, documented pattern — but not every number attached to it carries the same weight. Some claims are confirmed by court settlements and Meta&#8217;s own disclosures. ",
-      "link": "https://imfounder.com/science-tech/meta-fake-followers-scandal/",
-      "date": "Mon, 03 Aug 2026 09:56:53 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 9
-    },
-    {
       "id": "168avm8",
       "type": "github",
       "title": "bestdeejay-design/awesome-ai-handbook",
@@ -256,11 +256,11 @@
       "source": "GitHub",
       "author": "bestdeejay-design",
       "tags": [
-        "⭐ 42",
+        "⭐ 43",
         "HTML"
       ],
       "min": null,
-      "stars": 42
+      "stars": 43
     },
     {
       "id": "1kbe0z0",
@@ -288,11 +288,11 @@
       "source": "GitHub",
       "author": "47thtechcorner",
       "tags": [
-        "⭐ 38",
+        "⭐ 39",
         "Python"
       ],
       "min": null,
-      "stars": 38
+      "stars": 39
     },
     {
       "id": "16pobjq",
