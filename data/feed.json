@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T06:31:43.209Z",
+  "generatedAt": "2026-08-16T06:33:43.935Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,303",
+        "⭐ 1,315",
         "Python"
       ],
       "min": null,
-      "stars": 1303
+      "stars": 1315
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "hvnmxq",
+      "type": "news",
+      "title": "Old Music Gear Is Back: The Untold Story Behind Music’s Vintage Revival",
+      "desc": "There is a curious contradiction happening in music right now. We have never had easier access to music, yet more people are deliberately buying machines that were designed decades ago to play it. While streaming services can put tens of millions of songs in your pocket within seconds, collectors ar",
+      "link": "https://imfounder.com/music-culture/old-music-gear/",
+      "date": "Sat, 15 Aug 2026 16:55:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 17
+    },
+    {
       "id": "1tq0gxb",
       "type": "news",
       "title": "AI Is Building the First Translator for the Animal Kingdom",
@@ -131,6 +143,22 @@
       "min": 10
     },
     {
+      "id": "1vhkihi",
+      "type": "github",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
+      "source": "GitHub",
+      "author": "i3T4AN",
+      "tags": [
+        "⭐ 355",
+        "Python"
+      ],
+      "min": null,
+      "stars": 355
+    },
+    {
       "id": "1phb5wr",
       "type": "news",
       "title": "$12.5 BILLION: How the Lakers Just Became the Most Valuable Sports Team on the Planet",
@@ -141,22 +169,6 @@
       "author": "Editor",
       "tags": [],
       "min": 14
-    },
-    {
-      "id": "1vhkihi",
-      "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
-      "source": "GitHub",
-      "author": "i3T4AN",
-      "tags": [
-        "⭐ 352",
-        "Python"
-      ],
-      "min": null,
-      "stars": 352
     },
     {
       "id": "lcoxxh",
@@ -207,18 +219,6 @@
       "min": 10
     },
     {
-      "id": "1qnm40a",
-      "type": "news",
-      "title": "12 Explosive Tech News Stories Rocking the World in August 2026",
-      "desc": "Explosive AI lawsuits, a $3 trillion Amazon, a $200 billion Anthropic financing web, a Chinese AI price war, and cyberattacks on U.S. water systems — Tech News August 2026 is rewriting the rules of the industry in real time. Tech news August 2026 is arriving faster than markets, courts, or regulator",
-      "link": "https://imfounder.com/science-tech/explosive-tech-news-august-2026-ai-lawsuits-cyberattacks-big-tech/",
-      "date": "Fri, 07 Aug 2026 10:35:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 13
-    },
-    {
       "id": "15u4azh",
       "type": "github",
       "title": "lololerigolo60/Prompt-architect",
@@ -235,16 +235,16 @@
       "stars": 45
     },
     {
-      "id": "1t49741",
+      "id": "1qnm40a",
       "type": "news",
-      "title": "Google June 2026 Update Exposed: How Forbes Lost Up To 90% Of Its Traffic — And What HubSpot&#8217;s Quiet Collapse Warns Every Business",
-      "desc": "Google&#8217;s crackdown on &#8220;site reputation abuse&#8221; didn&#8217;t start in June 2026 — it started two years earlier. Here&#8217;s the real timeline, what actually changed this year, and how to keep your business off Google&#8217;s next hit list. If you run a website, you&#8217;ve probably",
-      "link": "https://imfounder.com/science-tech/google-june-2026-update/",
-      "date": "Wed, 05 Aug 2026 19:24:37 +0000",
+      "title": "12 Explosive Tech News Stories Rocking the World in August 2026",
+      "desc": "Explosive AI lawsuits, a $3 trillion Amazon, a $200 billion Anthropic financing web, a Chinese AI price war, and cyberattacks on U.S. water systems — Tech News August 2026 is rewriting the rules of the industry in real time. Tech news August 2026 is arriving faster than markets, courts, or regulator",
+      "link": "https://imfounder.com/science-tech/explosive-tech-news-august-2026-ai-lawsuits-cyberattacks-big-tech/",
+      "date": "Fri, 07 Aug 2026 10:35:00 +0000",
       "source": "IM Founder",
-      "author": "Editor",
+      "author": "Taranjeet Slatch",
       "tags": [],
-      "min": 11
+      "min": 13
     },
     {
       "id": "168avm8",
@@ -311,20 +311,20 @@
       "stars": 39
     },
     {
-      "id": "1hha7fd",
+      "id": "mm605i",
       "type": "github",
-      "title": "pacocartones/free-llm-api-hub",
-      "desc": "A continuously-verified dataset of free-tier & trial-credit LLM APIs for developers. Every entry dated, sourced to the provider's own docs, and machine-readable. No hype, no dead links.",
-      "link": "https://github.com/pacocartones/free-llm-api-hub",
-      "date": "2026-07-11T18:42:52Z",
+      "title": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
+      "desc": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime. Park work items for human review. Resume execution automatically. No timeouts.",
+      "link": "https://github.com/AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
+      "date": "2026-07-25T09:28:12Z",
       "source": "GitHub",
-      "author": "pacocartones",
+      "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 33",
-        "JavaScript"
+        "⭐ 36",
+        "Python"
       ],
       "min": null,
-      "stars": 33
+      "stars": 36
     }
   ]
 }
