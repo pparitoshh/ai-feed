@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:33:43.935Z",
+  "generatedAt": "2026-08-17T06:45:59.170Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,315",
+        "⭐ 1,329",
         "Python"
       ],
       "min": null,
-      "stars": 1315
+      "stars": 1329
     },
     {
       "id": "oesf1f",
@@ -152,11 +152,11 @@
       "source": "GitHub",
       "author": "i3T4AN",
       "tags": [
-        "⭐ 355",
+        "⭐ 356",
         "Python"
       ],
       "min": null,
-      "stars": 355
+      "stars": 356
     },
     {
       "id": "1phb5wr",
@@ -279,20 +279,20 @@
       "stars": 40
     },
     {
-      "id": "ziydlt",
+      "id": "mm605i",
       "type": "github",
-      "title": "47thtechcorner/RayCodes_OmniRoute-Explorer",
-      "desc": "A lightweight dashboard and reporting tool powered by OmniRoute - The Free AI Gateway",
-      "link": "https://github.com/47thtechcorner/RayCodes_OmniRoute-Explorer",
-      "date": "2026-07-03T07:15:33Z",
+      "title": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
+      "desc": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime. Park work items for human review. Resume execution automatically. No timeouts.",
+      "link": "https://github.com/AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
+      "date": "2026-07-25T09:28:12Z",
       "source": "GitHub",
-      "author": "47thtechcorner",
+      "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 39",
+        "⭐ 40",
         "Python"
       ],
       "min": null,
-      "stars": 39
+      "stars": 40
     },
     {
       "id": "16pobjq",
@@ -304,27 +304,27 @@
       "source": "GitHub",
       "author": "TOPDEV99999",
       "tags": [
-        "⭐ 39",
+        "⭐ 37",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 39
+      "stars": 37
     },
     {
-      "id": "mm605i",
+      "id": "1cblir7",
       "type": "github",
-      "title": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
-      "desc": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime. Park work items for human review. Resume execution automatically. No timeouts.",
-      "link": "https://github.com/AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
-      "date": "2026-07-25T09:28:12Z",
+      "title": "Greninja9257/LabLLM",
+      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+      "link": "https://github.com/Greninja9257/LabLLM",
+      "date": "2026-08-15T22:16:40Z",
       "source": "GitHub",
-      "author": "AhmadHassan-BTed",
+      "author": "Greninja9257",
       "tags": [
-        "⭐ 36",
-        "Python"
+        "⭐ 34",
+        "Swift"
       ],
       "min": null,
-      "stars": 36
+      "stars": 34
     }
   ]
 }
