@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T06:45:59.170Z",
+  "generatedAt": "2026-08-18T06:36:42.238Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,329",
+        "⭐ 1,352",
         "Python"
       ],
       "min": null,
-      "stars": 1329
+      "stars": 1352
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "nhixtg",
+      "type": "news",
+      "title": "AI Companionship Could Change the Evolution of Human Partner Selection",
+      "desc": "The Real Threat From AI Isn&#8217;t Artificial Love. It&#8217;s Making Bad Human Love Obsolete. AI may not destroy human relationships. It could make loneliness less powerful, desperation less necessary and mediocre relationships considerably harder to justify. For most of human history, romantic pa",
+      "link": "https://imfounder.com/science-tech/ai/ai-companionship-human-partner-selection/",
+      "date": "Mon, 17 Aug 2026 09:01:16 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 11
+    },
+    {
       "id": "hvnmxq",
       "type": "news",
       "title": "Old Music Gear Is Back: The Untold Story Behind Music’s Vintage Revival",
@@ -131,6 +143,22 @@
       "min": 17
     },
     {
+      "id": "1vhkihi",
+      "type": "github",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
+      "source": "GitHub",
+      "author": "i3T4AN",
+      "tags": [
+        "⭐ 346",
+        "Python"
+      ],
+      "min": null,
+      "stars": 346
+    },
+    {
       "id": "1tq0gxb",
       "type": "news",
       "title": "AI Is Building the First Translator for the Animal Kingdom",
@@ -141,22 +169,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 10
-    },
-    {
-      "id": "1vhkihi",
-      "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
-      "source": "GitHub",
-      "author": "i3T4AN",
-      "tags": [
-        "⭐ 356",
-        "Python"
-      ],
-      "min": null,
-      "stars": 356
     },
     {
       "id": "1phb5wr",
@@ -207,6 +219,22 @@
       "min": 13
     },
     {
+      "id": "mm605i",
+      "type": "github",
+      "title": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
+      "desc": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime. Park work items for human review. Resume execution automatically. No timeouts.",
+      "link": "https://github.com/AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
+      "date": "2026-07-25T09:28:12Z",
+      "source": "GitHub",
+      "author": "AhmadHassan-BTed",
+      "tags": [
+        "⭐ 46",
+        "Python"
+      ],
+      "min": null,
+      "stars": 46
+    },
+    {
       "id": "nmdxrx",
       "type": "news",
       "title": "Fashion Is Designing Clothes That Make You Invisible to AI",
@@ -235,18 +263,6 @@
       "stars": 45
     },
     {
-      "id": "1qnm40a",
-      "type": "news",
-      "title": "12 Explosive Tech News Stories Rocking the World in August 2026",
-      "desc": "Explosive AI lawsuits, a $3 trillion Amazon, a $200 billion Anthropic financing web, a Chinese AI price war, and cyberattacks on U.S. water systems — Tech News August 2026 is rewriting the rules of the industry in real time. Tech news August 2026 is arriving faster than markets, courts, or regulator",
-      "link": "https://imfounder.com/science-tech/explosive-tech-news-august-2026-ai-lawsuits-cyberattacks-big-tech/",
-      "date": "Fri, 07 Aug 2026 10:35:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 13
-    },
-    {
       "id": "168avm8",
       "type": "github",
       "title": "bestdeejay-design/awesome-ai-handbook",
@@ -263,36 +279,20 @@
       "stars": 43
     },
     {
-      "id": "1kbe0z0",
+      "id": "1cblir7",
       "type": "github",
-      "title": "MADEVAL/FerryAI",
-      "desc": "Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process via FFI. Chat, streaming, embeddings, RAG and vector search. No Python, no HTTP microservices, no Docker sidecars.",
-      "link": "https://github.com/MADEVAL/FerryAI",
-      "date": "2026-07-04T10:45:08Z",
+      "title": "Greninja9257/LabLLM",
+      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+      "link": "https://github.com/Greninja9257/LabLLM",
+      "date": "2026-08-15T22:16:40Z",
       "source": "GitHub",
-      "author": "MADEVAL",
+      "author": "Greninja9257",
       "tags": [
-        "⭐ 40",
-        "PHP"
+        "⭐ 42",
+        "Swift"
       ],
       "min": null,
-      "stars": 40
-    },
-    {
-      "id": "mm605i",
-      "type": "github",
-      "title": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
-      "desc": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime. Park work items for human review. Resume execution automatically. No timeouts.",
-      "link": "https://github.com/AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
-      "date": "2026-07-25T09:28:12Z",
-      "source": "GitHub",
-      "author": "AhmadHassan-BTed",
-      "tags": [
-        "⭐ 40",
-        "Python"
-      ],
-      "min": null,
-      "stars": 40
+      "stars": 42
     },
     {
       "id": "16pobjq",
@@ -311,17 +311,17 @@
       "stars": 37
     },
     {
-      "id": "1cblir7",
+      "id": "1hha7fd",
       "type": "github",
-      "title": "Greninja9257/LabLLM",
-      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-      "link": "https://github.com/Greninja9257/LabLLM",
-      "date": "2026-08-15T22:16:40Z",
+      "title": "pacocartones/free-llm-api-hub",
+      "desc": "A continuously-verified dataset of free-tier & trial-credit LLM APIs for developers. Every entry dated, sourced to the provider's own docs, and machine-readable. No hype, no dead links.",
+      "link": "https://github.com/pacocartones/free-llm-api-hub",
+      "date": "2026-07-11T18:42:52Z",
       "source": "GitHub",
-      "author": "Greninja9257",
+      "author": "pacocartones",
       "tags": [
         "⭐ 34",
-        "Swift"
+        "JavaScript"
       ],
       "min": null,
       "stars": 34
