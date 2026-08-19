@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T06:36:42.238Z",
+  "generatedAt": "2026-08-19T06:37:14.408Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,352",
+        "⭐ 1,379",
         "Python"
       ],
       "min": null,
-      "stars": 1352
+      "stars": 1379
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "b5z5l1",
+      "type": "news",
+      "title": "Pitch Investors in 2026: 7 Proven Secrets That Actually Get Startups Funded",
+      "desc": "The insider playbook founders in Canada and the U.S. use to turn a 10-minute meeting into a signed term sheet If you want to&#160;pitch investors in 2026&#160;and actually walk away with a check, the old playbook won&#8217;t save you. A polished deck, a big vision, and a warm smile used to be enough",
+      "link": "https://imfounder.com/entrepreneurship/pitch-investors-in-2026/",
+      "date": "Tue, 18 Aug 2026 09:07:00 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 14
+    },
+    {
       "id": "nhixtg",
       "type": "news",
       "title": "AI Companionship Could Change the Evolution of Human Partner Selection",
@@ -129,18 +141,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 11
-    },
-    {
-      "id": "hvnmxq",
-      "type": "news",
-      "title": "Old Music Gear Is Back: The Untold Story Behind Music’s Vintage Revival",
-      "desc": "There is a curious contradiction happening in music right now. We have never had easier access to music, yet more people are deliberately buying machines that were designed decades ago to play it. While streaming services can put tens of millions of songs in your pocket within seconds, collectors ar",
-      "link": "https://imfounder.com/music-culture/old-music-gear/",
-      "date": "Sat, 15 Aug 2026 16:55:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 17
     },
     {
       "id": "1vhkihi",
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 346
+    },
+    {
+      "id": "hvnmxq",
+      "type": "news",
+      "title": "Old Music Gear Is Back: The Untold Story Behind Music’s Vintage Revival",
+      "desc": "There is a curious contradiction happening in music right now. We have never had easier access to music, yet more people are deliberately buying machines that were designed decades ago to play it. While streaming services can put tens of millions of songs in your pocket within seconds, collectors ar",
+      "link": "https://imfounder.com/music-culture/old-music-gear/",
+      "date": "Sat, 15 Aug 2026 16:55:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 17
     },
     {
       "id": "1tq0gxb",
@@ -207,6 +219,22 @@
       "min": 13
     },
     {
+      "id": "1cblir7",
+      "type": "github",
+      "title": "Greninja9257/LabLLM",
+      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+      "link": "https://github.com/Greninja9257/LabLLM",
+      "date": "2026-08-15T22:16:40Z",
+      "source": "GitHub",
+      "author": "Greninja9257",
+      "tags": [
+        "⭐ 50",
+        "Swift"
+      ],
+      "min": null,
+      "stars": 50
+    },
+    {
       "id": "41vnrk",
       "type": "news",
       "title": "Your Mirror Is About to Start Diagnosing You",
@@ -228,23 +256,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 46",
+        "⭐ 48",
         "Python"
       ],
       "min": null,
-      "stars": 46
-    },
-    {
-      "id": "nmdxrx",
-      "type": "news",
-      "title": "Fashion Is Designing Clothes That Make You Invisible to AI",
-      "desc": "Introducing adversarial fashion—the engineered clothing confusing facial-recognition cameras and turning privacy into the next luxury status symbol. The next revolutionary garment may not make the person wearing it look more attractive. It may make them disappear. Not from the people standing beside",
-      "link": "https://imfounder.com/science-tech/ai/adversarial-fashion-facial-recognition/",
-      "date": "Sat, 08 Aug 2026 17:47:26 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 10
+      "stars": 48
     },
     {
       "id": "15u4azh",
@@ -277,22 +293,6 @@
       ],
       "min": null,
       "stars": 43
-    },
-    {
-      "id": "1cblir7",
-      "type": "github",
-      "title": "Greninja9257/LabLLM",
-      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-      "link": "https://github.com/Greninja9257/LabLLM",
-      "date": "2026-08-15T22:16:40Z",
-      "source": "GitHub",
-      "author": "Greninja9257",
-      "tags": [
-        "⭐ 42",
-        "Swift"
-      ],
-      "min": null,
-      "stars": 42
     },
     {
       "id": "16pobjq",
