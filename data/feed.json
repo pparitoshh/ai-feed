@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T06:37:14.408Z",
+  "generatedAt": "2026-08-20T06:39:26.738Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,379",
+        "⭐ 1,395",
         "Python"
       ],
       "min": null,
-      "stars": 1379
+      "stars": 1395
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,48 @@
       "min": 30
     },
     {
+      "id": "n5xlce",
+      "type": "news",
+      "title": "55 Years of Technics SL 1200 — And It Still Has Something Modern Tech Can’t Replace",
+      "desc": "The&#160;Technics turntable&#160;has survived cassette tapes, CDs, MP3s, iPods, smartphones, streaming services and now an era increasingly dominated by artificial intelligence. And somehow, it is still here. More than five decades after the original Technics SL-1200 arrived in 1972, the legendary d",
+      "link": "https://imfounder.com/music-culture/technics-turntable-sl-1200-legacy/",
+      "date": "Wed, 19 Aug 2026 22:59:39 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "1woz0jq",
+      "type": "news",
+      "title": "Apple Upcoming Products: The Secret Roadmap Revealed",
+      "desc": "From a foldable iPhone to a touchscreen Home Hub, here&#8217;s every device reportedly heading to market before the end of 2027 — and what each one means for you. Apple upcoming products for the rest of 2026 and into 2027 add up to the busiest release calendar Cupertino has put together in nearly a ",
+      "link": "https://imfounder.com/science-tech/apple-upcoming-products-2026-guide/",
+      "date": "Wed, 19 Aug 2026 11:06:42 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [
+        "mlops"
+      ],
+      "min": 14
+    },
+    {
+      "id": "1vhkihi",
+      "type": "github",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
+      "source": "GitHub",
+      "author": "i3T4AN",
+      "tags": [
+        "⭐ 346",
+        "Python"
+      ],
+      "min": null,
+      "stars": 346
+    },
+    {
       "id": "b5z5l1",
       "type": "news",
       "title": "Pitch Investors in 2026: 7 Proven Secrets That Actually Get Startups Funded",
@@ -141,22 +183,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 11
-    },
-    {
-      "id": "1vhkihi",
-      "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
-      "source": "GitHub",
-      "author": "i3T4AN",
-      "tags": [
-        "⭐ 346",
-        "Python"
-      ],
-      "min": null,
-      "stars": 346
     },
     {
       "id": "hvnmxq",
@@ -195,6 +221,22 @@
       "min": 14
     },
     {
+      "id": "1cblir7",
+      "type": "github",
+      "title": "Greninja9257/LabLLM",
+      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+      "link": "https://github.com/Greninja9257/LabLLM",
+      "date": "2026-08-15T22:16:40Z",
+      "source": "GitHub",
+      "author": "Greninja9257",
+      "tags": [
+        "⭐ 56",
+        "Swift"
+      ],
+      "min": null,
+      "stars": 56
+    },
+    {
       "id": "lcoxxh",
       "type": "news",
       "title": "15 Explosive AI Updates August 2026: OpenAI&#8217;s Astra Math Breakthrough, DeepMind&#8217;s Reorg, India&#8217;s AI Funding Boom &#038; More",
@@ -207,46 +249,6 @@
       "min": 10
     },
     {
-      "id": "106tpkg",
-      "type": "news",
-      "title": "CAIS Alternative Investment Platform: The Secret Weapon Turning Independent Advisors Into Wall Street Insiders",
-      "desc": "How Matt Brown&#8217;s 2009 startup became a $2 billion infrastructure layer connecting more than 65,000 financial advisors to private markets once reserved for institutions. The&#160;CAIS alternative investment platform&#160;just became one of the best-funded fintech stories of 2026 — and most peop",
-      "link": "https://imfounder.com/entrepreneurship/fintech/cais-alternative-investment-platform/",
-      "date": "Tue, 11 Aug 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 13
-    },
-    {
-      "id": "1cblir7",
-      "type": "github",
-      "title": "Greninja9257/LabLLM",
-      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-      "link": "https://github.com/Greninja9257/LabLLM",
-      "date": "2026-08-15T22:16:40Z",
-      "source": "GitHub",
-      "author": "Greninja9257",
-      "tags": [
-        "⭐ 50",
-        "Swift"
-      ],
-      "min": null,
-      "stars": 50
-    },
-    {
-      "id": "41vnrk",
-      "type": "news",
-      "title": "Your Mirror Is About to Start Diagnosing You",
-      "desc": "AI-powered mirrors are evolving from beauty devices into biometric health systems that can analyze skin, stress, heart rate and signs of disease—then sell consumers solutions to problems they did not know they had. The mirror has always been one of the most psychologically loaded objects in the home",
-      "link": "https://imfounder.com/science-tech/ai/ai-smart-mirrors-health-data/",
-      "date": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 13
-    },
-    {
       "id": "mm605i",
       "type": "github",
       "title": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
@@ -256,11 +258,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 48",
+        "⭐ 50",
         "Python"
       ],
       "min": null,
-      "stars": 48
+      "stars": 50
     },
     {
       "id": "15u4azh",
@@ -272,11 +274,11 @@
       "source": "GitHub",
       "author": "lololerigolo60",
       "tags": [
-        "⭐ 45",
+        "⭐ 46",
         "Python"
       ],
       "min": null,
-      "stars": 45
+      "stars": 46
     },
     {
       "id": "168avm8",
@@ -288,11 +290,27 @@
       "source": "GitHub",
       "author": "bestdeejay-design",
       "tags": [
-        "⭐ 43",
+        "⭐ 46",
         "HTML"
       ],
       "min": null,
-      "stars": 43
+      "stars": 46
+    },
+    {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 45",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 45
     },
     {
       "id": "16pobjq",
@@ -309,22 +327,6 @@
       ],
       "min": null,
       "stars": 37
-    },
-    {
-      "id": "1hha7fd",
-      "type": "github",
-      "title": "pacocartones/free-llm-api-hub",
-      "desc": "A continuously-verified dataset of free-tier & trial-credit LLM APIs for developers. Every entry dated, sourced to the provider's own docs, and machine-readable. No hype, no dead links.",
-      "link": "https://github.com/pacocartones/free-llm-api-hub",
-      "date": "2026-07-11T18:42:52Z",
-      "source": "GitHub",
-      "author": "pacocartones",
-      "tags": [
-        "⭐ 34",
-        "JavaScript"
-      ],
-      "min": null,
-      "stars": 34
     }
   ]
 }
