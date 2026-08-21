@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:39:26.738Z",
+  "generatedAt": "2026-08-21T06:39:24.802Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,395",
+        "⭐ 1,409",
         "Python"
       ],
       "min": null,
-      "stars": 1395
+      "stars": 1409
     },
     {
       "id": "oesf1f",
@@ -154,11 +154,11 @@
       "source": "GitHub",
       "author": "i3T4AN",
       "tags": [
-        "⭐ 346",
+        "⭐ 343",
         "Python"
       ],
       "min": null,
-      "stars": 346
+      "stars": 343
     },
     {
       "id": "b5z5l1",
@@ -221,20 +221,20 @@
       "min": 14
     },
     {
-      "id": "1cblir7",
+      "id": "1uoiv8z",
       "type": "github",
-      "title": "Greninja9257/LabLLM",
-      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-      "link": "https://github.com/Greninja9257/LabLLM",
-      "date": "2026-08-15T22:16:40Z",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
       "source": "GitHub",
-      "author": "Greninja9257",
+      "author": "zorost",
       "tags": [
-        "⭐ 56",
-        "Swift"
+        "⭐ 98",
+        "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 56
+      "stars": 98
     },
     {
       "id": "lcoxxh",
@@ -249,20 +249,36 @@
       "min": 10
     },
     {
+      "id": "1cblir7",
+      "type": "github",
+      "title": "Greninja9257/LabLLM",
+      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+      "link": "https://github.com/Greninja9257/LabLLM",
+      "date": "2026-08-15T22:16:40Z",
+      "source": "GitHub",
+      "author": "Greninja9257",
+      "tags": [
+        "⭐ 59",
+        "Swift"
+      ],
+      "min": null,
+      "stars": 59
+    },
+    {
       "id": "mm605i",
       "type": "github",
       "title": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
-      "desc": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime. Park work items for human review. Resume execution automatically. No timeouts.",
+      "desc": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime.",
       "link": "https://github.com/AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
       "date": "2026-07-25T09:28:12Z",
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 50",
+        "⭐ 52",
         "Python"
       ],
       "min": null,
-      "stars": 50
+      "stars": 52
     },
     {
       "id": "15u4azh",
@@ -295,22 +311,6 @@
       ],
       "min": null,
       "stars": 46
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 45",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 45
     },
     {
       "id": "16pobjq",
