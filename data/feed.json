@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:39:24.802Z",
+  "generatedAt": "2026-08-22T06:33:05.378Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,409",
+        "⭐ 1,426",
         "Python"
       ],
       "min": null,
-      "stars": 1409
+      "stars": 1426
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,48 @@
       "min": 30
     },
     {
+      "id": "k6u6ex",
+      "type": "news",
+      "title": "GTA 6 Leaks: The Rockstar Security Mystery Behind CyberLeek and India Claims",
+      "desc": "GTA 6 leaks&#160;have turned what was supposed to be one of Rockstar Games’ most tightly controlled launches into a security mystery unfolding in public. Days before Rockstar’s scheduled&#160;Grand Theft Auto VI: An Extended Look&#160;on August 27, 2026, multiple pieces of apparent GTA 6 gameplay ap",
+      "link": "https://imfounder.com/entertainment/gta-6-leaks-rockstar-cyberleek-india-connection/",
+      "date": "Fri, 21 Aug 2026 23:28:17 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "186pvv3",
+      "type": "news",
+      "title": "AI Is Entering the IVF Lab—and Quietly Getting a Vote on Who Gets Born",
+      "desc": "Embryologists have always decided which embryos appear most likely to become successful pregnancies. Now algorithms are learning to rank them, pushing reproductive medicine toward a question technology has never had the power to ask at scale: which potential human gets the first chance at life? Insi",
+      "link": "https://imfounder.com/science-tech/ai/ai-in-ivf-embryo-selection/",
+      "date": "Fri, 21 Aug 2026 10:58:59 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [
+        "mlops"
+      ],
+      "min": 13
+    },
+    {
+      "id": "1vhkihi",
+      "type": "github",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
+      "source": "GitHub",
+      "author": "i3T4AN",
+      "tags": [
+        "⭐ 341",
+        "Python"
+      ],
+      "min": null,
+      "stars": 341
+    },
+    {
       "id": "n5xlce",
       "type": "news",
       "title": "55 Years of Technics SL 1200 — And It Still Has Something Modern Tech Can’t Replace",
@@ -143,22 +185,6 @@
         "mlops"
       ],
       "min": 14
-    },
-    {
-      "id": "1vhkihi",
-      "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
-      "source": "GitHub",
-      "author": "i3T4AN",
-      "tags": [
-        "⭐ 343",
-        "Python"
-      ],
-      "min": null,
-      "stars": 343
     },
     {
       "id": "b5z5l1",
@@ -197,30 +223,6 @@
       "min": 17
     },
     {
-      "id": "1tq0gxb",
-      "type": "news",
-      "title": "AI Is Building the First Translator for the Animal Kingdom",
-      "desc": "Scientists are using artificial intelligence to decode whales, dolphins, elephants and birds—and humanity may be approaching its first genuine conversation with another species. For most of human history, animals have been forced to live inside a world narrated entirely by us. We decide which sounds",
-      "link": "https://imfounder.com/science-tech/ai-animal-communication-whales-dolphins/",
-      "date": "Fri, 14 Aug 2026 08:48:58 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "1phb5wr",
-      "type": "news",
-      "title": "$12.5 BILLION: How the Lakers Just Became the Most Valuable Sports Team on the Planet",
-      "desc": "Inside the record $12.5 billion deal reshaping how billionaires, private equity, and even nations are buying into professional sports. The&#160;Lakers $12.5 billion sale&#160;just rewrote the record book for professional sports — and it happened almost overnight. On August 12, 2026, the Los Angeles ",
-      "link": "https://imfounder.com/entrepreneurship/business/lakers-12-5-billion-sale/",
-      "date": "Thu, 13 Aug 2026 09:51:18 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 14
-    },
-    {
       "id": "1uoiv8z",
       "type": "github",
       "title": "zorost/AI-Engineering-Lab",
@@ -237,14 +239,14 @@
       "stars": 98
     },
     {
-      "id": "lcoxxh",
+      "id": "1tq0gxb",
       "type": "news",
-      "title": "15 Explosive AI Updates August 2026: OpenAI&#8217;s Astra Math Breakthrough, DeepMind&#8217;s Reorg, India&#8217;s AI Funding Boom &#038; More",
-      "desc": "The AI updates August 2026 has thrown at us so far are the kind that make you re-read the headline twice. A model reportedly solving math problems that stumped human researchers for years — for about $2,000 in compute. OpenAI racing toward one of the largest tech IPOs ever. A fighter jet flown with ",
-      "link": "https://imfounder.com/science-tech/ai/ai-updates-august-2026-openai-astra-deepmind/",
-      "date": "Wed, 12 Aug 2026 09:00:00 +0000",
+      "title": "AI Is Building the First Translator for the Animal Kingdom",
+      "desc": "Scientists are using artificial intelligence to decode whales, dolphins, elephants and birds—and humanity may be approaching its first genuine conversation with another species. For most of human history, animals have been forced to live inside a world narrated entirely by us. We decide which sounds",
+      "link": "https://imfounder.com/science-tech/ai-animal-communication-whales-dolphins/",
+      "date": "Fri, 14 Aug 2026 08:48:58 +0000",
       "source": "IM Founder",
-      "author": "Taranjeet Slatch",
+      "author": "Renée Tomato",
       "tags": [],
       "min": 10
     },
@@ -258,11 +260,11 @@
       "source": "GitHub",
       "author": "Greninja9257",
       "tags": [
-        "⭐ 59",
+        "⭐ 61",
         "Swift"
       ],
       "min": null,
-      "stars": 59
+      "stars": 61
     },
     {
       "id": "mm605i",
@@ -274,11 +276,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 52",
+        "⭐ 53",
         "Python"
       ],
       "min": null,
-      "stars": 52
+      "stars": 53
     },
     {
       "id": "15u4azh",
