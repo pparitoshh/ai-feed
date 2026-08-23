@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:33:05.378Z",
+  "generatedAt": "2026-08-23T06:34:31.900Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Alisa0808",
       "tags": [
-        "⭐ 1,426",
+        "⭐ 1,461",
         "Python"
       ],
       "min": null,
-      "stars": 1426
+      "stars": 1461
     },
     {
       "id": "oesf1f",
@@ -260,11 +260,11 @@
       "source": "GitHub",
       "author": "Greninja9257",
       "tags": [
-        "⭐ 61",
+        "⭐ 65",
         "Swift"
       ],
       "min": null,
-      "stars": 61
+      "stars": 65
     },
     {
       "id": "mm605i",
@@ -276,11 +276,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 53",
+        "⭐ 54",
         "Python"
       ],
       "min": null,
-      "stars": 53
+      "stars": 54
     },
     {
       "id": "15u4azh",
@@ -315,20 +315,20 @@
       "stars": 46
     },
     {
-      "id": "16pobjq",
+      "id": "1n4syjd",
       "type": "github",
-      "title": "TOPDEV99999/AI-Knowledge-Management-Platform",
-      "desc": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-      "link": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-      "date": "2026-08-03T07:36:22Z",
+      "title": "ombharatiya/AI-Engineer-Interview-Questions",
+      "desc": "Interview questions and prep for AI Engineer, LLM Engineer, and Applied AI roles. Built for software engineers breaking into AI and ML practitioners levelling up: company-specific question sets, role-based study maps, worked answers, and from-scratch coding challenges.",
+      "link": "https://github.com/ombharatiya/AI-Engineer-Interview-Questions",
+      "date": "2026-07-11T21:50:15Z",
       "source": "GitHub",
-      "author": "TOPDEV99999",
+      "author": "ombharatiya",
       "tags": [
-        "⭐ 37",
-        "Jupyter Notebook"
+        "⭐ 40",
+        "Python"
       ],
       "min": null,
-      "stars": 37
+      "stars": 40
     }
   ]
 }
