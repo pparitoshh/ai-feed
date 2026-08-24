@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:34:31.900Z",
+  "generatedAt": "2026-08-24T06:50:45.663Z",
   "count": 24,
   "cards": [
     {
@@ -67,20 +67,20 @@
       "min": 12
     },
     {
-      "id": "1dthpri",
+      "id": "1vhkihi",
       "type": "github",
-      "title": "Alisa0808/vox-director",
-      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "link": "https://github.com/Alisa0808/vox-director",
-      "date": "2026-07-10T15:32:05Z",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
       "source": "GitHub",
-      "author": "Alisa0808",
+      "author": "i3T4AN",
       "tags": [
-        "⭐ 1,461",
+        "⭐ 340",
         "Python"
       ],
       "min": null,
-      "stars": 1461
+      "stars": 340
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "tv3416",
+      "type": "news",
+      "title": "Apple Vision Pro Layoffs: The Brutal 60-Job Warning That Apple’s Headset Dream Is Changing",
+      "desc": "Apple reportedly cuts Vision team as the company shifts its future toward smart glasses and AI Focus Keyword: Apple Vision Pro layoffs Apple Vision Pro layoffs are now raising a much bigger question than how many employees lost their jobs:&#160;has Apple quietly changed its mind about the future of ",
+      "link": "https://imfounder.com/science-tech/apple-vision-pro-layoffs/",
+      "date": "Sun, 23 Aug 2026 09:52:11 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 11
+    },
+    {
       "id": "k6u6ex",
       "type": "news",
       "title": "GTA 6 Leaks: The Rockstar Security Mystery Behind CyberLeek and India Claims",
@@ -129,6 +141,22 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 9
+    },
+    {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 110",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 110
     },
     {
       "id": "186pvv3",
@@ -143,22 +171,6 @@
         "mlops"
       ],
       "min": 13
-    },
-    {
-      "id": "1vhkihi",
-      "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
-      "source": "GitHub",
-      "author": "i3T4AN",
-      "tags": [
-        "⭐ 341",
-        "Python"
-      ],
-      "min": null,
-      "stars": 341
     },
     {
       "id": "n5xlce",
@@ -211,6 +223,22 @@
       "min": 11
     },
     {
+      "id": "1cblir7",
+      "type": "github",
+      "title": "Greninja9257/LabLLM",
+      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+      "link": "https://github.com/Greninja9257/LabLLM",
+      "date": "2026-08-15T22:16:40Z",
+      "source": "GitHub",
+      "author": "Greninja9257",
+      "tags": [
+        "⭐ 68",
+        "Swift"
+      ],
+      "min": null,
+      "stars": 68
+    },
+    {
       "id": "hvnmxq",
       "type": "news",
       "title": "Old Music Gear Is Back: The Untold Story Behind Music’s Vintage Revival",
@@ -223,50 +251,6 @@
       "min": 17
     },
     {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 98",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 98
-    },
-    {
-      "id": "1tq0gxb",
-      "type": "news",
-      "title": "AI Is Building the First Translator for the Animal Kingdom",
-      "desc": "Scientists are using artificial intelligence to decode whales, dolphins, elephants and birds—and humanity may be approaching its first genuine conversation with another species. For most of human history, animals have been forced to live inside a world narrated entirely by us. We decide which sounds",
-      "link": "https://imfounder.com/science-tech/ai-animal-communication-whales-dolphins/",
-      "date": "Fri, 14 Aug 2026 08:48:58 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "1cblir7",
-      "type": "github",
-      "title": "Greninja9257/LabLLM",
-      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-      "link": "https://github.com/Greninja9257/LabLLM",
-      "date": "2026-08-15T22:16:40Z",
-      "source": "GitHub",
-      "author": "Greninja9257",
-      "tags": [
-        "⭐ 65",
-        "Swift"
-      ],
-      "min": null,
-      "stars": 65
-    },
-    {
       "id": "mm605i",
       "type": "github",
       "title": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
@@ -276,11 +260,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 54",
+        "⭐ 55",
         "Python"
       ],
       "min": null,
-      "stars": 54
+      "stars": 55
     },
     {
       "id": "15u4azh",
@@ -324,11 +308,27 @@
       "source": "GitHub",
       "author": "ombharatiya",
       "tags": [
-        "⭐ 40",
+        "⭐ 41",
         "Python"
       ],
       "min": null,
-      "stars": 40
+      "stars": 41
+    },
+    {
+      "id": "1hha7fd",
+      "type": "github",
+      "title": "pacocartones/free-llm-api-hub",
+      "desc": "A continuously-verified dataset of free-tier & trial-credit LLM APIs for developers. Every entry dated, sourced to the provider's own docs, and machine-readable. No hype, no dead links.",
+      "link": "https://github.com/pacocartones/free-llm-api-hub",
+      "date": "2026-07-11T18:42:52Z",
+      "source": "GitHub",
+      "author": "pacocartones",
+      "tags": [
+        "⭐ 37",
+        "JavaScript"
+      ],
+      "min": null,
+      "stars": 37
     }
   ]
 }
