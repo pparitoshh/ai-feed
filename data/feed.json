@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:50:45.663Z",
+  "generatedAt": "2026-08-25T06:39:33.957Z",
   "count": 24,
   "cards": [
     {
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "7kl93",
+      "type": "news",
+      "title": "AI May Be About to Destroy Humanity&#8217;s Favorite Illusion: That We&#8217;re the Only Species Talking",
+      "desc": "AI Is Decoding the Animal World—and What It Finds Could Rewrite Humanity&#8217;s Place in Nature Somewhere beneath the Caribbean, a sperm whale releases a sequence of clicks into the darkness and another whale answers. The exchange is fast, structured and almost completely inaccessible to the human ",
+      "link": "https://imfounder.com/science-tech/ai/ai-decoding-animal-communication/",
+      "date": "Mon, 24 Aug 2026 10:04:29 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 13
+    },
+    {
       "id": "tv3416",
       "type": "news",
       "title": "Apple Vision Pro Layoffs: The Brutal 60-Job Warning That Apple’s Headset Dream Is Changing",
@@ -129,18 +141,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 11
-    },
-    {
-      "id": "k6u6ex",
-      "type": "news",
-      "title": "GTA 6 Leaks: The Rockstar Security Mystery Behind CyberLeek and India Claims",
-      "desc": "GTA 6 leaks&#160;have turned what was supposed to be one of Rockstar Games’ most tightly controlled launches into a security mystery unfolding in public. Days before Rockstar’s scheduled&#160;Grand Theft Auto VI: An Extended Look&#160;on August 27, 2026, multiple pieces of apparent GTA 6 gameplay ap",
-      "link": "https://imfounder.com/entertainment/gta-6-leaks-rockstar-cyberleek-india-connection/",
-      "date": "Fri, 21 Aug 2026 23:28:17 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 9
     },
     {
       "id": "1uoiv8z",
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 110
+    },
+    {
+      "id": "k6u6ex",
+      "type": "news",
+      "title": "GTA 6 Leaks: The Rockstar Security Mystery Behind CyberLeek and India Claims",
+      "desc": "GTA 6 leaks&#160;have turned what was supposed to be one of Rockstar Games’ most tightly controlled launches into a security mystery unfolding in public. Days before Rockstar’s scheduled&#160;Grand Theft Auto VI: An Extended Look&#160;on August 27, 2026, multiple pieces of apparent GTA 6 gameplay ap",
+      "link": "https://imfounder.com/entertainment/gta-6-leaks-rockstar-cyberleek-india-connection/",
+      "date": "Fri, 21 Aug 2026 23:28:17 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 9
     },
     {
       "id": "186pvv3",
@@ -211,6 +223,22 @@
       "min": 14
     },
     {
+      "id": "1cblir7",
+      "type": "github",
+      "title": "Greninja9257/LabLLM",
+      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+      "link": "https://github.com/Greninja9257/LabLLM",
+      "date": "2026-08-15T22:16:40Z",
+      "source": "GitHub",
+      "author": "Greninja9257",
+      "tags": [
+        "⭐ 73",
+        "Swift"
+      ],
+      "min": null,
+      "stars": 73
+    },
+    {
       "id": "nhixtg",
       "type": "news",
       "title": "AI Companionship Could Change the Evolution of Human Partner Selection",
@@ -223,34 +251,6 @@
       "min": 11
     },
     {
-      "id": "1cblir7",
-      "type": "github",
-      "title": "Greninja9257/LabLLM",
-      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-      "link": "https://github.com/Greninja9257/LabLLM",
-      "date": "2026-08-15T22:16:40Z",
-      "source": "GitHub",
-      "author": "Greninja9257",
-      "tags": [
-        "⭐ 68",
-        "Swift"
-      ],
-      "min": null,
-      "stars": 68
-    },
-    {
-      "id": "hvnmxq",
-      "type": "news",
-      "title": "Old Music Gear Is Back: The Untold Story Behind Music’s Vintage Revival",
-      "desc": "There is a curious contradiction happening in music right now. We have never had easier access to music, yet more people are deliberately buying machines that were designed decades ago to play it. While streaming services can put tens of millions of songs in your pocket within seconds, collectors ar",
-      "link": "https://imfounder.com/music-culture/old-music-gear/",
-      "date": "Sat, 15 Aug 2026 16:55:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 17
-    },
-    {
       "id": "mm605i",
       "type": "github",
       "title": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
@@ -260,11 +260,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 55",
+        "⭐ 57",
         "Python"
       ],
       "min": null,
-      "stars": 55
+      "stars": 57
     },
     {
       "id": "15u4azh",
@@ -299,33 +299,33 @@
       "stars": 46
     },
     {
-      "id": "1n4syjd",
+      "id": "tob79x",
       "type": "github",
-      "title": "ombharatiya/AI-Engineer-Interview-Questions",
-      "desc": "Interview questions and prep for AI Engineer, LLM Engineer, and Applied AI roles. Built for software engineers breaking into AI and ML practitioners levelling up: company-specific question sets, role-based study maps, worked answers, and from-scratch coding challenges.",
-      "link": "https://github.com/ombharatiya/AI-Engineer-Interview-Questions",
-      "date": "2026-07-11T21:50:15Z",
+      "title": "EricSun0218/OpenGameAgent",
+      "desc": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct tool use, complex task planning, memory, and reliable actions for Unity, Godot, Unreal Engine, and servers.",
+      "link": "https://github.com/EricSun0218/OpenGameAgent",
+      "date": "2026-07-28T19:51:19Z",
       "source": "GitHub",
-      "author": "ombharatiya",
+      "author": "EricSun0218",
       "tags": [
-        "⭐ 41",
-        "Python"
+        "⭐ 38",
+        "C#"
       ],
       "min": null,
-      "stars": 41
+      "stars": 38
     },
     {
-      "id": "1hha7fd",
+      "id": "16pobjq",
       "type": "github",
-      "title": "pacocartones/free-llm-api-hub",
-      "desc": "A continuously-verified dataset of free-tier & trial-credit LLM APIs for developers. Every entry dated, sourced to the provider's own docs, and machine-readable. No hype, no dead links.",
-      "link": "https://github.com/pacocartones/free-llm-api-hub",
-      "date": "2026-07-11T18:42:52Z",
+      "title": "TOPDEV99999/AI-Knowledge-Management-Platform",
+      "desc": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+      "link": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
+      "date": "2026-08-03T07:36:22Z",
       "source": "GitHub",
-      "author": "pacocartones",
+      "author": "TOPDEV99999",
       "tags": [
         "⭐ 37",
-        "JavaScript"
+        "Jupyter Notebook"
       ],
       "min": null,
       "stars": 37
