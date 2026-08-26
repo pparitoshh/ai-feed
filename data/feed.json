@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T06:39:33.957Z",
-  "count": 24,
+  "generatedAt": "2026-08-26T06:41:30.195Z",
+  "count": 16,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "i3T4AN",
       "tags": [
-        "⭐ 340",
+        "⭐ 296",
         "Python"
       ],
       "min": null,
-      "stars": 340
+      "stars": 296
     },
     {
       "id": "oesf1f",
@@ -119,30 +119,6 @@
       "min": 30
     },
     {
-      "id": "7kl93",
-      "type": "news",
-      "title": "AI May Be About to Destroy Humanity&#8217;s Favorite Illusion: That We&#8217;re the Only Species Talking",
-      "desc": "AI Is Decoding the Animal World—and What It Finds Could Rewrite Humanity&#8217;s Place in Nature Somewhere beneath the Caribbean, a sperm whale releases a sequence of clicks into the darkness and another whale answers. The exchange is fast, structured and almost completely inaccessible to the human ",
-      "link": "https://imfounder.com/science-tech/ai/ai-decoding-animal-communication/",
-      "date": "Mon, 24 Aug 2026 10:04:29 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 13
-    },
-    {
-      "id": "tv3416",
-      "type": "news",
-      "title": "Apple Vision Pro Layoffs: The Brutal 60-Job Warning That Apple’s Headset Dream Is Changing",
-      "desc": "Apple reportedly cuts Vision team as the company shifts its future toward smart glasses and AI Focus Keyword: Apple Vision Pro layoffs Apple Vision Pro layoffs are now raising a much bigger question than how many employees lost their jobs:&#160;has Apple quietly changed its mind about the future of ",
-      "link": "https://imfounder.com/science-tech/apple-vision-pro-layoffs/",
-      "date": "Sun, 23 Aug 2026 09:52:11 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 11
-    },
-    {
       "id": "1uoiv8z",
       "type": "github",
       "title": "zorost/AI-Engineering-Lab",
@@ -152,75 +128,11 @@
       "source": "GitHub",
       "author": "zorost",
       "tags": [
-        "⭐ 110",
+        "⭐ 121",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 110
-    },
-    {
-      "id": "k6u6ex",
-      "type": "news",
-      "title": "GTA 6 Leaks: The Rockstar Security Mystery Behind CyberLeek and India Claims",
-      "desc": "GTA 6 leaks&#160;have turned what was supposed to be one of Rockstar Games’ most tightly controlled launches into a security mystery unfolding in public. Days before Rockstar’s scheduled&#160;Grand Theft Auto VI: An Extended Look&#160;on August 27, 2026, multiple pieces of apparent GTA 6 gameplay ap",
-      "link": "https://imfounder.com/entertainment/gta-6-leaks-rockstar-cyberleek-india-connection/",
-      "date": "Fri, 21 Aug 2026 23:28:17 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "186pvv3",
-      "type": "news",
-      "title": "AI Is Entering the IVF Lab—and Quietly Getting a Vote on Who Gets Born",
-      "desc": "Embryologists have always decided which embryos appear most likely to become successful pregnancies. Now algorithms are learning to rank them, pushing reproductive medicine toward a question technology has never had the power to ask at scale: which potential human gets the first chance at life? Insi",
-      "link": "https://imfounder.com/science-tech/ai/ai-in-ivf-embryo-selection/",
-      "date": "Fri, 21 Aug 2026 10:58:59 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [
-        "mlops"
-      ],
-      "min": 13
-    },
-    {
-      "id": "n5xlce",
-      "type": "news",
-      "title": "55 Years of Technics SL 1200 — And It Still Has Something Modern Tech Can’t Replace",
-      "desc": "The&#160;Technics turntable&#160;has survived cassette tapes, CDs, MP3s, iPods, smartphones, streaming services and now an era increasingly dominated by artificial intelligence. And somehow, it is still here. More than five decades after the original Technics SL-1200 arrived in 1972, the legendary d",
-      "link": "https://imfounder.com/music-culture/technics-turntable-sl-1200-legacy/",
-      "date": "Wed, 19 Aug 2026 22:59:39 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "1woz0jq",
-      "type": "news",
-      "title": "Apple Upcoming Products: The Secret Roadmap Revealed",
-      "desc": "From a foldable iPhone to a touchscreen Home Hub, here&#8217;s every device reportedly heading to market before the end of 2027 — and what each one means for you. Apple upcoming products for the rest of 2026 and into 2027 add up to the busiest release calendar Cupertino has put together in nearly a ",
-      "link": "https://imfounder.com/science-tech/apple-upcoming-products-2026-guide/",
-      "date": "Wed, 19 Aug 2026 11:06:42 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [
-        "mlops"
-      ],
-      "min": 14
-    },
-    {
-      "id": "b5z5l1",
-      "type": "news",
-      "title": "Pitch Investors in 2026: 7 Proven Secrets That Actually Get Startups Funded",
-      "desc": "The insider playbook founders in Canada and the U.S. use to turn a 10-minute meeting into a signed term sheet If you want to&#160;pitch investors in 2026&#160;and actually walk away with a check, the old playbook won&#8217;t save you. A polished deck, a big vision, and a warm smile used to be enough",
-      "link": "https://imfounder.com/entrepreneurship/pitch-investors-in-2026/",
-      "date": "Tue, 18 Aug 2026 09:07:00 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 14
+      "stars": 121
     },
     {
       "id": "1cblir7",
@@ -232,23 +144,11 @@
       "source": "GitHub",
       "author": "Greninja9257",
       "tags": [
-        "⭐ 73",
+        "⭐ 77",
         "Swift"
       ],
       "min": null,
-      "stars": 73
-    },
-    {
-      "id": "nhixtg",
-      "type": "news",
-      "title": "AI Companionship Could Change the Evolution of Human Partner Selection",
-      "desc": "The Real Threat From AI Isn&#8217;t Artificial Love. It&#8217;s Making Bad Human Love Obsolete. AI may not destroy human relationships. It could make loneliness less powerful, desperation less necessary and mediocre relationships considerably harder to justify. For most of human history, romantic pa",
-      "link": "https://imfounder.com/science-tech/ai/ai-companionship-human-partner-selection/",
-      "date": "Mon, 17 Aug 2026 09:01:16 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 11
+      "stars": 77
     },
     {
       "id": "mm605i",
@@ -260,11 +160,27 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 57",
+        "⭐ 61",
         "Python"
       ],
       "min": null,
-      "stars": 57
+      "stars": 61
+    },
+    {
+      "id": "168avm8",
+      "type": "github",
+      "title": "bestdeejay-design/awesome-ai-handbook",
+      "desc": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools.",
+      "link": "https://github.com/bestdeejay-design/awesome-ai-handbook",
+      "date": "2026-07-23T17:32:32Z",
+      "source": "GitHub",
+      "author": "bestdeejay-design",
+      "tags": [
+        "⭐ 47",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 47
     },
     {
       "id": "15u4azh",
@@ -278,22 +194,6 @@
       "tags": [
         "⭐ 46",
         "Python"
-      ],
-      "min": null,
-      "stars": 46
-    },
-    {
-      "id": "168avm8",
-      "type": "github",
-      "title": "bestdeejay-design/awesome-ai-handbook",
-      "desc": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools.",
-      "link": "https://github.com/bestdeejay-design/awesome-ai-handbook",
-      "date": "2026-07-23T17:32:32Z",
-      "source": "GitHub",
-      "author": "bestdeejay-design",
-      "tags": [
-        "⭐ 46",
-        "HTML"
       ],
       "min": null,
       "stars": 46
@@ -315,20 +215,20 @@
       "stars": 38
     },
     {
-      "id": "16pobjq",
+      "id": "181k6c1",
       "type": "github",
-      "title": "TOPDEV99999/AI-Knowledge-Management-Platform",
-      "desc": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
-      "link": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-      "date": "2026-08-03T07:36:22Z",
+      "title": "zjy1346/OpenThesis",
+      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
+      "link": "https://github.com/zjy1346/OpenThesis",
+      "date": "2026-07-29T16:15:30Z",
       "source": "GitHub",
-      "author": "TOPDEV99999",
+      "author": "zjy1346",
       "tags": [
-        "⭐ 37",
-        "Jupyter Notebook"
+        "⭐ 38",
+        "Python"
       ],
       "min": null,
-      "stars": 37
+      "stars": 38
     }
   ]
 }
