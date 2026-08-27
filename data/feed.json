@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T06:41:30.195Z",
-  "count": 16,
+  "generatedAt": "2026-08-27T17:17:01.330Z",
+  "count": 24,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "i3T4AN",
       "tags": [
-        "⭐ 296",
+        "⭐ 284",
         "Python"
       ],
       "min": null,
-      "stars": 296
+      "stars": 284
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,30 @@
       "min": 30
     },
     {
+      "id": "rjfg6i",
+      "type": "news",
+      "title": "Your Dinner Is Becoming Software: AI Is Turning Food Into a Programmable Material",
+      "desc": "AI Isn’t Just Learning How to Cook. It’s Learning How to Engineer What Food Becomes. For most of human history, food innovation followed a remarkably stable process. Someone grew, raised or harvested an ingredient; someone transformed it through heat, fermentation, preservation or mechanical force; ",
+      "link": "https://imfounder.com/science-tech/ai/ai-engineering-future-of-food/",
+      "date": "Thu, 27 Aug 2026 13:00:22 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "1q3smz5",
+      "type": "news",
+      "title": "Get Paid to Train AI: Your Daily Chores Are Becoming Robot Data",
+      "desc": "Your camera roll, voice, daily errands and household routines are becoming raw material for the robotics economy. A new platform stack lets ordinary people sell that data directly from almost anywhere. The newest remote worker does not need a résumé, an office or even a traditional job. They need a ",
+      "link": "https://imfounder.com/science-tech/ai/get-paid-to-train-ai-daily-chores-robot-data/",
+      "date": "Wed, 26 Aug 2026 11:20:12 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 13
+    },
+    {
       "id": "1uoiv8z",
       "type": "github",
       "title": "zorost/AI-Engineering-Lab",
@@ -128,11 +152,73 @@
       "source": "GitHub",
       "author": "zorost",
       "tags": [
-        "⭐ 121",
+        "⭐ 172",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 121
+      "stars": 172
+    },
+    {
+      "id": "10ttz3y",
+      "type": "news",
+      "title": "Trump Canada Tariffs Explode to 50%: Inside the Trade War Rewriting North America&#8217;s Economy",
+      "desc": "How a decades-old friendship between two allies collapsed into a dollar-for-dollar tariff war — and why neither Washington nor Ottawa is backing down This is a developing story. IMFounder will continue updating this piece as talks between Washington and Ottawa evolve. Trump Canada tariffs&#160;are n",
+      "link": "https://imfounder.com/politics/trump-canada-tariffs-trade-war-202/",
+      "date": "Tue, 25 Aug 2026 12:13:17 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "7kl93",
+      "type": "news",
+      "title": "AI May Be About to Destroy Humanity&#8217;s Favorite Illusion: That We&#8217;re the Only Species Talking",
+      "desc": "AI Is Decoding the Animal World—and What It Finds Could Rewrite Humanity&#8217;s Place in Nature Somewhere beneath the Caribbean, a sperm whale releases a sequence of clicks into the darkness and another whale answers. The exchange is fast, structured and almost completely inaccessible to the human ",
+      "link": "https://imfounder.com/science-tech/ai/ai-decoding-animal-communication/",
+      "date": "Mon, 24 Aug 2026 10:04:29 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 13
+    },
+    {
+      "id": "tv3416",
+      "type": "news",
+      "title": "Apple Vision Pro Layoffs: The Brutal 60-Job Warning That Apple’s Headset Dream Is Changing",
+      "desc": "Apple reportedly cuts Vision team as the company shifts its future toward smart glasses and AI Focus Keyword: Apple Vision Pro layoffs Apple Vision Pro layoffs are now raising a much bigger question than how many employees lost their jobs:&#160;has Apple quietly changed its mind about the future of ",
+      "link": "https://imfounder.com/science-tech/apple-vision-pro-layoffs/",
+      "date": "Sun, 23 Aug 2026 09:52:11 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "k6u6ex",
+      "type": "news",
+      "title": "GTA 6 Leaks: The Rockstar Security Mystery Behind CyberLeek and India Claims",
+      "desc": "GTA 6 leaks&#160;have turned what was supposed to be one of Rockstar Games’ most tightly controlled launches into a security mystery unfolding in public. Days before Rockstar’s scheduled&#160;Grand Theft Auto VI: An Extended Look&#160;on August 27, 2026, multiple pieces of apparent GTA 6 gameplay ap",
+      "link": "https://imfounder.com/entertainment/gta-6-leaks-rockstar-cyberleek-india-connection/",
+      "date": "Fri, 21 Aug 2026 23:28:17 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "186pvv3",
+      "type": "news",
+      "title": "AI Is Entering the IVF Lab—and Quietly Getting a Vote on Who Gets Born",
+      "desc": "Embryologists have always decided which embryos appear most likely to become successful pregnancies. Now algorithms are learning to rank them, pushing reproductive medicine toward a question technology has never had the power to ask at scale: which potential human gets the first chance at life? Insi",
+      "link": "https://imfounder.com/science-tech/ai/ai-in-ivf-embryo-selection/",
+      "date": "Fri, 21 Aug 2026 10:58:59 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [
+        "mlops"
+      ],
+      "min": 13
     },
     {
       "id": "1cblir7",
@@ -144,11 +230,23 @@
       "source": "GitHub",
       "author": "Greninja9257",
       "tags": [
-        "⭐ 77",
+        "⭐ 79",
         "Swift"
       ],
       "min": null,
-      "stars": 77
+      "stars": 79
+    },
+    {
+      "id": "n5xlce",
+      "type": "news",
+      "title": "55 Years of Technics SL 1200 — And It Still Has Something Modern Tech Can’t Replace",
+      "desc": "The&#160;Technics turntable&#160;has survived cassette tapes, CDs, MP3s, iPods, smartphones, streaming services and now an era increasingly dominated by artificial intelligence. And somehow, it is still here. More than five decades after the original Technics SL-1200 arrived in 1972, the legendary d",
+      "link": "https://imfounder.com/music-culture/technics-turntable-sl-1200-legacy/",
+      "date": "Wed, 19 Aug 2026 22:59:39 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 9
     },
     {
       "id": "mm605i",
@@ -160,11 +258,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 61",
+        "⭐ 62",
         "Python"
       ],
       "min": null,
-      "stars": 61
+      "stars": 62
     },
     {
       "id": "168avm8",
@@ -199,22 +297,6 @@
       "stars": 46
     },
     {
-      "id": "tob79x",
-      "type": "github",
-      "title": "EricSun0218/OpenGameAgent",
-      "desc": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct tool use, complex task planning, memory, and reliable actions for Unity, Godot, Unreal Engine, and servers.",
-      "link": "https://github.com/EricSun0218/OpenGameAgent",
-      "date": "2026-07-28T19:51:19Z",
-      "source": "GitHub",
-      "author": "EricSun0218",
-      "tags": [
-        "⭐ 38",
-        "C#"
-      ],
-      "min": null,
-      "stars": 38
-    },
-    {
       "id": "181k6c1",
       "type": "github",
       "title": "zjy1346/OpenThesis",
@@ -224,11 +306,27 @@
       "source": "GitHub",
       "author": "zjy1346",
       "tags": [
-        "⭐ 38",
+        "⭐ 40",
         "Python"
       ],
       "min": null,
-      "stars": 38
+      "stars": 40
+    },
+    {
+      "id": "tob79x",
+      "type": "github",
+      "title": "EricSun0218/OpenGameAgent",
+      "desc": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct tool use, complex task planning, memory, and reliable actions for Unity, Godot, Unreal Engine, and servers.",
+      "link": "https://github.com/EricSun0218/OpenGameAgent",
+      "date": "2026-07-28T19:51:19Z",
+      "source": "GitHub",
+      "author": "EricSun0218",
+      "tags": [
+        "⭐ 39",
+        "C#"
+      ],
+      "min": null,
+      "stars": 39
     }
   ]
 }
