@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:17:01.330Z",
+  "generatedAt": "2026-08-28T18:09:21.198Z",
   "count": 24,
   "cards": [
     {
@@ -67,20 +67,20 @@
       "min": 12
     },
     {
-      "id": "1vhkihi",
+      "id": "1sg1a6q",
       "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
+      "title": "calmrocks/ai-engineer-notebooks",
+      "desc": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from scratch, tool design, guardrails, MCP, Skills), fine-tuning vs LoRA, prompt-injection/security, LLMOps, and customer craft. Runs on the free Groq API.",
+      "link": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "date": "2026-08-11T23:17:17Z",
       "source": "GitHub",
-      "author": "i3T4AN",
+      "author": "calmrocks",
       "tags": [
-        "⭐ 284",
-        "Python"
+        "⭐ 467",
+        "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 284
+      "stars": 467
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "14zinoe",
+      "type": "news",
+      "title": "10 AI Startup Ideas You Can Launch With Zero Dollars in 2026",
+      "desc": "No funding, no code, no excuses — here&#8217;s exactly how solo founders are turning free AI tools into real, paying businesses. AI startup ideas are having a real moment in 2026, and the surprising part isn&#8217;t the technology — it&#8217;s the price tag. A wave of powerful open-source models, ge",
+      "link": "https://imfounder.com/science-tech/ai/ai-startup-ideas-zero-money/",
+      "date": "Fri, 28 Aug 2026 12:22:14 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 9
+    },
+    {
       "id": "rjfg6i",
       "type": "news",
       "title": "Your Dinner Is Becoming Software: AI Is Turning Food Into a Programmable Material",
@@ -131,6 +143,22 @@
       "min": 12
     },
     {
+      "id": "1vhkihi",
+      "type": "github",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
+      "source": "GitHub",
+      "author": "i3T4AN",
+      "tags": [
+        "⭐ 284",
+        "Python"
+      ],
+      "min": null,
+      "stars": 284
+    },
+    {
       "id": "1q3smz5",
       "type": "news",
       "title": "Get Paid to Train AI: Your Daily Chores Are Becoming Robot Data",
@@ -141,22 +169,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 13
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 172",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 172
     },
     {
       "id": "10ttz3y",
@@ -207,6 +219,22 @@
       "min": 9
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 174",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 174
+    },
+    {
       "id": "186pvv3",
       "type": "news",
       "title": "AI Is Entering the IVF Lab—and Quietly Getting a Vote on Who Gets Born",
@@ -230,23 +258,11 @@
       "source": "GitHub",
       "author": "Greninja9257",
       "tags": [
-        "⭐ 79",
+        "⭐ 83",
         "Swift"
       ],
       "min": null,
-      "stars": 79
-    },
-    {
-      "id": "n5xlce",
-      "type": "news",
-      "title": "55 Years of Technics SL 1200 — And It Still Has Something Modern Tech Can’t Replace",
-      "desc": "The&#160;Technics turntable&#160;has survived cassette tapes, CDs, MP3s, iPods, smartphones, streaming services and now an era increasingly dominated by artificial intelligence. And somehow, it is still here. More than five decades after the original Technics SL-1200 arrived in 1972, the legendary d",
-      "link": "https://imfounder.com/music-culture/technics-turntable-sl-1200-legacy/",
-      "date": "Wed, 19 Aug 2026 22:59:39 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 9
+      "stars": 83
     },
     {
       "id": "mm605i",
@@ -258,11 +274,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 62",
+        "⭐ 65",
         "Python"
       ],
       "min": null,
-      "stars": 62
+      "stars": 65
     },
     {
       "id": "168avm8",
@@ -297,22 +313,6 @@
       "stars": 46
     },
     {
-      "id": "181k6c1",
-      "type": "github",
-      "title": "zjy1346/OpenThesis",
-      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
-      "link": "https://github.com/zjy1346/OpenThesis",
-      "date": "2026-07-29T16:15:30Z",
-      "source": "GitHub",
-      "author": "zjy1346",
-      "tags": [
-        "⭐ 40",
-        "Python"
-      ],
-      "min": null,
-      "stars": 40
-    },
-    {
       "id": "tob79x",
       "type": "github",
       "title": "EricSun0218/OpenGameAgent",
@@ -322,11 +322,11 @@
       "source": "GitHub",
       "author": "EricSun0218",
       "tags": [
-        "⭐ 39",
+        "⭐ 42",
         "C#"
       ],
       "min": null,
-      "stars": 39
+      "stars": 42
     }
   ]
 }
