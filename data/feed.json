@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T18:09:21.198Z",
+  "generatedAt": "2026-08-29T12:13:27.837Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 467",
+        "⭐ 490",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 467
+      "stars": 490
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,46 @@
       "min": 30
     },
     {
+      "id": "1hnxz25",
+      "type": "news",
+      "title": "5 Shocking Secrets: GTA 6 Extended Look, Xbox Disc to Digital and more",
+      "desc": "GTA 6 Extended Look content premiered on Netflix on August 27, 2026, and gaming has not settled down since. In one dizzying week, Rockstar Games handed fans a 26-minute deep dive into Vice City and Leonida, Xbox quietly rewrote the rules on owning the games you already paid for, and PlayStation loya",
+      "link": "https://imfounder.com/entertainment/gta-6-extended-look-xbox-disc-to-digital-news/",
+      "date": "Sat, 29 Aug 2026 12:08:32 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 10
+    },
+    {
+      "id": "1v44re4",
+      "type": "news",
+      "title": "New Mac mini M6 Is Here: The Powerful AI Upgrade Apple Users Have Been Waiting For",
+      "desc": "Apple has officially unveiled the new Mac mini M6, alongside a more powerful Mac mini M5 Pro, and this tiny desktop may represent one of the company&#8217;s most interesting hardware releases in years. The reason isn&#8217;t simply that the processors are faster. The new Mac mini is being pushed int",
+      "link": "https://imfounder.com/science-tech/mac-mini-m6-upgrade-local-ai-review/",
+      "date": "Fri, 28 Aug 2026 22:55:28 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 10
+    },
+    {
+      "id": "1vhkihi",
+      "type": "github",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
+      "source": "GitHub",
+      "author": "i3T4AN",
+      "tags": [
+        "⭐ 284",
+        "Python"
+      ],
+      "min": null,
+      "stars": 284
+    },
+    {
       "id": "14zinoe",
       "type": "news",
       "title": "10 AI Startup Ideas You Can Launch With Zero Dollars in 2026",
@@ -141,22 +181,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "1vhkihi",
-      "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
-      "source": "GitHub",
-      "author": "i3T4AN",
-      "tags": [
-        "⭐ 284",
-        "Python"
-      ],
-      "min": null,
-      "stars": 284
     },
     {
       "id": "1q3smz5",
@@ -195,6 +219,22 @@
       "min": 13
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 177",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 177
+    },
+    {
       "id": "tv3416",
       "type": "news",
       "title": "Apple Vision Pro Layoffs: The Brutal 60-Job Warning That Apple’s Headset Dream Is Changing",
@@ -207,48 +247,6 @@
       "min": 11
     },
     {
-      "id": "k6u6ex",
-      "type": "news",
-      "title": "GTA 6 Leaks: The Rockstar Security Mystery Behind CyberLeek and India Claims",
-      "desc": "GTA 6 leaks&#160;have turned what was supposed to be one of Rockstar Games’ most tightly controlled launches into a security mystery unfolding in public. Days before Rockstar’s scheduled&#160;Grand Theft Auto VI: An Extended Look&#160;on August 27, 2026, multiple pieces of apparent GTA 6 gameplay ap",
-      "link": "https://imfounder.com/entertainment/gta-6-leaks-rockstar-cyberleek-india-connection/",
-      "date": "Fri, 21 Aug 2026 23:28:17 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 174",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 174
-    },
-    {
-      "id": "186pvv3",
-      "type": "news",
-      "title": "AI Is Entering the IVF Lab—and Quietly Getting a Vote on Who Gets Born",
-      "desc": "Embryologists have always decided which embryos appear most likely to become successful pregnancies. Now algorithms are learning to rank them, pushing reproductive medicine toward a question technology has never had the power to ask at scale: which potential human gets the first chance at life? Insi",
-      "link": "https://imfounder.com/science-tech/ai/ai-in-ivf-embryo-selection/",
-      "date": "Fri, 21 Aug 2026 10:58:59 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [
-        "mlops"
-      ],
-      "min": 13
-    },
-    {
       "id": "1cblir7",
       "type": "github",
       "title": "Greninja9257/LabLLM",
@@ -258,11 +256,11 @@
       "source": "GitHub",
       "author": "Greninja9257",
       "tags": [
-        "⭐ 83",
+        "⭐ 82",
         "Swift"
       ],
       "min": null,
-      "stars": 83
+      "stars": 82
     },
     {
       "id": "mm605i",
@@ -274,11 +272,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 65",
+        "⭐ 67",
         "Python"
       ],
       "min": null,
-      "stars": 65
+      "stars": 67
     },
     {
       "id": "168avm8",
@@ -313,20 +311,20 @@
       "stars": 46
     },
     {
-      "id": "tob79x",
+      "id": "181k6c1",
       "type": "github",
-      "title": "EricSun0218/OpenGameAgent",
-      "desc": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct tool use, complex task planning, memory, and reliable actions for Unity, Godot, Unreal Engine, and servers.",
-      "link": "https://github.com/EricSun0218/OpenGameAgent",
-      "date": "2026-07-28T19:51:19Z",
+      "title": "zjy1346/OpenThesis",
+      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
+      "link": "https://github.com/zjy1346/OpenThesis",
+      "date": "2026-07-29T16:15:30Z",
       "source": "GitHub",
-      "author": "EricSun0218",
+      "author": "zjy1346",
       "tags": [
-        "⭐ 42",
-        "C#"
+        "⭐ 44",
+        "Python"
       ],
       "min": null,
-      "stars": 42
+      "stars": 44
     }
   ]
 }
