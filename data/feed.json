@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T12:13:27.837Z",
+  "generatedAt": "2026-08-30T11:10:27.271Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 490",
+        "⭐ 526",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 490
+      "stars": 526
     },
     {
       "id": "oesf1f",
@@ -152,11 +152,11 @@
       "source": "GitHub",
       "author": "i3T4AN",
       "tags": [
-        "⭐ 284",
+        "⭐ 274",
         "Python"
       ],
       "min": null,
-      "stars": 284
+      "stars": 274
     },
     {
       "id": "14zinoe",
@@ -228,11 +228,11 @@
       "source": "GitHub",
       "author": "zorost",
       "tags": [
-        "⭐ 177",
+        "⭐ 215",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 177
+      "stars": 215
     },
     {
       "id": "tv3416",
@@ -272,11 +272,27 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 67",
+        "⭐ 69",
         "Python"
       ],
       "min": null,
-      "stars": 67
+      "stars": 69
+    },
+    {
+      "id": "1h6b1dd",
+      "type": "github",
+      "title": "genoskietv/AdalFlow-Optimizer",
+      "desc": "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
+      "link": "https://github.com/genoskietv/AdalFlow-Optimizer",
+      "date": "2026-08-25T08:57:31Z",
+      "source": "GitHub",
+      "author": "genoskietv",
+      "tags": [
+        "⭐ 55",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 55
     },
     {
       "id": "168avm8",
@@ -309,22 +325,6 @@
       ],
       "min": null,
       "stars": 46
-    },
-    {
-      "id": "181k6c1",
-      "type": "github",
-      "title": "zjy1346/OpenThesis",
-      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
-      "link": "https://github.com/zjy1346/OpenThesis",
-      "date": "2026-07-29T16:15:30Z",
-      "source": "GitHub",
-      "author": "zjy1346",
-      "tags": [
-        "⭐ 44",
-        "Python"
-      ],
-      "min": null,
-      "stars": 44
     }
   ]
 }
