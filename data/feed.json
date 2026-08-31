@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T11:10:27.271Z",
+  "generatedAt": "2026-08-31T12:35:22.895Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 526",
+        "⭐ 562",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 526
+      "stars": 562
     },
     {
       "id": "oesf1f",
@@ -119,24 +119,24 @@
       "min": 30
     },
     {
+      "id": "1e3xl7g",
+      "type": "news",
+      "title": "O-1 Visa vs Canada Entrepreneur Pilot: The Brutal 2026 Truth Every Founder Must Know Before They Move",
+      "desc": "Why the &#8220;where should I relocate my startup&#8221; question just got a lot harder to answer O-1 Visa vs Canada Entrepreneur Pilot&#160;is the exact phrase immigration lawyers are hearing on repeat this year, and there&#8217;s a reason the timing feels urgent. Canada&#8217;s Start-Up Visa progr",
+      "link": "https://imfounder.com/entrepreneurship/o-1-visa-vs-canada-entrepreneur-pilot-2026/",
+      "date": "Mon, 31 Aug 2026 10:51:18 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 9
+    },
+    {
       "id": "1hnxz25",
       "type": "news",
       "title": "5 Shocking Secrets: GTA 6 Extended Look, Xbox Disc to Digital and more",
       "desc": "GTA 6 Extended Look content premiered on Netflix on August 27, 2026, and gaming has not settled down since. In one dizzying week, Rockstar Games handed fans a 26-minute deep dive into Vice City and Leonida, Xbox quietly rewrote the rules on owning the games you already paid for, and PlayStation loya",
       "link": "https://imfounder.com/entertainment/gta-6-extended-look-xbox-disc-to-digital-news/",
       "date": "Sat, 29 Aug 2026 12:08:32 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "1v44re4",
-      "type": "news",
-      "title": "New Mac mini M6 Is Here: The Powerful AI Upgrade Apple Users Have Been Waiting For",
-      "desc": "Apple has officially unveiled the new Mac mini M6, alongside a more powerful Mac mini M5 Pro, and this tiny desktop may represent one of the company&#8217;s most interesting hardware releases in years. The reason isn&#8217;t simply that the processors are faster. The new Mac mini is being pushed int",
-      "link": "https://imfounder.com/science-tech/mac-mini-m6-upgrade-local-ai-review/",
-      "date": "Fri, 28 Aug 2026 22:55:28 +0000",
       "source": "IM Founder",
       "author": "Kirat Singh",
       "tags": [],
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 274
+    },
+    {
+      "id": "1v44re4",
+      "type": "news",
+      "title": "New Mac mini M6 Is Here: The Powerful AI Upgrade Apple Users Have Been Waiting For",
+      "desc": "Apple has officially unveiled the new Mac mini M6, alongside a more powerful Mac mini M5 Pro, and this tiny desktop may represent one of the company&#8217;s most interesting hardware releases in years. The reason isn&#8217;t simply that the processors are faster. The new Mac mini is being pushed int",
+      "link": "https://imfounder.com/science-tech/mac-mini-m6-upgrade-local-ai-review/",
+      "date": "Fri, 28 Aug 2026 22:55:28 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 10
     },
     {
       "id": "14zinoe",
@@ -207,6 +219,22 @@
       "min": 12
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 239",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 239
+    },
+    {
       "id": "7kl93",
       "type": "news",
       "title": "AI May Be About to Destroy Humanity&#8217;s Favorite Illusion: That We&#8217;re the Only Species Talking",
@@ -219,34 +247,6 @@
       "min": 13
     },
     {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 215",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 215
-    },
-    {
-      "id": "tv3416",
-      "type": "news",
-      "title": "Apple Vision Pro Layoffs: The Brutal 60-Job Warning That Apple’s Headset Dream Is Changing",
-      "desc": "Apple reportedly cuts Vision team as the company shifts its future toward smart glasses and AI Focus Keyword: Apple Vision Pro layoffs Apple Vision Pro layoffs are now raising a much bigger question than how many employees lost their jobs:&#160;has Apple quietly changed its mind about the future of ",
-      "link": "https://imfounder.com/science-tech/apple-vision-pro-layoffs/",
-      "date": "Sun, 23 Aug 2026 09:52:11 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 11
-    },
-    {
       "id": "1cblir7",
       "type": "github",
       "title": "Greninja9257/LabLLM",
@@ -256,11 +256,11 @@
       "source": "GitHub",
       "author": "Greninja9257",
       "tags": [
-        "⭐ 82",
+        "⭐ 75",
         "Swift"
       ],
       "min": null,
-      "stars": 82
+      "stars": 75
     },
     {
       "id": "mm605i",
@@ -272,11 +272,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 69",
+        "⭐ 70",
         "Python"
       ],
       "min": null,
-      "stars": 69
+      "stars": 70
     },
     {
       "id": "1h6b1dd",
@@ -311,20 +311,20 @@
       "stars": 47
     },
     {
-      "id": "15u4azh",
+      "id": "181k6c1",
       "type": "github",
-      "title": "lololerigolo60/Prompt-architect",
-      "desc": "Prompt Architect Pro is a Python desktop app that uses local Ollama LLMs to analyze raw texts and images. It extracts and structures visual descriptions into optimized JSON prompts for generative AI. It features a built-in SQLite database for prompt editing and adjustable VRAM hardware profiles. with a ComfyUI node that can use the database",
-      "link": "https://github.com/lololerigolo60/Prompt-architect",
-      "date": "2026-07-25T05:23:33Z",
+      "title": "zjy1346/OpenThesis",
+      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
+      "link": "https://github.com/zjy1346/OpenThesis",
+      "date": "2026-07-29T16:15:30Z",
       "source": "GitHub",
-      "author": "lololerigolo60",
+      "author": "zjy1346",
       "tags": [
-        "⭐ 46",
+        "⭐ 47",
         "Python"
       ],
       "min": null,
-      "stars": 46
+      "stars": 47
     }
   ]
 }
