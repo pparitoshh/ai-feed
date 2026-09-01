@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T12:35:22.895Z",
-  "count": 24,
+  "generatedAt": "2026-09-01T11:01:42.017Z",
+  "count": 16,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 562",
+        "⭐ 576",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 562
+      "stars": 576
     },
     {
       "id": "oesf1f",
@@ -119,28 +119,20 @@
       "min": 30
     },
     {
-      "id": "1e3xl7g",
-      "type": "news",
-      "title": "O-1 Visa vs Canada Entrepreneur Pilot: The Brutal 2026 Truth Every Founder Must Know Before They Move",
-      "desc": "Why the &#8220;where should I relocate my startup&#8221; question just got a lot harder to answer O-1 Visa vs Canada Entrepreneur Pilot&#160;is the exact phrase immigration lawyers are hearing on repeat this year, and there&#8217;s a reason the timing feels urgent. Canada&#8217;s Start-Up Visa progr",
-      "link": "https://imfounder.com/entrepreneurship/o-1-visa-vs-canada-entrepreneur-pilot-2026/",
-      "date": "Mon, 31 Aug 2026 10:51:18 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "1hnxz25",
-      "type": "news",
-      "title": "5 Shocking Secrets: GTA 6 Extended Look, Xbox Disc to Digital and more",
-      "desc": "GTA 6 Extended Look content premiered on Netflix on August 27, 2026, and gaming has not settled down since. In one dizzying week, Rockstar Games handed fans a 26-minute deep dive into Vice City and Leonida, Xbox quietly rewrote the rules on owning the games you already paid for, and PlayStation loya",
-      "link": "https://imfounder.com/entertainment/gta-6-extended-look-xbox-disc-to-digital-news/",
-      "date": "Sat, 29 Aug 2026 12:08:32 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 10
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 303",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 303
     },
     {
       "id": "1vhkihi",
@@ -152,99 +144,11 @@
       "source": "GitHub",
       "author": "i3T4AN",
       "tags": [
-        "⭐ 274",
+        "⭐ 273",
         "Python"
       ],
       "min": null,
-      "stars": 274
-    },
-    {
-      "id": "1v44re4",
-      "type": "news",
-      "title": "New Mac mini M6 Is Here: The Powerful AI Upgrade Apple Users Have Been Waiting For",
-      "desc": "Apple has officially unveiled the new Mac mini M6, alongside a more powerful Mac mini M5 Pro, and this tiny desktop may represent one of the company&#8217;s most interesting hardware releases in years. The reason isn&#8217;t simply that the processors are faster. The new Mac mini is being pushed int",
-      "link": "https://imfounder.com/science-tech/mac-mini-m6-upgrade-local-ai-review/",
-      "date": "Fri, 28 Aug 2026 22:55:28 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "14zinoe",
-      "type": "news",
-      "title": "10 AI Startup Ideas You Can Launch With Zero Dollars in 2026",
-      "desc": "No funding, no code, no excuses — here&#8217;s exactly how solo founders are turning free AI tools into real, paying businesses. AI startup ideas are having a real moment in 2026, and the surprising part isn&#8217;t the technology — it&#8217;s the price tag. A wave of powerful open-source models, ge",
-      "link": "https://imfounder.com/science-tech/ai/ai-startup-ideas-zero-money/",
-      "date": "Fri, 28 Aug 2026 12:22:14 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 9
-    },
-    {
-      "id": "rjfg6i",
-      "type": "news",
-      "title": "Your Dinner Is Becoming Software: AI Is Turning Food Into a Programmable Material",
-      "desc": "AI Isn’t Just Learning How to Cook. It’s Learning How to Engineer What Food Becomes. For most of human history, food innovation followed a remarkably stable process. Someone grew, raised or harvested an ingredient; someone transformed it through heat, fermentation, preservation or mechanical force; ",
-      "link": "https://imfounder.com/science-tech/ai/ai-engineering-future-of-food/",
-      "date": "Thu, 27 Aug 2026 13:00:22 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "1q3smz5",
-      "type": "news",
-      "title": "Get Paid to Train AI: Your Daily Chores Are Becoming Robot Data",
-      "desc": "Your camera roll, voice, daily errands and household routines are becoming raw material for the robotics economy. A new platform stack lets ordinary people sell that data directly from almost anywhere. The newest remote worker does not need a résumé, an office or even a traditional job. They need a ",
-      "link": "https://imfounder.com/science-tech/ai/get-paid-to-train-ai-daily-chores-robot-data/",
-      "date": "Wed, 26 Aug 2026 11:20:12 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 13
-    },
-    {
-      "id": "10ttz3y",
-      "type": "news",
-      "title": "Trump Canada Tariffs Explode to 50%: Inside the Trade War Rewriting North America&#8217;s Economy",
-      "desc": "How a decades-old friendship between two allies collapsed into a dollar-for-dollar tariff war — and why neither Washington nor Ottawa is backing down This is a developing story. IMFounder will continue updating this piece as talks between Washington and Ottawa evolve. Trump Canada tariffs&#160;are n",
-      "link": "https://imfounder.com/politics/trump-canada-tariffs-trade-war-202/",
-      "date": "Tue, 25 Aug 2026 12:13:17 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 239",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 239
-    },
-    {
-      "id": "7kl93",
-      "type": "news",
-      "title": "AI May Be About to Destroy Humanity&#8217;s Favorite Illusion: That We&#8217;re the Only Species Talking",
-      "desc": "AI Is Decoding the Animal World—and What It Finds Could Rewrite Humanity&#8217;s Place in Nature Somewhere beneath the Caribbean, a sperm whale releases a sequence of clicks into the darkness and another whale answers. The exchange is fast, structured and almost completely inaccessible to the human ",
-      "link": "https://imfounder.com/science-tech/ai/ai-decoding-animal-communication/",
-      "date": "Mon, 24 Aug 2026 10:04:29 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 13
+      "stars": 273
     },
     {
       "id": "1cblir7",
@@ -256,11 +160,11 @@
       "source": "GitHub",
       "author": "Greninja9257",
       "tags": [
-        "⭐ 75",
+        "⭐ 76",
         "Swift"
       ],
       "min": null,
-      "stars": 75
+      "stars": 76
     },
     {
       "id": "mm605i",
@@ -272,11 +176,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 70",
+        "⭐ 71",
         "Python"
       ],
       "min": null,
-      "stars": 70
+      "stars": 71
     },
     {
       "id": "1h6b1dd",
@@ -295,6 +199,22 @@
       "stars": 55
     },
     {
+      "id": "181k6c1",
+      "type": "github",
+      "title": "zjy1346/OpenThesis",
+      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
+      "link": "https://github.com/zjy1346/OpenThesis",
+      "date": "2026-07-29T16:15:30Z",
+      "source": "GitHub",
+      "author": "zjy1346",
+      "tags": [
+        "⭐ 48",
+        "Python"
+      ],
+      "min": null,
+      "stars": 48
+    },
+    {
       "id": "168avm8",
       "type": "github",
       "title": "bestdeejay-design/awesome-ai-handbook",
@@ -306,22 +226,6 @@
       "tags": [
         "⭐ 47",
         "HTML"
-      ],
-      "min": null,
-      "stars": 47
-    },
-    {
-      "id": "181k6c1",
-      "type": "github",
-      "title": "zjy1346/OpenThesis",
-      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
-      "link": "https://github.com/zjy1346/OpenThesis",
-      "date": "2026-07-29T16:15:30Z",
-      "source": "GitHub",
-      "author": "zjy1346",
-      "tags": [
-        "⭐ 47",
-        "Python"
       ],
       "min": null,
       "stars": 47
