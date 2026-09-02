@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T11:01:42.017Z",
-  "count": 16,
+  "generatedAt": "2026-09-02T10:33:02.728Z",
+  "count": 24,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 576",
+        "⭐ 585",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 576
+      "stars": 585
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,30 @@
       "min": 30
     },
     {
+      "id": "1ogoigr",
+      "type": "news",
+      "title": "AI Jobs at Risk: 12 Roles Facing a Major Shake-Up by 2030",
+      "desc": "AI Jobs at Risk Are No Longer a Future Problem AI jobs at risk&#160;has become one of the defining employment questions of 2026. But the real story is more complicated than “AI will take your job.” Artificial intelligence is already taking over individual tasks, accelerating workflows and allowing o",
+      "link": "https://imfounder.com/science-tech/ai/ai-jobs-at-risk-2026-2030/",
+      "date": "Wed, 02 Sep 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "13eek9j",
+      "type": "news",
+      "title": "pHathom Technologies: Inside the Quiet Halifax Startup Turning Seawater Into a Climate Tech Breakthrough",
+      "desc": "While Toronto and Montreal chase the next AI headline, a 12-person crew on Nova Scotia&#8217;s coast just closed a $4-million seed round to prove that permanent carbon removal doesn&#8217;t need a pipeline — just limestone, seawater, and a harbour nobody else wanted. pHathom Technologies is not a ho",
+      "link": "https://imfounder.com/entrepreneurship/phathom-technologies-halifax-carbon-capture-seed-funding/",
+      "date": "Tue, 01 Sep 2026 10:55:18 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 12
+    },
+    {
       "id": "1uoiv8z",
       "type": "github",
       "title": "zorost/AI-Engineering-Lab",
@@ -128,11 +152,71 @@
       "source": "GitHub",
       "author": "zorost",
       "tags": [
-        "⭐ 303",
+        "⭐ 306",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 303
+      "stars": 306
+    },
+    {
+      "id": "1e3xl7g",
+      "type": "news",
+      "title": "O-1 Visa vs Canada Entrepreneur Pilot: The Brutal 2026 Truth Every Founder Must Know Before They Move",
+      "desc": "Why the &#8220;where should I relocate my startup&#8221; question just got a lot harder to answer O-1 Visa vs Canada Entrepreneur Pilot&#160;is the exact phrase immigration lawyers are hearing on repeat this year, and there&#8217;s a reason the timing feels urgent. Canada&#8217;s Start-Up Visa progr",
+      "link": "https://imfounder.com/entrepreneurship/o-1-visa-vs-canada-entrepreneur-pilot-2026/",
+      "date": "Mon, 31 Aug 2026 10:51:18 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "1hnxz25",
+      "type": "news",
+      "title": "5 Shocking Secrets: GTA 6 Extended Look, Xbox Disc to Digital and more",
+      "desc": "GTA 6 Extended Look content premiered on Netflix on August 27, 2026, and gaming has not settled down since. In one dizzying week, Rockstar Games handed fans a 26-minute deep dive into Vice City and Leonida, Xbox quietly rewrote the rules on owning the games you already paid for, and PlayStation loya",
+      "link": "https://imfounder.com/entertainment/gta-6-extended-look-xbox-disc-to-digital-news/",
+      "date": "Sat, 29 Aug 2026 12:08:32 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 10
+    },
+    {
+      "id": "1v44re4",
+      "type": "news",
+      "title": "New Mac mini M6 Is Here: The Powerful AI Upgrade Apple Users Have Been Waiting For",
+      "desc": "Apple has officially unveiled the new Mac mini M6, alongside a more powerful Mac mini M5 Pro, and this tiny desktop may represent one of the company&#8217;s most interesting hardware releases in years. The reason isn&#8217;t simply that the processors are faster. The new Mac mini is being pushed int",
+      "link": "https://imfounder.com/science-tech/mac-mini-m6-upgrade-local-ai-review/",
+      "date": "Fri, 28 Aug 2026 22:55:28 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 10
+    },
+    {
+      "id": "14zinoe",
+      "type": "news",
+      "title": "10 AI Startup Ideas You Can Launch With Zero Dollars in 2026",
+      "desc": "No funding, no code, no excuses — here&#8217;s exactly how solo founders are turning free AI tools into real, paying businesses. AI startup ideas are having a real moment in 2026, and the surprising part isn&#8217;t the technology — it&#8217;s the price tag. A wave of powerful open-source models, ge",
+      "link": "https://imfounder.com/science-tech/ai/ai-startup-ideas-zero-money/",
+      "date": "Fri, 28 Aug 2026 12:22:14 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 9
+    },
+    {
+      "id": "rjfg6i",
+      "type": "news",
+      "title": "Your Dinner Is Becoming Software: AI Is Turning Food Into a Programmable Material",
+      "desc": "AI Isn’t Just Learning How to Cook. It’s Learning How to Engineer What Food Becomes. For most of human history, food innovation followed a remarkably stable process. Someone grew, raised or harvested an ingredient; someone transformed it through heat, fermentation, preservation or mechanical force; ",
+      "link": "https://imfounder.com/science-tech/ai/ai-engineering-future-of-food/",
+      "date": "Thu, 27 Aug 2026 13:00:22 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 12
     },
     {
       "id": "1vhkihi",
@@ -144,11 +228,23 @@
       "source": "GitHub",
       "author": "i3T4AN",
       "tags": [
-        "⭐ 273",
+        "⭐ 274",
         "Python"
       ],
       "min": null,
-      "stars": 273
+      "stars": 274
+    },
+    {
+      "id": "1q3smz5",
+      "type": "news",
+      "title": "Get Paid to Train AI: Your Daily Chores Are Becoming Robot Data",
+      "desc": "Your camera roll, voice, daily errands and household routines are becoming raw material for the robotics economy. A new platform stack lets ordinary people sell that data directly from almost anywhere. The newest remote worker does not need a résumé, an office or even a traditional job. They need a ",
+      "link": "https://imfounder.com/science-tech/ai/get-paid-to-train-ai-daily-chores-robot-data/",
+      "date": "Wed, 26 Aug 2026 11:20:12 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 13
     },
     {
       "id": "1cblir7",
@@ -176,11 +272,11 @@
       "source": "GitHub",
       "author": "AhmadHassan-BTed",
       "tags": [
-        "⭐ 71",
+        "⭐ 72",
         "Python"
       ],
       "min": null,
-      "stars": 71
+      "stars": 72
     },
     {
       "id": "1h6b1dd",
@@ -199,6 +295,22 @@
       "stars": 55
     },
     {
+      "id": "168avm8",
+      "type": "github",
+      "title": "bestdeejay-design/awesome-ai-handbook",
+      "desc": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools.",
+      "link": "https://github.com/bestdeejay-design/awesome-ai-handbook",
+      "date": "2026-07-23T17:32:32Z",
+      "source": "GitHub",
+      "author": "bestdeejay-design",
+      "tags": [
+        "⭐ 48",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 48
+    },
+    {
       "id": "181k6c1",
       "type": "github",
       "title": "zjy1346/OpenThesis",
@@ -213,22 +325,6 @@
       ],
       "min": null,
       "stars": 48
-    },
-    {
-      "id": "168avm8",
-      "type": "github",
-      "title": "bestdeejay-design/awesome-ai-handbook",
-      "desc": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools.",
-      "link": "https://github.com/bestdeejay-design/awesome-ai-handbook",
-      "date": "2026-07-23T17:32:32Z",
-      "source": "GitHub",
-      "author": "bestdeejay-design",
-      "tags": [
-        "⭐ 47",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 47
     }
   ]
 }
