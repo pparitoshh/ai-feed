@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T10:33:02.728Z",
+  "generatedAt": "2026-09-03T10:37:31.764Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 585",
+        "⭐ 593",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 585
+      "stars": 593
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "piabdf",
+      "type": "news",
+      "title": "OpenAI Tumbler Ridge Lawsuit: Inside the New Legal Fight Over ChatGPT",
+      "desc": "The&#160;OpenAI Tumbler Ridge lawsuit&#160;has entered a significantly more consequential phase. What began with seven lawsuits filed earlier this year has now expanded with 30 additional complaints involving teachers, a principal and students who were inside Tumbler Ridge Secondary School during th",
+      "link": "https://imfounder.com/science-tech/ai/openai-tumbler-ridge-lawsuit/",
+      "date": "Thu, 03 Sep 2026 09:16:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 11
+    },
+    {
       "id": "1ogoigr",
       "type": "news",
       "title": "AI Jobs at Risk: 12 Roles Facing a Major Shake-Up by 2030",
@@ -127,18 +139,6 @@
       "date": "Wed, 02 Sep 2026 09:00:00 +0000",
       "source": "IM Founder",
       "author": "Editor",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "13eek9j",
-      "type": "news",
-      "title": "pHathom Technologies: Inside the Quiet Halifax Startup Turning Seawater Into a Climate Tech Breakthrough",
-      "desc": "While Toronto and Montreal chase the next AI headline, a 12-person crew on Nova Scotia&#8217;s coast just closed a $4-million seed round to prove that permanent carbon removal doesn&#8217;t need a pipeline — just limestone, seawater, and a harbour nobody else wanted. pHathom Technologies is not a ho",
-      "link": "https://imfounder.com/entrepreneurship/phathom-technologies-halifax-carbon-capture-seed-funding/",
-      "date": "Tue, 01 Sep 2026 10:55:18 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
       "tags": [],
       "min": 12
     },
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 306
+    },
+    {
+      "id": "13eek9j",
+      "type": "news",
+      "title": "pHathom Technologies: Inside the Quiet Halifax Startup Turning Seawater Into a Climate Tech Breakthrough",
+      "desc": "While Toronto and Montreal chase the next AI headline, a 12-person crew on Nova Scotia&#8217;s coast just closed a $4-million seed round to prove that permanent carbon removal doesn&#8217;t need a pipeline — just limestone, seawater, and a harbour nobody else wanted. pHathom Technologies is not a ho",
+      "link": "https://imfounder.com/entrepreneurship/phathom-technologies-halifax-carbon-capture-seed-funding/",
+      "date": "Tue, 01 Sep 2026 10:55:18 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 12
     },
     {
       "id": "1e3xl7g",
@@ -207,18 +219,6 @@
       "min": 9
     },
     {
-      "id": "rjfg6i",
-      "type": "news",
-      "title": "Your Dinner Is Becoming Software: AI Is Turning Food Into a Programmable Material",
-      "desc": "AI Isn’t Just Learning How to Cook. It’s Learning How to Engineer What Food Becomes. For most of human history, food innovation followed a remarkably stable process. Someone grew, raised or harvested an ingredient; someone transformed it through heat, fermentation, preservation or mechanical force; ",
-      "link": "https://imfounder.com/science-tech/ai/ai-engineering-future-of-food/",
-      "date": "Thu, 27 Aug 2026 13:00:22 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 12
-    },
-    {
       "id": "1vhkihi",
       "type": "github",
       "title": "i3T4AN/KADATH",
@@ -235,16 +235,16 @@
       "stars": 274
     },
     {
-      "id": "1q3smz5",
+      "id": "rjfg6i",
       "type": "news",
-      "title": "Get Paid to Train AI: Your Daily Chores Are Becoming Robot Data",
-      "desc": "Your camera roll, voice, daily errands and household routines are becoming raw material for the robotics economy. A new platform stack lets ordinary people sell that data directly from almost anywhere. The newest remote worker does not need a résumé, an office or even a traditional job. They need a ",
-      "link": "https://imfounder.com/science-tech/ai/get-paid-to-train-ai-daily-chores-robot-data/",
-      "date": "Wed, 26 Aug 2026 11:20:12 +0000",
+      "title": "Your Dinner Is Becoming Software: AI Is Turning Food Into a Programmable Material",
+      "desc": "AI Isn’t Just Learning How to Cook. It’s Learning How to Engineer What Food Becomes. For most of human history, food innovation followed a remarkably stable process. Someone grew, raised or harvested an ingredient; someone transformed it through heat, fermentation, preservation or mechanical force; ",
+      "link": "https://imfounder.com/science-tech/ai/ai-engineering-future-of-food/",
+      "date": "Thu, 27 Aug 2026 13:00:22 +0000",
       "source": "IM Founder",
       "author": "Renée Tomato",
       "tags": [],
-      "min": 13
+      "min": 12
     },
     {
       "id": "1cblir7",
@@ -295,6 +295,22 @@
       "stars": 55
     },
     {
+      "id": "181k6c1",
+      "type": "github",
+      "title": "zjy1346/OpenThesis",
+      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
+      "link": "https://github.com/zjy1346/OpenThesis",
+      "date": "2026-07-29T16:15:30Z",
+      "source": "GitHub",
+      "author": "zjy1346",
+      "tags": [
+        "⭐ 50",
+        "Python"
+      ],
+      "min": null,
+      "stars": 50
+    },
+    {
       "id": "168avm8",
       "type": "github",
       "title": "bestdeejay-design/awesome-ai-handbook",
@@ -306,22 +322,6 @@
       "tags": [
         "⭐ 48",
         "HTML"
-      ],
-      "min": null,
-      "stars": 48
-    },
-    {
-      "id": "181k6c1",
-      "type": "github",
-      "title": "zjy1346/OpenThesis",
-      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
-      "link": "https://github.com/zjy1346/OpenThesis",
-      "date": "2026-07-29T16:15:30Z",
-      "source": "GitHub",
-      "author": "zjy1346",
-      "tags": [
-        "⭐ 48",
-        "Python"
       ],
       "min": null,
       "stars": 48
