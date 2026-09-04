@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:37:31.764Z",
+  "generatedAt": "2026-09-04T10:30:36.705Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 593",
+        "⭐ 596",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 593
+      "stars": 596
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "k4b3li",
+      "type": "news",
+      "title": "15 Explosive Tech News Stories Rocking the World in September 2026",
+      "desc": "Tech News September 2026 opened with an actual changing of the guard. On September 1, John Ternus became Apple&#8217;s chief executive after Tim Cook&#8217;s fifteen-year run, and within forty-eight hours the rest of the industry decided to match the energy. Dyson launched a camera-equipped toothbru",
+      "link": "https://imfounder.com/science-tech/ai/tech-news-september-2026-explosive-stories/",
+      "date": "Fri, 04 Sep 2026 09:59:02 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 16
+    },
+    {
       "id": "piabdf",
       "type": "news",
       "title": "OpenAI Tumbler Ridge Lawsuit: Inside the New Legal Fight Over ChatGPT",
@@ -131,6 +143,22 @@
       "min": 11
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 307",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 307
+    },
+    {
       "id": "1ogoigr",
       "type": "news",
       "title": "AI Jobs at Risk: 12 Roles Facing a Major Shake-Up by 2030",
@@ -141,22 +169,6 @@
       "author": "Editor",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 306",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 306
     },
     {
       "id": "13eek9j",
@@ -207,18 +219,6 @@
       "min": 10
     },
     {
-      "id": "14zinoe",
-      "type": "news",
-      "title": "10 AI Startup Ideas You Can Launch With Zero Dollars in 2026",
-      "desc": "No funding, no code, no excuses — here&#8217;s exactly how solo founders are turning free AI tools into real, paying businesses. AI startup ideas are having a real moment in 2026, and the surprising part isn&#8217;t the technology — it&#8217;s the price tag. A wave of powerful open-source models, ge",
-      "link": "https://imfounder.com/science-tech/ai/ai-startup-ideas-zero-money/",
-      "date": "Fri, 28 Aug 2026 12:22:14 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 9
-    },
-    {
       "id": "1vhkihi",
       "type": "github",
       "title": "i3T4AN/KADATH",
@@ -235,16 +235,16 @@
       "stars": 274
     },
     {
-      "id": "rjfg6i",
+      "id": "14zinoe",
       "type": "news",
-      "title": "Your Dinner Is Becoming Software: AI Is Turning Food Into a Programmable Material",
-      "desc": "AI Isn’t Just Learning How to Cook. It’s Learning How to Engineer What Food Becomes. For most of human history, food innovation followed a remarkably stable process. Someone grew, raised or harvested an ingredient; someone transformed it through heat, fermentation, preservation or mechanical force; ",
-      "link": "https://imfounder.com/science-tech/ai/ai-engineering-future-of-food/",
-      "date": "Thu, 27 Aug 2026 13:00:22 +0000",
+      "title": "10 AI Startup Ideas You Can Launch With Zero Dollars in 2026",
+      "desc": "No funding, no code, no excuses — here&#8217;s exactly how solo founders are turning free AI tools into real, paying businesses. AI startup ideas are having a real moment in 2026, and the surprising part isn&#8217;t the technology — it&#8217;s the price tag. A wave of powerful open-source models, ge",
+      "link": "https://imfounder.com/science-tech/ai/ai-startup-ideas-zero-money/",
+      "date": "Fri, 28 Aug 2026 12:22:14 +0000",
       "source": "IM Founder",
-      "author": "Renée Tomato",
+      "author": "Taranjeet Slatch",
       "tags": [],
-      "min": 12
+      "min": 9
     },
     {
       "id": "1cblir7",
@@ -304,11 +304,11 @@
       "source": "GitHub",
       "author": "zjy1346",
       "tags": [
-        "⭐ 50",
+        "⭐ 51",
         "Python"
       ],
       "min": null,
-      "stars": 50
+      "stars": 51
     },
     {
       "id": "168avm8",
