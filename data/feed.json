@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:54:49.780Z",
+  "generatedAt": "2026-09-06T10:12:16.730Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 600",
+        "⭐ 608",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 600
+      "stars": 608
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "va58hw",
+      "type": "news",
+      "title": "What Do Successful Founders Spend Money On? 7 Shocking Truths",
+      "desc": "Real receipts from Bezos, Zuckerberg, Ellison, Buffett, and Altman — the yachts, islands, watches, and suspiciously ordinary cars that reveal how founder money actually moves. What do successful founders spend money on once the wire transfer finally clears? Not what most people assume. Scroll throug",
+      "link": "https://imfounder.com/entrepreneurship/what-do-successful-founders-spend-money-on/",
+      "date": "Sat, 05 Sep 2026 13:31:06 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 15
+    },
+    {
       "id": "k4b3li",
       "type": "news",
       "title": "15 Explosive Tech News Stories Rocking the World in September 2026",
@@ -129,18 +141,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 16
-    },
-    {
-      "id": "piabdf",
-      "type": "news",
-      "title": "OpenAI Tumbler Ridge Lawsuit: Inside the New Legal Fight Over ChatGPT",
-      "desc": "The&#160;OpenAI Tumbler Ridge lawsuit&#160;has entered a significantly more consequential phase. What began with seven lawsuits filed earlier this year has now expanded with 30 additional complaints involving teachers, a principal and students who were inside Tumbler Ridge Secondary School during th",
-      "link": "https://imfounder.com/science-tech/ai/openai-tumbler-ridge-lawsuit/",
-      "date": "Thu, 03 Sep 2026 09:16:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 11
     },
     {
       "id": "1uoiv8z",
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 309
+    },
+    {
+      "id": "piabdf",
+      "type": "news",
+      "title": "OpenAI Tumbler Ridge Lawsuit: Inside the New Legal Fight Over ChatGPT",
+      "desc": "The&#160;OpenAI Tumbler Ridge lawsuit&#160;has entered a significantly more consequential phase. What began with seven lawsuits filed earlier this year has now expanded with 30 additional complaints involving teachers, a principal and students who were inside Tumbler Ridge Secondary School during th",
+      "link": "https://imfounder.com/science-tech/ai/openai-tumbler-ridge-lawsuit/",
+      "date": "Thu, 03 Sep 2026 09:16:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 11
     },
     {
       "id": "1ogoigr",
@@ -207,18 +219,6 @@
       "min": 10
     },
     {
-      "id": "1v44re4",
-      "type": "news",
-      "title": "New Mac mini M6 Is Here: The Powerful AI Upgrade Apple Users Have Been Waiting For",
-      "desc": "Apple has officially unveiled the new Mac mini M6, alongside a more powerful Mac mini M5 Pro, and this tiny desktop may represent one of the company&#8217;s most interesting hardware releases in years. The reason isn&#8217;t simply that the processors are faster. The new Mac mini is being pushed int",
-      "link": "https://imfounder.com/science-tech/mac-mini-m6-upgrade-local-ai-review/",
-      "date": "Fri, 28 Aug 2026 22:55:28 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 10
-    },
-    {
       "id": "1vhkihi",
       "type": "github",
       "title": "i3T4AN/KADATH",
@@ -235,16 +235,16 @@
       "stars": 275
     },
     {
-      "id": "14zinoe",
+      "id": "1v44re4",
       "type": "news",
-      "title": "10 AI Startup Ideas You Can Launch With Zero Dollars in 2026",
-      "desc": "No funding, no code, no excuses — here&#8217;s exactly how solo founders are turning free AI tools into real, paying businesses. AI startup ideas are having a real moment in 2026, and the surprising part isn&#8217;t the technology — it&#8217;s the price tag. A wave of powerful open-source models, ge",
-      "link": "https://imfounder.com/science-tech/ai/ai-startup-ideas-zero-money/",
-      "date": "Fri, 28 Aug 2026 12:22:14 +0000",
+      "title": "New Mac mini M6 Is Here: The Powerful AI Upgrade Apple Users Have Been Waiting For",
+      "desc": "Apple has officially unveiled the new Mac mini M6, alongside a more powerful Mac mini M5 Pro, and this tiny desktop may represent one of the company&#8217;s most interesting hardware releases in years. The reason isn&#8217;t simply that the processors are faster. The new Mac mini is being pushed int",
+      "link": "https://imfounder.com/science-tech/mac-mini-m6-upgrade-local-ai-review/",
+      "date": "Fri, 28 Aug 2026 22:55:28 +0000",
       "source": "IM Founder",
-      "author": "Taranjeet Slatch",
+      "author": "Kirat Singh",
       "tags": [],
-      "min": 9
+      "min": 10
     },
     {
       "id": "1cblir7",
@@ -304,27 +304,27 @@
       "source": "GitHub",
       "author": "zjy1346",
       "tags": [
-        "⭐ 51",
+        "⭐ 52",
         "Python"
       ],
       "min": null,
-      "stars": 51
+      "stars": 52
     },
     {
-      "id": "168avm8",
+      "id": "15u4azh",
       "type": "github",
-      "title": "bestdeejay-design/awesome-ai-handbook",
-      "desc": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools.",
-      "link": "https://github.com/bestdeejay-design/awesome-ai-handbook",
-      "date": "2026-07-23T17:32:32Z",
+      "title": "lololerigolo60/Prompt-architect",
+      "desc": "Prompt Architect Pro is a Python desktop app that uses local Ollama LLMs to analyze raw texts and images. It extracts and structures visual descriptions into optimized JSON prompts for generative AI. It features a built-in SQLite database for prompt editing and adjustable VRAM hardware profiles. with a ComfyUI node that can use the database",
+      "link": "https://github.com/lololerigolo60/Prompt-architect",
+      "date": "2026-07-25T05:23:33Z",
       "source": "GitHub",
-      "author": "bestdeejay-design",
+      "author": "lololerigolo60",
       "tags": [
-        "⭐ 48",
-        "HTML"
+        "⭐ 46",
+        "Python"
       ],
       "min": null,
-      "stars": 48
+      "stars": 46
     }
   ]
 }
