@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:29:09.369Z",
+  "generatedAt": "2026-09-08T10:31:22.378Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 613",
+        "⭐ 616",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 613
+      "stars": 616
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "8y1fea",
+      "type": "news",
+      "title": "Trump Is Changing How American Beef Is Sold—and AI Is Moving Into the Slaughterhouse",
+      "desc": "New executive orders connect interstate meat sales, country-of-origin labeling, remote grading and automated inspection. The stated target is cheaper beef. The structural result could be a digitally managed national beef market. President Donald Trump signed two executive orders on September 4 desig",
+      "link": "https://imfounder.com/science-tech/ai/trump-beef-orders-ai-cattle-market/",
+      "date": "Tue, 08 Sep 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 10
+    },
+    {
       "id": "8hqtq9",
       "type": "news",
       "title": "Canada Luring American Scientists: A Bold $541-Million Coup",
@@ -129,18 +141,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 16
-    },
-    {
-      "id": "va58hw",
-      "type": "news",
-      "title": "What Do Successful Founders Spend Money On? 7 Shocking Truths",
-      "desc": "Real receipts from Bezos, Zuckerberg, Ellison, Buffett, and Altman — the yachts, islands, watches, and suspiciously ordinary cars that reveal how founder money actually moves. What do successful founders spend money on once the wire transfer finally clears? Not what most people assume. Scroll throug",
-      "link": "https://imfounder.com/entrepreneurship/what-do-successful-founders-spend-money-on/",
-      "date": "Sat, 05 Sep 2026 13:31:06 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 15
     },
     {
       "id": "1uoiv8z",
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 309
+    },
+    {
+      "id": "va58hw",
+      "type": "news",
+      "title": "What Do Successful Founders Spend Money On? 7 Shocking Truths",
+      "desc": "Real receipts from Bezos, Zuckerberg, Ellison, Buffett, and Altman — the yachts, islands, watches, and suspiciously ordinary cars that reveal how founder money actually moves. What do successful founders spend money on once the wire transfer finally clears? Not what most people assume. Scroll throug",
+      "link": "https://imfounder.com/entrepreneurship/what-do-successful-founders-spend-money-on/",
+      "date": "Sat, 05 Sep 2026 13:31:06 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 15
     },
     {
       "id": "k4b3li",
@@ -207,6 +219,22 @@
       "min": 12
     },
     {
+      "id": "1vhkihi",
+      "type": "github",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
+      "source": "GitHub",
+      "author": "i3T4AN",
+      "tags": [
+        "⭐ 271",
+        "Python"
+      ],
+      "min": null,
+      "stars": 271
+    },
+    {
       "id": "1e3xl7g",
       "type": "news",
       "title": "O-1 Visa vs Canada Entrepreneur Pilot: The Brutal 2026 Truth Every Founder Must Know Before They Move",
@@ -217,34 +245,6 @@
       "author": "Editor",
       "tags": [],
       "min": 9
-    },
-    {
-      "id": "1vhkihi",
-      "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
-      "source": "GitHub",
-      "author": "i3T4AN",
-      "tags": [
-        "⭐ 275",
-        "Python"
-      ],
-      "min": null,
-      "stars": 275
-    },
-    {
-      "id": "1hnxz25",
-      "type": "news",
-      "title": "5 Shocking Secrets: GTA 6 Extended Look, Xbox Disc to Digital and more",
-      "desc": "GTA 6 Extended Look content premiered on Netflix on August 27, 2026, and gaming has not settled down since. In one dizzying week, Rockstar Games handed fans a 26-minute deep dive into Vice City and Leonida, Xbox quietly rewrote the rules on owning the games you already paid for, and PlayStation loya",
-      "link": "https://imfounder.com/entertainment/gta-6-extended-look-xbox-disc-to-digital-news/",
-      "date": "Sat, 29 Aug 2026 12:08:32 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 10
     },
     {
       "id": "1cblir7",
@@ -263,20 +263,20 @@
       "stars": 76
     },
     {
-      "id": "mm605i",
+      "id": "181k6c1",
       "type": "github",
-      "title": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
-      "desc": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime.",
-      "link": "https://github.com/AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
-      "date": "2026-07-25T09:28:12Z",
+      "title": "zjy1346/OpenThesis",
+      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
+      "link": "https://github.com/zjy1346/OpenThesis",
+      "date": "2026-07-29T16:15:30Z",
       "source": "GitHub",
-      "author": "AhmadHassan-BTed",
+      "author": "zjy1346",
       "tags": [
-        "⭐ 76",
+        "⭐ 56",
         "Python"
       ],
       "min": null,
-      "stars": 76
+      "stars": 56
     },
     {
       "id": "1h6b1dd",
@@ -290,22 +290,6 @@
       "tags": [
         "⭐ 55",
         "HTML"
-      ],
-      "min": null,
-      "stars": 55
-    },
-    {
-      "id": "181k6c1",
-      "type": "github",
-      "title": "zjy1346/OpenThesis",
-      "desc": "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。",
-      "link": "https://github.com/zjy1346/OpenThesis",
-      "date": "2026-07-29T16:15:30Z",
-      "source": "GitHub",
-      "author": "zjy1346",
-      "tags": [
-        "⭐ 55",
-        "Python"
       ],
       "min": null,
       "stars": 55
@@ -325,6 +309,22 @@
       ],
       "min": null,
       "stars": 52
+    },
+    {
+      "id": "tob79x",
+      "type": "github",
+      "title": "EricSun0218/OpenGameAgent",
+      "desc": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct tool use, complex task planning, memory, and reliable actions for Unity, Godot, Unreal Engine, and servers.",
+      "link": "https://github.com/EricSun0218/OpenGameAgent",
+      "date": "2026-07-28T19:51:19Z",
+      "source": "GitHub",
+      "author": "EricSun0218",
+      "tags": [
+        "⭐ 47",
+        "C#"
+      ],
+      "min": null,
+      "stars": 47
     }
   ]
 }
