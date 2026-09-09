@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:31:22.378Z",
+  "generatedAt": "2026-09-09T10:42:37.539Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 616",
+        "⭐ 617",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 616
+      "stars": 617
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "18jph4l",
+      "type": "news",
+      "title": "GPT-6 Astra Just Crushed Claude&#8217;s Limits: 13 AI Updates This Month",
+      "desc": "From a 3D Japanese house built in an hour to a $12.9 billion Nvidia power play — here is every major AI launch from OpenAI, Anthropic, Google, Meta, and more from the past seven days. GPT-6 Astra has arrived, and it is already reshaping the conversation about what AI can do for you. OpenAI&#8217;s n",
+      "link": "https://imfounder.com/science-tech/ai/gpt-6-astra-ai-updates/",
+      "date": "Wed, 09 Sep 2026 10:12:50 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 17
+    },
+    {
       "id": "8y1fea",
       "type": "news",
       "title": "Trump Is Changing How American Beef Is Sold—and AI Is Moving Into the Slaughterhouse",
@@ -131,6 +143,22 @@
       "min": 10
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 311",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 311
+    },
+    {
       "id": "8hqtq9",
       "type": "news",
       "title": "Canada Luring American Scientists: A Bold $541-Million Coup",
@@ -141,22 +169,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 16
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 309",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 309
     },
     {
       "id": "va58hw",
@@ -207,6 +219,22 @@
       "min": 12
     },
     {
+      "id": "1vhkihi",
+      "type": "github",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
+      "source": "GitHub",
+      "author": "i3T4AN",
+      "tags": [
+        "⭐ 270",
+        "Python"
+      ],
+      "min": null,
+      "stars": 270
+    },
+    {
       "id": "13eek9j",
       "type": "news",
       "title": "pHathom Technologies: Inside the Quiet Halifax Startup Turning Seawater Into a Climate Tech Breakthrough",
@@ -217,34 +245,6 @@
       "author": "Oliver Timbrell",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "1vhkihi",
-      "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
-      "source": "GitHub",
-      "author": "i3T4AN",
-      "tags": [
-        "⭐ 271",
-        "Python"
-      ],
-      "min": null,
-      "stars": 271
-    },
-    {
-      "id": "1e3xl7g",
-      "type": "news",
-      "title": "O-1 Visa vs Canada Entrepreneur Pilot: The Brutal 2026 Truth Every Founder Must Know Before They Move",
-      "desc": "Why the &#8220;where should I relocate my startup&#8221; question just got a lot harder to answer O-1 Visa vs Canada Entrepreneur Pilot&#160;is the exact phrase immigration lawyers are hearing on repeat this year, and there&#8217;s a reason the timing feels urgent. Canada&#8217;s Start-Up Visa progr",
-      "link": "https://imfounder.com/entrepreneurship/o-1-visa-vs-canada-entrepreneur-pilot-2026/",
-      "date": "Mon, 31 Aug 2026 10:51:18 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 9
     },
     {
       "id": "1cblir7",
@@ -272,11 +272,11 @@
       "source": "GitHub",
       "author": "zjy1346",
       "tags": [
-        "⭐ 56",
+        "⭐ 58",
         "Python"
       ],
       "min": null,
-      "stars": 56
+      "stars": 58
     },
     {
       "id": "1h6b1dd",
@@ -320,11 +320,11 @@
       "source": "GitHub",
       "author": "EricSun0218",
       "tags": [
-        "⭐ 47",
+        "⭐ 48",
         "C#"
       ],
       "min": null,
-      "stars": 47
+      "stars": 48
     }
   ]
 }
