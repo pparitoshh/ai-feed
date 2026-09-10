@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:42:37.539Z",
+  "generatedAt": "2026-09-10T10:31:36.384Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 617",
+        "⭐ 619",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 617
+      "stars": 619
     },
     {
       "id": "oesf1f",
@@ -119,9 +119,21 @@
       "min": 30
     },
     {
+      "id": "1hx1vwy",
+      "type": "news",
+      "title": "Apple September 2026 Event: 5 Shocking Launches &#038; Prices That Will Blow Your Mind",
+      "desc": "From a $1,999 foldable to a redesigned Apple Watch, here&#8217;s every product Apple&#8217;s new CEO John Ternus just launched — with full US and Canada pricing, real specs, release dates, and an honest answer to &#8220;should I actually upgrade?&#8221; The&#160;Apple September 2026 Event&#160;just ",
+      "link": "https://imfounder.com/science-tech/apple-september-2026-event-iphone-18-pro-apple-duo-price/",
+      "date": "Wed, 09 Sep 2026 19:40:45 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 22
+    },
+    {
       "id": "18jph4l",
       "type": "news",
-      "title": "GPT-6 Astra Just Crushed Claude&#8217;s Limits: 13 AI Updates This Month",
+      "title": "GPT-6 Astra Just Crushed Claude&#8217;s Limits: 13 AI Updates This Week",
       "desc": "From a 3D Japanese house built in an hour to a $12.9 billion Nvidia power play — here is every major AI launch from OpenAI, Anthropic, Google, Meta, and more from the past seven days. GPT-6 Astra has arrived, and it is already reshaping the conversation about what AI can do for you. OpenAI&#8217;s n",
       "link": "https://imfounder.com/science-tech/ai/gpt-6-astra-ai-updates/",
       "date": "Wed, 09 Sep 2026 10:12:50 +0000",
@@ -129,6 +141,22 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 17
+    },
+    {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 303",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 303
     },
     {
       "id": "8y1fea",
@@ -141,22 +169,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 10
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 311",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 311
     },
     {
       "id": "8hqtq9",
@@ -207,6 +219,22 @@
       "min": 11
     },
     {
+      "id": "1vhkihi",
+      "type": "github",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
+      "source": "GitHub",
+      "author": "i3T4AN",
+      "tags": [
+        "⭐ 271",
+        "Python"
+      ],
+      "min": null,
+      "stars": 271
+    },
+    {
       "id": "1ogoigr",
       "type": "news",
       "title": "AI Jobs at Risk: 12 Roles Facing a Major Shake-Up by 2030",
@@ -219,32 +247,19 @@
       "min": 12
     },
     {
-      "id": "1vhkihi",
+      "id": "3ttoku",
       "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
+      "title": "MahdiKordian/MahdiKordian",
+      "desc": "AI Engineer | ML | DL | Generative AI | LLMs | Python",
+      "link": "https://github.com/MahdiKordian/MahdiKordian",
+      "date": "2026-09-04T20:46:09Z",
       "source": "GitHub",
-      "author": "i3T4AN",
+      "author": "MahdiKordian",
       "tags": [
-        "⭐ 270",
-        "Python"
+        "⭐ 105"
       ],
       "min": null,
-      "stars": 270
-    },
-    {
-      "id": "13eek9j",
-      "type": "news",
-      "title": "pHathom Technologies: Inside the Quiet Halifax Startup Turning Seawater Into a Climate Tech Breakthrough",
-      "desc": "While Toronto and Montreal chase the next AI headline, a 12-person crew on Nova Scotia&#8217;s coast just closed a $4-million seed round to prove that permanent carbon removal doesn&#8217;t need a pipeline — just limestone, seawater, and a harbour nobody else wanted. pHathom Technologies is not a ho",
-      "link": "https://imfounder.com/entrepreneurship/phathom-technologies-halifax-carbon-capture-seed-funding/",
-      "date": "Tue, 01 Sep 2026 10:55:18 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 12
+      "stars": 105
     },
     {
       "id": "1cblir7",
@@ -309,22 +324,6 @@
       ],
       "min": null,
       "stars": 52
-    },
-    {
-      "id": "tob79x",
-      "type": "github",
-      "title": "EricSun0218/OpenGameAgent",
-      "desc": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct tool use, complex task planning, memory, and reliable actions for Unity, Godot, Unreal Engine, and servers.",
-      "link": "https://github.com/EricSun0218/OpenGameAgent",
-      "date": "2026-07-28T19:51:19Z",
-      "source": "GitHub",
-      "author": "EricSun0218",
-      "tags": [
-        "⭐ 48",
-        "C#"
-      ],
-      "min": null,
-      "stars": 48
     }
   ]
 }
