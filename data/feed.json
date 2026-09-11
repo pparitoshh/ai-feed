@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:31:36.384Z",
+  "generatedAt": "2026-09-11T10:32:45.018Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 619",
+        "⭐ 620",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 619
+      "stars": 620
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "xohujj",
+      "type": "news",
+      "title": "SAFE Note vs Convertible Note: The Brutal Truth That Could Cost You 20% of Your Company in 2026",
+      "desc": "Why smart founders still get this fundraising decision wrong — and the simple framework that fixes it before you sign anything SAFE note vs convertible note. If you&#8217;ve typed that exact phrase into Google at 1 a.m. with a term sheet open in another tab, you&#8217;re not alone, and you&#8217;re ",
+      "link": "https://imfounder.com/entrepreneurship/safe-note-vs-convertible-note-2026-guide/",
+      "date": "Fri, 11 Sep 2026 09:04:33 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 20
+    },
+    {
       "id": "1hx1vwy",
       "type": "news",
       "title": "Apple September 2026 Event: 5 Shocking Launches &#038; Prices That Will Blow Your Mind",
@@ -129,18 +141,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 22
-    },
-    {
-      "id": "18jph4l",
-      "type": "news",
-      "title": "GPT-6 Astra Just Crushed Claude&#8217;s Limits: 13 AI Updates This Week",
-      "desc": "From a 3D Japanese house built in an hour to a $12.9 billion Nvidia power play — here is every major AI launch from OpenAI, Anthropic, Google, Meta, and more from the past seven days. GPT-6 Astra has arrived, and it is already reshaping the conversation about what AI can do for you. OpenAI&#8217;s n",
-      "link": "https://imfounder.com/science-tech/ai/gpt-6-astra-ai-updates/",
-      "date": "Wed, 09 Sep 2026 10:12:50 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 17
     },
     {
       "id": "1uoiv8z",
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 303
+    },
+    {
+      "id": "18jph4l",
+      "type": "news",
+      "title": "GPT-6 Astra Just Crushed Claude&#8217;s Limits: 13 AI Updates This Week",
+      "desc": "From a 3D Japanese house built in an hour to a $12.9 billion Nvidia power play — here is every major AI launch from OpenAI, Anthropic, Google, Meta, and more from the past seven days. GPT-6 Astra has arrived, and it is already reshaping the conversation about what AI can do for you. OpenAI&#8217;s n",
+      "link": "https://imfounder.com/science-tech/ai/gpt-6-astra-ai-updates/",
+      "date": "Wed, 09 Sep 2026 10:12:50 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 17
     },
     {
       "id": "8y1fea",
@@ -207,18 +219,6 @@
       "min": 16
     },
     {
-      "id": "piabdf",
-      "type": "news",
-      "title": "OpenAI Tumbler Ridge Lawsuit: Inside the New Legal Fight Over ChatGPT",
-      "desc": "The&#160;OpenAI Tumbler Ridge lawsuit&#160;has entered a significantly more consequential phase. What began with seven lawsuits filed earlier this year has now expanded with 30 additional complaints involving teachers, a principal and students who were inside Tumbler Ridge Secondary School during th",
-      "link": "https://imfounder.com/science-tech/ai/openai-tumbler-ridge-lawsuit/",
-      "date": "Thu, 03 Sep 2026 09:16:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 11
-    },
-    {
       "id": "1vhkihi",
       "type": "github",
       "title": "i3T4AN/KADATH",
@@ -235,16 +235,16 @@
       "stars": 271
     },
     {
-      "id": "1ogoigr",
+      "id": "piabdf",
       "type": "news",
-      "title": "AI Jobs at Risk: 12 Roles Facing a Major Shake-Up by 2030",
-      "desc": "AI Jobs at Risk Are No Longer a Future Problem AI jobs at risk&#160;has become one of the defining employment questions of 2026. But the real story is more complicated than “AI will take your job.” Artificial intelligence is already taking over individual tasks, accelerating workflows and allowing o",
-      "link": "https://imfounder.com/science-tech/ai/ai-jobs-at-risk-2026-2030/",
-      "date": "Wed, 02 Sep 2026 09:00:00 +0000",
+      "title": "OpenAI Tumbler Ridge Lawsuit: Inside the New Legal Fight Over ChatGPT",
+      "desc": "The&#160;OpenAI Tumbler Ridge lawsuit&#160;has entered a significantly more consequential phase. What began with seven lawsuits filed earlier this year has now expanded with 30 additional complaints involving teachers, a principal and students who were inside Tumbler Ridge Secondary School during th",
+      "link": "https://imfounder.com/science-tech/ai/openai-tumbler-ridge-lawsuit/",
+      "date": "Thu, 03 Sep 2026 09:16:00 +0000",
       "source": "IM Founder",
       "author": "Editor",
       "tags": [],
-      "min": 12
+      "min": 11
     },
     {
       "id": "3ttoku",
@@ -256,10 +256,26 @@
       "source": "GitHub",
       "author": "MahdiKordian",
       "tags": [
-        "⭐ 105"
+        "⭐ 107"
       ],
       "min": null,
-      "stars": 105
+      "stars": 107
+    },
+    {
+      "id": "djy5x5",
+      "type": "github",
+      "title": "hypit-ai/hypit",
+      "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "link": "https://github.com/hypit-ai/hypit",
+      "date": "2026-07-29T18:49:19Z",
+      "source": "GitHub",
+      "author": "hypit-ai",
+      "tags": [
+        "⭐ 107",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 107
     },
     {
       "id": "1cblir7",
@@ -271,11 +287,11 @@
       "source": "GitHub",
       "author": "Greninja9257",
       "tags": [
-        "⭐ 76",
+        "⭐ 75",
         "Swift"
       ],
       "min": null,
-      "stars": 76
+      "stars": 75
     },
     {
       "id": "181k6c1",
@@ -287,43 +303,27 @@
       "source": "GitHub",
       "author": "zjy1346",
       "tags": [
-        "⭐ 58",
+        "⭐ 59",
         "Python"
       ],
       "min": null,
+      "stars": 59
+    },
+    {
+      "id": "13cpcdu",
+      "type": "github",
+      "title": "antonkarasbiz/littleaibox",
+      "desc": "Privacy-focused AI conversation platform for chat, coding, research, and documents.",
+      "link": "https://github.com/antonkarasbiz/littleaibox",
+      "date": "2026-08-25T18:22:21Z",
+      "source": "GitHub",
+      "author": "antonkarasbiz",
+      "tags": [
+        "⭐ 58",
+        "JavaScript"
+      ],
+      "min": null,
       "stars": 58
-    },
-    {
-      "id": "1h6b1dd",
-      "type": "github",
-      "title": "genoskietv/AdalFlow-Optimizer",
-      "desc": "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
-      "link": "https://github.com/genoskietv/AdalFlow-Optimizer",
-      "date": "2026-08-25T08:57:31Z",
-      "source": "GitHub",
-      "author": "genoskietv",
-      "tags": [
-        "⭐ 55",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 55
-    },
-    {
-      "id": "um1cdm",
-      "type": "github",
-      "title": "shauryagangrade/awesome-ai-prompts",
-      "desc": "Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess",
-      "link": "https://github.com/shauryagangrade/awesome-ai-prompts",
-      "date": "2026-08-15T14:21:01Z",
-      "source": "GitHub",
-      "author": "shauryagangrade",
-      "tags": [
-        "⭐ 52",
-        "Shell"
-      ],
-      "min": null,
-      "stars": 52
     }
   ]
 }
