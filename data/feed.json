@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:01:07.462Z",
+  "generatedAt": "2026-09-13T11:02:13.030Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 622",
+        "⭐ 625",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 622
+      "stars": 625
     },
     {
       "id": "oesf1f",
@@ -256,10 +256,10 @@
       "source": "GitHub",
       "author": "MahdiKordian",
       "tags": [
-        "⭐ 109"
+        "⭐ 113"
       ],
       "min": null,
-      "stars": 109
+      "stars": 113
     },
     {
       "id": "1cblir7",
@@ -287,11 +287,11 @@
       "source": "GitHub",
       "author": "udaysharmadev",
       "tags": [
-        "⭐ 65",
+        "⭐ 67",
         "Python"
       ],
       "min": null,
-      "stars": 65
+      "stars": 67
     },
     {
       "id": "13cpcdu",
@@ -310,17 +310,17 @@
       "stars": 58
     },
     {
-      "id": "1h6b1dd",
+      "id": "um1cdm",
       "type": "github",
-      "title": "genoskietv/AdalFlow-Optimizer",
-      "desc": "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
-      "link": "https://github.com/genoskietv/AdalFlow-Optimizer",
-      "date": "2026-08-25T08:57:31Z",
+      "title": "shauryagangrade/awesome-ai-prompts",
+      "desc": "Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess",
+      "link": "https://github.com/shauryagangrade/awesome-ai-prompts",
+      "date": "2026-08-15T14:21:01Z",
       "source": "GitHub",
-      "author": "genoskietv",
+      "author": "shauryagangrade",
       "tags": [
         "⭐ 55",
-        "HTML"
+        "Shell"
       ],
       "min": null,
       "stars": 55
