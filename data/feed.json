@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T11:02:13.030Z",
+  "generatedAt": "2026-09-14T11:40:46.781Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 625",
+        "⭐ 629",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 625
+      "stars": 629
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "xrgqpj",
+      "type": "news",
+      "title": "15 Explosive AI Updates September 2026: OpenAI&#8217;s Shock IPO U-Turn, Nvidia&#8217;s $13B Power Grab &#038; Anthropic&#8217;s Doomsday Warning",
+      "desc": "From Dario Amodei&#8217;s stunning call to slow down AI to Sam Altman shelving OpenAI&#8217;s trillion-dollar listing overnight, these are the 15 AI updates September 2026 has produced that actually change how you work, invest, and stay safe online. AI updates September 2026 has produced are the kin",
+      "link": "https://imfounder.com/science-tech/ai/ai-updates-september-2026-openai-nvidia-anthropic/",
+      "date": "Mon, 14 Sep 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 13
+    },
+    {
       "id": "2y6jex",
       "type": "news",
       "title": "Longevity Biohacking: 7 Bold Ways Tech Founders Are Chasing 120 years",
@@ -129,18 +141,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 17
-    },
-    {
-      "id": "xohujj",
-      "type": "news",
-      "title": "SAFE Note vs Convertible Note: The Brutal Truth That Could Cost You 20% of Your Company in 2026",
-      "desc": "Why smart founders still get this fundraising decision wrong — and the simple framework that fixes it before you sign anything SAFE note vs convertible note. If you&#8217;ve typed that exact phrase into Google at 1 a.m. with a term sheet open in another tab, you&#8217;re not alone, and you&#8217;re ",
-      "link": "https://imfounder.com/entrepreneurship/safe-note-vs-convertible-note-2026-guide/",
-      "date": "Fri, 11 Sep 2026 09:04:33 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 20
     },
     {
       "id": "1uoiv8z",
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 303
+    },
+    {
+      "id": "xohujj",
+      "type": "news",
+      "title": "SAFE Note vs Convertible Note: The Brutal Truth That Could Cost You 20% of Your Company in 2026",
+      "desc": "Why smart founders still get this fundraising decision wrong — and the simple framework that fixes it before you sign anything SAFE note vs convertible note. If you&#8217;ve typed that exact phrase into Google at 1 a.m. with a term sheet open in another tab, you&#8217;re not alone, and you&#8217;re ",
+      "link": "https://imfounder.com/entrepreneurship/safe-note-vs-convertible-note-2026-guide/",
+      "date": "Fri, 11 Sep 2026 09:04:33 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 20
     },
     {
       "id": "1hx1vwy",
@@ -207,18 +219,6 @@
       "min": 16
     },
     {
-      "id": "va58hw",
-      "type": "news",
-      "title": "What Do Successful Founders Spend Money On? 7 Shocking Truths",
-      "desc": "Real receipts from Bezos, Zuckerberg, Ellison, Buffett, and Altman — the yachts, islands, watches, and suspiciously ordinary cars that reveal how founder money actually moves. What do successful founders spend money on once the wire transfer finally clears? Not what most people assume. Scroll throug",
-      "link": "https://imfounder.com/entrepreneurship/what-do-successful-founders-spend-money-on/",
-      "date": "Sat, 05 Sep 2026 13:31:06 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 15
-    },
-    {
       "id": "1vhkihi",
       "type": "github",
       "title": "i3T4AN/KADATH",
@@ -235,16 +235,16 @@
       "stars": 271
     },
     {
-      "id": "k4b3li",
+      "id": "va58hw",
       "type": "news",
-      "title": "15 Explosive Tech News Stories Rocking the World in September 2026",
-      "desc": "Tech News September 2026 opened with an actual changing of the guard. On September 1, John Ternus became Apple&#8217;s chief executive after Tim Cook&#8217;s fifteen-year run, and within forty-eight hours the rest of the industry decided to match the energy. Dyson launched a camera-equipped toothbru",
-      "link": "https://imfounder.com/science-tech/ai/tech-news-september-2026-explosive-stories/",
-      "date": "Fri, 04 Sep 2026 09:59:02 +0000",
+      "title": "What Do Successful Founders Spend Money On? 7 Shocking Truths",
+      "desc": "Real receipts from Bezos, Zuckerberg, Ellison, Buffett, and Altman — the yachts, islands, watches, and suspiciously ordinary cars that reveal how founder money actually moves. What do successful founders spend money on once the wire transfer finally clears? Not what most people assume. Scroll throug",
+      "link": "https://imfounder.com/entrepreneurship/what-do-successful-founders-spend-money-on/",
+      "date": "Sat, 05 Sep 2026 13:31:06 +0000",
       "source": "IM Founder",
-      "author": "Taranjeet Slatch",
+      "author": "Neha Slatch",
       "tags": [],
-      "min": 16
+      "min": 15
     },
     {
       "id": "3ttoku",
@@ -256,10 +256,10 @@
       "source": "GitHub",
       "author": "MahdiKordian",
       "tags": [
-        "⭐ 113"
+        "⭐ 119"
       ],
       "min": null,
-      "stars": 113
+      "stars": 119
     },
     {
       "id": "1cblir7",
@@ -319,11 +319,11 @@
       "source": "GitHub",
       "author": "shauryagangrade",
       "tags": [
-        "⭐ 55",
+        "⭐ 57",
         "Shell"
       ],
       "min": null,
-      "stars": 55
+      "stars": 57
     }
   ]
 }
