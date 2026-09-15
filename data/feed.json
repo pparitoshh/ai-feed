@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T11:40:46.781Z",
+  "generatedAt": "2026-09-15T10:58:55.439Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 629",
+        "⭐ 630",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 629
+      "stars": 630
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "yjyhkj",
+      "type": "news",
+      "title": "Best AI Tools 2026: 7 Ultimate Picks That&#8217;ll Save You Hours (Ranked &#038; Compared)",
+      "desc": "The best AI tools 2026 has to offer are no longer a handful of chatbots fighting over who writes a better poem. They&#8217;re full workplaces — agents that run for hours unattended, coding assistants that ship entire features, and research engines that cite their sources so you don&#8217;t have to f",
+      "link": "https://imfounder.com/science-tech/ai/best-ai-tools-2026/",
+      "date": "Tue, 15 Sep 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 16
+    },
+    {
       "id": "xrgqpj",
       "type": "news",
       "title": "15 Explosive AI Updates September 2026: OpenAI&#8217;s Shock IPO U-Turn, Nvidia&#8217;s $13B Power Grab &#038; Anthropic&#8217;s Doomsday Warning",
@@ -131,6 +143,22 @@
       "min": 13
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 304",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 304
+    },
+    {
       "id": "2y6jex",
       "type": "news",
       "title": "Longevity Biohacking: 7 Bold Ways Tech Founders Are Chasing 120 years",
@@ -141,22 +169,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 17
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 303",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 303
     },
     {
       "id": "xohujj",
@@ -207,18 +219,6 @@
       "min": 10
     },
     {
-      "id": "8hqtq9",
-      "type": "news",
-      "title": "Canada Luring American Scientists: A Bold $541-Million Coup",
-      "desc": "As Trump slashes university funding and renames a Great Lake out of spite, Ottawa is spending big to bring America&#8217;s best scientists north — and it&#8217;s working. Quick Facts Canada luring American scientists away from the United States is no longer a quiet trend playing out one lab at a tim",
-      "link": "https://imfounder.com/science-tech/canada-luring-american-scientists/",
-      "date": "Mon, 07 Sep 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 16
-    },
-    {
       "id": "1vhkihi",
       "type": "github",
       "title": "i3T4AN/KADATH",
@@ -235,16 +235,16 @@
       "stars": 271
     },
     {
-      "id": "va58hw",
+      "id": "8hqtq9",
       "type": "news",
-      "title": "What Do Successful Founders Spend Money On? 7 Shocking Truths",
-      "desc": "Real receipts from Bezos, Zuckerberg, Ellison, Buffett, and Altman — the yachts, islands, watches, and suspiciously ordinary cars that reveal how founder money actually moves. What do successful founders spend money on once the wire transfer finally clears? Not what most people assume. Scroll throug",
-      "link": "https://imfounder.com/entrepreneurship/what-do-successful-founders-spend-money-on/",
-      "date": "Sat, 05 Sep 2026 13:31:06 +0000",
+      "title": "Canada Luring American Scientists: A Bold $541-Million Coup",
+      "desc": "As Trump slashes university funding and renames a Great Lake out of spite, Ottawa is spending big to bring America&#8217;s best scientists north — and it&#8217;s working. Quick Facts Canada luring American scientists away from the United States is no longer a quiet trend playing out one lab at a tim",
+      "link": "https://imfounder.com/science-tech/canada-luring-american-scientists/",
+      "date": "Mon, 07 Sep 2026 09:00:00 +0000",
       "source": "IM Founder",
-      "author": "Neha Slatch",
+      "author": "Many Mcglon",
       "tags": [],
-      "min": 15
+      "min": 16
     },
     {
       "id": "3ttoku",
@@ -256,10 +256,10 @@
       "source": "GitHub",
       "author": "MahdiKordian",
       "tags": [
-        "⭐ 119"
+        "⭐ 120"
       ],
       "min": null,
-      "stars": 119
+      "stars": 120
     },
     {
       "id": "1cblir7",
@@ -287,11 +287,11 @@
       "source": "GitHub",
       "author": "udaysharmadev",
       "tags": [
-        "⭐ 67",
+        "⭐ 72",
         "Python"
       ],
       "min": null,
-      "stars": 67
+      "stars": 72
     },
     {
       "id": "13cpcdu",
