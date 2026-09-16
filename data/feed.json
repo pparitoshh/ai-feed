@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:58:55.439Z",
+  "generatedAt": "2026-09-16T10:47:22.790Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 630",
+        "⭐ 633",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 630
+      "stars": 633
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "t904nk",
+      "type": "news",
+      "title": "iOS 27 Update: 7 Amazing New Features for Every iOS Device",
+      "desc": "From the iPhone in your pocket to the Vision Pro on your face — here&#8217;s every new iOS 27 feature across Apple&#8217;s entire device lineup, Mac not included. The&#160;iOS 27 update&#160;is officially rolling out, and this year it isn&#8217;t just an iPhone story. Released on September 14, 2026,",
+      "link": "https://imfounder.com/science-tech/ios-27-update-features-ios-devices-2026/",
+      "date": "Wed, 16 Sep 2026 06:39:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 13
+    },
+    {
       "id": "yjyhkj",
       "type": "news",
       "title": "Best AI Tools 2026: 7 Ultimate Picks That&#8217;ll Save You Hours (Ranked &#038; Compared)",
@@ -131,6 +143,22 @@
       "min": 16
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 305",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 305
+    },
+    {
       "id": "xrgqpj",
       "type": "news",
       "title": "15 Explosive AI Updates September 2026: OpenAI&#8217;s Shock IPO U-Turn, Nvidia&#8217;s $13B Power Grab &#038; Anthropic&#8217;s Doomsday Warning",
@@ -141,22 +169,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 13
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 304",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 304
     },
     {
       "id": "2y6jex",
@@ -207,6 +219,22 @@
       "min": 17
     },
     {
+      "id": "1vhkihi",
+      "type": "github",
+      "title": "i3T4AN/KADATH",
+      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "link": "https://github.com/i3T4AN/KADATH",
+      "date": "2026-08-08T15:49:55Z",
+      "source": "GitHub",
+      "author": "i3T4AN",
+      "tags": [
+        "⭐ 270",
+        "Python"
+      ],
+      "min": null,
+      "stars": 270
+    },
+    {
       "id": "8y1fea",
       "type": "news",
       "title": "Trump Is Changing How American Beef Is Sold—and AI Is Moving Into the Slaughterhouse",
@@ -219,34 +247,6 @@
       "min": 10
     },
     {
-      "id": "1vhkihi",
-      "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
-      "source": "GitHub",
-      "author": "i3T4AN",
-      "tags": [
-        "⭐ 271",
-        "Python"
-      ],
-      "min": null,
-      "stars": 271
-    },
-    {
-      "id": "8hqtq9",
-      "type": "news",
-      "title": "Canada Luring American Scientists: A Bold $541-Million Coup",
-      "desc": "As Trump slashes university funding and renames a Great Lake out of spite, Ottawa is spending big to bring America&#8217;s best scientists north — and it&#8217;s working. Quick Facts Canada luring American scientists away from the United States is no longer a quiet trend playing out one lab at a tim",
-      "link": "https://imfounder.com/science-tech/canada-luring-american-scientists/",
-      "date": "Mon, 07 Sep 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 16
-    },
-    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -256,10 +256,26 @@
       "source": "GitHub",
       "author": "MahdiKordian",
       "tags": [
-        "⭐ 120"
+        "⭐ 121"
       ],
       "min": null,
-      "stars": 120
+      "stars": 121
+    },
+    {
+      "id": "8std4d",
+      "type": "github",
+      "title": "modelscope/ms-cookbook",
+      "desc": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+      "link": "https://github.com/modelscope/ms-cookbook",
+      "date": "2026-09-11T14:27:35Z",
+      "source": "GitHub",
+      "author": "modelscope",
+      "tags": [
+        "⭐ 80",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 80
     },
     {
       "id": "1cblir7",
@@ -287,27 +303,11 @@
       "source": "GitHub",
       "author": "udaysharmadev",
       "tags": [
-        "⭐ 72",
+        "⭐ 75",
         "Python"
       ],
       "min": null,
-      "stars": 72
-    },
-    {
-      "id": "13cpcdu",
-      "type": "github",
-      "title": "antonkarasbiz/littleaibox",
-      "desc": "Privacy-focused AI conversation platform for chat, coding, research, and documents.",
-      "link": "https://github.com/antonkarasbiz/littleaibox",
-      "date": "2026-08-25T18:22:21Z",
-      "source": "GitHub",
-      "author": "antonkarasbiz",
-      "tags": [
-        "⭐ 58",
-        "JavaScript"
-      ],
-      "min": null,
-      "stars": 58
+      "stars": 75
     },
     {
       "id": "um1cdm",
@@ -319,11 +319,11 @@
       "source": "GitHub",
       "author": "shauryagangrade",
       "tags": [
-        "⭐ 57",
+        "⭐ 58",
         "Shell"
       ],
       "min": null,
-      "stars": 57
+      "stars": 58
     }
   ]
 }
