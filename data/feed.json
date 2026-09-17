@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T10:47:22.790Z",
+  "generatedAt": "2026-09-17T10:54:08.701Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 633",
+        "⭐ 636",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 633
+      "stars": 636
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "441hqe",
+      "type": "news",
+      "title": "macOS 27 Golden Gate: 7 Powerful New Features for Your Mac",
+      "desc": "Apple&#8217;s biggest Mac update in years drops Intel support for good and brings Siri AI to Spotlight — here&#8217;s everything new in macOS 27 Golden Gate, and whether your Mac makes the cut. macOS 27 Golden Gate&#160;is out, and it&#8217;s the most consequential Mac release in years — not just be",
+      "link": "https://imfounder.com/science-tech/macos-27-golden-gate-features-2026/",
+      "date": "Thu, 17 Sep 2026 07:09:17 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 14
+    },
+    {
       "id": "t904nk",
       "type": "news",
       "title": "iOS 27 Update: 7 Amazing New Features for Every iOS Device",
@@ -131,6 +143,22 @@
       "min": 13
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 306",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 306
+    },
+    {
       "id": "yjyhkj",
       "type": "news",
       "title": "Best AI Tools 2026: 7 Ultimate Picks That&#8217;ll Save You Hours (Ranked &#038; Compared)",
@@ -141,22 +169,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 16
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 305",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 305
     },
     {
       "id": "xrgqpj",
@@ -207,18 +219,6 @@
       "min": 22
     },
     {
-      "id": "18jph4l",
-      "type": "news",
-      "title": "GPT-6 Astra Just Crushed Claude&#8217;s Limits: 13 AI Updates This Week",
-      "desc": "From a 3D Japanese house built in an hour to a $12.9 billion Nvidia power play — here is every major AI launch from OpenAI, Anthropic, Google, Meta, and more from the past seven days. GPT-6 Astra has arrived, and it is already reshaping the conversation about what AI can do for you. OpenAI&#8217;s n",
-      "link": "https://imfounder.com/science-tech/ai/gpt-6-astra-ai-updates/",
-      "date": "Wed, 09 Sep 2026 10:12:50 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 17
-    },
-    {
       "id": "1vhkihi",
       "type": "github",
       "title": "i3T4AN/KADATH",
@@ -235,31 +235,16 @@
       "stars": 270
     },
     {
-      "id": "8y1fea",
+      "id": "18jph4l",
       "type": "news",
-      "title": "Trump Is Changing How American Beef Is Sold—and AI Is Moving Into the Slaughterhouse",
-      "desc": "New executive orders connect interstate meat sales, country-of-origin labeling, remote grading and automated inspection. The stated target is cheaper beef. The structural result could be a digitally managed national beef market. President Donald Trump signed two executive orders on September 4 desig",
-      "link": "https://imfounder.com/science-tech/ai/trump-beef-orders-ai-cattle-market/",
-      "date": "Tue, 08 Sep 2026 09:00:00 +0000",
+      "title": "GPT-6 Astra Just Crushed Claude&#8217;s Limits: 13 AI Updates This Week",
+      "desc": "From a 3D Japanese house built in an hour to a $12.9 billion Nvidia power play — here is every major AI launch from OpenAI, Anthropic, Google, Meta, and more from the past seven days. GPT-6 Astra has arrived, and it is already reshaping the conversation about what AI can do for you. OpenAI&#8217;s n",
+      "link": "https://imfounder.com/science-tech/ai/gpt-6-astra-ai-updates/",
+      "date": "Wed, 09 Sep 2026 10:12:50 +0000",
       "source": "IM Founder",
-      "author": "Renée Tomato",
+      "author": "Taranjeet Slatch",
       "tags": [],
-      "min": 10
-    },
-    {
-      "id": "3ttoku",
-      "type": "github",
-      "title": "MahdiKordian/MahdiKordian",
-      "desc": "AI Engineer | ML | DL | Generative AI | LLMs | Python",
-      "link": "https://github.com/MahdiKordian/MahdiKordian",
-      "date": "2026-09-04T20:46:09Z",
-      "source": "GitHub",
-      "author": "MahdiKordian",
-      "tags": [
-        "⭐ 121"
-      ],
-      "min": null,
-      "stars": 121
+      "min": 17
     },
     {
       "id": "8std4d",
@@ -271,11 +256,42 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 80",
+        "⭐ 248",
         "HTML"
       ],
       "min": null,
-      "stars": 80
+      "stars": 248
+    },
+    {
+      "id": "3ttoku",
+      "type": "github",
+      "title": "MahdiKordian/MahdiKordian",
+      "desc": "AI Engineer | ML | DL | Generative AI | LLMs | Python",
+      "link": "https://github.com/MahdiKordian/MahdiKordian",
+      "date": "2026-09-04T20:46:09Z",
+      "source": "GitHub",
+      "author": "MahdiKordian",
+      "tags": [
+        "⭐ 88"
+      ],
+      "min": null,
+      "stars": 88
+    },
+    {
+      "id": "1nh77jg",
+      "type": "github",
+      "title": "udaysharmadev/Not-Ai",
+      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
+      "link": "https://github.com/udaysharmadev/Not-Ai",
+      "date": "2026-08-30T12:58:09Z",
+      "source": "GitHub",
+      "author": "udaysharmadev",
+      "tags": [
+        "⭐ 77",
+        "Python"
+      ],
+      "min": null,
+      "stars": 77
     },
     {
       "id": "1cblir7",
@@ -294,22 +310,6 @@
       "stars": 75
     },
     {
-      "id": "1nh77jg",
-      "type": "github",
-      "title": "udaysharmadev/Not-Ai",
-      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
-      "link": "https://github.com/udaysharmadev/Not-Ai",
-      "date": "2026-08-30T12:58:09Z",
-      "source": "GitHub",
-      "author": "udaysharmadev",
-      "tags": [
-        "⭐ 75",
-        "Python"
-      ],
-      "min": null,
-      "stars": 75
-    },
-    {
       "id": "um1cdm",
       "type": "github",
       "title": "shauryagangrade/awesome-ai-prompts",
@@ -319,11 +319,11 @@
       "source": "GitHub",
       "author": "shauryagangrade",
       "tags": [
-        "⭐ 58",
+        "⭐ 59",
         "Shell"
       ],
       "min": null,
-      "stars": 58
+      "stars": 59
     }
   ]
 }
