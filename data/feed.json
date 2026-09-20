@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T10:15:07.453Z",
+  "generatedAt": "2026-09-20T10:33:43.300Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 638",
+        "⭐ 640",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 638
+      "stars": 640
     },
     {
       "id": "oesf1f",
@@ -152,11 +152,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 326",
+        "⭐ 353",
         "HTML"
       ],
       "min": null,
-      "stars": 326
+      "stars": 353
     },
     {
       "id": "441hqe",
@@ -263,6 +263,22 @@
       "stars": 262
     },
     {
+      "id": "1nh77jg",
+      "type": "github",
+      "title": "udaysharmadev/Not-Ai",
+      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
+      "link": "https://github.com/udaysharmadev/Not-Ai",
+      "date": "2026-08-30T12:58:09Z",
+      "source": "GitHub",
+      "author": "udaysharmadev",
+      "tags": [
+        "⭐ 89",
+        "Python"
+      ],
+      "min": null,
+      "stars": 89
+    },
+    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -276,22 +292,6 @@
       ],
       "min": null,
       "stars": 88
-    },
-    {
-      "id": "1nh77jg",
-      "type": "github",
-      "title": "udaysharmadev/Not-Ai",
-      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
-      "link": "https://github.com/udaysharmadev/Not-Ai",
-      "date": "2026-08-30T12:58:09Z",
-      "source": "GitHub",
-      "author": "udaysharmadev",
-      "tags": [
-        "⭐ 86",
-        "Python"
-      ],
-      "min": null,
-      "stars": 86
     },
     {
       "id": "1cblir7",
@@ -319,11 +319,11 @@
       "source": "GitHub",
       "author": "shauryagangrade",
       "tags": [
-        "⭐ 60",
+        "⭐ 61",
         "Shell"
       ],
       "min": null,
-      "stars": 60
+      "stars": 61
     }
   ]
 }
