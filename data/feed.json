@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:33:43.300Z",
+  "generatedAt": "2026-09-21T11:53:38.792Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 640",
+        "⭐ 639",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 640
+      "stars": 639
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "u0rqe3",
+      "type": "news",
+      "title": "SR&#038;ED vs R&#038;D Tax Credit: 7 Brutal Truths for Founders (2026)",
+      "desc": "A founder&#8217;s guide to Canada&#8217;s refundable SR&#38;ED credit and the newly supercharged US R&#38;D tax credit — and how to pick the right side of the border before you incorporate. SR&#38;ED vs R&#38;D Tax Credit isn&#8217;t an academic tax question — it&#8217;s a cash-flow decision that ca",
+      "link": "https://imfounder.com/entrepreneurship/sred-vs-rd-tax-credit/",
+      "date": "Mon, 21 Sep 2026 09:24:17 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 16
+    },
+    {
       "id": "1nwqlgn",
       "type": "news",
       "title": "Canada Start-Up Visa Backlog Update: The Brutal Truth About What&#8217;s Actually Changed for 43,000 Trapped Founders",
@@ -131,6 +143,22 @@
       "min": 15
     },
     {
+      "id": "8std4d",
+      "type": "github",
+      "title": "modelscope/ms-cookbook",
+      "desc": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+      "link": "https://github.com/modelscope/ms-cookbook",
+      "date": "2026-09-11T14:27:35Z",
+      "source": "GitHub",
+      "author": "modelscope",
+      "tags": [
+        "⭐ 377",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 377
+    },
+    {
       "id": "rxfcnp",
       "type": "news",
       "title": "Travis Kalanick Used CloudKitchens to Build a $1.7 Billion Robot Empire",
@@ -141,22 +169,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 7
-    },
-    {
-      "id": "8std4d",
-      "type": "github",
-      "title": "modelscope/ms-cookbook",
-      "desc": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
-      "link": "https://github.com/modelscope/ms-cookbook",
-      "date": "2026-09-11T14:27:35Z",
-      "source": "GitHub",
-      "author": "modelscope",
-      "tags": [
-        "⭐ 353",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 353
     },
     {
       "id": "441hqe",
@@ -207,6 +219,22 @@
       "min": 13
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 308",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 308
+    },
+    {
       "id": "2y6jex",
       "type": "news",
       "title": "Longevity Biohacking: 7 Bold Ways Tech Founders Are Chasing 120 years",
@@ -217,34 +245,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 17
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 307",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 307
-    },
-    {
-      "id": "xohujj",
-      "type": "news",
-      "title": "SAFE Note vs Convertible Note: The Brutal Truth That Could Cost You 20% of Your Company in 2026",
-      "desc": "Why smart founders still get this fundraising decision wrong — and the simple framework that fixes it before you sign anything SAFE note vs convertible note. If you&#8217;ve typed that exact phrase into Google at 1 a.m. with a term sheet open in another tab, you&#8217;re not alone, and you&#8217;re ",
-      "link": "https://imfounder.com/entrepreneurship/safe-note-vs-convertible-note-2026-guide/",
-      "date": "Fri, 11 Sep 2026 09:04:33 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 20
     },
     {
       "id": "1vhkihi",
@@ -272,11 +272,11 @@
       "source": "GitHub",
       "author": "udaysharmadev",
       "tags": [
-        "⭐ 89",
+        "⭐ 90",
         "Python"
       ],
       "min": null,
-      "stars": 89
+      "stars": 90
     },
     {
       "id": "3ttoku",
@@ -288,10 +288,10 @@
       "source": "GitHub",
       "author": "MahdiKordian",
       "tags": [
-        "⭐ 88"
+        "⭐ 89"
       ],
       "min": null,
-      "stars": 88
+      "stars": 89
     },
     {
       "id": "1cblir7",
@@ -319,11 +319,11 @@
       "source": "GitHub",
       "author": "shauryagangrade",
       "tags": [
-        "⭐ 61",
+        "⭐ 62",
         "Shell"
       ],
       "min": null,
-      "stars": 61
+      "stars": 62
     }
   ]
 }
