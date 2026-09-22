@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:53:38.792Z",
+  "generatedAt": "2026-09-22T10:54:06.030Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "calmrocks",
       "tags": [
-        "⭐ 639",
+        "⭐ 640",
         "Jupyter Notebook"
       ],
       "min": null,
-      "stars": 639
+      "stars": 640
     },
     {
       "id": "oesf1f",
@@ -152,11 +152,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 377",
+        "⭐ 384",
         "HTML"
       ],
       "min": null,
-      "stars": 377
+      "stars": 384
     },
     {
       "id": "rxfcnp",
@@ -247,22 +247,6 @@
       "min": 17
     },
     {
-      "id": "1vhkihi",
-      "type": "github",
-      "title": "i3T4AN/KADATH",
-      "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "link": "https://github.com/i3T4AN/KADATH",
-      "date": "2026-08-08T15:49:55Z",
-      "source": "GitHub",
-      "author": "i3T4AN",
-      "tags": [
-        "⭐ 262",
-        "Python"
-      ],
-      "min": null,
-      "stars": 262
-    },
-    {
       "id": "1nh77jg",
       "type": "github",
       "title": "udaysharmadev/Not-Ai",
@@ -319,11 +303,27 @@
       "source": "GitHub",
       "author": "shauryagangrade",
       "tags": [
-        "⭐ 62",
-        "Shell"
+        "⭐ 63",
+        "HTML"
       ],
       "min": null,
-      "stars": 62
+      "stars": 63
+    },
+    {
+      "id": "13cpcdu",
+      "type": "github",
+      "title": "antonkarasbiz/littleaibox",
+      "desc": "Privacy-focused AI conversation platform for chat, coding, research, and documents.",
+      "link": "https://github.com/antonkarasbiz/littleaibox",
+      "date": "2026-08-25T18:22:21Z",
+      "source": "GitHub",
+      "author": "antonkarasbiz",
+      "tags": [
+        "⭐ 60",
+        "JavaScript"
+      ],
+      "min": null,
+      "stars": 60
     }
   ]
 }
