@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:54:06.030Z",
+  "generatedAt": "2026-09-23T10:42:28.554Z",
   "count": 24,
   "cards": [
     {
@@ -119,6 +119,46 @@
       "min": 30
     },
     {
+      "id": "i2garx",
+      "type": "news",
+      "title": "Indian Hackers Hacked OpenAI in 72 Hours — The Full Hacktron Story",
+      "desc": "Yes, it&#8217;s true:&#160;Indian hackers hacked OpenAI, and it happened faster than most security teams can even schedule a meeting. In July 2026, three Indian-origin cybersecurity researchers — working under a two-year-old startup called Hacktron AI — broke into OpenAI&#8217;s internal systems, ac",
+      "link": "https://imfounder.com/science-tech/ai/indian-hackers-hacked-openai-hacktron-claude-ai/",
+      "date": "Wed, 23 Sep 2026 05:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 13
+    },
+    {
+      "id": "1ud2eb",
+      "type": "news",
+      "title": "The Farm of the Future Has No Workers—and Almost No Farmers",
+      "desc": "AI, autonomous machinery and proprietary agricultural software are removing labor from the field. The next displacement may be the farmer’s control over the farm itself. The farm of the future will still have soil, water, crops and machinery. What it may not have is many people. Autonomous tractors ",
+      "link": "https://imfounder.com/science-tech/ai-in-agriculture-future-of-farming/",
+      "date": "Tue, 22 Sep 2026 11:11:24 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "8std4d",
+      "type": "github",
+      "title": "modelscope/ms-cookbook",
+      "desc": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+      "link": "https://github.com/modelscope/ms-cookbook",
+      "date": "2026-09-11T14:27:35Z",
+      "source": "GitHub",
+      "author": "modelscope",
+      "tags": [
+        "⭐ 391",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 391
+    },
+    {
       "id": "u0rqe3",
       "type": "news",
       "title": "SR&#038;ED vs R&#038;D Tax Credit: 7 Brutal Truths for Founders (2026)",
@@ -141,22 +181,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 15
-    },
-    {
-      "id": "8std4d",
-      "type": "github",
-      "title": "modelscope/ms-cookbook",
-      "desc": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
-      "link": "https://github.com/modelscope/ms-cookbook",
-      "date": "2026-09-11T14:27:35Z",
-      "source": "GitHub",
-      "author": "modelscope",
-      "tags": [
-        "⭐ 384",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 384
     },
     {
       "id": "rxfcnp",
@@ -195,6 +219,22 @@
       "min": 13
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 309",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 309
+    },
+    {
       "id": "yjyhkj",
       "type": "news",
       "title": "Best AI Tools 2026: 7 Ultimate Picks That&#8217;ll Save You Hours (Ranked &#038; Compared)",
@@ -207,46 +247,6 @@
       "min": 16
     },
     {
-      "id": "xrgqpj",
-      "type": "news",
-      "title": "15 Explosive AI Updates September 2026: OpenAI&#8217;s Shock IPO U-Turn, Nvidia&#8217;s $13B Power Grab &#038; Anthropic&#8217;s Doomsday Warning",
-      "desc": "From Dario Amodei&#8217;s stunning call to slow down AI to Sam Altman shelving OpenAI&#8217;s trillion-dollar listing overnight, these are the 15 AI updates September 2026 has produced that actually change how you work, invest, and stay safe online. AI updates September 2026 has produced are the kin",
-      "link": "https://imfounder.com/science-tech/ai/ai-updates-september-2026-openai-nvidia-anthropic/",
-      "date": "Mon, 14 Sep 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 13
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 308",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 308
-    },
-    {
-      "id": "2y6jex",
-      "type": "news",
-      "title": "Longevity Biohacking: 7 Bold Ways Tech Founders Are Chasing 120 years",
-      "desc": "From Bryan Johnson’s obsessive health tracking to Sam Altman’s billion-dollar bet on cellular rejuvenation, Silicon Valley is turning aging into its next moonshot. Longevity biohacking&#160;is no longer the strange corner of the internet populated by people drinking bulletproof coffee, taking dozens",
-      "link": "https://imfounder.com/science-tech/longevity-biohacking-tech-founders-120/",
-      "date": "Sat, 12 Sep 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 17
-    },
-    {
       "id": "1nh77jg",
       "type": "github",
       "title": "udaysharmadev/Not-Ai",
@@ -256,11 +256,11 @@
       "source": "GitHub",
       "author": "udaysharmadev",
       "tags": [
-        "⭐ 90",
+        "⭐ 91",
         "Python"
       ],
       "min": null,
-      "stars": 90
+      "stars": 91
     },
     {
       "id": "3ttoku",
