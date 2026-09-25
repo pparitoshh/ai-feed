@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:03:26.260Z",
+  "generatedAt": "2026-09-25T11:03:01.832Z",
   "count": 24,
   "cards": [
     {
@@ -67,20 +67,20 @@
       "min": 12
     },
     {
-      "id": "1sg1a6q",
+      "id": "8std4d",
       "type": "github",
-      "title": "calmrocks/ai-engineer-notebooks",
-      "desc": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from scratch, tool design, guardrails, MCP, Skills), fine-tuning vs LoRA, prompt-injection/security, LLMOps, and customer craft. Runs on the free Groq API.",
-      "link": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "date": "2026-08-11T23:17:17Z",
+      "title": "modelscope/ms-cookbook",
+      "desc": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+      "link": "https://github.com/modelscope/ms-cookbook",
+      "date": "2026-09-11T14:27:35Z",
       "source": "GitHub",
-      "author": "calmrocks",
+      "author": "modelscope",
       "tags": [
-        "⭐ 642",
-        "Jupyter Notebook"
+        "⭐ 396",
+        "HTML"
       ],
       "min": null,
-      "stars": 642
+      "stars": 396
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,20 @@
       "min": 30
     },
     {
+      "id": "1aoeo0n",
+      "type": "news",
+      "title": "AI Updates This Week: 7 Explosive AI Breakthroughs Shaking Up 2026",
+      "desc": "GPT-6 Astra, Claude Opus 5.5, Gemini 3.8, Meta Muse and a new AI safety battle are reshaping the industry in one of 2026’s biggest weeks. September 25, 2026 The&#160;AI updates this week&#160;show just how quickly the artificial intelligence industry is moving from chatbots toward autonomous agents ",
+      "link": "https://imfounder.com/science-tech/ai/ai-updates-this-week-september-2026/",
+      "date": "Fri, 25 Sep 2026 10:39:47 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents"
+      ],
+      "min": 12
+    },
+    {
       "id": "1w6mt6b",
       "type": "news",
       "title": "macOS 27 Golden Gate Bugs Are Piling Up, and Apple&#8217;s Loyal Fans Are Losing Patience",
@@ -131,6 +145,22 @@
       "min": 13
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 310",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 310
+    },
+    {
       "id": "i2garx",
       "type": "news",
       "title": "Indian Hackers Hacked OpenAI in 72 Hours — The Full Hacktron Story",
@@ -141,22 +171,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 13
-    },
-    {
-      "id": "8std4d",
-      "type": "github",
-      "title": "modelscope/ms-cookbook",
-      "desc": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
-      "link": "https://github.com/modelscope/ms-cookbook",
-      "date": "2026-09-11T14:27:35Z",
-      "source": "GitHub",
-      "author": "modelscope",
-      "tags": [
-        "⭐ 394",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 394
     },
     {
       "id": "1ud2eb",
@@ -207,6 +221,22 @@
       "min": 7
     },
     {
+      "id": "1nh77jg",
+      "type": "github",
+      "title": "udaysharmadev/Not-Ai",
+      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
+      "link": "https://github.com/udaysharmadev/Not-Ai",
+      "date": "2026-08-30T12:58:09Z",
+      "source": "GitHub",
+      "author": "udaysharmadev",
+      "tags": [
+        "⭐ 97",
+        "Python"
+      ],
+      "min": null,
+      "stars": 97
+    },
+    {
       "id": "441hqe",
       "type": "news",
       "title": "macOS 27 Golden Gate: 7 Powerful New Features for Your Mac",
@@ -219,50 +249,6 @@
       "min": 14
     },
     {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 309",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 309
-    },
-    {
-      "id": "t904nk",
-      "type": "news",
-      "title": "iOS 27 Update: 7 Amazing New Features for Every iOS Device",
-      "desc": "From the iPhone in your pocket to the Vision Pro on your face — here&#8217;s every new iOS 27 feature across Apple&#8217;s entire device lineup, Mac not included. The&#160;iOS 27 update&#160;is officially rolling out, and this year it isn&#8217;t just an iPhone story. Released on September 14, 2026,",
-      "link": "https://imfounder.com/science-tech/ios-27-update-features-ios-devices-2026/",
-      "date": "Wed, 16 Sep 2026 06:39:00 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 13
-    },
-    {
-      "id": "1nh77jg",
-      "type": "github",
-      "title": "udaysharmadev/Not-Ai",
-      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
-      "link": "https://github.com/udaysharmadev/Not-Ai",
-      "date": "2026-08-30T12:58:09Z",
-      "source": "GitHub",
-      "author": "udaysharmadev",
-      "tags": [
-        "⭐ 93",
-        "Python"
-      ],
-      "min": null,
-      "stars": 93
-    },
-    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -272,10 +258,10 @@
       "source": "GitHub",
       "author": "MahdiKordian",
       "tags": [
-        "⭐ 89"
+        "⭐ 90"
       ],
       "min": null,
-      "stars": 89
+      "stars": 90
     },
     {
       "id": "1cblir7",
@@ -324,6 +310,22 @@
       ],
       "min": null,
       "stars": 60
+    },
+    {
+      "id": "1h6b1dd",
+      "type": "github",
+      "title": "genoskietv/AdalFlow-Optimizer",
+      "desc": "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
+      "link": "https://github.com/genoskietv/AdalFlow-Optimizer",
+      "date": "2026-08-25T08:57:31Z",
+      "source": "GitHub",
+      "author": "genoskietv",
+      "tags": [
+        "⭐ 55",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 55
     }
   ]
 }
