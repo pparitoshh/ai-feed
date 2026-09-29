@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:48:34.020Z",
+  "generatedAt": "2026-09-29T12:04:13.781Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 400",
+        "⭐ 403",
         "HTML"
       ],
       "min": null,
-      "stars": 400
+      "stars": 403
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "1nftwok",
+      "type": "news",
+      "title": "AI Startups to Watch in 2026: 9 Explosive Companies Rewriting Tech in the US and Canada",
+      "desc": "The AI startups to watch in 2026 are not the ones with the loudest chatbots. They are the companies quietly turning models into revenue: agents that resolve support tickets, software that drafts legal work, chips that feed data centers, and trucks that drive themselves. I have been an Apple loyalist",
+      "link": "https://imfounder.com/science-tech/ai/ai-startups-to-watch-canada-united-states/",
+      "date": "Tue, 29 Sep 2026 09:03:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 11
+    },
+    {
       "id": "3fsfz3",
       "type": "news",
       "title": "Flytrex Uses Predictive AI to Position Delivery Drones Before Restaurant Orders Arrive",
@@ -131,6 +143,22 @@
       "min": 10
     },
     {
+      "id": "1uoiv8z",
+      "type": "github",
+      "title": "zorost/AI-Engineering-Lab",
+      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "link": "https://github.com/zorost/AI-Engineering-Lab",
+      "date": "2026-08-17T16:34:05Z",
+      "source": "GitHub",
+      "author": "zorost",
+      "tags": [
+        "⭐ 313",
+        "Jupyter Notebook"
+      ],
+      "min": null,
+      "stars": 313
+    },
+    {
       "id": "1retnmk",
       "type": "news",
       "title": "The Vote highjack Controversy: The world&#8217;s biggest democracy becomes a joke under Modi.",
@@ -141,22 +169,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 11
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 312",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 312
     },
     {
       "id": "1aoeo0n",
@@ -209,18 +221,6 @@
       "min": 12
     },
     {
-      "id": "u0rqe3",
-      "type": "news",
-      "title": "SR&#038;ED vs R&#038;D Tax Credit: 7 Brutal Truths for Founders (2026)",
-      "desc": "A founder&#8217;s guide to Canada&#8217;s refundable SR&#38;ED credit and the newly supercharged US R&#38;D tax credit — and how to pick the right side of the border before you incorporate. SR&#38;ED vs R&#38;D Tax Credit isn&#8217;t an academic tax question — it&#8217;s a cash-flow decision that ca",
-      "link": "https://imfounder.com/entrepreneurship/sred-vs-rd-tax-credit/",
-      "date": "Mon, 21 Sep 2026 09:24:17 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 16
-    },
-    {
       "id": "1nh77jg",
       "type": "github",
       "title": "udaysharmadev/Not-Ai",
@@ -237,16 +237,16 @@
       "stars": 104
     },
     {
-      "id": "1nwqlgn",
+      "id": "u0rqe3",
       "type": "news",
-      "title": "Canada Start-Up Visa Backlog Update: The Brutal Truth About What&#8217;s Actually Changed for 43,000 Trapped Founders",
-      "desc": "We&#8217;ve been covering this story since December 2025. Here&#8217;s exactly what&#8217;s moved, what hasn&#8217;t, and what it means if you&#8217;re still waiting. Updated: September 2026 The&#160;Canada Start-Up Visa backlog&#160;is not a story we&#8217;re covering for the first time. IMFounder ",
-      "link": "https://imfounder.com/immigration-policy/canada-start-up-visa-backlog-update-sep-2026/",
-      "date": "Sat, 19 Sep 2026 09:00:00 +0000",
+      "title": "SR&#038;ED vs R&#038;D Tax Credit: 7 Brutal Truths for Founders (2026)",
+      "desc": "A founder&#8217;s guide to Canada&#8217;s refundable SR&#38;ED credit and the newly supercharged US R&#38;D tax credit — and how to pick the right side of the border before you incorporate. SR&#38;ED vs R&#38;D Tax Credit isn&#8217;t an academic tax question — it&#8217;s a cash-flow decision that ca",
+      "link": "https://imfounder.com/entrepreneurship/sred-vs-rd-tax-credit/",
+      "date": "Mon, 21 Sep 2026 09:24:17 +0000",
       "source": "IM Founder",
-      "author": "Many Mcglon",
+      "author": "Neha Slatch",
       "tags": [],
-      "min": 15
+      "min": 16
     },
     {
       "id": "3ttoku",
@@ -262,38 +262,6 @@
       ],
       "min": null,
       "stars": 91
-    },
-    {
-      "id": "1cblir7",
-      "type": "github",
-      "title": "Greninja9257/LabLLM",
-      "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-      "link": "https://github.com/Greninja9257/LabLLM",
-      "date": "2026-08-15T22:16:40Z",
-      "source": "GitHub",
-      "author": "Greninja9257",
-      "tags": [
-        "⭐ 74",
-        "Swift"
-      ],
-      "min": null,
-      "stars": 74
-    },
-    {
-      "id": "um1cdm",
-      "type": "github",
-      "title": "shauryagangrade/awesome-ai-prompts",
-      "desc": "Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess",
-      "link": "https://github.com/shauryagangrade/awesome-ai-prompts",
-      "date": "2026-08-15T14:21:01Z",
-      "source": "GitHub",
-      "author": "shauryagangrade",
-      "tags": [
-        "⭐ 66",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 66
     },
     {
       "id": "13cpcdu",
@@ -326,6 +294,37 @@
       ],
       "min": null,
       "stars": 55
+    },
+    {
+      "id": "2d9jqg",
+      "type": "github",
+      "title": "Tranz007/ux-skills",
+      "desc": "Agent Skills for working UX designers. Challenge ideas, find blind spots, use the real design system, preserve evidence and decisions, and carry UX intent into engineering.",
+      "link": "https://github.com/Tranz007/ux-skills",
+      "date": "2026-08-20T01:21:01Z",
+      "source": "GitHub",
+      "author": "Tranz007",
+      "tags": [
+        "⭐ 44",
+        "Python"
+      ],
+      "min": null,
+      "stars": 44
+    },
+    {
+      "id": "15wssef",
+      "type": "github",
+      "title": "saghosh8/AI-For-DevOps",
+      "desc": "A 21-day hands-on journey to mastering AI for DevOps — covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and AI-powered DevOps projects.",
+      "link": "https://github.com/saghosh8/AI-For-DevOps",
+      "date": "2026-08-25T04:08:44Z",
+      "source": "GitHub",
+      "author": "saghosh8",
+      "tags": [
+        "⭐ 36"
+      ],
+      "min": null,
+      "stars": 36
     }
   ]
 }
