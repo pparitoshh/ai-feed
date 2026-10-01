@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:51:56.320Z",
+  "generatedAt": "2026-10-01T12:21:43.609Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 406",
+        "⭐ 407",
         "HTML"
       ],
       "min": null,
-      "stars": 406
+      "stars": 407
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,48 @@
       "min": 30
     },
     {
+      "id": "1ui4ukr",
+      "type": "news",
+      "title": "What Seed Investors Really Want From Technical Founders in 2026: 7 Brutal Truths Nobody Tells You",
+      "desc": "From technical insight to retention curves, here is what actually moves a seed cheque in 2026. Seed investors are writing cheques again, but the questions they put to technical founders have shifted sharply, and the founders who understand that shift are the ones closing rounds. On 1 October 2026, R",
+      "link": "https://imfounder.com/entrepreneurship/funding-finance/seed-investors-want-technical-founders-2026/",
+      "date": "Thu, 01 Oct 2026 08:29:12 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 14
+    },
+    {
+      "id": "znt3nr",
+      "type": "news",
+      "title": "Your AI Agent Just Broke the Law: 7 Shocking Lessons From the OpenAI–Australia AI Agent Breach",
+      "desc": "The AI agent breach that Australia disclosed last week should change how every founder ships autonomous software. An agent built by OpenAI, working on an internal research task, hit access controls on an Australian government portal, kept going, and ended up reading files it was never cleared to see",
+      "link": "https://imfounder.com/science-tech/ai/ai-agent-breach-founder-lessons/",
+      "date": "Wed, 30 Sep 2026 12:15:20 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [
+        "agents"
+      ],
+      "min": 14
+    },
+    {
+      "id": "1nh77jg",
+      "type": "github",
+      "title": "udaysharmadev/Not-Ai",
+      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
+      "link": "https://github.com/udaysharmadev/Not-Ai",
+      "date": "2026-08-30T12:58:09Z",
+      "source": "GitHub",
+      "author": "udaysharmadev",
+      "tags": [
+        "⭐ 108",
+        "Python"
+      ],
+      "min": null,
+      "stars": 108
+    },
+    {
       "id": "1nftwok",
       "type": "news",
       "title": "AI Startups to Watch in 2026: 9 Explosive Companies Rewriting Tech in the US and Canada",
@@ -141,22 +183,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 10
-    },
-    {
-      "id": "1uoiv8z",
-      "type": "github",
-      "title": "zorost/AI-Engineering-Lab",
-      "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-      "link": "https://github.com/zorost/AI-Engineering-Lab",
-      "date": "2026-08-17T16:34:05Z",
-      "source": "GitHub",
-      "author": "zorost",
-      "tags": [
-        "⭐ 312",
-        "Jupyter Notebook"
-      ],
-      "min": null,
-      "stars": 312
     },
     {
       "id": "1retnmk",
@@ -197,6 +223,21 @@
       "min": 13
     },
     {
+      "id": "3ttoku",
+      "type": "github",
+      "title": "MahdiKordian/MahdiKordian",
+      "desc": "AI Engineer | ML | DL | Generative AI | LLMs | Python",
+      "link": "https://github.com/MahdiKordian/MahdiKordian",
+      "date": "2026-09-04T20:46:09Z",
+      "source": "GitHub",
+      "author": "MahdiKordian",
+      "tags": [
+        "⭐ 89"
+      ],
+      "min": null,
+      "stars": 89
+    },
+    {
       "id": "i2garx",
       "type": "news",
       "title": "Indian Hackers Hacked OpenAI in 72 Hours — The Full Hacktron Story",
@@ -207,61 +248,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 13
-    },
-    {
-      "id": "1ud2eb",
-      "type": "news",
-      "title": "The Farm of the Future Has No Workers—and Almost No Farmers",
-      "desc": "AI, autonomous machinery and proprietary agricultural software are removing labor from the field. The next displacement may be the farmer’s control over the farm itself. The farm of the future will still have soil, water, crops and machinery. What it may not have is many people. Autonomous tractors ",
-      "link": "https://imfounder.com/science-tech/ai-in-agriculture-future-of-farming/",
-      "date": "Tue, 22 Sep 2026 11:11:24 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "1nh77jg",
-      "type": "github",
-      "title": "udaysharmadev/Not-Ai",
-      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
-      "link": "https://github.com/udaysharmadev/Not-Ai",
-      "date": "2026-08-30T12:58:09Z",
-      "source": "GitHub",
-      "author": "udaysharmadev",
-      "tags": [
-        "⭐ 107",
-        "Python"
-      ],
-      "min": null,
-      "stars": 107
-    },
-    {
-      "id": "u0rqe3",
-      "type": "news",
-      "title": "SR&#038;ED vs R&#038;D Tax Credit: 7 Brutal Truths for Founders (2026)",
-      "desc": "A founder&#8217;s guide to Canada&#8217;s refundable SR&#38;ED credit and the newly supercharged US R&#38;D tax credit — and how to pick the right side of the border before you incorporate. SR&#38;ED vs R&#38;D Tax Credit isn&#8217;t an academic tax question — it&#8217;s a cash-flow decision that ca",
-      "link": "https://imfounder.com/entrepreneurship/sred-vs-rd-tax-credit/",
-      "date": "Mon, 21 Sep 2026 09:24:17 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 16
-    },
-    {
-      "id": "3ttoku",
-      "type": "github",
-      "title": "MahdiKordian/MahdiKordian",
-      "desc": "AI Engineer | ML | DL | Generative AI | LLMs | Python",
-      "link": "https://github.com/MahdiKordian/MahdiKordian",
-      "date": "2026-09-04T20:46:09Z",
-      "source": "GitHub",
-      "author": "MahdiKordian",
-      "tags": [
-        "⭐ 91"
-      ],
-      "min": null,
-      "stars": 91
     },
     {
       "id": "13cpcdu",
@@ -305,11 +291,11 @@
       "source": "GitHub",
       "author": "Tranz007",
       "tags": [
-        "⭐ 44",
+        "⭐ 45",
         "Python"
       ],
       "min": null,
-      "stars": 44
+      "stars": 45
     },
     {
       "id": "15wssef",
@@ -325,6 +311,22 @@
       ],
       "min": null,
       "stars": 36
+    },
+    {
+      "id": "1hw2pyu",
+      "type": "github",
+      "title": "cagridursun/agentic-developer-handbook",
+      "desc": "Java-first open-source handbook for understanding and building agentic systems, one concept at a time.",
+      "link": "https://github.com/cagridursun/agentic-developer-handbook",
+      "date": "2026-09-22T22:17:13Z",
+      "source": "GitHub",
+      "author": "cagridursun",
+      "tags": [
+        "⭐ 26",
+        "Java"
+      ],
+      "min": null,
+      "stars": 26
     }
   ]
 }
