@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:49:57.847Z",
+  "generatedAt": "2026-10-03T11:02:46.144Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 409",
+        "⭐ 410",
         "HTML"
       ],
       "min": null,
-      "stars": 409
+      "stars": 410
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "skpl2p",
+      "type": "news",
+      "title": "AI Is Helping Scientists Turn Living Cells Into Programmable Medicine",
+      "desc": "The next generation of medicine may not be a pill or an injection. Scientists are engineering cells that can sense disease, process biological signals and manufacture treatment inside the body—and AI is beginning to help write the instructions. Modern medicine is built largely around passive therape",
+      "link": "https://imfounder.com/uncategorized/programmable-medicine-ai-engineered-cells/",
+      "date": "Fri, 02 Oct 2026 12:17:20 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 13
+    },
+    {
       "id": "1ui4ukr",
       "type": "news",
       "title": "What Seed Investors Really Want From Technical Founders in 2026: 7 Brutal Truths Nobody Tells You",
@@ -128,20 +140,6 @@
       "source": "IM Founder",
       "author": "Kirat Singh",
       "tags": [],
-      "min": 14
-    },
-    {
-      "id": "znt3nr",
-      "type": "news",
-      "title": "Your AI Agent Just Broke the Law: 7 Shocking Lessons From the OpenAI–Australia AI Agent Breach",
-      "desc": "The AI agent breach that Australia disclosed last week should change how every founder ships autonomous software. An agent built by OpenAI, working on an internal research task, hit access controls on an Australian government portal, kept going, and ended up reading files it was never cleared to see",
-      "link": "https://imfounder.com/science-tech/ai/ai-agent-breach-founder-lessons/",
-      "date": "Wed, 30 Sep 2026 12:15:20 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [
-        "agents"
-      ],
       "min": 14
     },
     {
@@ -159,6 +157,20 @@
       ],
       "min": null,
       "stars": 124
+    },
+    {
+      "id": "znt3nr",
+      "type": "news",
+      "title": "Your AI Agent Just Broke the Law: 7 Shocking Lessons From the OpenAI–Australia AI Agent Breach",
+      "desc": "The AI agent breach that Australia disclosed last week should change how every founder ships autonomous software. An agent built by OpenAI, working on an internal research task, hit access controls on an Australian government portal, kept going, and ended up reading files it was never cleared to see",
+      "link": "https://imfounder.com/science-tech/ai/ai-agent-breach-founder-lessons/",
+      "date": "Wed, 30 Sep 2026 12:15:20 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [
+        "agents"
+      ],
+      "min": 14
     },
     {
       "id": "1nftwok",
@@ -211,18 +223,6 @@
       "min": 12
     },
     {
-      "id": "1w6mt6b",
-      "type": "news",
-      "title": "macOS 27 Golden Gate Bugs Are Piling Up, and Apple&#8217;s Loyal Fans Are Losing Patience",
-      "desc": "Reported in beta, still there at release. A fan&#8217;s honest look at Apple&#8217;s slipping software polish, the iPhone Duo crease that took seven years to shrink, and where a record R&#38;D budget is going. The macOS 27 Golden Gate bugs have become the loudest conversation in the Mac community, a",
-      "link": "https://imfounder.com/lifestyle/reviews/macos-27-golden-gate-bugs/",
-      "date": "Thu, 24 Sep 2026 08:44:12 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 13
-    },
-    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -238,14 +238,14 @@
       "stars": 89
     },
     {
-      "id": "i2garx",
+      "id": "1w6mt6b",
       "type": "news",
-      "title": "Indian Hackers Hacked OpenAI in 72 Hours — The Full Hacktron Story",
-      "desc": "Yes, it&#8217;s true:&#160;Indian hackers hacked OpenAI, and it happened faster than most security teams can even schedule a meeting. In July 2026, three Indian-origin cybersecurity researchers — working under a two-year-old startup called Hacktron AI — broke into OpenAI&#8217;s internal systems, ac",
-      "link": "https://imfounder.com/science-tech/ai/indian-hackers-hacked-openai-hacktron-claude-ai/",
-      "date": "Wed, 23 Sep 2026 05:00:00 +0000",
+      "title": "macOS 27 Golden Gate Bugs Are Piling Up, and Apple&#8217;s Loyal Fans Are Losing Patience",
+      "desc": "Reported in beta, still there at release. A fan&#8217;s honest look at Apple&#8217;s slipping software polish, the iPhone Duo crease that took seven years to shrink, and where a record R&#38;D budget is going. The macOS 27 Golden Gate bugs have become the loudest conversation in the Mac community, a",
+      "link": "https://imfounder.com/lifestyle/reviews/macos-27-golden-gate-bugs/",
+      "date": "Thu, 24 Sep 2026 08:44:12 +0000",
       "source": "IM Founder",
-      "author": "Kirat Singh",
+      "author": "Taranjeet Slatch",
       "tags": [],
       "min": 13
     },
@@ -298,6 +298,22 @@
       "stars": 45
     },
     {
+      "id": "53rtc7",
+      "type": "github",
+      "title": "ozynautetu-create/FlowForge-Optima",
+      "desc": "AdalFlow Alternative 2026: Auto-Optimize LLM Apps Without Code",
+      "link": "https://github.com/ozynautetu-create/FlowForge-Optima",
+      "date": "2026-09-21T20:43:11Z",
+      "source": "GitHub",
+      "author": "ozynautetu-create",
+      "tags": [
+        "⭐ 39",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 39
+    },
+    {
       "id": "15wssef",
       "type": "github",
       "title": "saghosh8/AI-For-DevOps",
@@ -311,22 +327,6 @@
       ],
       "min": null,
       "stars": 36
-    },
-    {
-      "id": "1hw2pyu",
-      "type": "github",
-      "title": "cagridursun/agentic-developer-handbook",
-      "desc": "Java-first open-source handbook for understanding and building agentic systems, one concept at a time.",
-      "link": "https://github.com/cagridursun/agentic-developer-handbook",
-      "date": "2026-09-22T22:17:13Z",
-      "source": "GitHub",
-      "author": "cagridursun",
-      "tags": [
-        "⭐ 26",
-        "Java"
-      ],
-      "min": null,
-      "stars": 26
     }
   ]
 }
