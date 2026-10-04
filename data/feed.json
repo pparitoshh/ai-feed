@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T11:02:46.144Z",
+  "generatedAt": "2026-10-04T11:44:18.694Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 410",
+        "⭐ 412",
         "HTML"
       ],
       "min": null,
-      "stars": 410
+      "stars": 412
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "nu80zn",
+      "type": "news",
+      "title": "Masterminds and Founder Circles: 7 Shocking Reasons Small Peer Groups Are Killing Big Networking Events",
+      "desc": "Masterminds and founder circles are no longer a niche habit of self-help devotees and Silicon Valley insiders. They have become the default way many founders look for advice, accountability and honest feedback. Ask a group of company builders where they get their best ideas and hardest truths, and a",
+      "link": "https://imfounder.com/entrepreneurship/masterminds-and-founder-circles/",
+      "date": "Sat, 03 Oct 2026 14:45:56 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 15
+    },
+    {
       "id": "skpl2p",
       "type": "news",
       "title": "AI Is Helping Scientists Turn Living Cells Into Programmable Medicine",
@@ -131,6 +143,22 @@
       "min": 13
     },
     {
+      "id": "1nh77jg",
+      "type": "github",
+      "title": "udaysharmadev/Not-Ai",
+      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
+      "link": "https://github.com/udaysharmadev/Not-Ai",
+      "date": "2026-08-30T12:58:09Z",
+      "source": "GitHub",
+      "author": "udaysharmadev",
+      "tags": [
+        "⭐ 125",
+        "Python"
+      ],
+      "min": null,
+      "stars": 125
+    },
+    {
       "id": "1ui4ukr",
       "type": "news",
       "title": "What Seed Investors Really Want From Technical Founders in 2026: 7 Brutal Truths Nobody Tells You",
@@ -141,22 +169,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 14
-    },
-    {
-      "id": "1nh77jg",
-      "type": "github",
-      "title": "udaysharmadev/Not-Ai",
-      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
-      "link": "https://github.com/udaysharmadev/Not-Ai",
-      "date": "2026-08-30T12:58:09Z",
-      "source": "GitHub",
-      "author": "udaysharmadev",
-      "tags": [
-        "⭐ 124",
-        "Python"
-      ],
-      "min": null,
-      "stars": 124
     },
     {
       "id": "znt3nr",
@@ -209,20 +221,6 @@
       "min": 11
     },
     {
-      "id": "1aoeo0n",
-      "type": "news",
-      "title": "AI Updates This Week: 7 Explosive AI Breakthroughs Shaking Up 2026",
-      "desc": "GPT-6 Astra, Claude Opus 5.5, Gemini 3.8, Meta Muse and a new AI safety battle are reshaping the industry in one of 2026’s biggest weeks. September 25, 2026 The&#160;AI updates this week&#160;show just how quickly the artificial intelligence industry is moving from chatbots toward autonomous agents ",
-      "link": "https://imfounder.com/science-tech/ai/ai-updates-this-week-september-2026/",
-      "date": "Fri, 25 Sep 2026 10:39:47 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents"
-      ],
-      "min": 12
-    },
-    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -238,16 +236,18 @@
       "stars": 89
     },
     {
-      "id": "1w6mt6b",
+      "id": "1aoeo0n",
       "type": "news",
-      "title": "macOS 27 Golden Gate Bugs Are Piling Up, and Apple&#8217;s Loyal Fans Are Losing Patience",
-      "desc": "Reported in beta, still there at release. A fan&#8217;s honest look at Apple&#8217;s slipping software polish, the iPhone Duo crease that took seven years to shrink, and where a record R&#38;D budget is going. The macOS 27 Golden Gate bugs have become the loudest conversation in the Mac community, a",
-      "link": "https://imfounder.com/lifestyle/reviews/macos-27-golden-gate-bugs/",
-      "date": "Thu, 24 Sep 2026 08:44:12 +0000",
+      "title": "AI Updates This Week: 7 Explosive AI Breakthroughs Shaking Up 2026",
+      "desc": "GPT-6 Astra, Claude Opus 5.5, Gemini 3.8, Meta Muse and a new AI safety battle are reshaping the industry in one of 2026’s biggest weeks. September 25, 2026 The&#160;AI updates this week&#160;show just how quickly the artificial intelligence industry is moving from chatbots toward autonomous agents ",
+      "link": "https://imfounder.com/science-tech/ai/ai-updates-this-week-september-2026/",
+      "date": "Fri, 25 Sep 2026 10:39:47 +0000",
       "source": "IM Founder",
       "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 13
+      "tags": [
+        "agents"
+      ],
+      "min": 12
     },
     {
       "id": "13cpcdu",
@@ -266,6 +266,22 @@
       "stars": 60
     },
     {
+      "id": "53rtc7",
+      "type": "github",
+      "title": "ozynautetu-create/FlowForge-Optima",
+      "desc": "AdalFlow Alternative 2026: Auto-Optimize LLM Apps Without Code",
+      "link": "https://github.com/ozynautetu-create/FlowForge-Optima",
+      "date": "2026-09-21T20:43:11Z",
+      "source": "GitHub",
+      "author": "ozynautetu-create",
+      "tags": [
+        "⭐ 56",
+        "HTML"
+      ],
+      "min": null,
+      "stars": 56
+    },
+    {
       "id": "1h6b1dd",
       "type": "github",
       "title": "genoskietv/AdalFlow-Optimizer",
@@ -282,38 +298,6 @@
       "stars": 55
     },
     {
-      "id": "2d9jqg",
-      "type": "github",
-      "title": "Tranz007/ux-skills",
-      "desc": "Agent Skills for working UX designers. Challenge ideas, find blind spots, use the real design system, preserve evidence and decisions, and carry UX intent into engineering.",
-      "link": "https://github.com/Tranz007/ux-skills",
-      "date": "2026-08-20T01:21:01Z",
-      "source": "GitHub",
-      "author": "Tranz007",
-      "tags": [
-        "⭐ 45",
-        "Python"
-      ],
-      "min": null,
-      "stars": 45
-    },
-    {
-      "id": "53rtc7",
-      "type": "github",
-      "title": "ozynautetu-create/FlowForge-Optima",
-      "desc": "AdalFlow Alternative 2026: Auto-Optimize LLM Apps Without Code",
-      "link": "https://github.com/ozynautetu-create/FlowForge-Optima",
-      "date": "2026-09-21T20:43:11Z",
-      "source": "GitHub",
-      "author": "ozynautetu-create",
-      "tags": [
-        "⭐ 39",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 39
-    },
-    {
       "id": "15wssef",
       "type": "github",
       "title": "saghosh8/AI-For-DevOps",
@@ -327,6 +311,22 @@
       ],
       "min": null,
       "stars": 36
+    },
+    {
+      "id": "3bt7yd",
+      "type": "github",
+      "title": "iamarxs/AnyWorld",
+      "desc": "A multiplayer browser game implemented with Python, where an AI acts as the dungeon master and players type out their actions in their own words!",
+      "link": "https://github.com/iamarxs/AnyWorld",
+      "date": "2026-09-15T20:20:52Z",
+      "source": "GitHub",
+      "author": "iamarxs",
+      "tags": [
+        "⭐ 29",
+        "Python"
+      ],
+      "min": null,
+      "stars": 29
     }
   ]
 }
