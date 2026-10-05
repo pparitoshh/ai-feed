@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T11:44:18.694Z",
+  "generatedAt": "2026-10-05T13:30:16.189Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 412",
+        "⭐ 411",
         "HTML"
       ],
       "min": null,
-      "stars": 412
+      "stars": 411
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "5126k4",
+      "type": "news",
+      "title": "Trump and Big Tech: 7 Dangerous Shifts That Could Make or Break Your Startup",
+      "desc": "Trump and Big Tech&#160;are no longer rivals. They are partners, and if you are building a company, you cannot ignore that. I am writing this as a founder&#8217;s guide, not a news report. I will not retell the headlines. I want to give you my own read on what this alliance means, what it changes [&",
+      "link": "https://imfounder.com/science-tech/trump-and-big-tech/",
+      "date": "Mon, 05 Oct 2026 09:34:00 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 9
+    },
+    {
       "id": "nu80zn",
       "type": "news",
       "title": "Masterminds and Founder Circles: 7 Shocking Reasons Small Peer Groups Are Killing Big Networking Events",
@@ -131,6 +143,22 @@
       "min": 15
     },
     {
+      "id": "1nh77jg",
+      "type": "github",
+      "title": "udaysharmadev/Not-Ai",
+      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
+      "link": "https://github.com/udaysharmadev/Not-Ai",
+      "date": "2026-08-30T12:58:09Z",
+      "source": "GitHub",
+      "author": "udaysharmadev",
+      "tags": [
+        "⭐ 127",
+        "Python"
+      ],
+      "min": null,
+      "stars": 127
+    },
+    {
       "id": "skpl2p",
       "type": "news",
       "title": "AI Is Helping Scientists Turn Living Cells Into Programmable Medicine",
@@ -141,22 +169,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 13
-    },
-    {
-      "id": "1nh77jg",
-      "type": "github",
-      "title": "udaysharmadev/Not-Ai",
-      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
-      "link": "https://github.com/udaysharmadev/Not-Ai",
-      "date": "2026-08-30T12:58:09Z",
-      "source": "GitHub",
-      "author": "udaysharmadev",
-      "tags": [
-        "⭐ 125",
-        "Python"
-      ],
-      "min": null,
-      "stars": 125
     },
     {
       "id": "1ui4ukr",
@@ -209,18 +221,6 @@
       "min": 10
     },
     {
-      "id": "1retnmk",
-      "type": "news",
-      "title": "The Vote highjack Controversy: The world&#8217;s biggest democracy becomes a joke under Modi.",
-      "desc": "India is having its loudest argument about its own elections in decades. At the center of the&#160;Vote Chori controversy&#160;are three things happening at once: a bitter dispute inside the Election Commission of India (ECI), a nationwide &#8220;vote theft&#8221; campaign led by opposition leader R",
-      "link": "https://imfounder.com/politics/vote-chori-controversy-india-election-commission-2026/",
-      "date": "Sat, 26 Sep 2026 09:07:54 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 11
-    },
-    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -236,18 +236,16 @@
       "stars": 89
     },
     {
-      "id": "1aoeo0n",
+      "id": "1retnmk",
       "type": "news",
-      "title": "AI Updates This Week: 7 Explosive AI Breakthroughs Shaking Up 2026",
-      "desc": "GPT-6 Astra, Claude Opus 5.5, Gemini 3.8, Meta Muse and a new AI safety battle are reshaping the industry in one of 2026’s biggest weeks. September 25, 2026 The&#160;AI updates this week&#160;show just how quickly the artificial intelligence industry is moving from chatbots toward autonomous agents ",
-      "link": "https://imfounder.com/science-tech/ai/ai-updates-this-week-september-2026/",
-      "date": "Fri, 25 Sep 2026 10:39:47 +0000",
+      "title": "The Vote highjack Controversy: The world&#8217;s biggest democracy becomes a joke under Modi.",
+      "desc": "India is having its loudest argument about its own elections in decades. At the center of the&#160;Vote Chori controversy&#160;are three things happening at once: a bitter dispute inside the Election Commission of India (ECI), a nationwide &#8220;vote theft&#8221; campaign led by opposition leader R",
+      "link": "https://imfounder.com/politics/vote-chori-controversy-india-election-commission-2026/",
+      "date": "Sat, 26 Sep 2026 09:07:54 +0000",
       "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents"
-      ],
-      "min": 12
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 11
     },
     {
       "id": "13cpcdu",
@@ -322,11 +320,11 @@
       "source": "GitHub",
       "author": "iamarxs",
       "tags": [
-        "⭐ 29",
+        "⭐ 32",
         "Python"
       ],
       "min": null,
-      "stars": 29
+      "stars": 32
     }
   ]
 }
