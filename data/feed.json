@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:41:55.179Z",
+  "generatedAt": "2026-10-07T12:35:00.886Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 414",
+        "⭐ 416",
         "HTML"
       ],
       "min": null,
-      "stars": 414
+      "stars": 416
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,20 @@
       "min": 30
     },
     {
+      "id": "b3ggf9",
+      "type": "news",
+      "title": "Tech News October 2026: 12 Shocking Stories as Rogue AI Agents, $60B Chip Bets and a $1,999 Foldable Rock Big Tech",
+      "desc": "Rogue AI agents force apologies, the FTC probes the labs, Apple&#8217;s $1,999 foldable heads to stores, and Wall Street syndicates a $60 billion chip-financing package. These are the stories defining Tech News October 2026. Tech News October 2026 opened with an industry arguing with its own machine",
+      "link": "https://imfounder.com/science-tech/tech-news-october-2026-shocking-stories/",
+      "date": "Wed, 07 Oct 2026 09:51:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents"
+      ],
+      "min": 15
+    },
+    {
       "id": "1eodnmy",
       "type": "news",
       "title": "Amazon Prime Day Deals 2026: Epic Tech Bargains Worth Buying in Canada &#038; the U.S.",
@@ -131,6 +145,22 @@
       "min": 11
     },
     {
+      "id": "1nh77jg",
+      "type": "github",
+      "title": "udaysharmadev/Not-Ai",
+      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
+      "link": "https://github.com/udaysharmadev/Not-Ai",
+      "date": "2026-08-30T12:58:09Z",
+      "source": "GitHub",
+      "author": "udaysharmadev",
+      "tags": [
+        "⭐ 129",
+        "Python"
+      ],
+      "min": null,
+      "stars": 129
+    },
+    {
       "id": "5126k4",
       "type": "news",
       "title": "Trump and Big Tech: 7 Dangerous Shifts That Could Make or Break Your Startup",
@@ -141,22 +171,6 @@
       "author": "Oliver Timbrell",
       "tags": [],
       "min": 9
-    },
-    {
-      "id": "1nh77jg",
-      "type": "github",
-      "title": "udaysharmadev/Not-Ai",
-      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
-      "link": "https://github.com/udaysharmadev/Not-Ai",
-      "date": "2026-08-30T12:58:09Z",
-      "source": "GitHub",
-      "author": "udaysharmadev",
-      "tags": [
-        "⭐ 127",
-        "Python"
-      ],
-      "min": null,
-      "stars": 127
     },
     {
       "id": "nu80zn",
@@ -209,18 +223,6 @@
       "min": 14
     },
     {
-      "id": "1nftwok",
-      "type": "news",
-      "title": "AI Startups to Watch in 2026: 9 Explosive Companies Rewriting Tech in the US and Canada",
-      "desc": "The AI startups to watch in 2026 are not the ones with the loudest chatbots. They are the companies quietly turning models into revenue: agents that resolve support tickets, software that drafts legal work, chips that feed data centers, and trucks that drive themselves. I have been an Apple loyalist",
-      "link": "https://imfounder.com/science-tech/ai/ai-startups-to-watch-canada-united-states/",
-      "date": "Tue, 29 Sep 2026 09:03:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 11
-    },
-    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -236,16 +238,16 @@
       "stars": 89
     },
     {
-      "id": "3fsfz3",
+      "id": "1nftwok",
       "type": "news",
-      "title": "Flytrex Uses Predictive AI to Position Delivery Drones Before Restaurant Orders Arrive",
-      "desc": "Flytrex is placing aircraft on restaurant rooftops before customers order. The system could reduce delivery costs and human handoffs while giving algorithms greater control over which restaurants receive transportation capacity. A Flytrex drone may already be parked on a restaurant roof in suburban ",
-      "link": "https://imfounder.com/science-tech/flytrex-ai-delivery-drones-rooftop-docks/",
-      "date": "Mon, 28 Sep 2026 08:30:51 +0000",
+      "title": "AI Startups to Watch in 2026: 9 Explosive Companies Rewriting Tech in the US and Canada",
+      "desc": "The AI startups to watch in 2026 are not the ones with the loudest chatbots. They are the companies quietly turning models into revenue: agents that resolve support tickets, software that drafts legal work, chips that feed data centers, and trucks that drive themselves. I have been an Apple loyalist",
+      "link": "https://imfounder.com/science-tech/ai/ai-startups-to-watch-canada-united-states/",
+      "date": "Tue, 29 Sep 2026 09:03:00 +0000",
       "source": "IM Founder",
-      "author": "Renée Tomato",
+      "author": "Editor",
       "tags": [],
-      "min": 10
+      "min": 11
     },
     {
       "id": "13cpcdu",
@@ -257,11 +259,11 @@
       "source": "GitHub",
       "author": "antonkarasbiz",
       "tags": [
-        "⭐ 60",
+        "⭐ 59",
         "JavaScript"
       ],
       "min": null,
-      "stars": 60
+      "stars": 59
     },
     {
       "id": "53rtc7",
