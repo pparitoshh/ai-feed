@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:35:00.886Z",
+  "generatedAt": "2026-10-08T12:45:17.422Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 416",
+        "⭐ 417",
         "HTML"
       ],
       "min": null,
-      "stars": 416
+      "stars": 417
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "jb7a6b",
+      "type": "news",
+      "title": "AGI Timeline 2026: 7 Shocking Truths About How Close We Really Are to Human-Level AI",
+      "desc": "The AGI timeline has never been argued over this loudly. On September 3, OpenAI president Greg Brockman closed the launch briefing for GPT-6 Astra with four words: “Welcome to the AGI era.” Within hours, scientists, benchmark designers and rival labs were fighting over whether he was right. I spent ",
+      "link": "https://imfounder.com/science-tech/ai/agi-timeline-2026/",
+      "date": "Thu, 08 Oct 2026 06:04:42 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 12
+    },
+    {
       "id": "b3ggf9",
       "type": "news",
       "title": "Tech News October 2026: 12 Shocking Stories as Rogue AI Agents, $60B Chip Bets and a $1,999 Foldable Rock Big Tech",
@@ -133,6 +145,22 @@
       "min": 15
     },
     {
+      "id": "1nh77jg",
+      "type": "github",
+      "title": "udaysharmadev/Not-Ai",
+      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
+      "link": "https://github.com/udaysharmadev/Not-Ai",
+      "date": "2026-08-30T12:58:09Z",
+      "source": "GitHub",
+      "author": "udaysharmadev",
+      "tags": [
+        "⭐ 132",
+        "Python"
+      ],
+      "min": null,
+      "stars": 132
+    },
+    {
       "id": "1eodnmy",
       "type": "news",
       "title": "Amazon Prime Day Deals 2026: Epic Tech Bargains Worth Buying in Canada &#038; the U.S.",
@@ -143,22 +171,6 @@
       "author": "Editor",
       "tags": [],
       "min": 11
-    },
-    {
-      "id": "1nh77jg",
-      "type": "github",
-      "title": "udaysharmadev/Not-Ai",
-      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
-      "link": "https://github.com/udaysharmadev/Not-Ai",
-      "date": "2026-08-30T12:58:09Z",
-      "source": "GitHub",
-      "author": "udaysharmadev",
-      "tags": [
-        "⭐ 129",
-        "Python"
-      ],
-      "min": null,
-      "stars": 129
     },
     {
       "id": "5126k4",
@@ -209,6 +221,21 @@
       "min": 14
     },
     {
+      "id": "3ttoku",
+      "type": "github",
+      "title": "MahdiKordian/MahdiKordian",
+      "desc": "AI Engineer | ML | DL | Generative AI | LLMs | Python",
+      "link": "https://github.com/MahdiKordian/MahdiKordian",
+      "date": "2026-09-04T20:46:09Z",
+      "source": "GitHub",
+      "author": "MahdiKordian",
+      "tags": [
+        "⭐ 90"
+      ],
+      "min": null,
+      "stars": 90
+    },
+    {
       "id": "znt3nr",
       "type": "news",
       "title": "Your AI Agent Just Broke the Law: 7 Shocking Lessons From the OpenAI–Australia AI Agent Breach",
@@ -221,33 +248,6 @@
         "agents"
       ],
       "min": 14
-    },
-    {
-      "id": "3ttoku",
-      "type": "github",
-      "title": "MahdiKordian/MahdiKordian",
-      "desc": "AI Engineer | ML | DL | Generative AI | LLMs | Python",
-      "link": "https://github.com/MahdiKordian/MahdiKordian",
-      "date": "2026-09-04T20:46:09Z",
-      "source": "GitHub",
-      "author": "MahdiKordian",
-      "tags": [
-        "⭐ 89"
-      ],
-      "min": null,
-      "stars": 89
-    },
-    {
-      "id": "1nftwok",
-      "type": "news",
-      "title": "AI Startups to Watch in 2026: 9 Explosive Companies Rewriting Tech in the US and Canada",
-      "desc": "The AI startups to watch in 2026 are not the ones with the loudest chatbots. They are the companies quietly turning models into revenue: agents that resolve support tickets, software that drafts legal work, chips that feed data centers, and trucks that drive themselves. I have been an Apple loyalist",
-      "link": "https://imfounder.com/science-tech/ai/ai-startups-to-watch-canada-united-states/",
-      "date": "Tue, 29 Sep 2026 09:03:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 11
     },
     {
       "id": "13cpcdu",
@@ -313,20 +313,20 @@
       "stars": 36
     },
     {
-      "id": "1hw2pyu",
+      "id": "3bt7yd",
       "type": "github",
-      "title": "cagridursun/agentic-developer-handbook",
-      "desc": "Java-first open-source handbook for understanding and building agentic systems, one concept at a time.",
-      "link": "https://github.com/cagridursun/agentic-developer-handbook",
-      "date": "2026-09-22T22:17:13Z",
+      "title": "iamarxs/AnyWorld",
+      "desc": "A multiplayer browser game implemented with Python, where an AI acts as the dungeon master and players type out their actions in their own words!",
+      "link": "https://github.com/iamarxs/AnyWorld",
+      "date": "2026-09-15T20:20:52Z",
       "source": "GitHub",
-      "author": "cagridursun",
+      "author": "iamarxs",
       "tags": [
-        "⭐ 34",
-        "Java"
+        "⭐ 36",
+        "Python"
       ],
       "min": null,
-      "stars": 34
+      "stars": 36
     }
   ]
 }
