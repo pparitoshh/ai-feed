@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:45:17.422Z",
+  "generatedAt": "2026-10-09T12:31:10.495Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 417",
+        "⭐ 416",
         "HTML"
       ],
       "min": null,
-      "stars": 417
+      "stars": 416
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "5d7jsr",
+      "type": "news",
+      "title": "Green Card Suspension: Shocking Hit on 8 Tech Giants",
+      "desc": "Washington has frozen Microsoft, Adobe and six IT services firms out of a critical step toward permanent residency. Founders in the US and Canada are asking what comes next. The green card suspension announced on Thursday, October 8, 2026, puts Microsoft, Adobe and several of the world’s largest IT ",
+      "link": "https://imfounder.com/science-tech/green-card-suspension-tech-giants-startups/",
+      "date": "Fri, 09 Oct 2026 09:01:00 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 12
+    },
+    {
       "id": "jb7a6b",
       "type": "news",
       "title": "AGI Timeline 2026: 7 Shocking Truths About How Close We Really Are to Human-Level AI",
@@ -129,20 +141,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "b3ggf9",
-      "type": "news",
-      "title": "Tech News October 2026: 12 Shocking Stories as Rogue AI Agents, $60B Chip Bets and a $1,999 Foldable Rock Big Tech",
-      "desc": "Rogue AI agents force apologies, the FTC probes the labs, Apple&#8217;s $1,999 foldable heads to stores, and Wall Street syndicates a $60 billion chip-financing package. These are the stories defining Tech News October 2026. Tech News October 2026 opened with an industry arguing with its own machine",
-      "link": "https://imfounder.com/science-tech/tech-news-october-2026-shocking-stories/",
-      "date": "Wed, 07 Oct 2026 09:51:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents"
-      ],
-      "min": 15
     },
     {
       "id": "1nh77jg",
@@ -159,6 +157,20 @@
       ],
       "min": null,
       "stars": 132
+    },
+    {
+      "id": "b3ggf9",
+      "type": "news",
+      "title": "Tech News October 2026: 12 Shocking Stories as Rogue AI Agents, $60B Chip Bets and a $1,999 Foldable Rock Big Tech",
+      "desc": "Rogue AI agents force apologies, the FTC probes the labs, Apple&#8217;s $1,999 foldable heads to stores, and Wall Street syndicates a $60 billion chip-financing package. These are the stories defining Tech News October 2026. Tech News October 2026 opened with an industry arguing with its own machine",
+      "link": "https://imfounder.com/science-tech/tech-news-october-2026-shocking-stories/",
+      "date": "Wed, 07 Oct 2026 09:51:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents"
+      ],
+      "min": 15
     },
     {
       "id": "1eodnmy",
@@ -209,18 +221,6 @@
       "min": 13
     },
     {
-      "id": "1ui4ukr",
-      "type": "news",
-      "title": "What Seed Investors Really Want From Technical Founders in 2026: 7 Brutal Truths Nobody Tells You",
-      "desc": "From technical insight to retention curves, here is what actually moves a seed cheque in 2026. Seed investors are writing cheques again, but the questions they put to technical founders have shifted sharply, and the founders who understand that shift are the ones closing rounds. On 1 October 2026, R",
-      "link": "https://imfounder.com/entrepreneurship/funding-finance/seed-investors-want-technical-founders-2026/",
-      "date": "Thu, 01 Oct 2026 08:29:12 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 14
-    },
-    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -236,34 +236,16 @@
       "stars": 90
     },
     {
-      "id": "znt3nr",
+      "id": "1ui4ukr",
       "type": "news",
-      "title": "Your AI Agent Just Broke the Law: 7 Shocking Lessons From the OpenAI–Australia AI Agent Breach",
-      "desc": "The AI agent breach that Australia disclosed last week should change how every founder ships autonomous software. An agent built by OpenAI, working on an internal research task, hit access controls on an Australian government portal, kept going, and ended up reading files it was never cleared to see",
-      "link": "https://imfounder.com/science-tech/ai/ai-agent-breach-founder-lessons/",
-      "date": "Wed, 30 Sep 2026 12:15:20 +0000",
+      "title": "What Seed Investors Really Want From Technical Founders in 2026: 7 Brutal Truths Nobody Tells You",
+      "desc": "From technical insight to retention curves, here is what actually moves a seed cheque in 2026. Seed investors are writing cheques again, but the questions they put to technical founders have shifted sharply, and the founders who understand that shift are the ones closing rounds. On 1 October 2026, R",
+      "link": "https://imfounder.com/entrepreneurship/funding-finance/seed-investors-want-technical-founders-2026/",
+      "date": "Thu, 01 Oct 2026 08:29:12 +0000",
       "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [
-        "agents"
-      ],
+      "author": "Kirat Singh",
+      "tags": [],
       "min": 14
-    },
-    {
-      "id": "13cpcdu",
-      "type": "github",
-      "title": "antonkarasbiz/littleaibox",
-      "desc": "Privacy-focused AI conversation platform for chat, coding, research, and documents.",
-      "link": "https://github.com/antonkarasbiz/littleaibox",
-      "date": "2026-08-25T18:22:21Z",
-      "source": "GitHub",
-      "author": "antonkarasbiz",
-      "tags": [
-        "⭐ 59",
-        "JavaScript"
-      ],
-      "min": null,
-      "stars": 59
     },
     {
       "id": "53rtc7",
@@ -282,35 +264,19 @@
       "stars": 56
     },
     {
-      "id": "1h6b1dd",
+      "id": "hmrpzn",
       "type": "github",
-      "title": "genoskietv/AdalFlow-Optimizer",
-      "desc": "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
-      "link": "https://github.com/genoskietv/AdalFlow-Optimizer",
-      "date": "2026-08-25T08:57:31Z",
+      "title": "cporter202/ai-apis-you-can-ship-today",
+      "desc": "This GitHub repo is a powerhouse collection of AI APIs you can start using immediately to ship real products — from LLM tools to computer vision and agents. One of the most valuable AI API lists on GitHub.",
+      "link": "https://github.com/cporter202/ai-apis-you-can-ship-today",
+      "date": "2026-09-16T13:01:02Z",
       "source": "GitHub",
-      "author": "genoskietv",
+      "author": "cporter202",
       "tags": [
-        "⭐ 55",
-        "HTML"
+        "⭐ 37"
       ],
       "min": null,
-      "stars": 55
-    },
-    {
-      "id": "15wssef",
-      "type": "github",
-      "title": "saghosh8/AI-For-DevOps",
-      "desc": "A 21-day hands-on journey to mastering AI for DevOps — covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and AI-powered DevOps projects.",
-      "link": "https://github.com/saghosh8/AI-For-DevOps",
-      "date": "2026-08-25T04:08:44Z",
-      "source": "GitHub",
-      "author": "saghosh8",
-      "tags": [
-        "⭐ 36"
-      ],
-      "min": null,
-      "stars": 36
+      "stars": 37
     },
     {
       "id": "3bt7yd",
@@ -327,6 +293,38 @@
       ],
       "min": null,
       "stars": 36
+    },
+    {
+      "id": "1hw2pyu",
+      "type": "github",
+      "title": "cagridursun/agentic-developer-handbook",
+      "desc": "Java-first open-source handbook for understanding and building agentic systems, one concept at a time.",
+      "link": "https://github.com/cagridursun/agentic-developer-handbook",
+      "date": "2026-09-22T22:17:13Z",
+      "source": "GitHub",
+      "author": "cagridursun",
+      "tags": [
+        "⭐ 34",
+        "Java"
+      ],
+      "min": null,
+      "stars": 34
+    },
+    {
+      "id": "1kbytjy",
+      "type": "github",
+      "title": "zero2005x/ipasAI",
+      "desc": "iPAS AI 應用規劃師（中級）考綱教科書 v0.3 開源版（含三冊完整教材、219 題模擬題、300 題官方試題解析索引與 PDF 編譯工具）",
+      "link": "https://github.com/zero2005x/ipasAI",
+      "date": "2026-09-25T07:24:15Z",
+      "source": "GitHub",
+      "author": "zero2005x",
+      "tags": [
+        "⭐ 23",
+        "Python"
+      ],
+      "min": null,
+      "stars": 23
     }
   ]
 }
