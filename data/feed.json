@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:50:46.804Z",
+  "generatedAt": "2026-10-11T12:02:36.652Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 416",
+        "⭐ 420",
         "HTML"
       ],
       "min": null,
-      "stars": 416
+      "stars": 420
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "15jrucz",
+      "type": "news",
+      "title": "Bootstrapping vs Raising: 7 Brutal Truths Nobody Tells You",
+      "desc": "Before you sign a term sheet or empty your savings, use this five-question framework to choose the funding path that fits your startup, your market and your life. Bootstrapping vs raising is the first big fork in every founder&#8217;s road, and most people pick a side by instinct instead of arithmet",
+      "link": "https://imfounder.com/entrepreneurship/funding-finance/bootstrapping-vs-raising/",
+      "date": "Sat, 10 Oct 2026 12:10:55 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 14
+    },
+    {
       "id": "5d7jsr",
       "type": "news",
       "title": "Green Card Suspension: Shocking Hit on 8 Tech Giants",
@@ -127,18 +139,6 @@
       "date": "Fri, 09 Oct 2026 09:01:00 +0000",
       "source": "IM Founder",
       "author": "Editor",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "jb7a6b",
-      "type": "news",
-      "title": "AGI Timeline 2026: 7 Shocking Truths About How Close We Really Are to Human-Level AI",
-      "desc": "The AGI timeline has never been argued over this loudly. On September 3, OpenAI president Greg Brockman closed the launch briefing for GPT-6 Astra with four words: “Welcome to the AGI era.” Within hours, scientists, benchmark designers and rival labs were fighting over whether he was right. I spent ",
-      "link": "https://imfounder.com/science-tech/ai/agi-timeline-2026/",
-      "date": "Thu, 08 Oct 2026 06:04:42 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
       "tags": [],
       "min": 12
     },
@@ -152,11 +152,23 @@
       "source": "GitHub",
       "author": "udaysharmadev",
       "tags": [
-        "⭐ 133",
+        "⭐ 134",
         "Python"
       ],
       "min": null,
-      "stars": 133
+      "stars": 134
+    },
+    {
+      "id": "jb7a6b",
+      "type": "news",
+      "title": "AGI Timeline 2026: 7 Shocking Truths About How Close We Really Are to Human-Level AI",
+      "desc": "The AGI timeline has never been argued over this loudly. On September 3, OpenAI president Greg Brockman closed the launch briefing for GPT-6 Astra with four words: “Welcome to the AGI era.” Within hours, scientists, benchmark designers and rival labs were fighting over whether he was right. I spent ",
+      "link": "https://imfounder.com/science-tech/ai/agi-timeline-2026/",
+      "date": "Thu, 08 Oct 2026 06:04:42 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 12
     },
     {
       "id": "b3ggf9",
@@ -209,6 +221,21 @@
       "min": 15
     },
     {
+      "id": "3ttoku",
+      "type": "github",
+      "title": "MahdiKordian/MahdiKordian",
+      "desc": "AI Engineer | ML | DL | Generative AI | LLMs | Python",
+      "link": "https://github.com/MahdiKordian/MahdiKordian",
+      "date": "2026-09-04T20:46:09Z",
+      "source": "GitHub",
+      "author": "MahdiKordian",
+      "tags": [
+        "⭐ 92"
+      ],
+      "min": null,
+      "stars": 92
+    },
+    {
       "id": "dpctrz",
       "type": "news",
       "title": "AI Is Helping Scientists Turn Living Cells Into Programmable Medicine",
@@ -219,33 +246,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 13
-    },
-    {
-      "id": "3ttoku",
-      "type": "github",
-      "title": "MahdiKordian/MahdiKordian",
-      "desc": "AI Engineer | ML | DL | Generative AI | LLMs | Python",
-      "link": "https://github.com/MahdiKordian/MahdiKordian",
-      "date": "2026-09-04T20:46:09Z",
-      "source": "GitHub",
-      "author": "MahdiKordian",
-      "tags": [
-        "⭐ 90"
-      ],
-      "min": null,
-      "stars": 90
-    },
-    {
-      "id": "1ui4ukr",
-      "type": "news",
-      "title": "What Seed Investors Really Want From Technical Founders in 2026: 7 Brutal Truths Nobody Tells You",
-      "desc": "From technical insight to retention curves, here is what actually moves a seed cheque in 2026. Seed investors are writing cheques again, but the questions they put to technical founders have shifted sharply, and the founders who understand that shift are the ones closing rounds. On 1 October 2026, R",
-      "link": "https://imfounder.com/entrepreneurship/funding-finance/seed-investors-want-technical-founders-2026/",
-      "date": "Thu, 01 Oct 2026 08:29:12 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 14
     },
     {
       "id": "53rtc7",
@@ -273,10 +273,10 @@
       "source": "GitHub",
       "author": "cporter202",
       "tags": [
-        "⭐ 41"
+        "⭐ 47"
       ],
       "min": null,
-      "stars": 41
+      "stars": 47
     },
     {
       "id": "3bt7yd",
@@ -288,11 +288,11 @@
       "source": "GitHub",
       "author": "iamarxs",
       "tags": [
-        "⭐ 38",
+        "⭐ 37",
         "Python"
       ],
       "min": null,
-      "stars": 38
+      "stars": 37
     },
     {
       "id": "1hw2pyu",
