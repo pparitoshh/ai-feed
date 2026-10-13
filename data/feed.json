@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T14:19:34.046Z",
+  "generatedAt": "2026-10-13T13:28:44.995Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 427",
+        "⭐ 439",
         "HTML"
       ],
       "min": null,
-      "stars": 427
+      "stars": 439
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "167b91l",
+      "type": "news",
+      "title": "Uplift Modeling: The AI That Decides Who Gets the Discount",
+      "desc": "The Discount Algorithm: How AI Decides Who Gets the Deal A $325 million acquisition, 60 billion machine-learning offers a year, and a grocery platform that says personalized discounts will continue. The software deciding who saves is already in place. The rules for proving the saving are not. A coup",
+      "link": "https://imfounder.com/science-tech/ai/discount-algorithm-ai-personalized-discounts/",
+      "date": "Tue, 13 Oct 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 7
+    },
+    {
       "id": "dx4fe9",
       "type": "news",
       "title": "15 Explosive AI Updates October 2026: ChatGPT Builds Apps Inside Answers, Anthropic&#8217;s IPO Slips &#038; Rogue Agents Hit Wikimedia",
@@ -130,18 +142,6 @@
       "tags": [
         "agents"
       ],
-      "min": 14
-    },
-    {
-      "id": "15jrucz",
-      "type": "news",
-      "title": "Bootstrapping vs Raising: 7 Brutal Truths Nobody Tells You",
-      "desc": "Before you sign a term sheet or empty your savings, use this five-question framework to choose the funding path that fits your startup, your market and your life. Bootstrapping vs raising is the first big fork in every founder&#8217;s road, and most people pick a side by instinct instead of arithmet",
-      "link": "https://imfounder.com/entrepreneurship/funding-finance/bootstrapping-vs-raising/",
-      "date": "Sat, 10 Oct 2026 12:10:55 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
       "min": 14
     },
     {
@@ -159,6 +159,18 @@
       ],
       "min": null,
       "stars": 135
+    },
+    {
+      "id": "15jrucz",
+      "type": "news",
+      "title": "Bootstrapping vs Raising: 7 Brutal Truths Nobody Tells You",
+      "desc": "Before you sign a term sheet or empty your savings, use this five-question framework to choose the funding path that fits your startup, your market and your life. Bootstrapping vs raising is the first big fork in every founder&#8217;s road, and most people pick a side by instinct instead of arithmet",
+      "link": "https://imfounder.com/entrepreneurship/funding-finance/bootstrapping-vs-raising/",
+      "date": "Sat, 10 Oct 2026 12:10:55 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 14
     },
     {
       "id": "5d7jsr",
@@ -211,18 +223,6 @@
       "min": 11
     },
     {
-      "id": "5126k4",
-      "type": "news",
-      "title": "Trump and Big Tech: 7 Dangerous Shifts That Could Make or Break Your Startup",
-      "desc": "Trump and Big Tech&#160;are no longer rivals. They are partners, and if you are building a company, you cannot ignore that. I am writing this as a founder&#8217;s guide, not a news report. I will not retell the headlines. I want to give you my own read on what this alliance means, what it changes [&",
-      "link": "https://imfounder.com/science-tech/trump-and-big-tech/",
-      "date": "Mon, 05 Oct 2026 09:34:00 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 9
-    },
-    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -238,16 +238,16 @@
       "stars": 91
     },
     {
-      "id": "nu80zn",
+      "id": "5126k4",
       "type": "news",
-      "title": "Masterminds and Founder Circles: 7 Shocking Reasons Small Peer Groups Are Killing Big Networking Events",
-      "desc": "Masterminds and founder circles are no longer a niche habit of self-help devotees and Silicon Valley insiders. They have become the default way many founders look for advice, accountability and honest feedback. Ask a group of company builders where they get their best ideas and hardest truths, and a",
-      "link": "https://imfounder.com/entrepreneurship/masterminds-and-founder-circles/",
-      "date": "Sat, 03 Oct 2026 14:45:56 +0000",
+      "title": "Trump and Big Tech: 7 Dangerous Shifts That Could Make or Break Your Startup",
+      "desc": "Trump and Big Tech&#160;are no longer rivals. They are partners, and if you are building a company, you cannot ignore that. I am writing this as a founder&#8217;s guide, not a news report. I will not retell the headlines. I want to give you my own read on what this alliance means, what it changes [&",
+      "link": "https://imfounder.com/science-tech/trump-and-big-tech/",
+      "date": "Mon, 05 Oct 2026 09:34:00 +0000",
       "source": "IM Founder",
-      "author": "Neha Slatch",
+      "author": "Oliver Timbrell",
       "tags": [],
-      "min": 15
+      "min": 9
     },
     {
       "id": "53rtc7",
@@ -275,10 +275,10 @@
       "source": "GitHub",
       "author": "cporter202",
       "tags": [
-        "⭐ 49"
+        "⭐ 51"
       ],
       "min": null,
-      "stars": 49
+      "stars": 51
     },
     {
       "id": "3bt7yd",
@@ -290,11 +290,11 @@
       "source": "GitHub",
       "author": "iamarxs",
       "tags": [
-        "⭐ 37",
+        "⭐ 38",
         "Python"
       ],
       "min": null,
-      "stars": 37
+      "stars": 38
     },
     {
       "id": "1hw2pyu",
@@ -313,20 +313,20 @@
       "stars": 34
     },
     {
-      "id": "1kbytjy",
+      "id": "1brbuek",
       "type": "github",
-      "title": "zero2005x/ipasAI",
-      "desc": "iPAS AI 應用規劃師（中級）考綱教科書 v0.3 開源版（含三冊完整教材、219 題模擬題、300 題官方試題解析索引與 PDF 編譯工具）",
-      "link": "https://github.com/zero2005x/ipasAI",
-      "date": "2026-09-25T07:24:15Z",
+      "title": "tayyabimam1/awesome-ai-agent-stack",
+      "desc": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LLMs, sorted by layer and ranked by GitHub stars.",
+      "link": "https://github.com/tayyabimam1/awesome-ai-agent-stack",
+      "date": "2026-09-18T07:33:15Z",
       "source": "GitHub",
-      "author": "zero2005x",
+      "author": "tayyabimam1",
       "tags": [
-        "⭐ 23",
-        "Python"
+        "⭐ 27",
+        "TypeScript"
       ],
       "min": null,
-      "stars": 23
+      "stars": 27
     }
   ]
 }
