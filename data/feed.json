@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T13:28:44.995Z",
+  "generatedAt": "2026-10-14T11:06:22.079Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 439",
+        "⭐ 444",
         "HTML"
       ],
       "min": null,
-      "stars": 439
+      "stars": 444
     },
     {
       "id": "oesf1f",
@@ -145,20 +145,20 @@
       "min": 14
     },
     {
-      "id": "1nh77jg",
+      "id": "zqp5rk",
       "type": "github",
-      "title": "udaysharmadev/Not-Ai",
-      "desc": "Not Ai isn’t just about bypassing AI detectors. It puts good writing first, creating clear, honest prose shaped by human writing standards. It’s perfect for college and school projects, LinkedIn/X posts, emails, factual articles, personal essays, social media posts, and technical documentation, especially GitHub READMEs",
-      "link": "https://github.com/udaysharmadev/Not-Ai",
-      "date": "2026-08-30T12:58:09Z",
+      "title": "BlenderGPT3D/blender-ai-addon",
+      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+      "link": "https://github.com/BlenderGPT3D/blender-ai-addon",
+      "date": "2026-10-09T08:34:03Z",
       "source": "GitHub",
-      "author": "udaysharmadev",
+      "author": "BlenderGPT3D",
       "tags": [
-        "⭐ 135",
+        "⭐ 211",
         "Python"
       ],
       "min": null,
-      "stars": 135
+      "stars": 211
     },
     {
       "id": "15jrucz",
@@ -232,10 +232,10 @@
       "source": "GitHub",
       "author": "MahdiKordian",
       "tags": [
-        "⭐ 91"
+        "⭐ 92"
       ],
       "min": null,
-      "stars": 91
+      "stars": 92
     },
     {
       "id": "5126k4",
@@ -306,11 +306,11 @@
       "source": "GitHub",
       "author": "cagridursun",
       "tags": [
-        "⭐ 34",
+        "⭐ 35",
         "Java"
       ],
       "min": null,
-      "stars": 34
+      "stars": 35
     },
     {
       "id": "1brbuek",
@@ -322,11 +322,11 @@
       "source": "GitHub",
       "author": "tayyabimam1",
       "tags": [
-        "⭐ 27",
+        "⭐ 28",
         "TypeScript"
       ],
       "min": null,
-      "stars": 27
+      "stars": 28
     }
   ]
 }
