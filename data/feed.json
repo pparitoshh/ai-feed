@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:06:22.079Z",
+  "generatedAt": "2026-10-15T10:48:12.349Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 444",
+        "⭐ 457",
         "HTML"
       ],
       "min": null,
-      "stars": 444
+      "stars": 457
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,48 @@
       "min": 30
     },
     {
+      "id": "34dvxj",
+      "type": "news",
+      "title": "Users but No Revenue: 7 Brutal Fixes Your Startup Must Make First",
+      "desc": "Your startup has users but no revenue. Here is the diagnostic order for conversion problems, weak positioning, pricing mistakes, and customers who love the product but won’t pay. Users but no revenue&#160;is the most misleading milestone in startup life. The dashboard looks healthy. Sign-ups climb, ",
+      "link": "https://imfounder.com/entrepreneurship/users-but-no-revenue/",
+      "date": "Thu, 15 Oct 2026 10:11:23 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [
+        "mlops"
+      ],
+      "min": 14
+    },
+    {
+      "id": "152p5r8",
+      "type": "news",
+      "title": "Automation Economy Explained: 7 Shocking Ways AI Turned Robots Into a New Global Market",
+      "desc": "Humanoid robots, million-robot warehouses and AI-run factories are rewriting how the world makes and moves things. Here is what is real, what is hype, and which industries are most exposed. The automation economy is no longer a forecast tucked inside a consulting deck. It is a budget line on factory",
+      "link": "https://imfounder.com/science-tech/ai/automation-economy-ai-robotics/",
+      "date": "Wed, 14 Oct 2026 12:48:27 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 13
+    },
+    {
+      "id": "zqp5rk",
+      "type": "github",
+      "title": "BlenderGPT3D/blender-ai-addon",
+      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+      "link": "https://github.com/BlenderGPT3D/blender-ai-addon",
+      "date": "2026-10-09T08:34:03Z",
+      "source": "GitHub",
+      "author": "BlenderGPT3D",
+      "tags": [
+        "⭐ 213",
+        "Python"
+      ],
+      "min": null,
+      "stars": 213
+    },
+    {
       "id": "167b91l",
       "type": "news",
       "title": "Uplift Modeling: The AI That Decides Who Gets the Discount",
@@ -143,22 +185,6 @@
         "agents"
       ],
       "min": 14
-    },
-    {
-      "id": "zqp5rk",
-      "type": "github",
-      "title": "BlenderGPT3D/blender-ai-addon",
-      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
-      "link": "https://github.com/BlenderGPT3D/blender-ai-addon",
-      "date": "2026-10-09T08:34:03Z",
-      "source": "GitHub",
-      "author": "BlenderGPT3D",
-      "tags": [
-        "⭐ 211",
-        "Python"
-      ],
-      "min": null,
-      "stars": 211
     },
     {
       "id": "15jrucz",
@@ -197,6 +223,22 @@
       "min": 12
     },
     {
+      "id": "zc0723",
+      "type": "github",
+      "title": "Fazmin/AILearningGuide",
+      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+      "link": "https://github.com/Fazmin/AILearningGuide",
+      "date": "2026-10-05T02:29:23Z",
+      "source": "GitHub",
+      "author": "Fazmin",
+      "tags": [
+        "⭐ 176",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 176
+    },
+    {
       "id": "b3ggf9",
       "type": "news",
       "title": "Tech News October 2026: 12 Shocking Stories as Rogue AI Agents, $60B Chip Bets and a $1,999 Foldable Rock Big Tech",
@@ -211,18 +253,6 @@
       "min": 15
     },
     {
-      "id": "1eodnmy",
-      "type": "news",
-      "title": "Amazon Prime Day Deals 2026: Epic Tech Bargains Worth Buying in Canada &#038; the U.S.",
-      "desc": "Amazon&#8217;s October Prime Big Deal Days close at the end of October 7, Pacific time. Here is what is worth buying in Canada and the US, what Prime costs on each side of the border, and how to avoid paying for a fake bargain. Prime Day deals are live right now, and the countdown is [&#8230;] The p",
-      "link": "https://imfounder.com/lifestyle/prime-day-deals-canada-us-october-2026/",
-      "date": "Mon, 05 Oct 2026 21:57:15 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 11
-    },
-    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -232,22 +262,10 @@
       "source": "GitHub",
       "author": "MahdiKordian",
       "tags": [
-        "⭐ 92"
+        "⭐ 93"
       ],
       "min": null,
-      "stars": 92
-    },
-    {
-      "id": "5126k4",
-      "type": "news",
-      "title": "Trump and Big Tech: 7 Dangerous Shifts That Could Make or Break Your Startup",
-      "desc": "Trump and Big Tech&#160;are no longer rivals. They are partners, and if you are building a company, you cannot ignore that. I am writing this as a founder&#8217;s guide, not a news report. I will not retell the headlines. I want to give you my own read on what this alliance means, what it changes [&",
-      "link": "https://imfounder.com/science-tech/trump-and-big-tech/",
-      "date": "Mon, 05 Oct 2026 09:34:00 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 9
+      "stars": 93
     },
     {
       "id": "53rtc7",
@@ -311,22 +329,6 @@
       ],
       "min": null,
       "stars": 35
-    },
-    {
-      "id": "1brbuek",
-      "type": "github",
-      "title": "tayyabimam1/awesome-ai-agent-stack",
-      "desc": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LLMs, sorted by layer and ranked by GitHub stars.",
-      "link": "https://github.com/tayyabimam1/awesome-ai-agent-stack",
-      "date": "2026-09-18T07:33:15Z",
-      "source": "GitHub",
-      "author": "tayyabimam1",
-      "tags": [
-        "⭐ 28",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 28
     }
   ]
 }
