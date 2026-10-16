@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:48:12.349Z",
+  "generatedAt": "2026-10-16T10:37:00.770Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 457",
+        "⭐ 481",
         "HTML"
       ],
       "min": null,
-      "stars": 457
+      "stars": 481
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "xfihj",
+      "type": "news",
+      "title": "We Got Flying Cars Before GTA 6 &#8211; Rocket-Assisted Tesla Roadster",
+      "desc": "Elon Musk’s rocket-assisted Tesla Roadster just flipped through the air in Texas, shaking the internet. Here is exactly what happened, what experts are saying, and what is still unproven. Flying cars stopped being a punchline on the night of October 15, 2026. At SpaceX’s McGregor test site in Texas,",
+      "link": "https://imfounder.com/science-tech/flying-cars-before-gta-6/",
+      "date": "Fri, 16 Oct 2026 08:49:53 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 12
+    },
+    {
       "id": "34dvxj",
       "type": "news",
       "title": "Users but No Revenue: 7 Brutal Fixes Your Startup Must Make First",
@@ -133,6 +145,22 @@
       "min": 14
     },
     {
+      "id": "lhnwr7",
+      "type": "github",
+      "title": "hitkeeen/blender-ai-addon",
+      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+      "link": "https://github.com/hitkeeen/blender-ai-addon",
+      "date": "2026-10-09T08:34:03Z",
+      "source": "GitHub",
+      "author": "hitkeeen",
+      "tags": [
+        "⭐ 215",
+        "Python"
+      ],
+      "min": null,
+      "stars": 215
+    },
+    {
       "id": "152p5r8",
       "type": "news",
       "title": "Automation Economy Explained: 7 Shocking Ways AI Turned Robots Into a New Global Market",
@@ -143,22 +171,6 @@
       "author": "Oliver Timbrell",
       "tags": [],
       "min": 13
-    },
-    {
-      "id": "zqp5rk",
-      "type": "github",
-      "title": "BlenderGPT3D/blender-ai-addon",
-      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
-      "link": "https://github.com/BlenderGPT3D/blender-ai-addon",
-      "date": "2026-10-09T08:34:03Z",
-      "source": "GitHub",
-      "author": "BlenderGPT3D",
-      "tags": [
-        "⭐ 213",
-        "Python"
-      ],
-      "min": null,
-      "stars": 213
     },
     {
       "id": "167b91l",
@@ -211,6 +223,22 @@
       "min": 12
     },
     {
+      "id": "zc0723",
+      "type": "github",
+      "title": "Fazmin/AILearningGuide",
+      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+      "link": "https://github.com/Fazmin/AILearningGuide",
+      "date": "2026-10-05T02:29:23Z",
+      "source": "GitHub",
+      "author": "Fazmin",
+      "tags": [
+        "⭐ 190",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 190
+    },
+    {
       "id": "jb7a6b",
       "type": "news",
       "title": "AGI Timeline 2026: 7 Shocking Truths About How Close We Really Are to Human-Level AI",
@@ -223,36 +251,6 @@
       "min": 12
     },
     {
-      "id": "zc0723",
-      "type": "github",
-      "title": "Fazmin/AILearningGuide",
-      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
-      "link": "https://github.com/Fazmin/AILearningGuide",
-      "date": "2026-10-05T02:29:23Z",
-      "source": "GitHub",
-      "author": "Fazmin",
-      "tags": [
-        "⭐ 176",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 176
-    },
-    {
-      "id": "b3ggf9",
-      "type": "news",
-      "title": "Tech News October 2026: 12 Shocking Stories as Rogue AI Agents, $60B Chip Bets and a $1,999 Foldable Rock Big Tech",
-      "desc": "Rogue AI agents force apologies, the FTC probes the labs, Apple&#8217;s $1,999 foldable heads to stores, and Wall Street syndicates a $60 billion chip-financing package. These are the stories defining Tech News October 2026. Tech News October 2026 opened with an industry arguing with its own machine",
-      "link": "https://imfounder.com/science-tech/tech-news-october-2026-shocking-stories/",
-      "date": "Wed, 07 Oct 2026 09:51:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents"
-      ],
-      "min": 15
-    },
-    {
       "id": "3ttoku",
       "type": "github",
       "title": "MahdiKordian/MahdiKordian",
@@ -262,10 +260,10 @@
       "source": "GitHub",
       "author": "MahdiKordian",
       "tags": [
-        "⭐ 93"
+        "⭐ 134"
       ],
       "min": null,
-      "stars": 93
+      "stars": 134
     },
     {
       "id": "53rtc7",
