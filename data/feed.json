@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:06:09.175Z",
+  "generatedAt": "2026-10-18T10:19:26.678Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 486",
+        "⭐ 490",
         "HTML"
       ],
       "min": null,
-      "stars": 486
+      "stars": 490
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "384r3q",
+      "type": "news",
+      "title": "Shared Kitchens Are Changing the Cost of Starting a Food Business",
+      "desc": "A food entrepreneur can have a marketable recipe, paying customers and the skills to produce—and still lack an approved kitchen. Building a commercial facility creates financial commitments before the first order: equipment, refrigeration, installation, premises and operating overhead. Shared kitche",
+      "link": "https://imfounder.com/entrepreneurship/shared-kitchens-food-business-startup-costs/",
+      "date": "Sat, 17 Oct 2026 12:04:16 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 7
+    },
+    {
       "id": "xfihj",
       "type": "news",
       "title": "We Got Flying Cars Before GTA 6 &#8211; Rocket-Assisted Tesla Roadster",
@@ -129,20 +141,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "34dvxj",
-      "type": "news",
-      "title": "Users but No Revenue: 7 Brutal Fixes Your Startup Must Make First",
-      "desc": "Your startup has users but no revenue. Here is the diagnostic order for conversion problems, weak positioning, pricing mistakes, and customers who love the product but won’t pay. Users but no revenue&#160;is the most misleading milestone in startup life. The dashboard looks healthy. Sign-ups climb, ",
-      "link": "https://imfounder.com/entrepreneurship/users-but-no-revenue/",
-      "date": "Thu, 15 Oct 2026 10:11:23 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [
-        "mlops"
-      ],
-      "min": 14
     },
     {
       "id": "lhnwr7",
@@ -159,6 +157,20 @@
       ],
       "min": null,
       "stars": 217
+    },
+    {
+      "id": "34dvxj",
+      "type": "news",
+      "title": "Users but No Revenue: 7 Brutal Fixes Your Startup Must Make First",
+      "desc": "Your startup has users but no revenue. Here is the diagnostic order for conversion problems, weak positioning, pricing mistakes, and customers who love the product but won’t pay. Users but no revenue&#160;is the most misleading milestone in startup life. The dashboard looks healthy. Sign-ups climb, ",
+      "link": "https://imfounder.com/entrepreneurship/users-but-no-revenue/",
+      "date": "Thu, 15 Oct 2026 10:11:23 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [
+        "mlops"
+      ],
+      "min": 14
     },
     {
       "id": "152p5r8",
@@ -211,18 +223,6 @@
       "min": 14
     },
     {
-      "id": "5d7jsr",
-      "type": "news",
-      "title": "Green Card Suspension: Shocking Hit on 8 Tech Giants",
-      "desc": "Washington has frozen Microsoft, Adobe and six IT services firms out of a critical step toward permanent residency. Founders in the US and Canada are asking what comes next. The green card suspension announced on Thursday, October 8, 2026, puts Microsoft, Adobe and several of the world’s largest IT ",
-      "link": "https://imfounder.com/science-tech/green-card-suspension-tech-giants-startups/",
-      "date": "Fri, 09 Oct 2026 09:01:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 12
-    },
-    {
       "id": "zc0723",
       "type": "github",
       "title": "Fazmin/AILearningGuide",
@@ -232,21 +232,21 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 194",
+        "⭐ 198",
         "TypeScript"
       ],
       "min": null,
-      "stars": 194
+      "stars": 198
     },
     {
-      "id": "jb7a6b",
+      "id": "5d7jsr",
       "type": "news",
-      "title": "AGI Timeline 2026: 7 Shocking Truths About How Close We Really Are to Human-Level AI",
-      "desc": "The AGI timeline has never been argued over this loudly. On September 3, OpenAI president Greg Brockman closed the launch briefing for GPT-6 Astra with four words: “Welcome to the AGI era.” Within hours, scientists, benchmark designers and rival labs were fighting over whether he was right. I spent ",
-      "link": "https://imfounder.com/science-tech/ai/agi-timeline-2026/",
-      "date": "Thu, 08 Oct 2026 06:04:42 +0000",
+      "title": "Green Card Suspension: Shocking Hit on 8 Tech Giants",
+      "desc": "Washington has frozen Microsoft, Adobe and six IT services firms out of a critical step toward permanent residency. Founders in the US and Canada are asking what comes next. The green card suspension announced on Thursday, October 8, 2026, puts Microsoft, Adobe and several of the world’s largest IT ",
+      "link": "https://imfounder.com/science-tech/green-card-suspension-tech-giants-startups/",
+      "date": "Fri, 09 Oct 2026 09:01:00 +0000",
       "source": "IM Founder",
-      "author": "Kirat Singh",
+      "author": "Editor",
       "tags": [],
       "min": 12
     },
@@ -291,10 +291,10 @@
       "source": "GitHub",
       "author": "cporter202",
       "tags": [
-        "⭐ 51"
+        "⭐ 52"
       ],
       "min": null,
-      "stars": 51
+      "stars": 52
     },
     {
       "id": "3bt7yd",
@@ -306,11 +306,11 @@
       "source": "GitHub",
       "author": "iamarxs",
       "tags": [
-        "⭐ 38",
+        "⭐ 39",
         "Python"
       ],
       "min": null,
-      "stars": 38
+      "stars": 39
     },
     {
       "id": "1hw2pyu",
