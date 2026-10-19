@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:19:26.678Z",
+  "generatedAt": "2026-10-19T12:00:00.113Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 490",
+        "⭐ 495",
         "HTML"
       ],
       "min": null,
-      "stars": 490
+      "stars": 495
     },
     {
       "id": "oesf1f",
@@ -232,11 +232,11 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 198",
+        "⭐ 208",
         "TypeScript"
       ],
       "min": null,
-      "stars": 198
+      "stars": 208
     },
     {
       "id": "5d7jsr",
@@ -249,21 +249,6 @@
       "author": "Editor",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "3ttoku",
-      "type": "github",
-      "title": "MahdiKordian/MahdiKordian",
-      "desc": "AI Engineer | ML | DL | Generative AI | LLMs | Python",
-      "link": "https://github.com/MahdiKordian/MahdiKordian",
-      "date": "2026-09-04T20:46:09Z",
-      "source": "GitHub",
-      "author": "MahdiKordian",
-      "tags": [
-        "⭐ 133"
-      ],
-      "min": null,
-      "stars": 133
     },
     {
       "id": "53rtc7",
@@ -327,6 +312,22 @@
       ],
       "min": null,
       "stars": 35
+    },
+    {
+      "id": "1brbuek",
+      "type": "github",
+      "title": "tayyabimam1/awesome-ai-agent-stack",
+      "desc": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LLMs, sorted by layer and ranked by GitHub stars.",
+      "link": "https://github.com/tayyabimam1/awesome-ai-agent-stack",
+      "date": "2026-09-18T07:33:15Z",
+      "source": "GitHub",
+      "author": "tayyabimam1",
+      "tags": [
+        "⭐ 31",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 31
     }
   ]
 }
