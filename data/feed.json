@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:00:00.113Z",
+  "generatedAt": "2026-10-20T10:53:10.143Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 495",
+        "⭐ 498",
         "HTML"
       ],
       "min": null,
-      "stars": 495
+      "stars": 498
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "kl6qv3",
+      "type": "news",
+      "title": "Global Protests Explode: 5 Shocking Truths Behind France’s Riots and India’s Delhi Crackdown",
+      "desc": "Half a million marched in France, shops were looted in European cities, and Delhi was sealed off to stop a youth movement. Here is what the verified record shows, and what it does not. Global protests entered a dangerous new phase this weekend. In France, about 550,000 people marched on Saturday, Oc",
+      "link": "https://imfounder.com/politics/global-protests-france-riots-india-crackdown/",
+      "date": "Mon, 19 Oct 2026 16:52:21 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 10
+    },
+    {
       "id": "384r3q",
       "type": "news",
       "title": "Shared Kitchens Are Changing the Cost of Starting a Food Business",
@@ -129,18 +141,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 7
-    },
-    {
-      "id": "xfihj",
-      "type": "news",
-      "title": "We Got Flying Cars Before GTA 6 &#8211; Rocket-Assisted Tesla Roadster",
-      "desc": "Elon Musk’s rocket-assisted Tesla Roadster just flipped through the air in Texas, shaking the internet. Here is exactly what happened, what experts are saying, and what is still unproven. Flying cars stopped being a punchline on the night of October 15, 2026. At SpaceX’s McGregor test site in Texas,",
-      "link": "https://imfounder.com/science-tech/flying-cars-before-gta-6/",
-      "date": "Fri, 16 Oct 2026 08:49:53 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 12
     },
     {
       "id": "lhnwr7",
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 217
+    },
+    {
+      "id": "xfihj",
+      "type": "news",
+      "title": "We Got Flying Cars Before GTA 6 &#8211; Rocket-Assisted Tesla Roadster",
+      "desc": "Elon Musk’s rocket-assisted Tesla Roadster just flipped through the air in Texas, shaking the internet. Here is exactly what happened, what experts are saying, and what is still unproven. Flying cars stopped being a punchline on the night of October 15, 2026. At SpaceX’s McGregor test site in Texas,",
+      "link": "https://imfounder.com/science-tech/flying-cars-before-gta-6/",
+      "date": "Fri, 16 Oct 2026 08:49:53 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 12
     },
     {
       "id": "34dvxj",
@@ -211,6 +223,22 @@
       "min": 14
     },
     {
+      "id": "zc0723",
+      "type": "github",
+      "title": "Fazmin/AILearningGuide",
+      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+      "link": "https://github.com/Fazmin/AILearningGuide",
+      "date": "2026-10-05T02:29:23Z",
+      "source": "GitHub",
+      "author": "Fazmin",
+      "tags": [
+        "⭐ 213",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 213
+    },
+    {
       "id": "15jrucz",
       "type": "news",
       "title": "Bootstrapping vs Raising: 7 Brutal Truths Nobody Tells You",
@@ -221,34 +249,6 @@
       "author": "Editor",
       "tags": [],
       "min": 14
-    },
-    {
-      "id": "zc0723",
-      "type": "github",
-      "title": "Fazmin/AILearningGuide",
-      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
-      "link": "https://github.com/Fazmin/AILearningGuide",
-      "date": "2026-10-05T02:29:23Z",
-      "source": "GitHub",
-      "author": "Fazmin",
-      "tags": [
-        "⭐ 208",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 208
-    },
-    {
-      "id": "5d7jsr",
-      "type": "news",
-      "title": "Green Card Suspension: Shocking Hit on 8 Tech Giants",
-      "desc": "Washington has frozen Microsoft, Adobe and six IT services firms out of a critical step toward permanent residency. Founders in the US and Canada are asking what comes next. The green card suspension announced on Thursday, October 8, 2026, puts Microsoft, Adobe and several of the world’s largest IT ",
-      "link": "https://imfounder.com/science-tech/green-card-suspension-tech-giants-startups/",
-      "date": "Fri, 09 Oct 2026 09:01:00 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 12
     },
     {
       "id": "53rtc7",
