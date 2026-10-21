@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:53:10.143Z",
+  "generatedAt": "2026-10-21T11:05:38.817Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 498",
+        "⭐ 500",
         "HTML"
       ],
       "min": null,
-      "stars": 498
+      "stars": 500
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,51 @@
       "min": 30
     },
     {
+      "id": "lu49sj",
+      "type": "news",
+      "title": "AI Agent Startup Ideas: 5 Brutally Simple Businesses You Can Launch With Free AI Tools in 2026",
+      "desc": "Five low-cost businesses, the exact free tools to build them, and copy-and-paste prompts you can use this week. AI agent startup ideas are the fastest route for a solo founder to turn a laptop and a free account into a real, paying business in 2026. You don’t need investors, a computer science degre",
+      "link": "https://imfounder.com/entrepreneurship/ai-agent-startup-ideas/",
+      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents"
+      ],
+      "min": 14
+    },
+    {
+      "id": "2evmrp",
+      "type": "news",
+      "title": "AI Agents in Food Procurement, Distribution, and Service",
+      "desc": "What productivity research, labor projections, and early deployments show about workflows, staffing, and operational control across the restaurant industry. The restaurant industry is growing. The work inside it is being reorganized. The National Restaurant Association&#8217;s 2026 State of the Rest",
+      "link": "https://imfounder.com/science-tech/ai/ai-agents-food-procurement-distribution-service/",
+      "date": "Tue, 20 Oct 2026 09:45:33 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [
+        "agents",
+        "distributed"
+      ],
+      "min": 10
+    },
+    {
+      "id": "zc0723",
+      "type": "github",
+      "title": "Fazmin/AILearningGuide",
+      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+      "link": "https://github.com/Fazmin/AILearningGuide",
+      "date": "2026-10-05T02:29:23Z",
+      "source": "GitHub",
+      "author": "Fazmin",
+      "tags": [
+        "⭐ 219",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 219
+    },
+    {
       "id": "kl6qv3",
       "type": "news",
       "title": "Global Protests Explode: 5 Shocking Truths Behind France’s Riots and India’s Delhi Crackdown",
@@ -141,22 +186,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 7
-    },
-    {
-      "id": "lhnwr7",
-      "type": "github",
-      "title": "hitkeeen/blender-ai-addon",
-      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
-      "link": "https://github.com/hitkeeen/blender-ai-addon",
-      "date": "2026-10-09T08:34:03Z",
-      "source": "GitHub",
-      "author": "hitkeeen",
-      "tags": [
-        "⭐ 217",
-        "Python"
-      ],
-      "min": null,
-      "stars": 217
     },
     {
       "id": "xfihj",
@@ -197,6 +226,22 @@
       "min": 13
     },
     {
+      "id": "lhnwr7",
+      "type": "github",
+      "title": "hitkeeen/blender-ai-addon",
+      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+      "link": "https://github.com/hitkeeen/blender-ai-addon",
+      "date": "2026-10-09T08:34:03Z",
+      "source": "GitHub",
+      "author": "hitkeeen",
+      "tags": [
+        "⭐ 217",
+        "Python"
+      ],
+      "min": null,
+      "stars": 217
+    },
+    {
       "id": "167b91l",
       "type": "news",
       "title": "Uplift Modeling: The AI That Decides Who Gets the Discount",
@@ -207,48 +252,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 7
-    },
-    {
-      "id": "dx4fe9",
-      "type": "news",
-      "title": "15 Explosive AI Updates October 2026: ChatGPT Builds Apps Inside Answers, Anthropic&#8217;s IPO Slips &#038; Rogue Agents Hit Wikimedia",
-      "desc": "AI updates October 2026 are arriving at a pace that makes September look calm. In the first twelve days of the month, ChatGPT stopped being a text box and started building small working tools inside its replies, Anthropic&#8217;s long-awaited IPO slid into November, and the nonprofit behind Wikipedi",
-      "link": "https://imfounder.com/science-tech/ai/ai-updates-october-2026-gpt6-anthropic-gemini/",
-      "date": "Mon, 12 Oct 2026 08:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents"
-      ],
-      "min": 14
-    },
-    {
-      "id": "zc0723",
-      "type": "github",
-      "title": "Fazmin/AILearningGuide",
-      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
-      "link": "https://github.com/Fazmin/AILearningGuide",
-      "date": "2026-10-05T02:29:23Z",
-      "source": "GitHub",
-      "author": "Fazmin",
-      "tags": [
-        "⭐ 213",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 213
-    },
-    {
-      "id": "15jrucz",
-      "type": "news",
-      "title": "Bootstrapping vs Raising: 7 Brutal Truths Nobody Tells You",
-      "desc": "Before you sign a term sheet or empty your savings, use this five-question framework to choose the funding path that fits your startup, your market and your life. Bootstrapping vs raising is the first big fork in every founder&#8217;s road, and most people pick a side by instinct instead of arithmet",
-      "link": "https://imfounder.com/entrepreneurship/funding-finance/bootstrapping-vs-raising/",
-      "date": "Sat, 10 Oct 2026 12:10:55 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 14
     },
     {
       "id": "53rtc7",
