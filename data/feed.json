@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:05:30.362Z",
+  "generatedAt": "2026-10-23T10:57:43.032Z",
   "count": 24,
   "cards": [
     {
@@ -119,6 +119,46 @@
       "min": 30
     },
     {
+      "id": "1w1gprg",
+      "type": "news",
+      "title": "Business Ideas 2026: 105 Explosive Startup Opportunities Smart Investors Are Quietly Watching",
+      "desc": "A serial entrepreneur’s investor-grade shortlist of startups with urgent problems, paying buyers and room to scale. Business ideas 2026 and 2027 will reward founders who solve expensive, urgent, slightly boring problems instead of chasing hype. I have built companies, backed early teams and sat thro",
+      "link": "https://imfounder.com/entrepreneurship/business-ideas-2026/",
+      "date": "Fri, 23 Oct 2026 10:41:08 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 16
+    },
+    {
+      "id": "1hav0jb",
+      "type": "news",
+      "title": "Xbox Project Helix: 7 Shocking Truths About Microsoft’s Next-Gen Console",
+      "desc": "Xbox Project Helix is the most ambitious hardware Microsoft has teased in years, and as of October 22, 2026, you cannot buy it. Headlines have blurred the line between announced and released, so let’s be precise: Microsoft has confirmed the next-gen Xbox console, its AMD-built chip and a 2027 develo",
+      "link": "https://imfounder.com/entertainment/xbox-project-helix/",
+      "date": "Thu, 22 Oct 2026 13:33:06 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 6
+    },
+    {
+      "id": "zc0723",
+      "type": "github",
+      "title": "Fazmin/AILearningGuide",
+      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+      "link": "https://github.com/Fazmin/AILearningGuide",
+      "date": "2026-10-05T02:29:23Z",
+      "source": "GitHub",
+      "author": "Fazmin",
+      "tags": [
+        "⭐ 229",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 229
+    },
+    {
       "id": "lu49sj",
       "type": "news",
       "title": "AI Agent Startup Ideas: 5 Brutally Simple Businesses You Can Launch With Free AI Tools in 2026",
@@ -146,22 +186,6 @@
         "distributed"
       ],
       "min": 10
-    },
-    {
-      "id": "zc0723",
-      "type": "github",
-      "title": "Fazmin/AILearningGuide",
-      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
-      "link": "https://github.com/Fazmin/AILearningGuide",
-      "date": "2026-10-05T02:29:23Z",
-      "source": "GitHub",
-      "author": "Fazmin",
-      "tags": [
-        "⭐ 225",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 225
     },
     {
       "id": "kl6qv3",
@@ -200,6 +224,22 @@
       "min": 12
     },
     {
+      "id": "lhnwr7",
+      "type": "github",
+      "title": "hitkeeen/blender-ai-addon",
+      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+      "link": "https://github.com/hitkeeen/blender-ai-addon",
+      "date": "2026-10-09T08:34:03Z",
+      "source": "GitHub",
+      "author": "hitkeeen",
+      "tags": [
+        "⭐ 218",
+        "Python"
+      ],
+      "min": null,
+      "stars": 218
+    },
+    {
       "id": "34dvxj",
       "type": "news",
       "title": "Users but No Revenue: 7 Brutal Fixes Your Startup Must Make First",
@@ -212,46 +252,6 @@
         "mlops"
       ],
       "min": 14
-    },
-    {
-      "id": "152p5r8",
-      "type": "news",
-      "title": "Automation Economy Explained: 7 Shocking Ways AI Turned Robots Into a New Global Market",
-      "desc": "Humanoid robots, million-robot warehouses and AI-run factories are rewriting how the world makes and moves things. Here is what is real, what is hype, and which industries are most exposed. The automation economy is no longer a forecast tucked inside a consulting deck. It is a budget line on factory",
-      "link": "https://imfounder.com/science-tech/ai/automation-economy-ai-robotics/",
-      "date": "Wed, 14 Oct 2026 12:48:27 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 13
-    },
-    {
-      "id": "lhnwr7",
-      "type": "github",
-      "title": "hitkeeen/blender-ai-addon",
-      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
-      "link": "https://github.com/hitkeeen/blender-ai-addon",
-      "date": "2026-10-09T08:34:03Z",
-      "source": "GitHub",
-      "author": "hitkeeen",
-      "tags": [
-        "⭐ 217",
-        "Python"
-      ],
-      "min": null,
-      "stars": 217
-    },
-    {
-      "id": "167b91l",
-      "type": "news",
-      "title": "Uplift Modeling: The AI That Decides Who Gets the Discount",
-      "desc": "The Discount Algorithm: How AI Decides Who Gets the Deal A $325 million acquisition, 60 billion machine-learning offers a year, and a grocery platform that says personalized discounts will continue. The software deciding who saves is already in place. The rules for proving the saving are not. A coup",
-      "link": "https://imfounder.com/science-tech/ai/discount-algorithm-ai-personalized-discounts/",
-      "date": "Tue, 13 Oct 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 7
     },
     {
       "id": "53rtc7",
@@ -279,10 +279,10 @@
       "source": "GitHub",
       "author": "cporter202",
       "tags": [
-        "⭐ 52"
+        "⭐ 53"
       ],
       "min": null,
-      "stars": 52
+      "stars": 53
     },
     {
       "id": "3bt7yd",
