@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:13:13.643Z",
+  "generatedAt": "2026-10-25T10:38:27.378Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "modelscope",
       "tags": [
-        "⭐ 503",
+        "⭐ 504",
         "HTML"
       ],
       "min": null,
-      "stars": 503
+      "stars": 504
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,20 @@
       "min": 30
     },
     {
+      "id": "1cpz778",
+      "type": "news",
+      "title": "Nvidia Microduck: 7 Shocking Truths About the $399 Robot Duck Taking Over Tech",
+      "desc": "The Nvidia Microduck is the most unlikely tech hit of 2026: a 25-centimeter robot duck that waddles, somersaults, roller-skates and takes “naps” on command. After a flock of them&#160;stole the show at Jensen Huang’s GTC Berlin keynote&#160;on October 21, Hugging Face’s CEO claimed preorders were ab",
+      "link": "https://imfounder.com/science-tech/nvidia-microduck-robot-gimmick-or-future/",
+      "date": "Sat, 24 Oct 2026 11:21:00 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [
+        "open-source"
+      ],
+      "min": 7
+    },
+    {
       "id": "1w1gprg",
       "type": "news",
       "title": "Business Ideas 2026: 105 Explosive Startup Opportunities Smart Investors Are Quietly Watching",
@@ -131,6 +145,22 @@
       "min": 16
     },
     {
+      "id": "zc0723",
+      "type": "github",
+      "title": "Fazmin/AILearningGuide",
+      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+      "link": "https://github.com/Fazmin/AILearningGuide",
+      "date": "2026-10-05T02:29:23Z",
+      "source": "GitHub",
+      "author": "Fazmin",
+      "tags": [
+        "⭐ 232",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 232
+    },
+    {
       "id": "1hav0jb",
       "type": "news",
       "title": "Xbox Project Helix: 7 Shocking Truths About Microsoft’s Next-Gen Console",
@@ -141,22 +171,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 6
-    },
-    {
-      "id": "zc0723",
-      "type": "github",
-      "title": "Fazmin/AILearningGuide",
-      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
-      "link": "https://github.com/Fazmin/AILearningGuide",
-      "date": "2026-10-05T02:29:23Z",
-      "source": "GitHub",
-      "author": "Fazmin",
-      "tags": [
-        "⭐ 231",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 231
     },
     {
       "id": "lu49sj",
@@ -212,6 +226,22 @@
       "min": 7
     },
     {
+      "id": "lhnwr7",
+      "type": "github",
+      "title": "hitkeeen/blender-ai-addon",
+      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+      "link": "https://github.com/hitkeeen/blender-ai-addon",
+      "date": "2026-10-09T08:34:03Z",
+      "source": "GitHub",
+      "author": "hitkeeen",
+      "tags": [
+        "⭐ 68",
+        "Python"
+      ],
+      "min": null,
+      "stars": 68
+    },
+    {
       "id": "xfihj",
       "type": "news",
       "title": "We Got Flying Cars Before GTA 6 &#8211; Rocket-Assisted Tesla Roadster",
@@ -222,36 +252,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "lhnwr7",
-      "type": "github",
-      "title": "hitkeeen/blender-ai-addon",
-      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
-      "link": "https://github.com/hitkeeen/blender-ai-addon",
-      "date": "2026-10-09T08:34:03Z",
-      "source": "GitHub",
-      "author": "hitkeeen",
-      "tags": [
-        "⭐ 218",
-        "Python"
-      ],
-      "min": null,
-      "stars": 218
-    },
-    {
-      "id": "34dvxj",
-      "type": "news",
-      "title": "Users but No Revenue: 7 Brutal Fixes Your Startup Must Make First",
-      "desc": "Your startup has users but no revenue. Here is the diagnostic order for conversion problems, weak positioning, pricing mistakes, and customers who love the product but won’t pay. Users but no revenue&#160;is the most misleading milestone in startup life. The dashboard looks healthy. Sign-ups climb, ",
-      "link": "https://imfounder.com/entrepreneurship/users-but-no-revenue/",
-      "date": "Thu, 15 Oct 2026 10:11:23 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [
-        "mlops"
-      ],
-      "min": 14
     },
     {
       "id": "53rtc7",
@@ -279,10 +279,10 @@
       "source": "GitHub",
       "author": "cporter202",
       "tags": [
-        "⭐ 53"
+        "⭐ 54"
       ],
       "min": null,
-      "stars": 53
+      "stars": 54
     },
     {
       "id": "3bt7yd",
