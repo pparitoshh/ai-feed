@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:38:27.378Z",
+  "generatedAt": "2026-10-26T12:11:41.648Z",
   "count": 24,
   "cards": [
     {
@@ -67,20 +67,20 @@
       "min": 12
     },
     {
-      "id": "8std4d",
+      "id": "zc0723",
       "type": "github",
-      "title": "modelscope/ms-cookbook",
-      "desc": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
-      "link": "https://github.com/modelscope/ms-cookbook",
-      "date": "2026-09-11T14:27:35Z",
+      "title": "Fazmin/AILearningGuide",
+      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+      "link": "https://github.com/Fazmin/AILearningGuide",
+      "date": "2026-10-05T02:29:23Z",
       "source": "GitHub",
-      "author": "modelscope",
+      "author": "Fazmin",
       "tags": [
-        "⭐ 504",
-        "HTML"
+        "⭐ 233",
+        "TypeScript"
       ],
       "min": null,
-      "stars": 504
+      "stars": 233
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,46 @@
       "min": 30
     },
     {
+      "id": "1yrw7as",
+      "type": "news",
+      "title": "PHP2Shell Vulnerability: 2 Shocking Flaws Shook Governments",
+      "desc": "Millions of exploit attempts, government sites pulled offline, and an AI-found flaw that stayed hidden for years. Here is what happened, who was hit, and how to protect your site. The PHP2Shell vulnerability turned an ordinary Wednesday into a global emergency. On October 21, 2026, government agenci",
+      "link": "https://imfounder.com/science-tech/php2shell-vulnerability-explained/",
+      "date": "Mon, 26 Oct 2026 09:20:38 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 7
+    },
+    {
+      "id": "1nqdrdl",
+      "type": "news",
+      "title": "iPhone Duo Problems: 5 Shocking Flaws Exploding Online, and 5 Better Alternatives",
+      "desc": "Cracked hinges, green lines, dust in the fold and glitchy apps: what owners and experts are saying, and the foldables worth buying instead. iPhone Duo problems have exploded across Reddit, X and YouTube just two days after Apple’s first foldable reached customers. The phone went on sale on October 2",
+      "link": "https://imfounder.com/science-tech/iphone-duo-problems/",
+      "date": "Sun, 25 Oct 2026 16:40:13 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "pmyxd3",
+      "type": "github",
+      "title": "erhanmeydan/kilnframe",
+      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
+      "link": "https://github.com/erhanmeydan/kilnframe",
+      "date": "2026-10-11T02:19:12Z",
+      "source": "GitHub",
+      "author": "erhanmeydan",
+      "tags": [
+        "⭐ 58",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 58
+    },
+    {
       "id": "1cpz778",
       "type": "news",
       "title": "Nvidia Microduck: 7 Shocking Truths About the $399 Robot Duck Taking Over Tech",
@@ -143,22 +183,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 16
-    },
-    {
-      "id": "zc0723",
-      "type": "github",
-      "title": "Fazmin/AILearningGuide",
-      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
-      "link": "https://github.com/Fazmin/AILearningGuide",
-      "date": "2026-10-05T02:29:23Z",
-      "source": "GitHub",
-      "author": "Fazmin",
-      "tags": [
-        "⭐ 232",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 232
     },
     {
       "id": "1hav0jb",
@@ -202,58 +226,6 @@
       "min": 10
     },
     {
-      "id": "kl6qv3",
-      "type": "news",
-      "title": "Global Protests Explode: 5 Shocking Truths Behind France’s Riots and India’s Delhi Crackdown",
-      "desc": "Half a million marched in France, shops were looted in European cities, and Delhi was sealed off to stop a youth movement. Here is what the verified record shows, and what it does not. Global protests entered a dangerous new phase this weekend. In France, about 550,000 people marched on Saturday, Oc",
-      "link": "https://imfounder.com/politics/global-protests-france-riots-india-crackdown/",
-      "date": "Mon, 19 Oct 2026 16:52:21 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "384r3q",
-      "type": "news",
-      "title": "Shared Kitchens Are Changing the Cost of Starting a Food Business",
-      "desc": "A food entrepreneur can have a marketable recipe, paying customers and the skills to produce—and still lack an approved kitchen. Building a commercial facility creates financial commitments before the first order: equipment, refrigeration, installation, premises and operating overhead. Shared kitche",
-      "link": "https://imfounder.com/entrepreneurship/shared-kitchens-food-business-startup-costs/",
-      "date": "Sat, 17 Oct 2026 12:04:16 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 7
-    },
-    {
-      "id": "lhnwr7",
-      "type": "github",
-      "title": "hitkeeen/blender-ai-addon",
-      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
-      "link": "https://github.com/hitkeeen/blender-ai-addon",
-      "date": "2026-10-09T08:34:03Z",
-      "source": "GitHub",
-      "author": "hitkeeen",
-      "tags": [
-        "⭐ 68",
-        "Python"
-      ],
-      "min": null,
-      "stars": 68
-    },
-    {
-      "id": "xfihj",
-      "type": "news",
-      "title": "We Got Flying Cars Before GTA 6 &#8211; Rocket-Assisted Tesla Roadster",
-      "desc": "Elon Musk’s rocket-assisted Tesla Roadster just flipped through the air in Texas, shaking the internet. Here is exactly what happened, what experts are saying, and what is still unproven. Flying cars stopped being a punchline on the night of October 15, 2026. At SpaceX’s McGregor test site in Texas,",
-      "link": "https://imfounder.com/science-tech/flying-cars-before-gta-6/",
-      "date": "Fri, 16 Oct 2026 08:49:53 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 12
-    },
-    {
       "id": "53rtc7",
       "type": "github",
       "title": "ozynautetu-create/FlowForge-Optima",
@@ -268,6 +240,18 @@
       ],
       "min": null,
       "stars": 56
+    },
+    {
+      "id": "kl6qv3",
+      "type": "news",
+      "title": "Global Protests Explode: 5 Shocking Truths Behind France’s Riots and India’s Delhi Crackdown",
+      "desc": "Half a million marched in France, shops were looted in European cities, and Delhi was sealed off to stop a youth movement. Here is what the verified record shows, and what it does not. Global protests entered a dangerous new phase this weekend. In France, about 550,000 people marched on Saturday, Oc",
+      "link": "https://imfounder.com/politics/global-protests-france-riots-india-crackdown/",
+      "date": "Mon, 19 Oct 2026 16:52:21 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 10
     },
     {
       "id": "hmrpzn",
@@ -285,6 +269,22 @@
       "stars": 54
     },
     {
+      "id": "lhnwr7",
+      "type": "github",
+      "title": "hitkeeen/blender-ai-addon",
+      "desc": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+      "link": "https://github.com/hitkeeen/blender-ai-addon",
+      "date": "2026-10-09T08:34:03Z",
+      "source": "GitHub",
+      "author": "hitkeeen",
+      "tags": [
+        "⭐ 52",
+        "Python"
+      ],
+      "min": null,
+      "stars": 52
+    },
+    {
       "id": "3bt7yd",
       "type": "github",
       "title": "iamarxs/AnyWorld",
@@ -294,11 +294,11 @@
       "source": "GitHub",
       "author": "iamarxs",
       "tags": [
-        "⭐ 39",
+        "⭐ 40",
         "Python"
       ],
       "min": null,
-      "stars": 39
+      "stars": 40
     },
     {
       "id": "1hw2pyu",
