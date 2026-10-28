@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T11:32:46.303Z",
+  "generatedAt": "2026-10-28T12:03:38.195Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 234",
+        "⭐ 235",
         "TypeScript"
       ],
       "min": null,
-      "stars": 234
+      "stars": 235
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,46 @@
       "min": 30
     },
     {
+      "id": "kzn0c",
+      "type": "news",
+      "title": "iOS 27.2: 11 Powerful New Features That Make Siri Smarter Than Ever",
+      "desc": "iOS 27.2 Is Here: Why This iPhone Update Matters iOS 27.2 is Apple&#8217;s latest major iPhone software update, released on October 26, 2026. While it introduces several improvements across Apple&#8217;s apps, its biggest attraction is a more capable version of Siri that can remember previous intera",
+      "link": "https://imfounder.com/science-tech/ios-27-2-features/",
+      "date": "Wed, 28 Oct 2026 10:53:04 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "r6wcq6",
+      "type": "news",
+      "title": "AI Startups to Watch: 10 Explosive Canadian and U.S. Breakouts Set to Reshape 2027",
+      "desc": "The ten Canadian and American companies turning artificial intelligence from hype into revenue, from a US$1 billion self-driving round to the search tool a large share of U.S. doctors reportedly use. AI startups to watch are no longer the ones with the flashiest chatbot demos. In 2026, the companies",
+      "link": "https://imfounder.com/science-tech/ai/ai-startups-to-watch/",
+      "date": "Tue, 27 Oct 2026 12:44:10 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "pmyxd3",
+      "type": "github",
+      "title": "erhanmeydan/kilnframe",
+      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
+      "link": "https://github.com/erhanmeydan/kilnframe",
+      "date": "2026-10-11T02:19:12Z",
+      "source": "GitHub",
+      "author": "erhanmeydan",
+      "tags": [
+        "⭐ 74",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 74
+    },
+    {
       "id": "1yrw7as",
       "type": "news",
       "title": "PHP2Shell Vulnerability: 2 Shocking Flaws Shook Governments",
@@ -141,22 +181,6 @@
       "author": "Kirat Singh",
       "tags": [],
       "min": 11
-    },
-    {
-      "id": "pmyxd3",
-      "type": "github",
-      "title": "erhanmeydan/kilnframe",
-      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
-      "link": "https://github.com/erhanmeydan/kilnframe",
-      "date": "2026-10-11T02:19:12Z",
-      "source": "GitHub",
-      "author": "erhanmeydan",
-      "tags": [
-        "⭐ 67",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 67
     },
     {
       "id": "1cpz778",
@@ -197,35 +221,6 @@
       "min": 6
     },
     {
-      "id": "lu49sj",
-      "type": "news",
-      "title": "AI Agent Startup Ideas: 5 Brutally Simple Businesses You Can Launch With Free AI Tools in 2026",
-      "desc": "Five low-cost businesses, the exact free tools to build them, and copy-and-paste prompts you can use this week. AI agent startup ideas are the fastest route for a solo founder to turn a laptop and a free account into a real, paying business in 2026. You don’t need investors, a computer science degre",
-      "link": "https://imfounder.com/entrepreneurship/ai-agent-startup-ideas/",
-      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "agents"
-      ],
-      "min": 14
-    },
-    {
-      "id": "2evmrp",
-      "type": "news",
-      "title": "AI Agents in Food Procurement, Distribution, and Service",
-      "desc": "What productivity research, labor projections, and early deployments show about workflows, staffing, and operational control across the restaurant industry. The restaurant industry is growing. The work inside it is being reorganized. The National Restaurant Association&#8217;s 2026 State of the Rest",
-      "link": "https://imfounder.com/science-tech/ai/ai-agents-food-procurement-distribution-service/",
-      "date": "Tue, 20 Oct 2026 09:45:33 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [
-        "agents",
-        "distributed"
-      ],
-      "min": 10
-    },
-    {
       "id": "53rtc7",
       "type": "github",
       "title": "ozynautetu-create/FlowForge-Optima",
@@ -242,16 +237,18 @@
       "stars": 56
     },
     {
-      "id": "kl6qv3",
+      "id": "lu49sj",
       "type": "news",
-      "title": "Global Protests Explode: 5 Shocking Truths Behind France’s Riots and India’s Delhi Crackdown",
-      "desc": "Half a million marched in France, shops were looted in European cities, and Delhi was sealed off to stop a youth movement. Here is what the verified record shows, and what it does not. Global protests entered a dangerous new phase this weekend. In France, about 550,000 people marched on Saturday, Oc",
-      "link": "https://imfounder.com/politics/global-protests-france-riots-india-crackdown/",
-      "date": "Mon, 19 Oct 2026 16:52:21 +0000",
+      "title": "AI Agent Startup Ideas: 5 Brutally Simple Businesses You Can Launch With Free AI Tools in 2026",
+      "desc": "Five low-cost businesses, the exact free tools to build them, and copy-and-paste prompts you can use this week. AI agent startup ideas are the fastest route for a solo founder to turn a laptop and a free account into a real, paying business in 2026. You don’t need investors, a computer science degre",
+      "link": "https://imfounder.com/entrepreneurship/ai-agent-startup-ideas/",
+      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
       "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 10
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "agents"
+      ],
+      "min": 14
     },
     {
       "id": "hmrpzn",
@@ -326,11 +323,11 @@
       "source": "GitHub",
       "author": "tayyabimam1",
       "tags": [
-        "⭐ 31",
+        "⭐ 30",
         "TypeScript"
       ],
       "min": null,
-      "stars": 31
+      "stars": 30
     }
   ]
 }
