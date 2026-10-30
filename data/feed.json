@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:13:24.026Z",
+  "generatedAt": "2026-10-30T12:03:40.156Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 235",
+        "⭐ 240",
         "TypeScript"
       ],
       "min": null,
-      "stars": 235
+      "stars": 240
     },
     {
       "id": "oesf1f",
@@ -119,24 +119,24 @@
       "min": 30
     },
     {
+      "id": "1qosj6w",
+      "type": "news",
+      "title": "Halloween in Canada vs the US and Europe: 7 Shocking Differences That Will Blow Your Mind",
+      "desc": "Halloween in Canada&#160;has a lot in common with the United States: carved pumpkins on porches, kids in costumes ringing doorbells and bowls of fun-size candy by the front door. But look closer and the differences start to appear. The candy brands change. The weather changes. And once you cross the",
+      "link": "https://imfounder.com/lifestyle/halloween-in-canada-vs-us-europe/",
+      "date": "Thu, 29 Oct 2026 22:30:15 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 10
+    },
+    {
       "id": "iz5515",
       "type": "news",
       "title": "New Mac Lineup Review: 3 Powerful Desktops, 1 Shocking Catch",
       "desc": "iMac, Mac mini and Mac Studio all just got faster chips, familiar designs and higher price tags. Here is what changed, whether it is any good, and which one deserves your money. The new Mac lineup is the biggest performance leap Apple’s desktops have seen in years, and it is also the most expensive ",
       "link": "https://imfounder.com/science-tech/new-mac-lineup-review-imac-mac-mini-mac-studio/",
       "date": "Thu, 29 Oct 2026 12:08:35 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "1pt7nbp",
-      "type": "news",
-      "title": "MacBook Pro Touch Screen: 7 Shocking Truths Behind Apple’s Biggest U-Turn",
-      "desc": "Apple spent more than a decade arguing that laptops don’t need touch. Now it sells one from $2,899. Here’s why it happened, what you really get, and whether it’s a flop or the future. The MacBook Pro touch screen is no longer a rumor. It is a real product, it ships on November 6, and [&#8230;] The p",
-      "link": "https://imfounder.com/science-tech/macbook-pro-touch-screen/",
-      "date": "Thu, 29 Oct 2026 08:35:07 +0000",
       "source": "IM Founder",
       "author": "Taranjeet Slatch",
       "tags": [],
@@ -152,11 +152,23 @@
       "source": "GitHub",
       "author": "erhanmeydan",
       "tags": [
-        "⭐ 82",
+        "⭐ 87",
         "TypeScript"
       ],
       "min": null,
-      "stars": 82
+      "stars": 87
+    },
+    {
+      "id": "1pt7nbp",
+      "type": "news",
+      "title": "MacBook Pro Touch Screen: 7 Shocking Truths Behind Apple’s Biggest U-Turn",
+      "desc": "Apple spent more than a decade arguing that laptops don’t need touch. Now it sells one from $2,899. Here’s why it happened, what you really get, and whether it’s a flop or the future. The MacBook Pro touch screen is no longer a rumor. It is a real product, it ships on November 6, and [&#8230;] The p",
+      "link": "https://imfounder.com/science-tech/macbook-pro-touch-screen/",
+      "date": "Thu, 29 Oct 2026 08:35:07 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 11
     },
     {
       "id": "kzn0c",
@@ -207,20 +219,6 @@
       "min": 11
     },
     {
-      "id": "1cpz778",
-      "type": "news",
-      "title": "Nvidia Microduck: 7 Shocking Truths About the $399 Robot Duck Taking Over Tech",
-      "desc": "The Nvidia Microduck is the most unlikely tech hit of 2026: a 25-centimeter robot duck that waddles, somersaults, roller-skates and takes “naps” on command. After a flock of them&#160;stole the show at Jensen Huang’s GTC Berlin keynote&#160;on October 21, Hugging Face’s CEO claimed preorders were ab",
-      "link": "https://imfounder.com/science-tech/nvidia-microduck-robot-gimmick-or-future/",
-      "date": "Sat, 24 Oct 2026 11:21:00 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [
-        "open-source"
-      ],
-      "min": 7
-    },
-    {
       "id": "53rtc7",
       "type": "github",
       "title": "ozynautetu-create/FlowForge-Optima",
@@ -237,16 +235,18 @@
       "stars": 56
     },
     {
-      "id": "1w1gprg",
+      "id": "1cpz778",
       "type": "news",
-      "title": "Business Ideas 2026: 105 Explosive Startup Opportunities Smart Investors Are Quietly Watching",
-      "desc": "A serial entrepreneur’s investor-grade shortlist of startups with urgent problems, paying buyers and room to scale. Business ideas 2026 and 2027 will reward founders who solve expensive, urgent, slightly boring problems instead of chasing hype. I have built companies, backed early teams and sat thro",
-      "link": "https://imfounder.com/entrepreneurship/business-ideas-2026/",
-      "date": "Fri, 23 Oct 2026 10:41:08 +0000",
+      "title": "Nvidia Microduck: 7 Shocking Truths About the $399 Robot Duck Taking Over Tech",
+      "desc": "The Nvidia Microduck is the most unlikely tech hit of 2026: a 25-centimeter robot duck that waddles, somersaults, roller-skates and takes “naps” on command. After a flock of them&#160;stole the show at Jensen Huang’s GTC Berlin keynote&#160;on October 21, Hugging Face’s CEO claimed preorders were ab",
+      "link": "https://imfounder.com/science-tech/nvidia-microduck-robot-gimmick-or-future/",
+      "date": "Sat, 24 Oct 2026 11:21:00 +0000",
       "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 16
+      "author": "Oliver Timbrell",
+      "tags": [
+        "open-source"
+      ],
+      "min": 7
     },
     {
       "id": "hmrpzn",
@@ -280,22 +280,6 @@
       "stars": 49
     },
     {
-      "id": "3bt7yd",
-      "type": "github",
-      "title": "iamarxs/AnyWorld",
-      "desc": "A multiplayer browser game implemented with Python, where an AI acts as the dungeon master and players type out their actions in their own words!",
-      "link": "https://github.com/iamarxs/AnyWorld",
-      "date": "2026-09-15T20:20:52Z",
-      "source": "GitHub",
-      "author": "iamarxs",
-      "tags": [
-        "⭐ 40",
-        "Python"
-      ],
-      "min": null,
-      "stars": 40
-    },
-    {
       "id": "1hw2pyu",
       "type": "github",
       "title": "cagridursun/agentic-developer-handbook",
@@ -310,6 +294,22 @@
       ],
       "min": null,
       "stars": 35
+    },
+    {
+      "id": "1p0scxl",
+      "type": "github",
+      "title": "Water-Run/ft",
+      "desc": "f(t)函数: LLM制作的动画集. 自由软件, 自由视频.",
+      "link": "https://github.com/Water-Run/ft",
+      "date": "2026-10-02T05:59:48Z",
+      "source": "GitHub",
+      "author": "Water-Run",
+      "tags": [
+        "⭐ 31",
+        "JavaScript"
+      ],
+      "min": null,
+      "stars": 31
     },
     {
       "id": "1brbuek",
