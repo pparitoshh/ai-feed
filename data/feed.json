@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:03:40.156Z",
+  "generatedAt": "2026-10-31T11:38:22.176Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 240",
+        "⭐ 242",
         "TypeScript"
       ],
       "min": null,
-      "stars": 240
+      "stars": 242
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "eqbpbf",
+      "type": "news",
+      "title": "THE TRILLION-DOLLAR FOOD PIPELINE",
+      "desc": "Part I: The Price of Moving the World’s Food Before the world’s agricultural commodities reach international markets, they travel through a commercial network of trucks, railroads, warehouses, river barges and export terminals. Government transportation data, regulatory filings and corporate disclos",
+      "link": "https://imfounder.com/entrepreneurship/business/brazil-soybean-transportation-costs/",
+      "date": "Sat, 31 Oct 2026 09:05:00 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 16
+    },
+    {
       "id": "1qosj6w",
       "type": "news",
       "title": "Halloween in Canada vs the US and Europe: 7 Shocking Differences That Will Blow Your Mind",
@@ -129,18 +141,6 @@
       "author": "Oliver Timbrell",
       "tags": [],
       "min": 10
-    },
-    {
-      "id": "iz5515",
-      "type": "news",
-      "title": "New Mac Lineup Review: 3 Powerful Desktops, 1 Shocking Catch",
-      "desc": "iMac, Mac mini and Mac Studio all just got faster chips, familiar designs and higher price tags. Here is what changed, whether it is any good, and which one deserves your money. The new Mac lineup is the biggest performance leap Apple’s desktops have seen in years, and it is also the most expensive ",
-      "link": "https://imfounder.com/science-tech/new-mac-lineup-review-imac-mac-mini-mac-studio/",
-      "date": "Thu, 29 Oct 2026 12:08:35 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 11
     },
     {
       "id": "pmyxd3",
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 87
+    },
+    {
+      "id": "iz5515",
+      "type": "news",
+      "title": "New Mac Lineup Review: 3 Powerful Desktops, 1 Shocking Catch",
+      "desc": "iMac, Mac mini and Mac Studio all just got faster chips, familiar designs and higher price tags. Here is what changed, whether it is any good, and which one deserves your money. The new Mac lineup is the biggest performance leap Apple’s desktops have seen in years, and it is also the most expensive ",
+      "link": "https://imfounder.com/science-tech/new-mac-lineup-review-imac-mac-mini-mac-studio/",
+      "date": "Thu, 29 Oct 2026 12:08:35 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 11
     },
     {
       "id": "1pt7nbp",
@@ -207,18 +219,6 @@
       "min": 7
     },
     {
-      "id": "1nqdrdl",
-      "type": "news",
-      "title": "iPhone Duo Problems: 5 Shocking Flaws Exploding Online, and 5 Better Alternatives",
-      "desc": "Cracked hinges, green lines, dust in the fold and glitchy apps: what owners and experts are saying, and the foldables worth buying instead. iPhone Duo problems have exploded across Reddit, X and YouTube just two days after Apple’s first foldable reached customers. The phone went on sale on October 2",
-      "link": "https://imfounder.com/science-tech/iphone-duo-problems/",
-      "date": "Sun, 25 Oct 2026 16:40:13 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 11
-    },
-    {
       "id": "53rtc7",
       "type": "github",
       "title": "ozynautetu-create/FlowForge-Optima",
@@ -235,33 +235,16 @@
       "stars": 56
     },
     {
-      "id": "1cpz778",
+      "id": "1nqdrdl",
       "type": "news",
-      "title": "Nvidia Microduck: 7 Shocking Truths About the $399 Robot Duck Taking Over Tech",
-      "desc": "The Nvidia Microduck is the most unlikely tech hit of 2026: a 25-centimeter robot duck that waddles, somersaults, roller-skates and takes “naps” on command. After a flock of them&#160;stole the show at Jensen Huang’s GTC Berlin keynote&#160;on October 21, Hugging Face’s CEO claimed preorders were ab",
-      "link": "https://imfounder.com/science-tech/nvidia-microduck-robot-gimmick-or-future/",
-      "date": "Sat, 24 Oct 2026 11:21:00 +0000",
+      "title": "iPhone Duo Problems: 5 Shocking Flaws Exploding Online, and 5 Better Alternatives",
+      "desc": "Cracked hinges, green lines, dust in the fold and glitchy apps: what owners and experts are saying, and the foldables worth buying instead. iPhone Duo problems have exploded across Reddit, X and YouTube just two days after Apple’s first foldable reached customers. The phone went on sale on October 2",
+      "link": "https://imfounder.com/science-tech/iphone-duo-problems/",
+      "date": "Sun, 25 Oct 2026 16:40:13 +0000",
       "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [
-        "open-source"
-      ],
-      "min": 7
-    },
-    {
-      "id": "hmrpzn",
-      "type": "github",
-      "title": "cporter202/ai-apis-you-can-ship-today",
-      "desc": "This GitHub repo is a powerhouse collection of AI APIs you can start using immediately to ship real products — from LLM tools to computer vision and agents. One of the most valuable AI API lists on GitHub.",
-      "link": "https://github.com/cporter202/ai-apis-you-can-ship-today",
-      "date": "2026-09-16T13:01:02Z",
-      "source": "GitHub",
-      "author": "cporter202",
-      "tags": [
-        "⭐ 54"
-      ],
-      "min": null,
-      "stars": 54
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 11
     },
     {
       "id": "lhnwr7",
@@ -305,11 +288,11 @@
       "source": "GitHub",
       "author": "Water-Run",
       "tags": [
-        "⭐ 31",
+        "⭐ 33",
         "JavaScript"
       ],
       "min": null,
-      "stars": 31
+      "stars": 33
     },
     {
       "id": "1brbuek",
@@ -326,6 +309,22 @@
       ],
       "min": null,
       "stars": 30
+    },
+    {
+      "id": "1kbytjy",
+      "type": "github",
+      "title": "zero2005x/ipasAI",
+      "desc": "iPAS AI 應用規劃師（中級）考綱教科書 v0.3 開源版（含三冊完整教材、219 題模擬題、300 題官方試題解析索引與 PDF 編譯工具）",
+      "link": "https://github.com/zero2005x/ipasAI",
+      "date": "2026-09-25T07:24:15Z",
+      "source": "GitHub",
+      "author": "zero2005x",
+      "tags": [
+        "⭐ 28",
+        "Python"
+      ],
+      "min": null,
+      "stars": 28
     }
   ]
 }
