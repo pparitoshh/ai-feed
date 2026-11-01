@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:38:22.176Z",
+  "generatedAt": "2026-11-01T12:37:22.564Z",
   "count": 24,
   "cards": [
     {
@@ -152,11 +152,11 @@
       "source": "GitHub",
       "author": "erhanmeydan",
       "tags": [
-        "⭐ 87",
+        "⭐ 91",
         "TypeScript"
       ],
       "min": null,
-      "stars": 87
+      "stars": 91
     },
     {
       "id": "iz5515",
@@ -263,6 +263,22 @@
       "stars": 49
     },
     {
+      "id": "1p0scxl",
+      "type": "github",
+      "title": "Water-Run/ft",
+      "desc": "f(t)函数: LLM制作的动画集. 自由软件, 自由视频.",
+      "link": "https://github.com/Water-Run/ft",
+      "date": "2026-10-02T05:59:48Z",
+      "source": "GitHub",
+      "author": "Water-Run",
+      "tags": [
+        "⭐ 35",
+        "JavaScript"
+      ],
+      "min": null,
+      "stars": 35
+    },
+    {
       "id": "1hw2pyu",
       "type": "github",
       "title": "cagridursun/agentic-developer-handbook",
@@ -277,22 +293,6 @@
       ],
       "min": null,
       "stars": 35
-    },
-    {
-      "id": "1p0scxl",
-      "type": "github",
-      "title": "Water-Run/ft",
-      "desc": "f(t)函数: LLM制作的动画集. 自由软件, 自由视频.",
-      "link": "https://github.com/Water-Run/ft",
-      "date": "2026-10-02T05:59:48Z",
-      "source": "GitHub",
-      "author": "Water-Run",
-      "tags": [
-        "⭐ 33",
-        "JavaScript"
-      ],
-      "min": null,
-      "stars": 33
     },
     {
       "id": "1brbuek",
@@ -311,14 +311,14 @@
       "stars": 30
     },
     {
-      "id": "1kbytjy",
+      "id": "1hi2kfk",
       "type": "github",
-      "title": "zero2005x/ipasAI",
-      "desc": "iPAS AI 應用規劃師（中級）考綱教科書 v0.3 開源版（含三冊完整教材、219 題模擬題、300 題官方試題解析索引與 PDF 編譯工具）",
-      "link": "https://github.com/zero2005x/ipasAI",
-      "date": "2026-09-25T07:24:15Z",
+      "title": "AvaLovelace1/brickwright",
+      "desc": "Official repository for BrickWright, a framework that enables LLM agents to create physically feasible LEGO® builds from text or image prompts.",
+      "link": "https://github.com/AvaLovelace1/brickwright",
+      "date": "2026-10-16T14:57:39Z",
       "source": "GitHub",
-      "author": "zero2005x",
+      "author": "AvaLovelace1",
       "tags": [
         "⭐ 28",
         "Python"
