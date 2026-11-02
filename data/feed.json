@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:37:22.564Z",
+  "generatedAt": "2026-11-02T14:40:32.036Z",
   "count": 24,
   "cards": [
     {
@@ -119,6 +119,46 @@
       "min": 30
     },
     {
+      "id": "m9jffq",
+      "type": "news",
+      "title": "Canada Cohere Investment: Shocking $1.6B AI Bet Revealed",
+      "desc": "The Canada Cohere investment is the boldest technology bet Ottawa has ever placed: up to $1.6 billion, paid in stages, in exchange for a stake in the Toronto-founded AI company.&#160;Prime Minister Mark Carney announced it in Montréal on October 29, 2026, and it is a commercial equity deal, not a gr",
+      "link": "https://imfounder.com/science-tech/ai/canada-cohere-investment/",
+      "date": "Mon, 02 Nov 2026 13:18:02 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "6599bp",
+      "type": "news",
+      "title": "PRS Tekton: 7 cool Upgrades That Make This Revolutionary Guitar Impossible to Ignore",
+      "desc": "Stainless steel frets, modeler-ready Stylus pickups and the slimmest body PRS has ever built. Here’s what experts say, what it weighs and what it costs in Canada and the U.S. PRS Tekton is the new guitar family everyone in the guitar world is talking about, and for good reason. Launched on October 2",
+      "link": "https://imfounder.com/lifestyle/prs-tekton-review-specs-price/",
+      "date": "Sun, 01 Nov 2026 14:00:42 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 12
+    },
+    {
+      "id": "pmyxd3",
+      "type": "github",
+      "title": "erhanmeydan/kilnframe",
+      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
+      "link": "https://github.com/erhanmeydan/kilnframe",
+      "date": "2026-10-11T02:19:12Z",
+      "source": "GitHub",
+      "author": "erhanmeydan",
+      "tags": [
+        "⭐ 92",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 92
+    },
+    {
       "id": "eqbpbf",
       "type": "news",
       "title": "THE TRILLION-DOLLAR FOOD PIPELINE",
@@ -141,22 +181,6 @@
       "author": "Oliver Timbrell",
       "tags": [],
       "min": 10
-    },
-    {
-      "id": "pmyxd3",
-      "type": "github",
-      "title": "erhanmeydan/kilnframe",
-      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
-      "link": "https://github.com/erhanmeydan/kilnframe",
-      "date": "2026-10-11T02:19:12Z",
-      "source": "GitHub",
-      "author": "erhanmeydan",
-      "tags": [
-        "⭐ 91",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 91
     },
     {
       "id": "iz5515",
@@ -195,30 +219,6 @@
       "min": 12
     },
     {
-      "id": "r6wcq6",
-      "type": "news",
-      "title": "AI Startups to Watch: 10 Explosive Canadian and U.S. Breakouts Set to Reshape 2027",
-      "desc": "The ten Canadian and American companies turning artificial intelligence from hype into revenue, from a US$1 billion self-driving round to the search tool a large share of U.S. doctors reportedly use. AI startups to watch are no longer the ones with the flashiest chatbot demos. In 2026, the companies",
-      "link": "https://imfounder.com/science-tech/ai/ai-startups-to-watch/",
-      "date": "Tue, 27 Oct 2026 12:44:10 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "1yrw7as",
-      "type": "news",
-      "title": "PHP2Shell Vulnerability: 2 Shocking Flaws Shook Governments",
-      "desc": "Millions of exploit attempts, government sites pulled offline, and an AI-found flaw that stayed hidden for years. Here is what happened, who was hit, and how to protect your site. The PHP2Shell vulnerability turned an ordinary Wednesday into a global emergency. On October 21, 2026, government agenci",
-      "link": "https://imfounder.com/science-tech/php2shell-vulnerability-explained/",
-      "date": "Mon, 26 Oct 2026 09:20:38 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 7
-    },
-    {
       "id": "53rtc7",
       "type": "github",
       "title": "ozynautetu-create/FlowForge-Optima",
@@ -235,14 +235,14 @@
       "stars": 56
     },
     {
-      "id": "1nqdrdl",
+      "id": "r6wcq6",
       "type": "news",
-      "title": "iPhone Duo Problems: 5 Shocking Flaws Exploding Online, and 5 Better Alternatives",
-      "desc": "Cracked hinges, green lines, dust in the fold and glitchy apps: what owners and experts are saying, and the foldables worth buying instead. iPhone Duo problems have exploded across Reddit, X and YouTube just two days after Apple’s first foldable reached customers. The phone went on sale on October 2",
-      "link": "https://imfounder.com/science-tech/iphone-duo-problems/",
-      "date": "Sun, 25 Oct 2026 16:40:13 +0000",
+      "title": "AI Startups to Watch: 10 Explosive Canadian and U.S. Breakouts Set to Reshape 2027",
+      "desc": "The ten Canadian and American companies turning artificial intelligence from hype into revenue, from a US$1 billion self-driving round to the search tool a large share of U.S. doctors reportedly use. AI startups to watch are no longer the ones with the flashiest chatbot demos. In 2026, the companies",
+      "link": "https://imfounder.com/science-tech/ai/ai-startups-to-watch/",
+      "date": "Tue, 27 Oct 2026 12:44:10 +0000",
       "source": "IM Founder",
-      "author": "Kirat Singh",
+      "author": "Editor",
       "tags": [],
       "min": 11
     },
@@ -261,6 +261,22 @@
       ],
       "min": null,
       "stars": 49
+    },
+    {
+      "id": "1b9yn8v",
+      "type": "github",
+      "title": "Jumbomuffin777/Frontier-UI",
+      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
+      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
+      "date": "2026-11-01T06:41:23Z",
+      "source": "GitHub",
+      "author": "Jumbomuffin777",
+      "tags": [
+        "⭐ 47",
+        "Python"
+      ],
+      "min": null,
+      "stars": 47
     },
     {
       "id": "1p0scxl",
@@ -295,22 +311,6 @@
       "stars": 35
     },
     {
-      "id": "1brbuek",
-      "type": "github",
-      "title": "tayyabimam1/awesome-ai-agent-stack",
-      "desc": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LLMs, sorted by layer and ranked by GitHub stars.",
-      "link": "https://github.com/tayyabimam1/awesome-ai-agent-stack",
-      "date": "2026-09-18T07:33:15Z",
-      "source": "GitHub",
-      "author": "tayyabimam1",
-      "tags": [
-        "⭐ 30",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 30
-    },
-    {
       "id": "1hi2kfk",
       "type": "github",
       "title": "AvaLovelace1/brickwright",
@@ -320,11 +320,11 @@
       "source": "GitHub",
       "author": "AvaLovelace1",
       "tags": [
-        "⭐ 28",
+        "⭐ 30",
         "Python"
       ],
       "min": null,
-      "stars": 28
+      "stars": 30
     }
   ]
 }
