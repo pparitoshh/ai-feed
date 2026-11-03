@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T14:40:32.036Z",
+  "generatedAt": "2026-11-03T13:33:25.059Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 242",
+        "⭐ 243",
         "TypeScript"
       ],
       "min": null,
-      "stars": 242
+      "stars": 243
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "fa8qlz",
+      "type": "news",
+      "title": "Tech News November 2026: 12 Shocking Stories as a $6.3B Crypto Heist, Hacked Freezers and a $115B Chip Bet Rattle Big Tech",
+      "desc": "Binance loses $6.3 billion to hackers the FBI links to North Korea, Anthropic opens its books, Marvell bets $115 billion on optical networking, and Apple&#8217;s $1,999 foldable meets reality. These are the stories defining Tech News November 2026. Tech News November 2026 begins with a market that s",
+      "link": "https://imfounder.com/science-tech/tech-news-november-2026-shocking-stories/",
+      "date": "Tue, 03 Nov 2026 12:03:15 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 12
+    },
+    {
       "id": "m9jffq",
       "type": "news",
       "title": "Canada Cohere Investment: Shocking $1.6B AI Bet Revealed",
@@ -131,6 +143,22 @@
       "min": 11
     },
     {
+      "id": "pmyxd3",
+      "type": "github",
+      "title": "erhanmeydan/kilnframe",
+      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
+      "link": "https://github.com/erhanmeydan/kilnframe",
+      "date": "2026-10-11T02:19:12Z",
+      "source": "GitHub",
+      "author": "erhanmeydan",
+      "tags": [
+        "⭐ 93",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 93
+    },
+    {
       "id": "6599bp",
       "type": "news",
       "title": "PRS Tekton: 7 cool Upgrades That Make This Revolutionary Guitar Impossible to Ignore",
@@ -141,22 +169,6 @@
       "author": "Editor",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "pmyxd3",
-      "type": "github",
-      "title": "erhanmeydan/kilnframe",
-      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
-      "link": "https://github.com/erhanmeydan/kilnframe",
-      "date": "2026-10-11T02:19:12Z",
-      "source": "GitHub",
-      "author": "erhanmeydan",
-      "tags": [
-        "⭐ 92",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 92
     },
     {
       "id": "eqbpbf",
@@ -207,6 +219,22 @@
       "min": 11
     },
     {
+      "id": "1b9yn8v",
+      "type": "github",
+      "title": "Jumbomuffin777/Frontier-UI",
+      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
+      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
+      "date": "2026-11-01T06:41:23Z",
+      "source": "GitHub",
+      "author": "Jumbomuffin777",
+      "tags": [
+        "⭐ 56",
+        "Python"
+      ],
+      "min": null,
+      "stars": 56
+    },
+    {
       "id": "kzn0c",
       "type": "news",
       "title": "iOS 27.2: 11 Powerful New Features That Make Siri Smarter Than Ever",
@@ -235,18 +263,6 @@
       "stars": 56
     },
     {
-      "id": "r6wcq6",
-      "type": "news",
-      "title": "AI Startups to Watch: 10 Explosive Canadian and U.S. Breakouts Set to Reshape 2027",
-      "desc": "The ten Canadian and American companies turning artificial intelligence from hype into revenue, from a US$1 billion self-driving round to the search tool a large share of U.S. doctors reportedly use. AI startups to watch are no longer the ones with the flashiest chatbot demos. In 2026, the companies",
-      "link": "https://imfounder.com/science-tech/ai/ai-startups-to-watch/",
-      "date": "Tue, 27 Oct 2026 12:44:10 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 11
-    },
-    {
       "id": "lhnwr7",
       "type": "github",
       "title": "hitkeeen/blender-ai-addon",
@@ -263,22 +279,6 @@
       "stars": 49
     },
     {
-      "id": "1b9yn8v",
-      "type": "github",
-      "title": "Jumbomuffin777/Frontier-UI",
-      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
-      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
-      "date": "2026-11-01T06:41:23Z",
-      "source": "GitHub",
-      "author": "Jumbomuffin777",
-      "tags": [
-        "⭐ 47",
-        "Python"
-      ],
-      "min": null,
-      "stars": 47
-    },
-    {
       "id": "1p0scxl",
       "type": "github",
       "title": "Water-Run/ft",
@@ -288,11 +288,11 @@
       "source": "GitHub",
       "author": "Water-Run",
       "tags": [
-        "⭐ 35",
+        "⭐ 36",
         "JavaScript"
       ],
       "min": null,
-      "stars": 35
+      "stars": 36
     },
     {
       "id": "1hw2pyu",
@@ -320,11 +320,11 @@
       "source": "GitHub",
       "author": "AvaLovelace1",
       "tags": [
-        "⭐ 30",
+        "⭐ 34",
         "Python"
       ],
       "min": null,
-      "stars": 30
+      "stars": 34
     }
   ]
 }
