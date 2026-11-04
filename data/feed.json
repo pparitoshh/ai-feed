@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T13:33:25.059Z",
+  "generatedAt": "2026-11-04T13:43:54.953Z",
   "count": 24,
   "cards": [
     {
@@ -70,17 +70,17 @@
       "id": "zc0723",
       "type": "github",
       "title": "Fazmin/AILearningGuide",
-      "desc": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+      "desc": "Interactive desktop app with 58 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
       "link": "https://github.com/Fazmin/AILearningGuide",
       "date": "2026-10-05T02:29:23Z",
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 243",
+        "⭐ 246",
         "TypeScript"
       ],
       "min": null,
-      "stars": 243
+      "stars": 246
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "xib39p",
+      "type": "news",
+      "title": "Year-End Finance Checklist 2026: 9 Critical Mistakes Canadians and Americans Must Fix Before December 31",
+      "desc": "TFSA, RRSP and FHSA in Canada. 401(k), IRA, HSA and FSA in the US. One founder’s plan to keep more of what you earn. A smart year-end finance checklist is the highest-return project you will run this quarter. It takes a few hours, needs no new software, and can recover thousands of dollars in tax [&",
+      "link": "https://imfounder.com/entrepreneurship/year-end-finance-checklist-canada-vs-us/",
+      "date": "Wed, 04 Nov 2026 09:50:12 +0000",
+      "source": "IM Founder",
+      "author": "Editor",
+      "tags": [],
+      "min": 12
+    },
+    {
       "id": "fa8qlz",
       "type": "news",
       "title": "Tech News November 2026: 12 Shocking Stories as a $6.3B Crypto Heist, Hacked Freezers and a $115B Chip Bet Rattle Big Tech",
@@ -129,18 +141,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "m9jffq",
-      "type": "news",
-      "title": "Canada Cohere Investment: Shocking $1.6B AI Bet Revealed",
-      "desc": "The Canada Cohere investment is the boldest technology bet Ottawa has ever placed: up to $1.6 billion, paid in stages, in exchange for a stake in the Toronto-founded AI company.&#160;Prime Minister Mark Carney announced it in Montréal on October 29, 2026, and it is a commercial equity deal, not a gr",
-      "link": "https://imfounder.com/science-tech/ai/canada-cohere-investment/",
-      "date": "Mon, 02 Nov 2026 13:18:02 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 11
     },
     {
       "id": "pmyxd3",
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 93
+    },
+    {
+      "id": "m9jffq",
+      "type": "news",
+      "title": "Canada Cohere Investment: Shocking $1.6B AI Bet Revealed",
+      "desc": "The Canada Cohere investment is the boldest technology bet Ottawa has ever placed: up to $1.6 billion, paid in stages, in exchange for a stake in the Toronto-founded AI company.&#160;Prime Minister Mark Carney announced it in Montréal on October 29, 2026, and it is a commercial equity deal, not a gr",
+      "link": "https://imfounder.com/science-tech/ai/canada-cohere-investment/",
+      "date": "Mon, 02 Nov 2026 13:18:02 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 11
     },
     {
       "id": "6599bp",
@@ -207,6 +219,22 @@
       "min": 11
     },
     {
+      "id": "1b9yn8v",
+      "type": "github",
+      "title": "Jumbomuffin777/Frontier-UI",
+      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
+      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
+      "date": "2026-11-01T06:41:23Z",
+      "source": "GitHub",
+      "author": "Jumbomuffin777",
+      "tags": [
+        "⭐ 59",
+        "Python"
+      ],
+      "min": null,
+      "stars": 59
+    },
+    {
       "id": "1pt7nbp",
       "type": "news",
       "title": "MacBook Pro Touch Screen: 7 Shocking Truths Behind Apple’s Biggest U-Turn",
@@ -217,34 +245,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 11
-    },
-    {
-      "id": "1b9yn8v",
-      "type": "github",
-      "title": "Jumbomuffin777/Frontier-UI",
-      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
-      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
-      "date": "2026-11-01T06:41:23Z",
-      "source": "GitHub",
-      "author": "Jumbomuffin777",
-      "tags": [
-        "⭐ 56",
-        "Python"
-      ],
-      "min": null,
-      "stars": 56
-    },
-    {
-      "id": "kzn0c",
-      "type": "news",
-      "title": "iOS 27.2: 11 Powerful New Features That Make Siri Smarter Than Ever",
-      "desc": "iOS 27.2 Is Here: Why This iPhone Update Matters iOS 27.2 is Apple&#8217;s latest major iPhone software update, released on October 26, 2026. While it introduces several improvements across Apple&#8217;s apps, its biggest attraction is a more capable version of Siri that can remember previous intera",
-      "link": "https://imfounder.com/science-tech/ios-27-2-features/",
-      "date": "Wed, 28 Oct 2026 10:53:04 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 12
     },
     {
       "id": "53rtc7",
@@ -288,11 +288,11 @@
       "source": "GitHub",
       "author": "Water-Run",
       "tags": [
-        "⭐ 36",
+        "⭐ 37",
         "JavaScript"
       ],
       "min": null,
-      "stars": 36
+      "stars": 37
     },
     {
       "id": "1hw2pyu",
