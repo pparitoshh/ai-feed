@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:43:54.953Z",
+  "generatedAt": "2026-11-05T13:56:18.654Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 246",
+        "⭐ 248",
         "TypeScript"
       ],
       "min": null,
-      "stars": 246
+      "stars": 248
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "vhkl8t",
+      "type": "news",
+      "title": "Trump Midterm Defeat: A President Without Power? 7 Shocking Shifts Reshaping the World",
+      "desc": "Trump midterm defeat is no longer a forecast. It is the new reality of American politics. On Tuesday, November 3, 2026, voters handed Democrats control of both the House and the Senate, ending two years of unified Republican power in Washington. The question echoing from Berlin to Beijing is blunt: ",
+      "link": "https://imfounder.com/politics/trump-midterm-defeat-president-without-power/",
+      "date": "Thu, 05 Nov 2026 10:30:31 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 11
+    },
+    {
       "id": "xib39p",
       "type": "news",
       "title": "Year-End Finance Checklist 2026: 9 Critical Mistakes Canadians and Americans Must Fix Before December 31",
@@ -127,18 +139,6 @@
       "date": "Wed, 04 Nov 2026 09:50:12 +0000",
       "source": "IM Founder",
       "author": "Editor",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "fa8qlz",
-      "type": "news",
-      "title": "Tech News November 2026: 12 Shocking Stories as a $6.3B Crypto Heist, Hacked Freezers and a $115B Chip Bet Rattle Big Tech",
-      "desc": "Binance loses $6.3 billion to hackers the FBI links to North Korea, Anthropic opens its books, Marvell bets $115 billion on optical networking, and Apple&#8217;s $1,999 foldable meets reality. These are the stories defining Tech News November 2026. Tech News November 2026 begins with a market that s",
-      "link": "https://imfounder.com/science-tech/tech-news-november-2026-shocking-stories/",
-      "date": "Tue, 03 Nov 2026 12:03:15 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
       "tags": [],
       "min": 12
     },
@@ -152,11 +152,23 @@
       "source": "GitHub",
       "author": "erhanmeydan",
       "tags": [
-        "⭐ 93",
+        "⭐ 96",
         "TypeScript"
       ],
       "min": null,
-      "stars": 93
+      "stars": 96
+    },
+    {
+      "id": "fa8qlz",
+      "type": "news",
+      "title": "Tech News November 2026: 12 Shocking Stories as a $6.3B Crypto Heist, Hacked Freezers and a $115B Chip Bet Rattle Big Tech",
+      "desc": "Binance loses $6.3 billion to hackers the FBI links to North Korea, Anthropic opens its books, Marvell bets $115 billion on optical networking, and Apple&#8217;s $1,999 foldable meets reality. These are the stories defining Tech News November 2026. Tech News November 2026 begins with a market that s",
+      "link": "https://imfounder.com/science-tech/tech-news-november-2026-shocking-stories/",
+      "date": "Tue, 03 Nov 2026 12:03:15 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 12
     },
     {
       "id": "m9jffq",
@@ -207,6 +219,22 @@
       "min": 10
     },
     {
+      "id": "1b9yn8v",
+      "type": "github",
+      "title": "Jumbomuffin777/Frontier-UI",
+      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
+      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
+      "date": "2026-11-01T06:41:23Z",
+      "source": "GitHub",
+      "author": "Jumbomuffin777",
+      "tags": [
+        "⭐ 61",
+        "Python"
+      ],
+      "min": null,
+      "stars": 61
+    },
+    {
       "id": "iz5515",
       "type": "news",
       "title": "New Mac Lineup Review: 3 Powerful Desktops, 1 Shocking Catch",
@@ -217,50 +245,6 @@
       "author": "Taranjeet Slatch",
       "tags": [],
       "min": 11
-    },
-    {
-      "id": "1b9yn8v",
-      "type": "github",
-      "title": "Jumbomuffin777/Frontier-UI",
-      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
-      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
-      "date": "2026-11-01T06:41:23Z",
-      "source": "GitHub",
-      "author": "Jumbomuffin777",
-      "tags": [
-        "⭐ 59",
-        "Python"
-      ],
-      "min": null,
-      "stars": 59
-    },
-    {
-      "id": "1pt7nbp",
-      "type": "news",
-      "title": "MacBook Pro Touch Screen: 7 Shocking Truths Behind Apple’s Biggest U-Turn",
-      "desc": "Apple spent more than a decade arguing that laptops don’t need touch. Now it sells one from $2,899. Here’s why it happened, what you really get, and whether it’s a flop or the future. The MacBook Pro touch screen is no longer a rumor. It is a real product, it ships on November 6, and [&#8230;] The p",
-      "link": "https://imfounder.com/science-tech/macbook-pro-touch-screen/",
-      "date": "Thu, 29 Oct 2026 08:35:07 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "53rtc7",
-      "type": "github",
-      "title": "ozynautetu-create/FlowForge-Optima",
-      "desc": "AdalFlow Alternative 2026: Auto-Optimize LLM Apps Without Code",
-      "link": "https://github.com/ozynautetu-create/FlowForge-Optima",
-      "date": "2026-09-21T20:43:11Z",
-      "source": "GitHub",
-      "author": "ozynautetu-create",
-      "tags": [
-        "⭐ 56",
-        "HTML"
-      ],
-      "min": null,
-      "stars": 56
     },
     {
       "id": "lhnwr7",
@@ -288,11 +272,27 @@
       "source": "GitHub",
       "author": "Water-Run",
       "tags": [
-        "⭐ 37",
+        "⭐ 38",
         "JavaScript"
       ],
       "min": null,
-      "stars": 37
+      "stars": 38
+    },
+    {
+      "id": "1hi2kfk",
+      "type": "github",
+      "title": "AvaLovelace1/brickwright",
+      "desc": "Official repository for BrickWright, a framework that enables LLM agents to create physically feasible LEGO® builds from text or image prompts.",
+      "link": "https://github.com/AvaLovelace1/brickwright",
+      "date": "2026-10-16T14:57:39Z",
+      "source": "GitHub",
+      "author": "AvaLovelace1",
+      "tags": [
+        "⭐ 35",
+        "Python"
+      ],
+      "min": null,
+      "stars": 35
     },
     {
       "id": "1hw2pyu",
@@ -311,20 +311,20 @@
       "stars": 35
     },
     {
-      "id": "1hi2kfk",
+      "id": "1kbytjy",
       "type": "github",
-      "title": "AvaLovelace1/brickwright",
-      "desc": "Official repository for BrickWright, a framework that enables LLM agents to create physically feasible LEGO® builds from text or image prompts.",
-      "link": "https://github.com/AvaLovelace1/brickwright",
-      "date": "2026-10-16T14:57:39Z",
+      "title": "zero2005x/ipasAI",
+      "desc": "iPAS AI 應用規劃師（中級）考綱教科書 v0.3 開源版（含三冊完整教材、219 題模擬題、300 題官方試題解析索引與 PDF 編譯工具）",
+      "link": "https://github.com/zero2005x/ipasAI",
+      "date": "2026-09-25T07:24:15Z",
       "source": "GitHub",
-      "author": "AvaLovelace1",
+      "author": "zero2005x",
       "tags": [
-        "⭐ 34",
+        "⭐ 28",
         "Python"
       ],
       "min": null,
-      "stars": 34
+      "stars": 28
     }
   ]
 }
