@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:56:18.654Z",
+  "generatedAt": "2026-11-06T13:41:18.736Z",
   "count": 24,
   "cards": [
     {
@@ -152,11 +152,11 @@
       "source": "GitHub",
       "author": "erhanmeydan",
       "tags": [
-        "⭐ 96",
+        "⭐ 97",
         "TypeScript"
       ],
       "min": null,
-      "stars": 96
+      "stars": 97
     },
     {
       "id": "fa8qlz",
@@ -228,11 +228,11 @@
       "source": "GitHub",
       "author": "Jumbomuffin777",
       "tags": [
-        "⭐ 61",
+        "⭐ 63",
         "Python"
       ],
       "min": null,
-      "stars": 61
+      "stars": 63
     },
     {
       "id": "iz5515",
@@ -295,22 +295,6 @@
       "stars": 35
     },
     {
-      "id": "1hw2pyu",
-      "type": "github",
-      "title": "cagridursun/agentic-developer-handbook",
-      "desc": "Java-first open-source handbook for understanding and building agentic systems, one concept at a time.",
-      "link": "https://github.com/cagridursun/agentic-developer-handbook",
-      "date": "2026-09-22T22:17:13Z",
-      "source": "GitHub",
-      "author": "cagridursun",
-      "tags": [
-        "⭐ 35",
-        "Java"
-      ],
-      "min": null,
-      "stars": 35
-    },
-    {
       "id": "1kbytjy",
       "type": "github",
       "title": "zero2005x/ipasAI",
@@ -320,11 +304,27 @@
       "source": "GitHub",
       "author": "zero2005x",
       "tags": [
-        "⭐ 28",
+        "⭐ 29",
         "Python"
       ],
       "min": null,
-      "stars": 28
+      "stars": 29
+    },
+    {
+      "id": "fnfemq",
+      "type": "github",
+      "title": "ac1261692159/candela",
+      "desc": "开源可私有化的用户行为分析。Self-hosted user behavior analytics on ClickHouse and ClkLog. Events, funnels, retention, dashboards. AGPL-3.0.",
+      "link": "https://github.com/ac1261692159/candela",
+      "date": "2026-10-11T02:48:07Z",
+      "source": "GitHub",
+      "author": "ac1261692159",
+      "tags": [
+        "⭐ 23",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 23
     }
   ]
 }
