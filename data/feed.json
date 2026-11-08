@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T12:22:39.941Z",
+  "generatedAt": "2026-11-08T12:41:40.814Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 248",
+        "⭐ 249",
         "TypeScript"
       ],
       "min": null,
-      "stars": 248
+      "stars": 249
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "14jsird",
+      "type": "news",
+      "title": "Digital Nomad Life: 7 Brutal Truths Behind the Freedom",
+      "desc": "The freedom to work from anywhere comes with a price few Instagram posts reveal. Behind the beautiful destinations are financial pressures, isolation, legal complications and the constant challenge of finding somewhere productive to work. Introduction: The dream of working from anywhere Digital noma",
+      "link": "https://imfounder.com/lifestyle/digital-nomad-life-hidden-reality/",
+      "date": "Sat, 07 Nov 2026 14:13:49 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 12
+    },
+    {
       "id": "955dgz",
       "type": "news",
       "title": "Claude Motion: 7 Easy Steps to Create Stunning Animations From One Prompt and Launch Your YouTube Channel",
@@ -131,6 +143,22 @@
       "min": 12
     },
     {
+      "id": "pmyxd3",
+      "type": "github",
+      "title": "erhanmeydan/kilnframe",
+      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
+      "link": "https://github.com/erhanmeydan/kilnframe",
+      "date": "2026-10-11T02:19:12Z",
+      "source": "GitHub",
+      "author": "erhanmeydan",
+      "tags": [
+        "⭐ 103",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 103
+    },
+    {
       "id": "vhkl8t",
       "type": "news",
       "title": "Trump Midterm Defeat: A President Without Power? 7 Shocking Shifts Reshaping the World",
@@ -141,22 +169,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 11
-    },
-    {
-      "id": "pmyxd3",
-      "type": "github",
-      "title": "erhanmeydan/kilnframe",
-      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
-      "link": "https://github.com/erhanmeydan/kilnframe",
-      "date": "2026-10-11T02:19:12Z",
-      "source": "GitHub",
-      "author": "erhanmeydan",
-      "tags": [
-        "⭐ 99",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 99
     },
     {
       "id": "xib39p",
@@ -207,6 +219,22 @@
       "min": 12
     },
     {
+      "id": "1b9yn8v",
+      "type": "github",
+      "title": "Jumbomuffin777/Frontier-UI",
+      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
+      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
+      "date": "2026-11-01T06:41:23Z",
+      "source": "GitHub",
+      "author": "Jumbomuffin777",
+      "tags": [
+        "⭐ 65",
+        "Python"
+      ],
+      "min": null,
+      "stars": 65
+    },
+    {
       "id": "eqbpbf",
       "type": "news",
       "title": "THE TRILLION-DOLLAR FOOD PIPELINE",
@@ -219,48 +247,20 @@
       "min": 16
     },
     {
-      "id": "1pzz1ht",
+      "id": "1sv1o4c",
       "type": "github",
-      "title": "hussein1labtop-jpg/ai-manus",
+      "title": "quyetcao/ai-manus",
       "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/hussein1labtop-jpg/ai-manus",
-      "date": "2026-11-06T18:16:13Z",
+      "link": "https://github.com/quyetcao/ai-manus",
+      "date": "2026-11-06T18:16:53Z",
       "source": "GitHub",
-      "author": "hussein1labtop-jpg",
+      "author": "quyetcao",
       "tags": [
-        "⭐ 81",
+        "⭐ 56",
         "Python"
       ],
       "min": null,
-      "stars": 81
-    },
-    {
-      "id": "1qosj6w",
-      "type": "news",
-      "title": "Halloween in Canada vs the US and Europe: 7 Shocking Differences That Will Blow Your Mind",
-      "desc": "Halloween in Canada&#160;has a lot in common with the United States: carved pumpkins on porches, kids in costumes ringing doorbells and bowls of fun-size candy by the front door. But look closer and the differences start to appear. The candy brands change. The weather changes. And once you cross the",
-      "link": "https://imfounder.com/lifestyle/halloween-in-canada-vs-us-europe/",
-      "date": "Thu, 29 Oct 2026 22:30:15 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "ik89sg",
-      "type": "github",
-      "title": "monirchemrubd/ai-manus",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/monirchemrubd/ai-manus",
-      "date": "2026-11-06T18:15:56Z",
-      "source": "GitHub",
-      "author": "monirchemrubd",
-      "tags": [
-        "⭐ 81",
-        "Python"
-      ],
-      "min": null,
-      "stars": 81
+      "stars": 56
     },
     {
       "id": "odbuqi",
@@ -272,27 +272,11 @@
       "source": "GitHub",
       "author": "Kolg123",
       "tags": [
-        "⭐ 81",
+        "⭐ 55",
         "Python"
       ],
       "min": null,
-      "stars": 81
-    },
-    {
-      "id": "16sappk",
-      "type": "github",
-      "title": "Gigachad-byte/ai-manus",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/Gigachad-byte/ai-manus",
-      "date": "2026-11-06T18:15:33Z",
-      "source": "GitHub",
-      "author": "Gigachad-byte",
-      "tags": [
-        "⭐ 81",
-        "Python"
-      ],
-      "min": null,
-      "stars": 81
+      "stars": 55
     },
     {
       "id": "17965xi",
@@ -304,27 +288,42 @@
       "source": "GitHub",
       "author": "thecoderrrer",
       "tags": [
-        "⭐ 81",
+        "⭐ 55",
         "Python"
       ],
       "min": null,
-      "stars": 81
+      "stars": 55
     },
     {
-      "id": "7z51jr",
+      "id": "hkn3nw",
       "type": "github",
-      "title": "willsmanuel123-creator/ai-manus",
+      "title": "thecoderrrer/ai_manus",
       "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/willsmanuel123-creator/ai-manus",
-      "date": "2026-11-06T18:15:33Z",
+      "link": "https://github.com/thecoderrrer/ai_manus",
+      "date": "2026-11-07T06:34:14Z",
       "source": "GitHub",
-      "author": "willsmanuel123-creator",
+      "author": "thecoderrrer",
       "tags": [
-        "⭐ 81",
+        "⭐ 55"
+      ],
+      "min": null,
+      "stars": 55
+    },
+    {
+      "id": "1pzz1ht",
+      "type": "github",
+      "title": "hussein1labtop-jpg/ai-manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "link": "https://github.com/hussein1labtop-jpg/ai-manus",
+      "date": "2026-11-06T18:16:13Z",
+      "source": "GitHub",
+      "author": "hussein1labtop-jpg",
+      "tags": [
+        "⭐ 55",
         "Python"
       ],
       "min": null,
-      "stars": 81
+      "stars": 55
     }
   ]
 }
