@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:41:40.814Z",
+  "generatedAt": "2026-11-09T15:02:22.564Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 249",
+        "⭐ 252",
         "TypeScript"
       ],
       "min": null,
-      "stars": 249
+      "stars": 252
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,20 @@
       "min": 30
     },
     {
+      "id": "fjg88p",
+      "type": "news",
+      "title": "What People Pay For: 15 Explosive Ideas the Next Generation Will Gladly Buy",
+      "desc": "What people pay for has always come down to three things: a problem solved, a moment remembered or time handed back. Brands, logos and features are only packaging around those outcomes. The next generation of buyers, from Gen Z to Gen Alpha, can compare prices, read reviews and spot marketing spin i",
+      "link": "https://imfounder.com/entrepreneurship/what-people-pay-for/",
+      "date": "Mon, 09 Nov 2026 09:38:00 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [
+        "mlops"
+      ],
+      "min": 10
+    },
+    {
       "id": "14jsird",
       "type": "news",
       "title": "Digital Nomad Life: 7 Brutal Truths Behind the Freedom",
@@ -127,18 +141,6 @@
       "date": "Sat, 07 Nov 2026 14:13:49 +0000",
       "source": "IM Founder",
       "author": "Neha Slatch",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "955dgz",
-      "type": "news",
-      "title": "Claude Motion: 7 Easy Steps to Create Stunning Animations From One Prompt and Launch Your YouTube Channel",
-      "desc": "A plain-English beginner’s guide to turning a single prompt into a finished animated video, with no drawing, filming or editing experience required. Claude Motion is Anthropic’s new beta feature that turns a written prompt, plus your own text, charts or images, into a short animated video you can do",
-      "link": "https://imfounder.com/science-tech/ai/claude-motion-youtube-guide/",
-      "date": "Fri, 06 Nov 2026 13:44:19 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
       "tags": [],
       "min": 12
     },
@@ -152,11 +154,23 @@
       "source": "GitHub",
       "author": "erhanmeydan",
       "tags": [
-        "⭐ 103",
+        "⭐ 104",
         "TypeScript"
       ],
       "min": null,
-      "stars": 103
+      "stars": 104
+    },
+    {
+      "id": "955dgz",
+      "type": "news",
+      "title": "Claude Motion: 7 Easy Steps to Create Stunning Animations From One Prompt and Launch Your YouTube Channel",
+      "desc": "A plain-English beginner’s guide to turning a single prompt into a finished animated video, with no drawing, filming or editing experience required. Claude Motion is Anthropic’s new beta feature that turns a written prompt, plus your own text, charts or images, into a short animated video you can do",
+      "link": "https://imfounder.com/science-tech/ai/claude-motion-youtube-guide/",
+      "date": "Fri, 06 Nov 2026 13:44:19 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
+      "tags": [],
+      "min": 12
     },
     {
       "id": "vhkl8t",
@@ -207,6 +221,22 @@
       "min": 11
     },
     {
+      "id": "1b9yn8v",
+      "type": "github",
+      "title": "Jumbomuffin777/Frontier-UI",
+      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
+      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
+      "date": "2026-11-01T06:41:23Z",
+      "source": "GitHub",
+      "author": "Jumbomuffin777",
+      "tags": [
+        "⭐ 66",
+        "Python"
+      ],
+      "min": null,
+      "stars": 66
+    },
+    {
       "id": "6599bp",
       "type": "news",
       "title": "PRS Tekton: 7 cool Upgrades That Make This Revolutionary Guitar Impossible to Ignore",
@@ -219,32 +249,20 @@
       "min": 12
     },
     {
-      "id": "1b9yn8v",
+      "id": "1cuhmis",
       "type": "github",
-      "title": "Jumbomuffin777/Frontier-UI",
-      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
-      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
-      "date": "2026-11-01T06:41:23Z",
+      "title": "Abdul-Rehman7826/ai-manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "link": "https://github.com/Abdul-Rehman7826/ai-manus",
+      "date": "2026-11-06T18:16:37Z",
       "source": "GitHub",
-      "author": "Jumbomuffin777",
+      "author": "Abdul-Rehman7826",
       "tags": [
-        "⭐ 65",
+        "⭐ 55",
         "Python"
       ],
       "min": null,
-      "stars": 65
-    },
-    {
-      "id": "eqbpbf",
-      "type": "news",
-      "title": "THE TRILLION-DOLLAR FOOD PIPELINE",
-      "desc": "Part I: The Price of Moving the World’s Food Before the world’s agricultural commodities reach international markets, they travel through a commercial network of trucks, railroads, warehouses, river barges and export terminals. Government transportation data, regulatory filings and corporate disclos",
-      "link": "https://imfounder.com/entrepreneurship/business/brazil-soybean-transportation-costs/",
-      "date": "Sat, 31 Oct 2026 09:05:00 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 16
+      "stars": 55
     },
     {
       "id": "1sv1o4c",
@@ -256,55 +274,8 @@
       "source": "GitHub",
       "author": "quyetcao",
       "tags": [
-        "⭐ 56",
-        "Python"
-      ],
-      "min": null,
-      "stars": 56
-    },
-    {
-      "id": "odbuqi",
-      "type": "github",
-      "title": "Kolg123/ai-manus",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/Kolg123/ai-manus",
-      "date": "2026-11-06T18:15:54Z",
-      "source": "GitHub",
-      "author": "Kolg123",
-      "tags": [
         "⭐ 55",
         "Python"
-      ],
-      "min": null,
-      "stars": 55
-    },
-    {
-      "id": "17965xi",
-      "type": "github",
-      "title": "thecoderrrer/ai-manus",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/thecoderrrer/ai-manus",
-      "date": "2026-11-06T18:16:31Z",
-      "source": "GitHub",
-      "author": "thecoderrrer",
-      "tags": [
-        "⭐ 55",
-        "Python"
-      ],
-      "min": null,
-      "stars": 55
-    },
-    {
-      "id": "hkn3nw",
-      "type": "github",
-      "title": "thecoderrrer/ai_manus",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/thecoderrrer/ai_manus",
-      "date": "2026-11-07T06:34:14Z",
-      "source": "GitHub",
-      "author": "thecoderrrer",
-      "tags": [
-        "⭐ 55"
       ],
       "min": null,
       "stars": 55
@@ -319,11 +290,43 @@
       "source": "GitHub",
       "author": "hussein1labtop-jpg",
       "tags": [
-        "⭐ 55",
+        "⭐ 54",
         "Python"
       ],
       "min": null,
-      "stars": 55
+      "stars": 54
+    },
+    {
+      "id": "ik89sg",
+      "type": "github",
+      "title": "monirchemrubd/ai-manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "link": "https://github.com/monirchemrubd/ai-manus",
+      "date": "2026-11-06T18:15:56Z",
+      "source": "GitHub",
+      "author": "monirchemrubd",
+      "tags": [
+        "⭐ 54",
+        "Python"
+      ],
+      "min": null,
+      "stars": 54
+    },
+    {
+      "id": "odbuqi",
+      "type": "github",
+      "title": "Kolg123/ai-manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "link": "https://github.com/Kolg123/ai-manus",
+      "date": "2026-11-06T18:15:54Z",
+      "source": "GitHub",
+      "author": "Kolg123",
+      "tags": [
+        "⭐ 54",
+        "Python"
+      ],
+      "min": null,
+      "stars": 54
     }
   ]
 }
