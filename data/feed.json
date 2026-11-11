@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:14:50.615Z",
+  "generatedAt": "2026-11-11T13:29:31.401Z",
   "count": 24,
   "cards": [
     {
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "z4ezpz",
+      "type": "news",
+      "title": "THE TRILLION-DOLLAR FOOD PIPELINE II",
+      "desc": "THE TRILLION-DOLLAR FOOD PIPELINE Part II: The Companies Behind the Cargo The businesses that move the world’s food do not all make money the same way. Some earn thin spreads on enormous commodity transactions. Others collect fees for access to railroads, rivers and terminals. A growing number are b",
+      "link": "https://imfounder.com/entrepreneurship/business/companies-behind-global-food-trade/",
+      "date": "Wed, 11 Nov 2026 11:51:46 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 12
+    },
+    {
       "id": "1qmng08",
       "type": "news",
       "title": "Diwali Pollution 2026: How a Festival of Lights Left India Gasping for Air",
@@ -129,6 +141,22 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 10
+    },
+    {
+      "id": "pmyxd3",
+      "type": "github",
+      "title": "erhanmeydan/kilnframe",
+      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
+      "link": "https://github.com/erhanmeydan/kilnframe",
+      "date": "2026-10-11T02:19:12Z",
+      "source": "GitHub",
+      "author": "erhanmeydan",
+      "tags": [
+        "⭐ 109",
+        "TypeScript"
+      ],
+      "min": null,
+      "stars": 109
     },
     {
       "id": "fjg88p",
@@ -143,22 +171,6 @@
         "mlops"
       ],
       "min": 10
-    },
-    {
-      "id": "pmyxd3",
-      "type": "github",
-      "title": "erhanmeydan/kilnframe",
-      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
-      "link": "https://github.com/erhanmeydan/kilnframe",
-      "date": "2026-10-11T02:19:12Z",
-      "source": "GitHub",
-      "author": "erhanmeydan",
-      "tags": [
-        "⭐ 107",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 107
     },
     {
       "id": "14jsird",
@@ -209,6 +221,22 @@
       "min": 12
     },
     {
+      "id": "o3pdzw",
+      "type": "github",
+      "title": "munitkala/selfsemester",
+      "desc": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
+      "link": "https://github.com/munitkala/selfsemester",
+      "date": "2026-11-04T20:50:56Z",
+      "source": "GitHub",
+      "author": "munitkala",
+      "tags": [
+        "⭐ 78",
+        "Rust"
+      ],
+      "min": null,
+      "stars": 78
+    },
+    {
       "id": "fa8qlz",
       "type": "news",
       "title": "Tech News November 2026: 12 Shocking Stories as a $6.3B Crypto Heist, Hacked Freezers and a $115B Chip Bet Rattle Big Tech",
@@ -221,49 +249,6 @@
       "min": 12
     },
     {
-      "id": "o3pdzw",
-      "type": "github",
-      "title": "munitkala/selfsemester",
-      "desc": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
-      "link": "https://github.com/munitkala/selfsemester",
-      "date": "2026-11-04T20:50:56Z",
-      "source": "GitHub",
-      "author": "munitkala",
-      "tags": [
-        "⭐ 76",
-        "Rust"
-      ],
-      "min": null,
-      "stars": 76
-    },
-    {
-      "id": "m9jffq",
-      "type": "news",
-      "title": "Canada Cohere Investment: Shocking $1.6B AI Bet Revealed",
-      "desc": "The Canada Cohere investment is the boldest technology bet Ottawa has ever placed: up to $1.6 billion, paid in stages, in exchange for a stake in the Toronto-founded AI company.&#160;Prime Minister Mark Carney announced it in Montréal on October 29, 2026, and it is a commercial equity deal, not a gr",
-      "link": "https://imfounder.com/science-tech/ai/canada-cohere-investment/",
-      "date": "Mon, 02 Nov 2026 13:18:02 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "wuj1l3",
-      "type": "github",
-      "title": "liujiaqi2024/Free-ClaudeOpus-5.5",
-      "desc": "No description.",
-      "link": "https://github.com/liujiaqi2024/Free-ClaudeOpus-5.5",
-      "date": "2026-11-09T20:19:19Z",
-      "source": "GitHub",
-      "author": "liujiaqi2024",
-      "tags": [
-        "⭐ 71"
-      ],
-      "min": null,
-      "stars": 71
-    },
-    {
       "id": "1b9yn8v",
       "type": "github",
       "title": "Jumbomuffin777/Frontier-UI",
@@ -273,11 +258,27 @@
       "source": "GitHub",
       "author": "Jumbomuffin777",
       "tags": [
-        "⭐ 66",
+        "⭐ 68",
         "Python"
       ],
       "min": null,
-      "stars": 66
+      "stars": 68
+    },
+    {
+      "id": "1p0scxl",
+      "type": "github",
+      "title": "Water-Run/ft",
+      "desc": "f(t)函数: Agent制作的动画集. 自由软件, 自由视频.",
+      "link": "https://github.com/Water-Run/ft",
+      "date": "2026-10-02T05:59:48Z",
+      "source": "GitHub",
+      "author": "Water-Run",
+      "tags": [
+        "⭐ 55",
+        "JavaScript"
+      ],
+      "min": null,
+      "stars": 55
     },
     {
       "id": "1sv1o4c",
