@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:29:31.401Z",
+  "generatedAt": "2026-11-12T14:33:33.035Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 252",
+        "⭐ 254",
         "TypeScript"
       ],
       "min": null,
-      "stars": 252
+      "stars": 254
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "y1bvd0",
+      "type": "news",
+      "title": "Jensen Huang Scandal: The Alleged Spy, a Second Affair and Nvidia’s $2 Trillion Freefall",
+      "desc": "The Jensen Huang scandal has turned the world’s most closely watched chief executive into the center of a corporate, political and national-security crisis in under a week. On Sunday, November 8, 2026, the Nvidia CEO told staff he had been unfaithful to his wife. Within days, reports linked that rel",
+      "link": "https://imfounder.com/science-tech/ai/jensen-huang-scandal-nvidia-stock-crash/",
+      "date": "Thu, 12 Nov 2026 12:00:03 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 11
+    },
+    {
       "id": "z4ezpz",
       "type": "news",
       "title": "THE TRILLION-DOLLAR FOOD PIPELINE II",
@@ -129,18 +141,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "1qmng08",
-      "type": "news",
-      "title": "Diwali Pollution 2026: How a Festival of Lights Left India Gasping for Air",
-      "desc": "Diwali pollution did exactly what experts warned it would on the night of 8 November 2026. Delhi recorded its worst Diwali-night air quality in five years, and by morning the capital was wrapped in a thick grey haze.&#160;siasat Behind the numbers is a simple story: a festival of lights, a city alre",
-      "link": "https://imfounder.com/international/diwali-pollution/",
-      "date": "Tue, 10 Nov 2026 11:35:39 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 10
     },
     {
       "id": "pmyxd3",
@@ -157,6 +157,18 @@
       ],
       "min": null,
       "stars": 109
+    },
+    {
+      "id": "1qmng08",
+      "type": "news",
+      "title": "Diwali Pollution 2026: How a Festival of Lights Left India Gasping for Air",
+      "desc": "Diwali pollution did exactly what experts warned it would on the night of 8 November 2026. Delhi recorded its worst Diwali-night air quality in five years, and by morning the capital was wrapped in a thick grey haze.&#160;siasat Behind the numbers is a simple story: a festival of lights, a city alre",
+      "link": "https://imfounder.com/international/diwali-pollution/",
+      "date": "Tue, 10 Nov 2026 11:35:39 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 10
     },
     {
       "id": "fjg88p",
@@ -209,18 +221,6 @@
       "min": 11
     },
     {
-      "id": "xib39p",
-      "type": "news",
-      "title": "Year-End Finance Checklist 2026: 9 Critical Mistakes Canadians and Americans Must Fix Before December 31",
-      "desc": "TFSA, RRSP and FHSA in Canada. 401(k), IRA, HSA and FSA in the US. One founder’s plan to keep more of what you earn. A smart year-end finance checklist is the highest-return project you will run this quarter. It takes a few hours, needs no new software, and can recover thousands of dollars in tax [&",
-      "link": "https://imfounder.com/entrepreneurship/year-end-finance-checklist-canada-vs-us/",
-      "date": "Wed, 04 Nov 2026 09:50:12 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 12
-    },
-    {
       "id": "o3pdzw",
       "type": "github",
       "title": "munitkala/selfsemester",
@@ -230,21 +230,21 @@
       "source": "GitHub",
       "author": "munitkala",
       "tags": [
-        "⭐ 78",
+        "⭐ 82",
         "Rust"
       ],
       "min": null,
-      "stars": 78
+      "stars": 82
     },
     {
-      "id": "fa8qlz",
+      "id": "xib39p",
       "type": "news",
-      "title": "Tech News November 2026: 12 Shocking Stories as a $6.3B Crypto Heist, Hacked Freezers and a $115B Chip Bet Rattle Big Tech",
-      "desc": "Binance loses $6.3 billion to hackers the FBI links to North Korea, Anthropic opens its books, Marvell bets $115 billion on optical networking, and Apple&#8217;s $1,999 foldable meets reality. These are the stories defining Tech News November 2026. Tech News November 2026 begins with a market that s",
-      "link": "https://imfounder.com/science-tech/tech-news-november-2026-shocking-stories/",
-      "date": "Tue, 03 Nov 2026 12:03:15 +0000",
+      "title": "Year-End Finance Checklist 2026: 9 Critical Mistakes Canadians and Americans Must Fix Before December 31",
+      "desc": "TFSA, RRSP and FHSA in Canada. 401(k), IRA, HSA and FSA in the US. One founder’s plan to keep more of what you earn. A smart year-end finance checklist is the highest-return project you will run this quarter. It takes a few hours, needs no new software, and can recover thousands of dollars in tax [&",
+      "link": "https://imfounder.com/entrepreneurship/year-end-finance-checklist-canada-vs-us/",
+      "date": "Wed, 04 Nov 2026 09:50:12 +0000",
       "source": "IM Founder",
-      "author": "Taranjeet Slatch",
+      "author": "Editor",
       "tags": [],
       "min": 12
     },
@@ -274,11 +274,11 @@
       "source": "GitHub",
       "author": "Water-Run",
       "tags": [
-        "⭐ 55",
+        "⭐ 57",
         "JavaScript"
       ],
       "min": null,
-      "stars": 55
+      "stars": 57
     },
     {
       "id": "1sv1o4c",
@@ -306,11 +306,11 @@
       "source": "GitHub",
       "author": "Abdul-Rehman7826",
       "tags": [
-        "⭐ 53",
+        "⭐ 54",
         "Python"
       ],
       "min": null,
-      "stars": 53
+      "stars": 54
     },
     {
       "id": "1pzz1ht",
