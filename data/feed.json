@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:33:33.035Z",
+  "generatedAt": "2026-11-13T13:52:48.807Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "Fazmin",
       "tags": [
-        "⭐ 254",
+        "⭐ 255",
         "TypeScript"
       ],
       "min": null,
-      "stars": 254
+      "stars": 255
     },
     {
       "id": "oesf1f",
@@ -152,11 +152,11 @@
       "source": "GitHub",
       "author": "erhanmeydan",
       "tags": [
-        "⭐ 109",
+        "⭐ 112",
         "TypeScript"
       ],
       "min": null,
-      "stars": 109
+      "stars": 112
     },
     {
       "id": "1qmng08",
@@ -230,11 +230,11 @@
       "source": "GitHub",
       "author": "munitkala",
       "tags": [
-        "⭐ 82",
+        "⭐ 90",
         "Rust"
       ],
       "min": null,
-      "stars": 82
+      "stars": 90
     },
     {
       "id": "xib39p",
@@ -258,11 +258,11 @@
       "source": "GitHub",
       "author": "Jumbomuffin777",
       "tags": [
-        "⭐ 68",
+        "⭐ 69",
         "Python"
       ],
       "min": null,
-      "stars": 68
+      "stars": 69
     },
     {
       "id": "1p0scxl",
@@ -274,27 +274,11 @@
       "source": "GitHub",
       "author": "Water-Run",
       "tags": [
-        "⭐ 57",
+        "⭐ 59",
         "JavaScript"
       ],
       "min": null,
-      "stars": 57
-    },
-    {
-      "id": "1sv1o4c",
-      "type": "github",
-      "title": "quyetcao/ai-manus",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/quyetcao/ai-manus",
-      "date": "2026-11-06T18:16:53Z",
-      "source": "GitHub",
-      "author": "quyetcao",
-      "tags": [
-        "⭐ 54",
-        "Python"
-      ],
-      "min": null,
-      "stars": 54
+      "stars": 59
     },
     {
       "id": "1cuhmis",
@@ -305,6 +289,22 @@
       "date": "2026-11-06T18:16:37Z",
       "source": "GitHub",
       "author": "Abdul-Rehman7826",
+      "tags": [
+        "⭐ 55",
+        "Python"
+      ],
+      "min": null,
+      "stars": 55
+    },
+    {
+      "id": "1sv1o4c",
+      "type": "github",
+      "title": "quyetcao/ai-manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "link": "https://github.com/quyetcao/ai-manus",
+      "date": "2026-11-06T18:16:53Z",
+      "source": "GitHub",
+      "author": "quyetcao",
       "tags": [
         "⭐ 54",
         "Python"
