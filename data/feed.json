@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T13:52:48.807Z",
+  "generatedAt": "2026-11-14T12:55:39.150Z",
   "count": 24,
   "cards": [
     {
@@ -67,20 +67,19 @@
       "min": 12
     },
     {
-      "id": "zc0723",
+      "id": "bozkv3",
       "type": "github",
-      "title": "Fazmin/AILearningGuide",
-      "desc": "Interactive desktop app with 58 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
-      "link": "https://github.com/Fazmin/AILearningGuide",
-      "date": "2026-10-05T02:29:23Z",
+      "title": "bravecrownvalve/ai--manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "link": "https://github.com/bravecrownvalve/ai--manus",
+      "date": "2026-11-13T16:47:41Z",
       "source": "GitHub",
-      "author": "Fazmin",
+      "author": "bravecrownvalve",
       "tags": [
-        "⭐ 255",
-        "TypeScript"
+        "⭐ 266"
       ],
       "min": null,
-      "stars": 255
+      "stars": 266
     },
     {
       "id": "oesf1f",
@@ -119,6 +118,47 @@
       "min": 30
     },
     {
+      "id": "1s7ywl",
+      "type": "news",
+      "title": "AI News November 2026: 7 Shocking Stories as Microsoft Crashes Worldwide, Nvidia’s CEO Quits and Anthropic Races to Wall Street",
+      "desc": "AI news November 2026 has one clear theme: the systems that run modern work are growing bigger, costlier and more fragile all at once. In under two weeks,&#160;Microsoft’s email and cloud services went dark for about 24 hours, Nvidia lost its co-founder as CEO, and Anthropic opened an IPO roadshow w",
+      "link": "https://imfounder.com/science-tech/ai/ai-news-november-2026/",
+      "date": "Sat, 14 Nov 2026 12:20:04 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "1bx3yli",
+      "type": "news",
+      "title": "THE QUIET BOOM: America&#8217;s Nonprofits Went All-In on AI. Their Funding Didn&#8217;t Follow.",
+      "desc": "AI adoption is accelerating across America&#8217;s nonprofit economy. But behind the productivity gains is a harder question: Who controls the technology keeping essential services running? While America argued about artificial intelligence, the nonprofit sector got to work. No billion-dollar launch",
+      "link": "https://imfounder.com/science-tech/ai/ai-adoption-in-nonprofits-america/",
+      "date": "Fri, 13 Nov 2026 14:31:51 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [
+        "transformers"
+      ],
+      "min": 12
+    },
+    {
+      "id": "1tlvcub",
+      "type": "github",
+      "title": "Boldpleinverter/ai--manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "link": "https://github.com/Boldpleinverter/ai--manus",
+      "date": "2026-11-13T16:47:27Z",
+      "source": "GitHub",
+      "author": "Boldpleinverter",
+      "tags": [
+        "⭐ 266"
+      ],
+      "min": null,
+      "stars": 266
+    },
+    {
       "id": "y1bvd0",
       "type": "news",
       "title": "Jensen Huang Scandal: The Alleged Spy, a Second Affair and Nvidia’s $2 Trillion Freefall",
@@ -141,22 +181,6 @@
       "author": "Renée Tomato",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "pmyxd3",
-      "type": "github",
-      "title": "erhanmeydan/kilnframe",
-      "desc": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
-      "link": "https://github.com/erhanmeydan/kilnframe",
-      "date": "2026-10-11T02:19:12Z",
-      "source": "GitHub",
-      "author": "erhanmeydan",
-      "tags": [
-        "⭐ 112",
-        "TypeScript"
-      ],
-      "min": null,
-      "stars": 112
     },
     {
       "id": "1qmng08",
@@ -197,6 +221,21 @@
       "min": 12
     },
     {
+      "id": "11oaqve",
+      "type": "github",
+      "title": "AdvisorShake/ai--manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "link": "https://github.com/AdvisorShake/ai--manus",
+      "date": "2026-11-13T16:45:30Z",
+      "source": "GitHub",
+      "author": "AdvisorShake",
+      "tags": [
+        "⭐ 266"
+      ],
+      "min": null,
+      "stars": 266
+    },
+    {
       "id": "955dgz",
       "type": "news",
       "title": "Claude Motion: 7 Easy Steps to Create Stunning Animations From One Prompt and Launch Your YouTube Channel",
@@ -209,124 +248,79 @@
       "min": 12
     },
     {
-      "id": "vhkl8t",
-      "type": "news",
-      "title": "Trump Midterm Defeat: A President Without Power? 7 Shocking Shifts Reshaping the World",
-      "desc": "Trump midterm defeat is no longer a forecast. It is the new reality of American politics. On Tuesday, November 3, 2026, voters handed Democrats control of both the House and the Senate, ending two years of unified Republican power in Washington. The question echoing from Berlin to Beijing is blunt: ",
-      "link": "https://imfounder.com/politics/trump-midterm-defeat-president-without-power/",
-      "date": "Thu, 05 Nov 2026 10:30:31 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "o3pdzw",
+      "id": "17wy3jz",
       "type": "github",
-      "title": "munitkala/selfsemester",
-      "desc": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
-      "link": "https://github.com/munitkala/selfsemester",
-      "date": "2026-11-04T20:50:56Z",
-      "source": "GitHub",
-      "author": "munitkala",
-      "tags": [
-        "⭐ 90",
-        "Rust"
-      ],
-      "min": null,
-      "stars": 90
-    },
-    {
-      "id": "xib39p",
-      "type": "news",
-      "title": "Year-End Finance Checklist 2026: 9 Critical Mistakes Canadians and Americans Must Fix Before December 31",
-      "desc": "TFSA, RRSP and FHSA in Canada. 401(k), IRA, HSA and FSA in the US. One founder’s plan to keep more of what you earn. A smart year-end finance checklist is the highest-return project you will run this quarter. It takes a few hours, needs no new software, and can recover thousands of dollars in tax [&",
-      "link": "https://imfounder.com/entrepreneurship/year-end-finance-checklist-canada-vs-us/",
-      "date": "Wed, 04 Nov 2026 09:50:12 +0000",
-      "source": "IM Founder",
-      "author": "Editor",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "1b9yn8v",
-      "type": "github",
-      "title": "Jumbomuffin777/Frontier-UI",
-      "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
-      "link": "https://github.com/Jumbomuffin777/Frontier-UI",
-      "date": "2026-11-01T06:41:23Z",
-      "source": "GitHub",
-      "author": "Jumbomuffin777",
-      "tags": [
-        "⭐ 69",
-        "Python"
-      ],
-      "min": null,
-      "stars": 69
-    },
-    {
-      "id": "1p0scxl",
-      "type": "github",
-      "title": "Water-Run/ft",
-      "desc": "f(t)函数: Agent制作的动画集. 自由软件, 自由视频.",
-      "link": "https://github.com/Water-Run/ft",
-      "date": "2026-10-02T05:59:48Z",
-      "source": "GitHub",
-      "author": "Water-Run",
-      "tags": [
-        "⭐ 59",
-        "JavaScript"
-      ],
-      "min": null,
-      "stars": 59
-    },
-    {
-      "id": "1cuhmis",
-      "type": "github",
-      "title": "Abdul-Rehman7826/ai-manus",
+      "title": "SortGuardian/ai--manus",
       "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/Abdul-Rehman7826/ai-manus",
-      "date": "2026-11-06T18:16:37Z",
+      "link": "https://github.com/SortGuardian/ai--manus",
+      "date": "2026-11-13T16:43:53Z",
       "source": "GitHub",
-      "author": "Abdul-Rehman7826",
+      "author": "SortGuardian",
       "tags": [
-        "⭐ 55",
-        "Python"
+        "⭐ 266"
       ],
       "min": null,
-      "stars": 55
+      "stars": 266
     },
     {
-      "id": "1sv1o4c",
+      "id": "aya4qq",
       "type": "github",
-      "title": "quyetcao/ai-manus",
+      "title": "AtomEmissary/ai--manus",
       "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/quyetcao/ai-manus",
-      "date": "2026-11-06T18:16:53Z",
+      "link": "https://github.com/AtomEmissary/ai--manus",
+      "date": "2026-11-13T16:45:45Z",
       "source": "GitHub",
-      "author": "quyetcao",
+      "author": "AtomEmissary",
       "tags": [
-        "⭐ 54",
-        "Python"
+        "⭐ 266"
       ],
       "min": null,
-      "stars": 54
+      "stars": 266
     },
     {
-      "id": "1pzz1ht",
+      "id": "12ctop0",
       "type": "github",
-      "title": "hussein1labtop-jpg/ai-manus",
+      "title": "WestLightningMove/ai--manus",
       "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/hussein1labtop-jpg/ai-manus",
-      "date": "2026-11-06T18:16:13Z",
+      "link": "https://github.com/WestLightningMove/ai--manus",
+      "date": "2026-11-13T16:45:23Z",
       "source": "GitHub",
-      "author": "hussein1labtop-jpg",
+      "author": "WestLightningMove",
       "tags": [
-        "⭐ 52",
-        "Python"
+        "⭐ 266"
       ],
       "min": null,
-      "stars": 52
+      "stars": 266
+    },
+    {
+      "id": "1lhiear",
+      "type": "github",
+      "title": "BannerCatbird/ai--manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "link": "https://github.com/BannerCatbird/ai--manus",
+      "date": "2026-11-13T16:46:40Z",
+      "source": "GitHub",
+      "author": "BannerCatbird",
+      "tags": [
+        "⭐ 266"
+      ],
+      "min": null,
+      "stars": 266
+    },
+    {
+      "id": "itqqif",
+      "type": "github",
+      "title": "BladesmithPanel/ai--manus",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "link": "https://github.com/BladesmithPanel/ai--manus",
+      "date": "2026-11-13T16:47:11Z",
+      "source": "GitHub",
+      "author": "BladesmithPanel",
+      "tags": [
+        "⭐ 266"
+      ],
+      "min": null,
+      "stars": 266
     }
   ]
 }
