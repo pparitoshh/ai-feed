@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T13:23:38.087Z",
-  "count": 24,
+  "generatedAt": "2026-11-16T14:39:20.503Z",
+  "count": 16,
   "cards": [
     {
       "id": "rm4aw5",
@@ -67,19 +67,20 @@
       "min": 12
     },
     {
-      "id": "1ip8grq",
+      "id": "16u7q0k",
       "type": "github",
-      "title": "Topkiflare74/ai--manus2.0",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/Topkiflare74/ai--manus2.0",
-      "date": "2026-11-14T19:15:24Z",
+      "title": "YellowLaborerMarket/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:48:18Z",
       "source": "GitHub",
-      "author": "Topkiflare74",
+      "author": "YellowLaborerMarket",
       "tags": [
-        "⭐ 678"
+        "⭐ 474",
+        "Makefile"
       ],
       "min": null,
-      "stars": 678
+      "stars": 474
     },
     {
       "id": "oesf1f",
@@ -118,209 +119,116 @@
       "min": 30
     },
     {
-      "id": "1s7ywl",
-      "type": "news",
-      "title": "AI News November 2026: 7 Shocking Stories as Microsoft Crashes Worldwide, Nvidia’s CEO Quits and Anthropic Races to Wall Street",
-      "desc": "AI news November 2026 has one clear theme: the systems that run modern work are growing bigger, costlier and more fragile all at once. In under two weeks,&#160;Microsoft’s email and cloud services went dark for about 24 hours, Nvidia lost its co-founder as CEO, and Anthropic opened an IPO roadshow w",
-      "link": "https://imfounder.com/science-tech/ai/ai-news-november-2026/",
-      "date": "Sat, 14 Nov 2026 12:20:04 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "1bx3yli",
-      "type": "news",
-      "title": "THE QUIET BOOM: America&#8217;s Nonprofits Went All-In on AI. Their Funding Didn&#8217;t Follow.",
-      "desc": "AI adoption is accelerating across America&#8217;s nonprofit economy. But behind the productivity gains is a harder question: Who controls the technology keeping essential services running? While America argued about artificial intelligence, the nonprofit sector got to work. No billion-dollar launch",
-      "link": "https://imfounder.com/science-tech/ai/ai-adoption-in-nonprofits-america/",
-      "date": "Fri, 13 Nov 2026 14:31:51 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [
-        "transformers"
-      ],
-      "min": 12
-    },
-    {
-      "id": "1r56l8e",
+      "id": "18ss48h",
       "type": "github",
-      "title": "topapothecarycanal/ai--manus2.0",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/topapothecarycanal/ai--manus2.0",
-      "date": "2026-11-14T19:15:24Z",
+      "title": "TurtleReside/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:46:04Z",
       "source": "GitHub",
-      "author": "topapothecarycanal",
+      "author": "TurtleReside",
       "tags": [
-        "⭐ 666"
+        "⭐ 473",
+        "Go"
       ],
       "min": null,
-      "stars": 666
+      "stars": 473
     },
     {
-      "id": "y1bvd0",
-      "type": "news",
-      "title": "Jensen Huang Scandal: The Alleged Spy, a Second Affair and Nvidia’s $2 Trillion Freefall",
-      "desc": "The Jensen Huang scandal has turned the world’s most closely watched chief executive into the center of a corporate, political and national-security crisis in under a week. On Sunday, November 8, 2026, the Nvidia CEO told staff he had been unfaithful to his wife. Within days, reports linked that rel",
-      "link": "https://imfounder.com/science-tech/ai/jensen-huang-scandal-nvidia-stock-crash/",
-      "date": "Thu, 12 Nov 2026 12:00:03 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "z4ezpz",
-      "type": "news",
-      "title": "THE TRILLION-DOLLAR FOOD PIPELINE II",
-      "desc": "THE TRILLION-DOLLAR FOOD PIPELINE Part II: The Companies Behind the Cargo The businesses that move the world’s food do not all make money the same way. Some earn thin spreads on enormous commodity transactions. Others collect fees for access to railroads, rivers and terminals. A growing number are b",
-      "link": "https://imfounder.com/entrepreneurship/business/companies-behind-global-food-trade/",
-      "date": "Wed, 11 Nov 2026 11:51:46 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "1qmng08",
-      "type": "news",
-      "title": "Diwali Pollution 2026: How a Festival of Lights Left India Gasping for Air",
-      "desc": "Diwali pollution did exactly what experts warned it would on the night of 8 November 2026. Delhi recorded its worst Diwali-night air quality in five years, and by morning the capital was wrapped in a thick grey haze.&#160;siasat Behind the numbers is a simple story: a festival of lights, a city alre",
-      "link": "https://imfounder.com/international/diwali-pollution/",
-      "date": "Tue, 10 Nov 2026 11:35:39 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "fjg88p",
-      "type": "news",
-      "title": "What People Pay For: 15 Explosive Ideas the Next Generation Will Gladly Buy",
-      "desc": "What people pay for has always come down to three things: a problem solved, a moment remembered or time handed back. Brands, logos and features are only packaging around those outcomes. The next generation of buyers, from Gen Z to Gen Alpha, can compare prices, read reviews and spot marketing spin i",
-      "link": "https://imfounder.com/entrepreneurship/what-people-pay-for/",
-      "date": "Mon, 09 Nov 2026 09:38:00 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [
-        "mlops"
-      ],
-      "min": 10
-    },
-    {
-      "id": "14jsird",
-      "type": "news",
-      "title": "Digital Nomad Life: 7 Brutal Truths Behind the Freedom",
-      "desc": "The freedom to work from anywhere comes with a price few Instagram posts reveal. Behind the beautiful destinations are financial pressures, isolation, legal complications and the constant challenge of finding somewhere productive to work. Introduction: The dream of working from anywhere Digital noma",
-      "link": "https://imfounder.com/lifestyle/digital-nomad-life-hidden-reality/",
-      "date": "Sat, 07 Nov 2026 14:13:49 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "9l4hqx",
+      "id": "c9376m",
       "type": "github",
-      "title": "toppatronweave/ai--manus2.0",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/toppatronweave/ai--manus2.0",
-      "date": "2026-11-14T19:15:25Z",
+      "title": "weightcashiercupola/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:47:11Z",
       "source": "GitHub",
-      "author": "toppatronweave",
+      "author": "weightcashiercupola",
       "tags": [
-        "⭐ 665"
+        "⭐ 473",
+        "Makefile"
       ],
       "min": null,
-      "stars": 665
+      "stars": 473
     },
     {
-      "id": "955dgz",
-      "type": "news",
-      "title": "Claude Motion: 7 Easy Steps to Create Stunning Animations From One Prompt and Launch Your YouTube Channel",
-      "desc": "A plain-English beginner’s guide to turning a single prompt into a finished animated video, with no drawing, filming or editing experience required. Claude Motion is Anthropic’s new beta feature that turns a written prompt, plus your own text, charts or images, into a short animated video you can do",
-      "link": "https://imfounder.com/science-tech/ai/claude-motion-youtube-guide/",
-      "date": "Fri, 06 Nov 2026 13:44:19 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "7nnil5",
+      "id": "1s103qp",
       "type": "github",
-      "title": "topconstableinlet67/ai--manus2.0",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/topconstableinlet67/ai--manus2.0",
-      "date": "2026-11-14T19:15:24Z",
+      "title": "WingDataVacuum/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:47:17Z",
       "source": "GitHub",
-      "author": "topconstableinlet67",
+      "author": "WingDataVacuum",
       "tags": [
-        "⭐ 663"
+        "⭐ 473",
+        "Makefile"
       ],
       "min": null,
-      "stars": 663
+      "stars": 473
     },
     {
-      "id": "3pybtj",
+      "id": "15zvp90",
       "type": "github",
-      "title": "tornadonovicewhirl40/ai--manus2.0",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/tornadonovicewhirl40/ai--manus2.0",
-      "date": "2026-11-14T19:25:17Z",
+      "title": "TypeTyrantScheme/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:46:04Z",
       "source": "GitHub",
-      "author": "tornadonovicewhirl40",
+      "author": "TypeTyrantScheme",
       "tags": [
-        "⭐ 659"
+        "⭐ 473",
+        "Makefile"
       ],
       "min": null,
-      "stars": 659
+      "stars": 473
     },
     {
-      "id": "4qwe8",
+      "id": "34vg6r",
       "type": "github",
-      "title": "TitanShieldRavine/ai--manus2.0",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/TitanShieldRavine/ai--manus2.0",
-      "date": "2026-11-14T19:15:25Z",
+      "title": "WinnerSpecialist/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:47:17Z",
       "source": "GitHub",
-      "author": "TitanShieldRavine",
+      "author": "WinnerSpecialist",
       "tags": [
-        "⭐ 659"
+        "⭐ 473",
+        "Makefile"
       ],
       "min": null,
-      "stars": 659
+      "stars": 473
     },
     {
-      "id": "pj2bxb",
+      "id": "2nsv0b",
       "type": "github",
-      "title": "trackersnailgrip/ai--manus2.0",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/trackersnailgrip/ai--manus2.0",
-      "date": "2026-11-14T19:25:17Z",
+      "title": "VortexHostFeel/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:46:07Z",
       "source": "GitHub",
-      "author": "trackersnailgrip",
+      "author": "VortexHostFeel",
       "tags": [
-        "⭐ 654"
+        "⭐ 473",
+        "Makefile"
       ],
       "min": null,
-      "stars": 654
+      "stars": 473
     },
     {
-      "id": "e7rqn2",
+      "id": "18c5ohh",
       "type": "github",
-      "title": "Ultimateakiln/ai--manus2.0",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "link": "https://github.com/Ultimateakiln/ai--manus2.0",
-      "date": "2026-11-14T19:25:17Z",
+      "title": "Visionbeyondtrack/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:46:05Z",
       "source": "GitHub",
-      "author": "Ultimateakiln",
+      "author": "Visionbeyondtrack",
       "tags": [
-        "⭐ 654"
+        "⭐ 473",
+        "Makefile"
       ],
       "min": null,
-      "stars": 654
+      "stars": 473
     }
   ]
 }
