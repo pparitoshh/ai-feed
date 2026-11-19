@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T15:01:33.267Z",
-  "count": 24,
+  "generatedAt": "2026-11-19T15:10:44.719Z",
+  "count": 16,
   "cards": [
     {
       "id": "rm4aw5",
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "YellowLaborerMarket",
       "tags": [
-        "⭐ 475",
+        "⭐ 474",
         "Makefile"
       ],
       "min": null,
-      "stars": 475
+      "stars": 474
     },
     {
       "id": "oesf1f",
@@ -119,155 +119,6 @@
       "min": 30
     },
     {
-      "id": "13vop9s",
-      "type": "news",
-      "title": "The World’s Most Expensive Waterways",
-      "desc": "The Trillion-Dollar Food Pipeline — Part III In2026, disruptions across four maritime corridors exposed how the cost of moving food depends not only on distance, but on water, vessel design, insurance, contract terms and the ability to shift losses onto someone else. The Geography of Financial Risk ",
-      "link": "https://imfounder.com/entrepreneurship/business/global-food-shipping-risks-2026/",
-      "date": "Wed, 18 Nov 2026 12:11:45 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 14
-    },
-    {
-      "id": "19yv7yn",
-      "type": "news",
-      "title": "Reverse Engineer Anything: 7 amazing Truths Behind Matthew Berman’s Viral REA Tweet",
-      "desc": "Reverse engineer anything. Three words, and an entire industry just got nervous. On October 8, AI commentator Matthew Berman pointed his followers to a project called REA, an open-source tool that lets AI coding agents examine software without access to its source code. Within days it was everywhere",
-      "link": "https://imfounder.com/science-tech/reverse-engineer-anything-matthew-berman-rea/",
-      "date": "Tue, 17 Nov 2026 13:22:38 +0000",
-      "source": "IM Founder",
-      "author": "Kirat Singh",
-      "tags": [
-        "agents",
-        "open-source"
-      ],
-      "min": 11
-    },
-    {
-      "id": "34vg6r",
-      "type": "github",
-      "title": "WinnerSpecialist/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-      "date": "2026-11-15T16:47:17Z",
-      "source": "GitHub",
-      "author": "WinnerSpecialist",
-      "tags": [
-        "⭐ 473",
-        "Makefile"
-      ],
-      "min": null,
-      "stars": 473
-    },
-    {
-      "id": "1r38yuh",
-      "type": "news",
-      "title": "Apply for Jobs in December: 7 Important Reasons It&#8217;s the Smartest Move (and the AI Resume Method That Gets You Noticed)",
-      "desc": "If you are wondering whether to apply for jobs in December, you have probably heard the usual advice: wait until January. It sounds sensible. Offices empty out, calendars fill with holiday plans, and it feels as if every hiring manager has switched off their email. But that assumption is exactly wha",
-      "link": "https://imfounder.com/science-tech/ai/ai-prompts/apply-for-jobs-in-december/",
-      "date": "Mon, 16 Nov 2026 10:55:39 +0000",
-      "source": "IM Founder",
-      "author": "Neha Slatch",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "1s7ywl",
-      "type": "news",
-      "title": "AI News November 2026: 7 Shocking Stories as Microsoft Crashes Worldwide, Nvidia’s CEO Quits and Anthropic Races to Wall Street",
-      "desc": "AI news November 2026 has one clear theme: the systems that run modern work are growing bigger, costlier and more fragile all at once. In under two weeks,&#160;Microsoft’s email and cloud services went dark for about 24 hours, Nvidia lost its co-founder as CEO, and Anthropic opened an IPO roadshow w",
-      "link": "https://imfounder.com/science-tech/ai/ai-news-november-2026/",
-      "date": "Sat, 14 Nov 2026 12:20:04 +0000",
-      "source": "IM Founder",
-      "author": "Taranjeet Slatch",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "1bx3yli",
-      "type": "news",
-      "title": "THE QUIET BOOM: America&#8217;s Nonprofits Went All-In on AI. Their Funding Didn&#8217;t Follow.",
-      "desc": "AI adoption is accelerating across America&#8217;s nonprofit economy. But behind the productivity gains is a harder question: Who controls the technology keeping essential services running? While America argued about artificial intelligence, the nonprofit sector got to work. No billion-dollar launch",
-      "link": "https://imfounder.com/science-tech/ai/ai-adoption-in-nonprofits-america/",
-      "date": "Fri, 13 Nov 2026 14:31:51 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [
-        "transformers"
-      ],
-      "min": 12
-    },
-    {
-      "id": "y1bvd0",
-      "type": "news",
-      "title": "Jensen Huang Scandal: The Alleged Spy, a Second Affair and Nvidia’s $2 Trillion Freefall",
-      "desc": "The Jensen Huang scandal has turned the world’s most closely watched chief executive into the center of a corporate, political and national-security crisis in under a week. On Sunday, November 8, 2026, the Nvidia CEO told staff he had been unfaithful to his wife. Within days, reports linked that rel",
-      "link": "https://imfounder.com/science-tech/ai/jensen-huang-scandal-nvidia-stock-crash/",
-      "date": "Thu, 12 Nov 2026 12:00:03 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 11
-    },
-    {
-      "id": "z4ezpz",
-      "type": "news",
-      "title": "THE TRILLION-DOLLAR FOOD PIPELINE II",
-      "desc": "THE TRILLION-DOLLAR FOOD PIPELINE Part II: The Companies Behind the Cargo The businesses that move the world’s food do not all make money the same way. Some earn thin spreads on enormous commodity transactions. Others collect fees for access to railroads, rivers and terminals. A growing number are b",
-      "link": "https://imfounder.com/entrepreneurship/business/companies-behind-global-food-trade/",
-      "date": "Wed, 11 Nov 2026 11:51:46 +0000",
-      "source": "IM Founder",
-      "author": "Renée Tomato",
-      "tags": [],
-      "min": 12
-    },
-    {
-      "id": "15zvp90",
-      "type": "github",
-      "title": "TypeTyrantScheme/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
-      "date": "2026-11-15T16:46:04Z",
-      "source": "GitHub",
-      "author": "TypeTyrantScheme",
-      "tags": [
-        "⭐ 473",
-        "Makefile"
-      ],
-      "min": null,
-      "stars": 473
-    },
-    {
-      "id": "1qmng08",
-      "type": "news",
-      "title": "Diwali Pollution 2026: How a Festival of Lights Left India Gasping for Air",
-      "desc": "Diwali pollution did exactly what experts warned it would on the night of 8 November 2026. Delhi recorded its worst Diwali-night air quality in five years, and by morning the capital was wrapped in a thick grey haze.&#160;siasat Behind the numbers is a simple story: a festival of lights, a city alre",
-      "link": "https://imfounder.com/international/diwali-pollution/",
-      "date": "Tue, 10 Nov 2026 11:35:39 +0000",
-      "source": "IM Founder",
-      "author": "Many Mcglon",
-      "tags": [],
-      "min": 10
-    },
-    {
-      "id": "1s103qp",
-      "type": "github",
-      "title": "WingDataVacuum/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-      "date": "2026-11-15T16:47:17Z",
-      "source": "GitHub",
-      "author": "WingDataVacuum",
-      "tags": [
-        "⭐ 473",
-        "Makefile"
-      ],
-      "min": null,
-      "stars": 473
-    },
-    {
       "id": "c9376m",
       "type": "github",
       "title": "weightcashiercupola/Gemini-Config-Checker-",
@@ -284,36 +135,52 @@
       "stars": 473
     },
     {
-      "id": "csmh99",
+      "id": "34vg6r",
       "type": "github",
-      "title": "WireProvostPucker/Gemini-Config-Checker-",
+      "title": "WinnerSpecialist/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
-      "date": "2026-11-15T16:48:15Z",
-      "source": "GitHub",
-      "author": "WireProvostPucker",
-      "tags": [
-        "⭐ 473",
-        "Makefile"
-      ],
-      "min": null,
-      "stars": 473
-    },
-    {
-      "id": "1q6xb1z",
-      "type": "github",
-      "title": "WindGatorRise37/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+      "link": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
       "date": "2026-11-15T16:47:17Z",
       "source": "GitHub",
-      "author": "WindGatorRise37",
+      "author": "WinnerSpecialist",
       "tags": [
-        "⭐ 473",
+        "⭐ 472",
         "Makefile"
       ],
       "min": null,
-      "stars": 473
+      "stars": 472
+    },
+    {
+      "id": "1s103qp",
+      "type": "github",
+      "title": "WingDataVacuum/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:47:17Z",
+      "source": "GitHub",
+      "author": "WingDataVacuum",
+      "tags": [
+        "⭐ 472",
+        "Makefile"
+      ],
+      "min": null,
+      "stars": 472
+    },
+    {
+      "id": "15zvp90",
+      "type": "github",
+      "title": "TypeTyrantScheme/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:46:04Z",
+      "source": "GitHub",
+      "author": "TypeTyrantScheme",
+      "tags": [
+        "⭐ 472",
+        "Makefile"
+      ],
+      "min": null,
+      "stars": 472
     },
     {
       "id": "18ss48h",
@@ -325,11 +192,43 @@
       "source": "GitHub",
       "author": "TurtleReside",
       "tags": [
-        "⭐ 473",
+        "⭐ 472",
         "Go"
       ],
       "min": null,
-      "stars": 473
+      "stars": 472
+    },
+    {
+      "id": "csmh99",
+      "type": "github",
+      "title": "WireProvostPucker/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:48:15Z",
+      "source": "GitHub",
+      "author": "WireProvostPucker",
+      "tags": [
+        "⭐ 472",
+        "Makefile"
+      ],
+      "min": null,
+      "stars": 472
+    },
+    {
+      "id": "1q6xb1z",
+      "type": "github",
+      "title": "WindGatorRise37/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:47:17Z",
+      "source": "GitHub",
+      "author": "WindGatorRise37",
+      "tags": [
+        "⭐ 472",
+        "Makefile"
+      ],
+      "min": null,
+      "stars": 472
     }
   ]
 }
