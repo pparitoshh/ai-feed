@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T15:10:44.719Z",
-  "count": 16,
+  "generatedAt": "2026-11-20T14:50:43.536Z",
+  "count": 24,
   "cards": [
     {
       "id": "rm4aw5",
@@ -119,6 +119,30 @@
       "min": 30
     },
     {
+      "id": "12rsk9t",
+      "type": "news",
+      "title": "Tech and Entertainment News This Week: 15 Shocking, Record-Breaking Stories You Can&#8217;t Miss",
+      "desc": "Tech and entertainment news this week delivered a rare mix of record-setting finance, courtroom drama and pop-culture spectacle. Between November 13 and November 20, 2026, Anthropic completed the largest IPO on record, GTA 6 launched to near-perfect reviews, Nvidia reported earnings under an interim",
+      "link": "https://imfounder.com/science-tech/tech-and-entertainment-news-this-week/",
+      "date": "Fri, 20 Nov 2026 10:20:00 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "gq8ncn",
+      "type": "news",
+      "title": "GTA 6 Launch Day: The Billion-Dollar Sick Day, a Record-Tying 99 Score and the Entertainment Event Nobody Can Ignore",
+      "desc": "GTA 6 launch day hero image: empty office chair and controller under a neon Vice City–style sunset The GTA 6 launch is not behaving like a normal video game release. It is behaving like a public holiday nobody officially declared. Rockstar Games’ Grand Theft Auto VI unlocks today, Thursday, November",
+      "link": "https://imfounder.com/entertainment/gta-6-launch-sick-day-records/",
+      "date": "Thu, 19 Nov 2026 00:16:22 +0000",
+      "source": "IM Founder",
+      "author": "Many Mcglon",
+      "tags": [],
+      "min": 12
+    },
+    {
       "id": "c9376m",
       "type": "github",
       "title": "weightcashiercupola/Gemini-Config-Checker-",
@@ -135,20 +159,69 @@
       "stars": 473
     },
     {
-      "id": "34vg6r",
-      "type": "github",
-      "title": "WinnerSpecialist/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-      "date": "2026-11-15T16:47:17Z",
-      "source": "GitHub",
-      "author": "WinnerSpecialist",
+      "id": "13vop9s",
+      "type": "news",
+      "title": "The World’s Most Expensive Waterways",
+      "desc": "The Trillion-Dollar Food Pipeline — Part III In2026, disruptions across four maritime corridors exposed how the cost of moving food depends not only on distance, but on water, vessel design, insurance, contract terms and the ability to shift losses onto someone else. The Geography of Financial Risk ",
+      "link": "https://imfounder.com/entrepreneurship/business/global-food-shipping-risks-2026/",
+      "date": "Wed, 18 Nov 2026 12:11:45 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [],
+      "min": 14
+    },
+    {
+      "id": "19yv7yn",
+      "type": "news",
+      "title": "Reverse Engineer Anything: 7 amazing Truths Behind Matthew Berman’s Viral REA Tweet",
+      "desc": "Reverse engineer anything. Three words, and an entire industry just got nervous. On October 8, AI commentator Matthew Berman pointed his followers to a project called REA, an open-source tool that lets AI coding agents examine software without access to its source code. Within days it was everywhere",
+      "link": "https://imfounder.com/science-tech/reverse-engineer-anything-matthew-berman-rea/",
+      "date": "Tue, 17 Nov 2026 13:22:38 +0000",
+      "source": "IM Founder",
+      "author": "Kirat Singh",
       "tags": [
-        "⭐ 472",
-        "Makefile"
+        "agents",
+        "open-source"
       ],
-      "min": null,
-      "stars": 472
+      "min": 11
+    },
+    {
+      "id": "1r38yuh",
+      "type": "news",
+      "title": "Apply for Jobs in December: 7 Important Reasons It&#8217;s the Smartest Move (and the AI Resume Method That Gets You Noticed)",
+      "desc": "If you are wondering whether to apply for jobs in December, you have probably heard the usual advice: wait until January. It sounds sensible. Offices empty out, calendars fill with holiday plans, and it feels as if every hiring manager has switched off their email. But that assumption is exactly wha",
+      "link": "https://imfounder.com/science-tech/ai/ai-prompts/apply-for-jobs-in-december/",
+      "date": "Mon, 16 Nov 2026 10:55:39 +0000",
+      "source": "IM Founder",
+      "author": "Neha Slatch",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "1s7ywl",
+      "type": "news",
+      "title": "AI News November 2026: 7 Shocking Stories as Microsoft Crashes Worldwide, Nvidia’s CEO Quits and Anthropic Races to Wall Street",
+      "desc": "AI news November 2026 has one clear theme: the systems that run modern work are growing bigger, costlier and more fragile all at once. In under two weeks,&#160;Microsoft’s email and cloud services went dark for about 24 hours, Nvidia lost its co-founder as CEO, and Anthropic opened an IPO roadshow w",
+      "link": "https://imfounder.com/science-tech/ai/ai-news-november-2026/",
+      "date": "Sat, 14 Nov 2026 12:20:04 +0000",
+      "source": "IM Founder",
+      "author": "Taranjeet Slatch",
+      "tags": [],
+      "min": 11
+    },
+    {
+      "id": "1bx3yli",
+      "type": "news",
+      "title": "THE QUIET BOOM: America&#8217;s Nonprofits Went All-In on AI. Their Funding Didn&#8217;t Follow.",
+      "desc": "AI adoption is accelerating across America&#8217;s nonprofit economy. But behind the productivity gains is a harder question: Who controls the technology keeping essential services running? While America argued about artificial intelligence, the nonprofit sector got to work. No billion-dollar launch",
+      "link": "https://imfounder.com/science-tech/ai/ai-adoption-in-nonprofits-america/",
+      "date": "Fri, 13 Nov 2026 14:31:51 +0000",
+      "source": "IM Founder",
+      "author": "Renée Tomato",
+      "tags": [
+        "transformers"
+      ],
+      "min": 12
     },
     {
       "id": "1s103qp",
@@ -165,6 +238,18 @@
       ],
       "min": null,
       "stars": 472
+    },
+    {
+      "id": "y1bvd0",
+      "type": "news",
+      "title": "Jensen Huang Scandal: The Alleged Spy, a Second Affair and Nvidia’s $2 Trillion Freefall",
+      "desc": "The Jensen Huang scandal has turned the world’s most closely watched chief executive into the center of a corporate, political and national-security crisis in under a week. On Sunday, November 8, 2026, the Nvidia CEO told staff he had been unfaithful to his wife. Within days, reports linked that rel",
+      "link": "https://imfounder.com/science-tech/ai/jensen-huang-scandal-nvidia-stock-crash/",
+      "date": "Thu, 12 Nov 2026 12:00:03 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 11
     },
     {
       "id": "15zvp90",
@@ -199,22 +284,6 @@
       "stars": 472
     },
     {
-      "id": "csmh99",
-      "type": "github",
-      "title": "WireProvostPucker/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
-      "date": "2026-11-15T16:48:15Z",
-      "source": "GitHub",
-      "author": "WireProvostPucker",
-      "tags": [
-        "⭐ 472",
-        "Makefile"
-      ],
-      "min": null,
-      "stars": 472
-    },
-    {
       "id": "1q6xb1z",
       "type": "github",
       "title": "WindGatorRise37/Gemini-Config-Checker-",
@@ -223,6 +292,38 @@
       "date": "2026-11-15T16:47:17Z",
       "source": "GitHub",
       "author": "WindGatorRise37",
+      "tags": [
+        "⭐ 472",
+        "Makefile"
+      ],
+      "min": null,
+      "stars": 472
+    },
+    {
+      "id": "18c5ohh",
+      "type": "github",
+      "title": "Visionbeyondtrack/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:46:05Z",
+      "source": "GitHub",
+      "author": "Visionbeyondtrack",
+      "tags": [
+        "⭐ 472",
+        "Makefile"
+      ],
+      "min": null,
+      "stars": 472
+    },
+    {
+      "id": "csmh99",
+      "type": "github",
+      "title": "WireProvostPucker/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:48:15Z",
+      "source": "GitHub",
+      "author": "WireProvostPucker",
       "tags": [
         "⭐ 472",
         "Makefile"
