@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:50:43.536Z",
+  "generatedAt": "2026-11-21T14:08:08.655Z",
   "count": 24,
   "cards": [
     {
@@ -76,11 +76,11 @@
       "source": "GitHub",
       "author": "YellowLaborerMarket",
       "tags": [
-        "⭐ 474",
+        "⭐ 473",
         "Makefile"
       ],
       "min": null,
-      "stars": 474
+      "stars": 473
     },
     {
       "id": "oesf1f",
@@ -119,6 +119,18 @@
       "min": 30
     },
     {
+      "id": "1ad0px9",
+      "type": "news",
+      "title": "Thanksgiving 2026: 7 Shocking Ways to Beat Rising Costs on the Busiest Travel Week of the Year",
+      "desc": "Thanksgiving 2026 arrives on Thursday, November 26, and with only five days left, the pressure is building in kitchens, airports and border lanes at once. The numbers explain why. The American Farm Bureau Federation (AFBF) priced a classic feast for ten at $58.63, the first yearly increase since the",
+      "link": "https://imfounder.com/lifestyle/thanksgiving-2026-budget-hosting-travel-tips/",
+      "date": "Sat, 21 Nov 2026 13:17:04 +0000",
+      "source": "IM Founder",
+      "author": "Oliver Timbrell",
+      "tags": [],
+      "min": 11
+    },
+    {
       "id": "12rsk9t",
       "type": "news",
       "title": "Tech and Entertainment News This Week: 15 Shocking, Record-Breaking Stories You Can&#8217;t Miss",
@@ -131,6 +143,22 @@
       "min": 11
     },
     {
+      "id": "c9376m",
+      "type": "github",
+      "title": "weightcashiercupola/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:47:11Z",
+      "source": "GitHub",
+      "author": "weightcashiercupola",
+      "tags": [
+        "⭐ 472",
+        "Makefile"
+      ],
+      "min": null,
+      "stars": 472
+    },
+    {
       "id": "gq8ncn",
       "type": "news",
       "title": "GTA 6 Launch Day: The Billion-Dollar Sick Day, a Record-Tying 99 Score and the Entertainment Event Nobody Can Ignore",
@@ -141,22 +169,6 @@
       "author": "Many Mcglon",
       "tags": [],
       "min": 12
-    },
-    {
-      "id": "c9376m",
-      "type": "github",
-      "title": "weightcashiercupola/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-      "date": "2026-11-15T16:47:11Z",
-      "source": "GitHub",
-      "author": "weightcashiercupola",
-      "tags": [
-        "⭐ 473",
-        "Makefile"
-      ],
-      "min": null,
-      "stars": 473
     },
     {
       "id": "13vop9s",
@@ -210,6 +222,22 @@
       "min": 11
     },
     {
+      "id": "1s103qp",
+      "type": "github",
+      "title": "WingDataVacuum/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:47:17Z",
+      "source": "GitHub",
+      "author": "WingDataVacuum",
+      "tags": [
+        "⭐ 471",
+        "Makefile"
+      ],
+      "min": null,
+      "stars": 471
+    },
+    {
       "id": "1bx3yli",
       "type": "news",
       "title": "THE QUIET BOOM: America&#8217;s Nonprofits Went All-In on AI. Their Funding Didn&#8217;t Follow.",
@@ -224,34 +252,6 @@
       "min": 12
     },
     {
-      "id": "1s103qp",
-      "type": "github",
-      "title": "WingDataVacuum/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-      "date": "2026-11-15T16:47:17Z",
-      "source": "GitHub",
-      "author": "WingDataVacuum",
-      "tags": [
-        "⭐ 472",
-        "Makefile"
-      ],
-      "min": null,
-      "stars": 472
-    },
-    {
-      "id": "y1bvd0",
-      "type": "news",
-      "title": "Jensen Huang Scandal: The Alleged Spy, a Second Affair and Nvidia’s $2 Trillion Freefall",
-      "desc": "The Jensen Huang scandal has turned the world’s most closely watched chief executive into the center of a corporate, political and national-security crisis in under a week. On Sunday, November 8, 2026, the Nvidia CEO told staff he had been unfaithful to his wife. Within days, reports linked that rel",
-      "link": "https://imfounder.com/science-tech/ai/jensen-huang-scandal-nvidia-stock-crash/",
-      "date": "Thu, 12 Nov 2026 12:00:03 +0000",
-      "source": "IM Founder",
-      "author": "Oliver Timbrell",
-      "tags": [],
-      "min": 11
-    },
-    {
       "id": "15zvp90",
       "type": "github",
       "title": "TypeTyrantScheme/Gemini-Config-Checker-",
@@ -261,27 +261,11 @@
       "source": "GitHub",
       "author": "TypeTyrantScheme",
       "tags": [
-        "⭐ 472",
+        "⭐ 471",
         "Makefile"
       ],
       "min": null,
-      "stars": 472
-    },
-    {
-      "id": "18ss48h",
-      "type": "github",
-      "title": "TurtleReside/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-      "date": "2026-11-15T16:46:04Z",
-      "source": "GitHub",
-      "author": "TurtleReside",
-      "tags": [
-        "⭐ 472",
-        "Go"
-      ],
-      "min": null,
-      "stars": 472
+      "stars": 471
     },
     {
       "id": "1q6xb1z",
@@ -293,27 +277,11 @@
       "source": "GitHub",
       "author": "WindGatorRise37",
       "tags": [
-        "⭐ 472",
+        "⭐ 471",
         "Makefile"
       ],
       "min": null,
-      "stars": 472
-    },
-    {
-      "id": "18c5ohh",
-      "type": "github",
-      "title": "Visionbeyondtrack/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "link": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
-      "date": "2026-11-15T16:46:05Z",
-      "source": "GitHub",
-      "author": "Visionbeyondtrack",
-      "tags": [
-        "⭐ 472",
-        "Makefile"
-      ],
-      "min": null,
-      "stars": 472
+      "stars": 471
     },
     {
       "id": "csmh99",
@@ -325,11 +293,43 @@
       "source": "GitHub",
       "author": "WireProvostPucker",
       "tags": [
-        "⭐ 472",
+        "⭐ 471",
         "Makefile"
       ],
       "min": null,
-      "stars": 472
+      "stars": 471
+    },
+    {
+      "id": "k9yz1",
+      "type": "github",
+      "title": "WyrmClimberManacle/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:48:18Z",
+      "source": "GitHub",
+      "author": "WyrmClimberManacle",
+      "tags": [
+        "⭐ 471",
+        "Makefile"
+      ],
+      "min": null,
+      "stars": 471
+    },
+    {
+      "id": "1qig5bl",
+      "type": "github",
+      "title": "WestLocksmithSpout/Gemini-Config-Checker-",
+      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "link": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-",
+      "date": "2026-11-15T16:47:12Z",
+      "source": "GitHub",
+      "author": "WestLocksmithSpout",
+      "tags": [
+        "⭐ 471",
+        "Go"
+      ],
+      "min": null,
+      "stars": 471
     }
   ]
 }
